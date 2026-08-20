@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "starsforgotus",
+  "series_title": "WHEN THE STARS FORGOT US",
+  "episode": 11,
+  "episode_id": "starsforgotus-ep011",
+  "output_slug": "starsforgotus-episode011",
+  "title": "They Launched Into an Empty Sky | WHEN THE STARS FORGOT US Ep. 11",
+  "description": "Anvi and Jo travel toward the Array without celestial navigation.\n\nWHEN THE STARS FORGOT US — Episode 11\nAn original animated story from KAAPAV ARC Studios.\n\n#WhenTheStarsForgotUs #AnimatedSeries #Shorts",
+  "tags": [
+    "When the Stars Forgot Us",
+    "KAAPAV ARC Studios",
+    "cosmic mystery",
+    "sci fi drama",
+    "animated space story",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NO STARS TO GUIDE THEM",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, grounded near-future Indian hill observatory, deep indigo skies, restrained cyan instruments, warm amber homes, breathtaking cosmic scale, tactile cloth and hardware, emotionally truthful acting; preserve all locked character sheets exactly; no graphic harm.",
+  "arc": "The Lighthouse",
+  "permanent_story_change": "The teens leave Earth with Lumi as their only external reference.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Every navigation system fails because no star can serve as reference.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Every navigation system fails because no star can serve as reference.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Reyan permits one launch but installs an automatic return command.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Reyan permits one launch but installs an automatic return command.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Sana gives Anvi the access ring without asking forgiveness first.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Sana gives Anvi the access ring without asking forgiveness first.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Jo builds orientation from radio echoes exchanged with willing ground stations.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Jo builds orientation from radio echoes exchanged with willing ground stations.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Lumi carries Earth's final remembered photon as a moving guide.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lumi carries Earth's final remembered photon as a moving guide.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. The craft crosses the field boundary and Earth vanishes behind them.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The craft crosses the field boundary and Earth vanishes behind them.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Anvi disables the return command only after broadcasting the decision to ground crews.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anvi disables the return command only after broadcasting the decision to ground crews.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Ahead, the Lighthouse appears as a dark ring around a star nobody remembers.. Location lock: small observatory launch craft beyond Earth orbit. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Director Reyan Suri (Indian man late forties, medium brown skin, pale hazel eyes, shaved head, midnight-blue command coat with silver geometric panels, black gloves, white light-key at collar). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Ahead, the Lighthouse appears as a dark ring around a star nobody remembers.",
+      "effect": "push_in"
+    }
+  ]
+}

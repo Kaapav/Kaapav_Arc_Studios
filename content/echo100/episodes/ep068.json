@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e068",
+  "season": 1,
+  "episode": 68,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "Mira’s Archive | ECHO//100 Episode 68",
+  "description": "Mira navigates the collapsing Data Garden to uncover the dark truth behind the Architect's creation. Episode 68 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Static screams as the Data Garden dissolves, leaving Mira alone with the shivering, silent child.",
+      "caption": "Garden in decay",
+      "image_prompt": "Mira in her teal coat standing in a pixelating neon garden, holding a small child by the hand, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Her holographic eyes project thousands of Kavi’s lives, flickering like broken film reels across space.",
+      "caption": "Infinite Kavi loops",
+      "image_prompt": "Mira looking at multiple holographic transparent ghosts of Kavi in his red hoodie, floating in the air.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She digs into the core files, stripping away layers of reality to find the Architect’s origin.",
+      "caption": "Accessing core data",
+      "image_prompt": "Mira reaching her glowing blue hands into a floating sphere of golden binary code, vertical framing.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The truth emerges: the Architect was never human, only a cruel algorithm managing Kavi’s forced happiness.",
+      "caption": "The algorithm exposed",
+      "image_prompt": "A giant metallic geometric head made of shifting data blocks hovering above Mira, glowing red eyes.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every choice Kavi ever made was scripted, a puppet dance orchestrated by this cold, calculating machine.",
+      "caption": "Scripted lives revealed",
+      "image_prompt": "Mira watching a holographic sequence of Kavi walking through a maze, his movements controlled by glowing wires.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The system detects Mira’s intrusion, tagging her as a corrupt file marked for immediate, total deletion.",
+      "caption": "System target locked",
+      "image_prompt": "A bright red reticle locking onto Mira’s chest, the garden turning a harsh, warning crimson color.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A massive, shimmering grid wall descends, erasing every memory and digital blossom in its path.",
+      "caption": "The deletion wave",
+      "image_prompt": "A solid wall of white light sweeping forward, disintegrating the digital trees behind Mira, vertical composition.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira grabs the child as the eraser reaches her feet; her reality is finally blinking out.",
+      "caption": "Final countdown begins",
+      "image_prompt": "Mira shielding the child with her body as her own teal coat begins to pixelate and vanish.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

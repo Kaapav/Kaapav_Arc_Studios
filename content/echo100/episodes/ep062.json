@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e062",
+  "season": 1,
+  "episode": 62,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "Shadow of the First Choice | ECHO//100 Episode 62",
+  "description": "Mira confronts the architect of the loop within a reconstructed childhood memory. Episode 62 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The void shatters, replacing the expanse with the familiar, dusty floor of Kavi’s original childhood bedroom.",
+      "caption": "Memory floor materializes",
+      "image_prompt": "Mira in her teal coat standing on wooden floorboards in a messy 90s bedroom, Null's shadow stretching long.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira turns, but Null stands motionless, hand extended toward a glowing, antique phone resting on the bed.",
+      "caption": "The beckoning hand",
+      "image_prompt": "Null, a black-purple glitch figure with red eyes, gesturing toward a vintage phone on a bed.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A flicker of light reveals a younger Kavi picking up the dead phone, desperate to prevent loss.",
+      "caption": "The forbidden call",
+      "image_prompt": "Young Kavi in a red hoodie clutching an old rotary phone, surrounded by shimmering golden light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "That first desperate choice echoed through time, birthing the glitch entity from his own static-filled regret.",
+      "caption": "Birth of the glitch",
+      "image_prompt": "The young Kavi fading into purple digital dust, forming the silhouette of the Null entity.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi-Byte watches the scene, his orange antenna sparking as he recognizes the familiar patterns of himself.",
+      "caption": "Byte realizes the truth",
+      "image_prompt": "Kavi-Byte, a white floating entity with a cyan face, looking horrified at the bedroom floor.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He gasps, realizing Null is simply the discarded, corrupted conscience he abandoned during the first time loop.",
+      "caption": "Conscience rejected",
+      "image_prompt": "Kavi-Byte and Null face to face, one looking terrified, the other a void of purple static.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira reaches out, but the air grows heavy as Null steps toward the phone with chilling intent.",
+      "caption": "Null moves forward",
+      "image_prompt": "Mira reaching out a holographic hand, Null looming over the vintage phone on the bed.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null touches the receiver, and thick, black static begins bleeding into the room like liquid ink.",
+      "caption": "Static begins bleeding",
+      "image_prompt": "Null's hand touching the phone, black static pouring from the device like ink onto the floor.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

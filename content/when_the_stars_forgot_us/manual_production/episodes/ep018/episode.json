@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "starsforgotus",
+  "series_title": "WHEN THE STARS FORGOT US",
+  "episode": 18,
+  "episode_id": "starsforgotus-ep018",
+  "output_slug": "starsforgotus-episode018",
+  "title": "Neel Had Erased His Own Decision | WHEN THE STARS FORGOT US Ep. 18",
+  "description": "Neel's missing consent record reveals guilt behind his continued sacrifice.\n\nWHEN THE STARS FORGOT US — Episode 18\nAn original animated story from KAAPAV ARC Studios.\n\n#WhenTheStarsForgotUs #AnimatedSeries #Shorts",
+  "tags": [
+    "When the Stars Forgot Us",
+    "KAAPAV ARC Studios",
+    "cosmic mystery",
+    "sci fi drama",
+    "animated space story",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NEEL HID HIS CHOICE",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, grounded near-future Indian hill observatory, deep indigo skies, restrained cyan instruments, warm amber homes, breathtaking cosmic scale, tactile cloth and hardware, emotionally truthful acting; preserve all locked character sheets exactly; no graphic harm.",
+  "arc": "The Lighthouse",
+  "permanent_story_change": "Neel rejects martyrdom and asks for a time-limited recovery attempt.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The capsule shows Neel extending his link after the first forty-eight hours.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The capsule shows Neel extending his link after the first forty-eight hours.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. He believed his navigation error had attracted the Quiet toward Earth.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He believed his navigation error had attracted the Quiet toward Earth.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Sana repeatedly asked whether he wanted disconnection while hiding safer alternatives.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Sana repeatedly asked whether he wanted disconnection while hiding safer alternatives.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Neel erased those conversations so guilt would feel like free choice.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Neel erased those conversations so guilt would feel like free choice.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Anvi refuses to absolve him or honor self-punishment as consent.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anvi refuses to absolve him or honor self-punishment as consent.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Neel requests rescue with clear medical risk and a right to stop.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Neel requests rescue with clear medical risk and a right to stop.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Sana transfers his last thread into a temporary family archive.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Sana transfers his last thread into a temporary family archive.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The Lighthouse releases Neel, and every star flashes back for one dangerous second.. Location lock: Neel's sealed personal memory capsule. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Lighthouse releases Neel, and every star flashes back for one dangerous second.",
+      "effect": "push_in"
+    }
+  ]
+}

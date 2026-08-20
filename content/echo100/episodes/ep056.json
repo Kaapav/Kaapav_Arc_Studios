@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e056",
+  "season": 1,
+  "episode": 56,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "The Robot's Burden | ECHO//100 Episode 56",
+  "description": "Byte levitates as his mechanical shell fractures, exposing golden gears synced to Kavi's own heartbeat. The truth about the red door threatens to erase Byte’s existence forever. Episode 56 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Byte rises into the air, his white plating shattering to reveal pulsing golden clockwork gears.",
+      "caption": "Byte's internal gears",
+      "image_prompt": "Vertical shot of Byte floating, white shell cracking open, glowing golden gears spinning inside, cyan face flickering.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Reality dissolves into a digital void as Byte forcibly drags Kavi into a mental simulation.",
+      "caption": "Entering the void",
+      "image_prompt": "Kavi in his red hoodie and glasses being pulled into a swirling vortex of blue light by Byte.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Golden light illuminates a red door floating in the center of a dying, pixelated galaxy.",
+      "caption": "The red door",
+      "image_prompt": "A glowing red door standing alone in a dark, crumbling digital space, particles falling like snow.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte confesses he was engineered as a living lock to prevent total universal structural collapse.",
+      "caption": "The living lock",
+      "image_prompt": "Close up of Byte’s cyan face looking sad, orange antenna drooping, gears grinding behind his chest armor.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi watches as the simulation displays Byte’s core stabilizing the very fabric of their reality.",
+      "caption": "Reality's anchor",
+      "image_prompt": "Kavi watching a holographic projection of the universe being held together by Byte’s golden energy threads.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes that unlocking the mysterious door will trigger Byte’s permanent deletion from the system.",
+      "caption": "The fatal choice",
+      "image_prompt": "Kavi reaching toward the door, then stopping, his hand trembling as he looks at the fragile Byte.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, the miniature city beneath them begins to shrink, compressing into a dense, dangerous point.",
+      "caption": "City shrinking",
+      "image_prompt": "A detailed miniature city getting smaller, buildings folding inward like paper, space warping around the edges.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Crushing walls close in, threatening to destroy Kavi and Byte while the red door remains.",
+      "caption": "Imminent collapse",
+      "image_prompt": "Kavi and Byte trapped between two massive, closing neon walls in the dark, silent mind-space void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

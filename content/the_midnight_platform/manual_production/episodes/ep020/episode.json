@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 20,
+  "episode_id": "the-midnight-platform-ep020",
+  "output_slug": "the-midnight-platform-episode020",
+  "title": "The Man Behind the Mask Kept Listening | MIDNIGHT PLATFORM Ep. 20",
+  "description": "The Man Behind the Mask. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 20\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "MAN BEHIND THE MASK",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep020\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep020\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Meera uses Tick’s thirteenth gear and Maya’s handbell to open a stable mirror between Platform 13 and the Conductor’s carriage. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “Maya. Your brother is listening.”",
+      "dialogue_audio": "Meera: “Maya. Your brother is listening.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Maya sees the cracked mask. Elias removes it completely, revealing the older face of the teenager who saved her in 1976. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “You missed fifty birthdays.” Elias: “I counted every one.”",
+      "dialogue_audio": "Maya: “You missed fifty birthdays.” Elias: “I counted every one.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Elias explains that he became Conductor after the previous keeper vanished, using the role to slow Nila’s releases. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Elias: “I enforced the rule because a bad lock was all we had.”",
+      "dialogue_audio": "Elias: “I enforced the rule because a bad lock was all we had.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Maya places her palm on the mirror; Elias aligns his palm without touching, mirroring Episode 1 without an exchange. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “Then help us build a better one.”",
+      "dialogue_audio": "Maya: “Then help us build a better one.”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. Elias gives Arin the master ticket punch and names him Passenger One by choice, not ownership. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Elias: “A rule born from consent can be rewritten by consent.”",
+      "dialogue_audio": "Elias: “A rule born from consent can be rewritten by consent.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. The engine tears open. Nila sits in the driver’s position as all twelve doors unlock toward the city. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Nila: “You had a century. I’m opening everything.”",
+      "dialogue_audio": "Nila: “You had a century. I’m opening everything.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

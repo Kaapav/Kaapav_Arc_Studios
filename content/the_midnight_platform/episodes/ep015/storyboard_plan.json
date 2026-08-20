@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep015",
+  "episode_number": 15,
+  "arc": 2,
+  "title": "Tick’s Thirteenth Gear",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Tick collapses in the archive as twelve visible clockwork gears stop; a sealed thirteenth socket glows beneath his ivory chest plate.",
+      "dialogue_audio": "Meera: “He gave the station too much time.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Maya opens an old tool case engraved E.D. / 1976; inside is a gear that matches Tick perfectly.",
+      "dialogue_audio": "Saira: “Who is E.D.?” Maya: “My brother Elias.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Memory fragment: teenage Elias builds the small quadruped fox for child Maya, carefully notching its right ear.",
+      "dialogue_audio": "Elias in memory: “So you’re never alone at midnight.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "The Midnight Train comes for Maya after she survives a station roof collapse; Elias pushes her out and boards with Tick.",
+      "dialogue_audio": "Young Maya: “Elias!”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Present Maya installs the thirteenth gear. Tick’s cyan eyes relight and project every handwritten memory of Meera stored inside him.",
+      "dialogue_audio": "Maya: “He has remembered her for all of us.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "On the train, the Conductor feels Tick restart and grips the same E.D. engraving inside his glove.",
+      "dialogue_audio": "Conductor, softly: “Good fox.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "MAYA’S BROTHER IS STILL ON THE TRAIN"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

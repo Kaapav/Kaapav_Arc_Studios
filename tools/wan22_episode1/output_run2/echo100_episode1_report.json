@@ -1,0 +1,254 @@
+{
+  "version": 1,
+  "production": "ECHO//100 Episode 1",
+  "model_family": "Wan2.2-TI2V-5B",
+  "status": "passed",
+  "comfy_release": "v0.26.0",
+  "comfy_commit": "f6c162d",
+  "settings": {
+    "width": 480,
+    "height": 832,
+    "generated_frames_per_shot": 49,
+    "used_frames_per_shot": 41,
+    "shots": 8,
+    "fps": 16,
+    "steps": 20,
+    "cfg": 5.0,
+    "seeds": [
+      817263,
+      817264,
+      817265,
+      817266,
+      817267,
+      817268,
+      817269,
+      817270
+    ]
+  },
+  "stages": [
+    {
+      "name": "validating_environment",
+      "at": 1786200419.3522122
+    },
+    {
+      "name": "preparing_comfy",
+      "at": 1786200419.4491405
+    },
+    {
+      "name": "starting_comfy",
+      "at": 1786200440.244801
+    },
+    {
+      "name": "generating_episode",
+      "at": 1786200476.5986307
+    },
+    {
+      "name": "assembling_silent_episode",
+      "at": 1786201905.333296
+    }
+  ],
+  "gpu": [
+    "0, Tesla T4, 15360 MiB, 580.159.04",
+    "1, Tesla T4, 15360 MiB, 580.159.04"
+  ],
+  "models": {
+    "diffusion_models": {
+      "path": "/kaggle/input/kaapav-wan22-models/wan2.2_ti2v_5B_fp16.safetensors",
+      "bytes": 9999658848
+    },
+    "text_encoders": {
+      "path": "/kaggle/input/kaapav-wan22-models/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "bytes": 6735906897
+    },
+    "vae": {
+      "path": "/kaggle/input/kaapav-wan22-models/wan2.2_vae.safetensors",
+      "bytes": 1409400960
+    }
+  },
+  "system_stats": {
+    "system": {
+      "os": "linux",
+      "ram_total": 33659383808,
+      "ram_free": 31668441088,
+      "comfyui_version": "0.26.0",
+      "required_frontend_version": "1.45.19",
+      "installed_templates_version": "0.10.3",
+      "required_templates_version": "0.10.3",
+      "comfy_package_versions": [
+        {
+          "name": "comfyui-frontend-package",
+          "installed": "1.45.19",
+          "required": "1.45.19"
+        },
+        {
+          "name": "comfyui-workflow-templates",
+          "installed": "0.10.3",
+          "required": "0.10.3"
+        },
+        {
+          "name": "comfyui-embedded-docs",
+          "installed": "0.5.5",
+          "required": "0.5.5"
+        },
+        {
+          "name": "comfy-kitchen",
+          "installed": "0.2.10",
+          "required": "0.2.10"
+        },
+        {
+          "name": "comfy-aimdo",
+          "installed": "0.4.10",
+          "required": "0.4.10"
+        }
+      ],
+      "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+      "pytorch_version": "2.10.0+cu128",
+      "embedded_python": false,
+      "deploy_environment": "local-git",
+      "argv": [
+        "main.py",
+        "--listen",
+        "127.0.0.1",
+        "--port",
+        "8188",
+        "--lowvram"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 Tesla T4 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 15636037632,
+        "vram_free": 15526068224,
+        "torch_vram_total": 0,
+        "torch_vram_free": 0
+      }
+    ]
+  },
+  "required_nodes": [
+    "CLIPLoader",
+    "CLIPTextEncode",
+    "KSampler",
+    "LoadImage",
+    "ModelSamplingSD3",
+    "SaveImage",
+    "UNETLoader",
+    "VAEDecode",
+    "VAELoader",
+    "Wan22ImageToVideoLatent"
+  ],
+  "current_shot": 8,
+  "prompt_id": "d8fd1f13-eec0-4421-808c-0bf98d908dc1",
+  "generation_seconds": 175.09,
+  "shots": [
+    {
+      "shot": 1,
+      "path": "/kaggle/working/echo100_ep001_shot_01.mp4",
+      "bytes": 298796,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 11.3047,
+      "generation_seconds": 192.61,
+      "prompt": "Macro-to-medium cinematic shot. Kavi remains in the same pose holding the phone steadily at chest height. The powerless phone suddenly ignites with a cyan waveform; Kavi makes one subtle blink and his eyes widen slightly while Byte turns toward the ring. Slow rack focus from phone to Kavi, subtle breathing and antenna motion."
+    },
+    {
+      "shot": 2,
+      "path": "/kaggle/working/echo100_ep001_shot_02.mp4",
+      "bytes": 242481,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 20.9743,
+      "generation_seconds": 176.46,
+      "prompt": "Kavi keeps his body and hands steady as the phone's cyan light changes to warning red. His eyes glance toward Byte without a large head turn. Byte's cyan eyes dim nearly black and his hover stutters once. Deliberate slow push toward Byte; a red light sweep crosses the dark arcade."
+    },
+    {
+      "shot": 3,
+      "path": "/kaggle/working/echo100_ep001_shot_03.mp4",
+      "bytes": 211779,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 13.8403,
+      "generation_seconds": 176.47,
+      "prompt": "Low-angle reaction shot. Kavi stays planted with his arms unchanged. Byte drops a few inches, recovers with one small mechanical jerk, and hovers back slightly. Kavi's frightened eyes track him. Gentle lateral camera drift, purposeful robot motion, tense red and blue arcade light."
+    },
+    {
+      "shot": 4,
+      "path": "/kaggle/working/echo100_ep001_shot_04.mp4",
+      "bytes": 480866,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 13.6993,
+      "generation_seconds": 176.65,
+      "prompt": "Mira remains in position as her cyan hologram flickers and scan lines travel across her tablet. She makes a small controlled head turn toward Kavi. Kavi and Byte hold their poses while the camera drifts laterally to reveal the red doorway. Hologram particles and doorway light move coherently."
+    },
+    {
+      "shot": 5,
+      "path": "/kaggle/working/echo100_ep001_shot_05.mp4",
+      "bytes": 306217,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 23.1742,
+      "generation_seconds": 176.56,
+      "prompt": "The characters keep stable poses while every arcade screen turns red in sequence. Null's two red eyes brighten inside black-purple digital static and the corrupted silhouette leans forward only slightly. Mira's hologram flickers and Byte lowers a little. Smooth controlled camera retreat and one restrained glitch pulse."
+    },
+    {
+      "shot": 6,
+      "path": "/kaggle/working/echo100_ep001_shot_06.mp4",
+      "bytes": 350363,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 31.412,
+      "generation_seconds": 176.53,
+      "prompt": "Kavi and Mira keep their bodies and hands stable while the impossible red door burns brighter. Byte floats a short distance toward it as if pulled by memory. Controlled dolly toward the doorway; red light ripples across the wet floor and Mira's hologram particles drift."
+    },
+    {
+      "shot": 7,
+      "path": "/kaggle/working/echo100_ep001_shot_07.mp4",
+      "bytes": 360691,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 20.4129,
+      "generation_seconds": 176.63,
+      "prompt": "Present Kavi and Future Kavi preserve their exact poses and hands. Kavi's phone vibrates with a cyan pulse; the door opens slightly wider from the other side and warm golden light intensifies. Future Kavi's raised warning hand makes one small urgent motion. Gentle camera arc and floating sparks."
+    },
+    {
+      "shot": 8,
+      "path": "/kaggle/working/echo100_ep001_shot_08.mp4",
+      "bytes": 517580,
+      "frames": 41,
+      "duration_seconds": 2.563,
+      "width": 480,
+      "height": 832,
+      "motion_score": 40.4383,
+      "generation_seconds": 176.72,
+      "prompt": "Both Kavis and Byte remain recognizably stable. Future Kavi holds his warning gesture while golden sparks accelerate. Behind present Kavi, Null advances one small controlled step and purple corruption spreads across the floor. Smooth accelerating camera pullback ending on Null's bright red eyes."
+    }
+  ],
+  "silent_episode": {
+    "path": "/kaggle/working/echo100_episode1_silent.mp4",
+    "duration_seconds": 20.504,
+    "bytes": 2763227,
+    "width": 480,
+    "height": 832
+  },
+  "gpu_after": [
+    "0, Tesla T4, 3745 MiB, 15360 MiB, 0 %",
+    "1, Tesla T4, 0 MiB, 15360 MiB, 0 %"
+  ],
+  "total_seconds": 1486.33
+}

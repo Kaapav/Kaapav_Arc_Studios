@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 9,
+  "episode_id": "the-midnight-platform-ep009",
+  "output_slug": "the-midnight-platform-episode009",
+  "title": "How to Call a Train That Does Not Exist | MIDNIGHT PLATFORM Ep. 9",
+  "description": "How to Call a Train That Does Not Exist. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 9\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HOW TO CALL A TRAIN",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep009\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep009\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Maya lays out the recall mechanism: Tick’s lost tail segment, Arin’s childhood badge, Meera’s written word MOON, and her brass handbell. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “A machine needs coordinates. A ghost train needs witnesses.”",
+      "dialogue_audio": "Maya: “A machine needs coordinates. A ghost train needs witnesses.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Meera recruits twelve ordinary night workers—porter, nurse, baker, driver—each holding a mirror and agreeing to remember Platform 13. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “If it edits one of us, the others say it back.”",
+      "dialogue_audio": "Meera: “If it edits one of us, the others say it back.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Inside, Arin and Saira sprint through a tilting carriage as doors relabel themselves; only Arin’s cracked badge points to Door Four. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “Your sister is building a station under us.”",
+      "dialogue_audio": "Saira: “Your sister is building a station under us.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Tick drives the control gear on four paws while his remaining tail sparks; the sealed platform arch begins breathing steam. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “Hold the minute!”",
+      "dialogue_audio": "Maya: “Hold the minute!”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. Door Four and Platform 13 overlap for three seconds. Arin sees Meera at arm’s length, separated by transparent clock glass. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “Come home.” Arin: “Not alone.”",
+      "dialogue_audio": "Meera: “Come home.” Arin: “Not alone.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. Arin pushes Saira’s silver compass through the glass to Meera as the overlap closes. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Arin: “Find the year on that compass.”",
+      "dialogue_audio": "Arin: “Find the year on that compass.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

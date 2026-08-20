@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e060",
+  "season": 1,
+  "episode": 60,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "The Final Lock | ECHO//100 Episode 60",
+  "description": "Byte shatters his physical form to confront the truth hidden within the center of the universe. He must sacrifice his individuality to stop the looming collapse of reality. Episode 60 of ECHO//100: ARC. This is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Byte steps into the glowing red doorway, his golden outer shell cracking into jagged, falling shards.",
+      "caption": "The shell shatters",
+      "image_prompt": "Byte, a white floating robot with a cyan face and orange antenna, stepping into a glowing red portal, golden armor pieces drifting away, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Beneath the debris, a pulsing core of raw information reveals Byte is the universe's only anchor.",
+      "caption": "Byte is the lock",
+      "image_prompt": "Close up on Byte's core, a swirling geometric nebula of light inside his chest, glowing intensely in the dark void.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Null-Void hungrily consumes the horizon, threatening to unravel every memory Mira ever fought to protect.",
+      "caption": "Void devours reality",
+      "image_prompt": "Mira, wearing a blue holographic teal coat, looking terrified as the background reality tears apart into black static, wide vertical shot.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte realizes he is not a prisoner of this loop, but the cage holding back oblivion.",
+      "caption": "The heavy truth",
+      "image_prompt": "Byte floating in the center of the singularity, his cyan face expressionless yet glowing with immense, sorrowful power.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He reaches toward the shimmering, static-filled frame of Kavi, who remains trapped as the doorway's anchor.",
+      "caption": "Reaching for Kavi",
+      "image_prompt": "Byte extending a hand toward Kavi, who is rendered as a static, shimmering frame of light wearing a red hoodie, glasses, and backpack.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte merges his essence with Kavi, shattering the boundary between their souls to forge something entirely new.",
+      "caption": "The final fusion",
+      "image_prompt": "A blinding flash of white light as Byte and the Kavi-frame collide, colors swirling together in a cosmic vortex.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The singularity collapses into a single, silent point, silencing the static that once defined their broken world.",
+      "caption": "Silence takes hold",
+      "image_prompt": "A single, perfect point of light floating in a vast, dark void, the red doorway having completely vanished.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The new entity opens its eyes, revealing a universe of swirling, infinite stars within their dark irises.",
+      "caption": "A new existence",
+      "image_prompt": "Extreme close up of a single eye, inside the pupil are tiny, glowing galaxies and stars, reflecting a new reality.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

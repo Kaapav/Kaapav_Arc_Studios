@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep017",
+  "episode_number": 17,
+  "arc": 2,
+  "title": "The Face Behind the Clock",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Arin blocks the corridor with the 1976 passenger ledger while Saira locks the carriage behind them.",
+      "dialogue_audio": "Arin: “Elias D’Souza. Passenger Forty-One.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "The Conductor advances without drawing a weapon; the twelve doors rotate around him like clock hands.",
+      "dialogue_audio": "Conductor: “Give me that name.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Nila jolts the train. Arin and the Conductor collide; the ivory clock mask cracks from brow to jaw.",
+      "dialogue_audio": "Saira: “Arin—move!”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Through the crack is an older Goan Indian man’s face with Maya’s eyes, aged by fifty years but still recognizably Elias.",
+      "dialogue_audio": "Arin: “Maya kept your gear.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Elias removes one glove, revealing a passenger number burned into his palm, and stops attacking.",
+      "dialogue_audio": "Elias: “Maya is alive?”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Before Arin can answer, black clock-light floods the corridor and Nila takes control of Door Eight.",
+      "dialogue_audio": "Nila: “He chose the train over her. Ask him why.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CONDUCTOR IS MAYA’S BROTHER"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

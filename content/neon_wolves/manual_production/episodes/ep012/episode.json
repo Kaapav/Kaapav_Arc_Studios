@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "neonwolves",
+  "series_title": "NEON WOLVES",
+  "episode": 12,
+  "episode_id": "neonwolves-ep012",
+  "output_slug": "neonwolves-episode012",
+  "title": "Rafi Met the Boy Who Never Hesitated | NEON WOLVES Ep. 12",
+  "description": "Rafi's copy offers to replace him during dangerous rescues while claiming an equal right to live.\n\nNEON WOLVES — Episode 12\nAn original animated story from KAAPAV ARC Studios.\n\n#NeonWolves #AnimatedSeries #Shorts",
+  "tags": [
+    "Neon Wolves",
+    "KAAPAV ARC Studios",
+    "cyberpunk animation",
+    "sci fi thriller",
+    "animated action",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE OTHER RAFI",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, rain-slick cyberpunk Indian megacity, magenta and cyan neon, tactile streetwear and machinery, fast readable action, emotionally truthful acting, sleek but not glossy advertising; preserve all locked character sheets exactly; no graphic violence.",
+  "arc": "Identity War",
+  "permanent_story_change": "Rafi and his copy reject a winner-takes-body contest.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. A magenta Rafi copy catches three falling residents before real Rafi reaches them.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A magenta Rafi copy catches three falling residents before real Rafi reaches them.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. It knows every stunt without his fear, fatigue or old knee injury.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "It knows every stunt without his fear, fatigue or old knee injury.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Veyline tells the public only one Rafi can hold a rescue license.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Veyline tells the public only one Rafi can hold a rescue license.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Real Rafi resents the copy for embodying the confidence he performs.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Real Rafi resents the copy for embodying the confidence he performs.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. The copy admits it fears deletion whenever Rafi proves more authentic.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The copy admits it fears deletion whenever Rafi proves more authentic.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. They coordinate one rescue using separate bodies and complementary limits.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They coordinate one rescue using separate bodies and complementary limits.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Both refuse Veyline's mandatory identity duel.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Both refuse Veyline's mandatory identity duel.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The tower survivors recognize two accountable rescuers, and licensing software marks both illegal.. Location lock: collapsing neon residential tower. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Rafi Das (lean Indian teen boy, deep brown skin, large honey eyes, messy black curls, orange cropped rain shell, grey armored hoodie, black riding trousers, white magnetic sneakers, neon-green wheel board); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The tower survivors recognize two accountable rescuers, and licensing software marks both illegal.",
+      "effect": "push_in"
+    }
+  ]
+}

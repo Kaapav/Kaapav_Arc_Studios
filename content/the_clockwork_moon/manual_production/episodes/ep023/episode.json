@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "clockworkmoon",
+  "series_title": "THE CLOCKWORK MOON",
+  "episode": 23,
+  "episode_id": "clockworkmoon-ep023",
+  "output_slug": "clockworkmoon-episode023",
+  "title": "The Clockmaker Went Silent | THE CLOCKWORK MOON Ep. 23",
+  "description": "Without her gift, Anya must lead repairs by trusting skills and people she once treated as extensions of herself.\n\nTHE CLOCKWORK MOON — Episode 23\nAn original animated story from KAAPAV ARC Studios.\n\n#ClockworkMoon #AnimatedSeries #Shorts",
+  "tags": [
+    "The Clockwork Moon",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "fantasy adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "SHE COULDN'T HEAR TIME",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile brass clockwork, moon-silver magic and jewel-toned mountain environments, warm candlelight against cool lunar glow, coherent anatomy and props, emotionally truthful acting, adventurous rather than violent; preserve all locked character sheets exactly.",
+  "arc": "Wind the Moon",
+  "permanent_story_change": "Anya becomes a collaborative leader rather than the sole chosen repairer.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Anya places her hearing lens against the lunar bridge and hears only ordinary wind.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya places her hearing lens against the lunar bridge and hears only ordinary wind.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. A fractured gear path requires timing she previously sensed instinctively.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A fractured gear path requires timing she previously sensed instinctively.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. She hides her silence and gives Pip an incorrect command that nearly knocks Orlo from the sky.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She hides her silence and gives Pip an incorrect command that nearly knocks Orlo from the sky.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Rian confronts her for turning fear into secrecy just like Vale.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Rian confronts her for turning fear into secrecy just like Vale.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Anya admits the gift is gone and asks each companion what they can perceive.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya admits the gift is gone and asks each companion what they can perceive.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Lunar vibration reaches Pip, star alignment reaches Rian, and prison strain reaches Selene.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lunar vibration reaches Pip, star alignment reaches Rian, and prison strain reaches Selene.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Anya combines their reports into a repair none could perform alone.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya combines their reports into a repair none could perform alone.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The bridge locks safely, but Coil has occupied the final socket and refuses to move.. Location lock: failing lunar bridge above Veyra. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Selene (small moon-pale girl, luminous violet eyes, waist-length white hair floating as if underwater, layered silver-blue robe with gear-shaped hems, bare feet leaving tiny constellations); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The bridge locks safely, but Coil has occupied the final socket and refuses to move.",
+      "effect": "push_in"
+    }
+  ]
+}

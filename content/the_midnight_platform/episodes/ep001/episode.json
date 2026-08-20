@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep001",
+  "title": "The Train Returned His Missing Sister",
+  "status": "assets_locked_motion_pending",
+  "quality_profile": "midnight-platform-benchmark-v1",
+  "target_seconds": 31,
+  "logline": "After waiting 317 nights for the train that took his sister, Arin trades his freedom for hers and becomes the train's first passenger.",
+  "on_screen_hook": "THE TRAIN RETURNED HER.",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "image": "shot_frames/shot01_train_arrives.png",
+      "dialogue": [
+        {"speaker": "narrator", "at": 0.15, "text": "For three hundred and seventeen nights, Arin waited for the train that stole his sister."}
+      ],
+      "motion_prompt": "Low track-level dolly toward Arin and Tick as distant headlights grow rapidly through rolling mist. Arin grips his brass badge, jacket and hair react to the pressure wave, then he takes one involuntary step back. Tick remains a quadruped fox, lowers its body and raises both ears. The train approaches coherently on the rails; wet reflections move naturally. No morphing, no text, no duplicated lights or characters."
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "image": "shot_frames/shot02_meera_revealed.png",
+      "dialogue": [
+        {"speaker": "arin", "at": 0.45, "text": "Meera?"},
+        {"speaker": "meera", "at": 1.45, "text": "Don't open the door!"}
+      ],
+      "motion_prompt": "The carriage settles and the door slides fully open with steam. Arin's raised hand trembles and his face changes from disbelief to hope. Meera presses her palm to the doorway glass, shakes her head once, and urgently warns him. Tick stays beside Arin on four paws and looks from Arin to Meera. Slow controlled push-in; natural blinking, breathing, hair and scarf motion. Preserve faces, clothes, hands and train geometry; no morphing or extra passengers."
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "image": "shot_frames/shot03_the_choice.png",
+      "dialogue": [
+        {"speaker": "station", "at": 0.55, "text": "One may return. One must take their place."}
+      ],
+      "editorial_text": "ONE MAY RETURN.\nONE MUST TAKE THEIR PLACE.",
+      "motion_prompt": "The blank brass plaque awakens from amber to warning red while internal gears rotate beneath its frame. Arin's five-fingered hand slowly approaches but does not touch until the final beat. Meera remains behind glass, draws one frightened breath and shakes her head. Subtle rack focus from hand to Meera. Keep the plaque blank, faces stable, hands natural and reflections coherent; no generated letters or pseudo-text."
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "image": "shot_frames/shot04_the_exchange.png",
+      "dialogue": [
+        {"speaker": "arin", "at": 0.55, "text": "Then take me."},
+        {"speaker": "meera", "at": 2.05, "text": "Arin, no!"}
+      ],
+      "motion_prompt": "Arin makes one clear deliberate step across the threshold into the carriage. A restrained golden clockwork ribbon transfers Meera outward toward the platform as she reaches for him. Tick stays a four-legged mechanical fox and extends one front paw without becoming upright or humanoid. Camera retreats smoothly inside with Arin. Preserve exact identities, anatomy, clothing and direction of travel; no merged bodies, chaotic particles or duplicated limbs."
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "image": "shot_frames/shot05_train_departs.png",
+      "dialogue": [
+        {"speaker": "meera", "at": 0.30, "text": "Arin!"},
+        {"speaker": "arin", "at": 1.45, "text": "Don't wait for me."}
+      ],
+      "motion_prompt": "Side-tracking shot as the train accelerates gradually. Meera runs along the wet platform with her palm aligned to Arin's palm through the rain-streaked window. Arin keeps pace inside for two steps, trying to reassure her. Tick runs naturally as a quadruped fox on four paws with segmented tail stabilizing behind. Background lamps and reflections move consistently; no duplicated Arin in other windows, no warped glass faces or foot sliding."
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "image": "shot_frames/shot06_the_conductor.png",
+      "dialogue": [
+        {"speaker": "conductor", "at": 0.60, "text": "Welcome aboard, Passenger One. Twelve doors remain."}
+      ],
+      "editorial_text": "PASSENGER 01 / 13",
+      "motion_prompt": "Inside the moving carriage, Arin turns sharply from the rainy window and freezes. The Conductor remains calm, extends the completely blank brass ticket one measured distance, and tilts the ivory clock mask by only a few degrees. Overhead lamps flicker sequentially down the impossible corridor and the far red light wakes. Slow tension push-in; preserve Arin and Conductor identity, five-fingered hands, blank ticket and stable mask. No attack, pseudo-text, extra passengers or morphing."
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE NEXT DOOR OPENS AT MIDNIGHT",
+    "cta_policy": "story_promise_only"
+  },
+  "publish": {
+    "privacy": "private",
+    "allowed_before_approval": false
+  }
+}

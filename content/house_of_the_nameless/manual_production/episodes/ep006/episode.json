@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 6,
+  "episode_id": "namelesshouse-ep006",
+  "output_slug": "namelesshouse-episode006",
+  "title": "The Boy Whose Sister Never Existed | HOUSE OF THE NAMELESS Ep. 6",
+  "description": "Samir's footage contains a girl no one remembers, linking his family to the classroom.\n\nHOUSE OF THE NAMELESS — Episode 6\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HIS SISTER WAS ERASED",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Inheritance",
+  "permanent_story_change": "Samir joins the investigation and identifies Noor as his erased aunt.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Leela finds Samir filming the mansion for a channel nobody in town watches.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela finds Samir filming the mansion for a channel nobody in town watches.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. His analog tapes show a little girl beside him in childhood clips, but he remembers being an only child.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "His analog tapes show a little girl beside him in childhood clips, but he remembers being an only child.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. The Keeper's pen labels the image sister without supplying a name.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Keeper's pen labels the image sister without supplying a name.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Samir initially accuses Leela of manufacturing evidence for the inheritance.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Samir initially accuses Leela of manufacturing evidence for the inheritance.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Noor recognizes the girl's necklace as one worn by her younger sister in 1978.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor recognizes the girl's necklace as one worn by her younger sister in 1978.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. They realize Samir's mother was born from an erased survivor nobody remembers.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They realize Samir's mother was born from an erased survivor nobody remembers.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Samir lowers his camera and agrees to help recover relationships before publishing proof.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Samir lowers his camera and agrees to help recover relationships before publishing proof.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. His oldest tape plays tomorrow's date and shows Leela voluntarily entering a blank door.. Location lock: village archive and Samir's camera room. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "His oldest tape plays tomorrow's date and shows Leela voluntarily entering a blank door.",
+      "effect": "push_in"
+    }
+  ]
+}

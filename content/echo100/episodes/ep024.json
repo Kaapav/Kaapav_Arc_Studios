@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e024",
+  "season": 1,
+  "episode": 24,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Glitch Protocol: The City Without Shadows | ECHO//100 Episode 24",
+  "description": "Kavi’s physical form dissolves as the city’s defensive grid identifies him as a foreign virus. Episode 24 of ECHO//100: ARC. This is an AI-assisted original-fiction narrative.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi’s skin flashes violet as the protagonist falls through brick, leaving discarded clothes behind.",
+      "caption": "Kavi phases through wall",
+      "image_prompt": "Vertical shot of a red hoodie and backpack falling onto a dark alley floor, Kavi's translucent glowing purple silhouette floating mid-air.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stands naked in the Central Power Hub, body flickering like a broken bulb.",
+      "caption": "Inside the Power Hub",
+      "image_prompt": "Kavi stands in a high-tech obsidian room filled with pulsing neon conduits, his skin shimmering with purple digital static.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Blue holographic tendrils whip from the floor, locking exits with lethal, glowing precision code.",
+      "caption": "Mira's defense grid",
+      "image_prompt": "Holographic blue geometric shapes form a cage around Kavi, glowing with the distinctive light of Mira's sub-routines.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, orange antenna spinning rapidly to calculate a path through the grid.",
+      "caption": "Byte scans the perimeter",
+      "image_prompt": "Byte, a small white floating bot with a cyan face, scans a complex terminal while Kavi clutches his fading arm.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city identifies Kavi as corruption, and Mira’s sub-routines delete all organic data now.",
+      "caption": "System identifies corruption",
+      "image_prompt": "A massive holographic interface displays Kavi's biometric scan with a red error warning blinking in bold symbols.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi must channel Null-energy to overwrite the grid, risking total erasure of existence.",
+      "caption": "The dangerous reversal",
+      "image_prompt": "Kavi reaching into a swirling vortex of black and purple Null-energy, his eyes glowing with dangerous red intensity.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Power flows through Kavi’s veins, replacing marrow with cold, unyielding streams of binary code.",
+      "caption": "Biology becoming code",
+      "image_prompt": "Kavi's skin turning into a translucent grid pattern, veins glowing with shifting digital light as he hacks the central core.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s hand vanishes, replaced by a window showing the city’s forbidden architecture deep inside.",
+      "caption": "The shocking revelation",
+      "image_prompt": "Close-up of Kavi’s transparent palm revealing a tiny, intricate 3D model of the City Without Shadows spinning inside his skin.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

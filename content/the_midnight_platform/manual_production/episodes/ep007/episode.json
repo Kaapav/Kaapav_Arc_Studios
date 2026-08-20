@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 7,
+  "episode_id": "the-midnight-platform-ep007",
+  "output_slug": "the-midnight-platform-episode007",
+  "title": "The Passenger Without a Ticket | MIDNIGHT PLATFORM Ep. 7",
+  "description": "The Passenger Without a Ticket. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 7\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "PASSENGER WITHOUT A TICKET",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep007\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep007\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Arin wakes alone in a 1913 wooden carriage; Nila sits opposite, pale clock-light visible in the cracks of her hands. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Nila: “They call me Zero so nobody asks who came first.”",
+      "dialogue_audio": "Nila: “They call me Zero so nobody asks who came first.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. She shows a living memory: engineer Devika Rao turning a gigantic station clock backward as a derailment approaches. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Nila: “My mother stole one minute from death.”",
+      "dialogue_audio": "Nila: “My mother stole one minute from death.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Thirteen people step safely away from the crash, but their shadows remain under the wreck; young Nila walks toward the newborn train. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Nila: “Someone had to hold the minute open.”",
+      "dialogue_audio": "Nila: “Someone had to hold the minute open.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Present-day Arin sees rows of passengers frozen behind glass, each wearing a blank ticket. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Arin: “The Conductor imprisoned you.” Nila: “The rule did.”",
+      "dialogue_audio": "Arin: “The Conductor imprisoned you.” Nila: “The rule did.”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. The clock-masked Conductor cuts through the memory with his brass ticket punch; Nila’s carriage begins collapsing. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Conductor: “She shows truth with the ending removed.”",
+      "dialogue_audio": "Conductor: “She shows truth with the ending removed.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. As Arin is pulled out, Nila presses thirteen hairline cracks into his badge. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Nila: “Ask him why he still wears a passenger’s coat.”",
+      "dialogue_audio": "Nila: “Ask him why he still wears a passenger’s coat.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

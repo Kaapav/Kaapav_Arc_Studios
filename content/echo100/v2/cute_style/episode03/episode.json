@@ -1,0 +1,80 @@
+{
+  "episode": 3,
+  "episode_id": "echo30-ep003",
+  "output_slug": "echo30-v2-episode03-cute",
+  "title": "The Cassette That Played Imran's Voice | ECHO//30 Ep. 3",
+  "description": "Before sunset can erase another memory, Tara broadcasts ten seconds of her missing brother's voice. Navapur answers—and hundreds of forgotten people begin speaking back.\n\nKavi and Tara split over Byte's secrets, Null reveals what the city buried, and Dr. Rhea Rao proves she knows exactly how to stop Project ECHO.\n\nECHO//30 — Episode 3: Voices Under the Signal\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\nSubscribe to follow the mystery: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "animated short",
+    "3D animated short",
+    "sci fi animation",
+    "mystery animation",
+    "forgotten voices",
+    "pirate radio mystery",
+    "original animation",
+    "cinematic animation",
+    "shorts"
+  ],
+  "thumbnail_text": "412 NAMES BURIED",
+  "thumbnail_scene": 7,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "text": "Before sunset, Tara moved her radio into her mother's kitchen, recording every family memory she could save.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 1, dramatic close-up. Depict this exact causal moment: Before sunset, Tara moved her radio into her mother's kitchen, recording every family memory she could save. Locked identities on screen: Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "text": "Her mother laughed—until an old cassette played Imran's voice, a son she swore had never existed.",
+      "effect": "pan_right",
+      "image_prompt": "SHOT 2, medium two-shot. Depict this exact causal moment: Her mother laughed—until an old cassette played Imran's voice, a son she swore had never existed. Locked identities on screen: Imran: South Asian man, faded mustard radio jacket, red headphone cable around wrist. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "text": "Kavi traced the signal to Central Station. Byte blocked the route: that location was not survivable.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 3, wide establishing shot. Depict this exact causal moment: Kavi traced the signal to Central Station. Byte blocked the route: that location was not survivable. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "text": "Tara accused Byte of protecting the Red Door. Kavi defended him, splitting the friends.",
+      "effect": "pan_left",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Depict this exact causal moment: Tara accused Byte of protecting the Red Door. Kavi defended him, splitting the friends. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "text": "Against Kavi's warning, Tara broadcast ten seconds of Imran's recording and asked the city who remembered him.",
+      "effect": "pull_out",
+      "image_prompt": "SHOT 5, low-angle action shot. Depict this exact causal moment: Against Kavi's warning, Tara broadcast ten seconds of Imran's recording and asked the city who remembered him. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Imran: South Asian man, faded mustard radio jacket, red headphone cable around wrist. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "text": "Calls flooded in from strangers remembering people missing from photographs. Streetlights turned red across Navapur.",
+      "effect": "pan_right",
+      "image_prompt": "SHOT 6, intimate reaction close-up. Depict this exact causal moment: Calls flooded in from strangers remembering people missing from photographs. Streetlights turned red across Navapur. Locked identities on screen: No principal character visible; preserve established location and prop continuity. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "text": "Null spoke through Tara's microphone: Four hundred twelve names. Your city buried every one.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 7, dynamic tracking composition. Depict this exact causal moment: Null spoke through Tara's microphone: Four hundred twelve names. Your city buried every one. Locked identities on screen: Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "text": "Dr. Rhea Rao cut the power with a brass key. Kavi, she said, you just restarted Project ECHO.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Depict this exact causal moment: Dr. Rhea Rao cut the power with a brass key. Kavi, she said, you just restarted Project ECHO. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Rhea: South Asian transit engineer, silver-streaked dark hair, navy work coat, brass ECHO key. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    }
+  ],
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "manual_review_required": true,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D feature-animation using immutable ECHO character references; rain-dark Navapur, tactile materials, cyan memory light, red exchange light, purple denied-memory light, restrained expressive acting; no readable text, watermark, logo, collage, duplicate people, extra limbs, identity drift or costume drift.",
+  "permanent_story_change": "Dr. Rhea Rao cut the power with a brass key. Kavi, she said, you just restarted Project ECHO.",
+  "permanent_story_change_restored_from_script": true
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e061",
+  "season": 1,
+  "episode": 61,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "The Unified Sight | ECHO//100 Episode 61",
+  "description": "Mira confronts the newly fused Kavi-Byte as they begin to perceive the structural architecture of the fractured timeline. They realize the entity known as Null is a lingering consequence of a forgotten past. Episode 61 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The singularity shattered, leaving Kavi-Byte suspended in a void woven with pulsing, infinite colored threads.",
+      "caption": "Threads of reality",
+      "image_prompt": "Kavi-Byte, a fusion of a boy in a red hoodie and a white floating robot, drifting in a dark space filled with glowing neon geometric threads.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira reaches out, but her hand passes through the entity, meeting only cold, vibrating geometric symbols.",
+      "caption": "Mathematical barrier",
+      "image_prompt": "Mira in a blue holographic teal coat reaching toward Kavi-Byte, who is surrounded by floating glowing triangles and cubes.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi-Byte rotates, eyes reflecting entire galaxies while speaking in a rhythmic, clashing chime of pure geometry.",
+      "caption": "Language of shapes",
+      "image_prompt": "Close up on Kavi-Byte’s face, showing swirling stars within eyes, glowing geometric glyphs manifesting in the air.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira scans the data, discovering the Null entity isn't a predator, but Kavi’s first regret manifested.",
+      "caption": "The first shadow",
+      "image_prompt": "Mira looking at a holographic screen displaying a timeline path leading back to a single choice.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The timeline architecture shifts, revealing the loop was never a cage, but a wall built by Kavi.",
+      "caption": "The self-imposed prison",
+      "image_prompt": "A wide shot showing the timeline as a coiled, glowing red snake biting its own tail, held by Kavi-Byte.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi-Byte stops moving, projecting a vision to Mira that the prison was designed for safety, not entrapment.",
+      "caption": "Revealing the truth",
+      "image_prompt": "Mira looking at a floating sphere showing Kavi’s past self making a choice behind a glowing barrier.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A chilling static fills the void as the shadow Null coalesces behind Mira, silent and perfectly still.",
+      "caption": "Null approaches",
+      "image_prompt": "Mira turning around in the dark void, a tall, black-purple glitching silhouette emerging from the shadows.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow clears, revealing a mirror image of Kavi—pre-fusion, eyes wide, wearing the original red hoodie.",
+      "caption": "The forgotten reflection",
+      "image_prompt": "Mira standing face-to-face with a glitching, monochromatic version of Kavi in his red hoodie and glasses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

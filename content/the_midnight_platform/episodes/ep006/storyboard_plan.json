@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep006",
+  "episode_number": 6,
+  "arc": 1,
+  "title": "The Door That Looked Like Home",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Door Three opens onto Arin’s warm family kitchen at sunrise; his mother cooks while Meera laughs, wearing her locked teal coat.",
+      "dialogue_audio": "Mother: “Breakfast before school.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Arin drops his ticket and runs to them; his mother embraces him with convincing warmth.",
+      "dialogue_audio": "Arin: “I remember you.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Saira stays at the threshold. In a steel kettle reflection, the room is an empty carriage and the family have no faces.",
+      "dialogue_audio": "Saira: “Ask Meera what she warned you.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Arin asks. The smiling Meera repeats the wrong line while the room subtly resets to the same gesture.",
+      "dialogue_audio": "False Meera: “I said, come inside.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Arin tears his brass station badge from the vision; the kitchen peels away into paper-thin clockwork panels.",
+      "dialogue_audio": "Arin: “My sister told me not to open the door.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "The false mother becomes Nila for one quiet second, not monstrous—only hurt.",
+      "dialogue_audio": "Nila: “I only built the home you wanted.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "PASSENGER ZERO KNOWS HIS MEMORIES"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

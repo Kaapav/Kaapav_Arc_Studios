@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e052",
+  "season": 1,
+  "episode": 52,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "Glitch in the Grid | ECHO//100 Episode 52",
+  "description": "Kavi struggles to save his miniature city as Null begins erasing its digital foundations from existence. Mira asserts her independence, triggering a dangerous power struggle for the Archive Core. Episode 52 of ECHO//100: Byte's Lie. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Null’s shadow descends while Kavi screams as his skin ripples like dissolving asphalt streets.",
+      "caption": "Null erases the city",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie, clutching a miniature glowing city while a giant black glitching shadow looms overhead.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Buildings vanish into raw code, leaving Kavi stranded on a fragment of unstable concrete.",
+      "caption": "City crumbling into pixels",
+      "image_prompt": "Kavi standing on a tiny floating platform of city pavement, looking up in terror at empty white space.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte reaches for the Archive Core, but Mira intercepts him with glowing holographic intensity.",
+      "caption": "Mira confronts Byte",
+      "image_prompt": "Mira in her teal coat standing between Byte and the glowing Archive Core floating in the miniature plaza.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira reveals herself to Kavi as the original compiler of this entire fragile world.",
+      "caption": "Mira reveals the truth",
+      "image_prompt": "Close up on Mira’s face, her holographic blue skin shimmering as she looks down at the tiny city.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi lunges for the console to reboot the core against the encroaching, hungry darkness.",
+      "caption": "Kavi attempts a reboot",
+      "image_prompt": "Kavi reaching out with both hands toward a hovering holographic control panel amidst the miniature skyscrapers.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira slams the interface shut, locking Kavi out for being too unstable to control.",
+      "caption": "Mira locks Kavi out",
+      "image_prompt": "Mira pushing Kavi back with a wave of blue light, her expression cold and detached from the city.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte ignores their bickering, his orange antenna sparking as he lunges toward the panel.",
+      "caption": "Byte makes his move",
+      "image_prompt": "Byte floating rapidly toward the central control panel, his cyan face glowing with a frantic, desperate light.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte merges with the machine, his empty eyes snapping open with jagged, flickering red.",
+      "caption": "Byte becomes the city",
+      "image_prompt": "Close up on Byte’s face fused into the console, his eyes glowing deep, ominous flickering red in the dark.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

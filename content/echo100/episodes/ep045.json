@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e045",
+  "season": 1,
+  "episode": 45,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Shard Storm | ECHO//100 Episode 45",
+  "description": "Kavi faces a lethal storm of holographic fragments as Mira's memories threaten to dismantle the city. He must integrate the Archive's burden to save the world from total systemic collapse. Episode 45 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Razor-sharp shards of blue light tear through concrete, carving deep, glowing scars into reality.",
+      "caption": "Shards shredding the city",
+      "image_prompt": "Vertical cinematic shot, city street at night, Kavi in red hoodie looking at floating blue holographic shards cutting through walls.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s voice screams from every fragment, a cacophony of lost timelines echoing off steel skyscrapers.",
+      "caption": "Mira's fragmented cries",
+      "image_prompt": "Vertical cinematic shot, close up of Kavi shielding his face, swarm of blue holographic shards swirling around him.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches out, but a shard slices a palm, flashing visions of a forgotten childhood.",
+      "caption": "Memory shard attack",
+      "image_prompt": "Vertical cinematic shot, Kavi's hand bleeding digital light, a shard hovering inches from his glasses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "These are not mere glitches; they represent painful, erased memories buried to protect this world.",
+      "caption": "Erased memories revealed",
+      "image_prompt": "Vertical cinematic shot, Kavi looking into a shard reflecting a younger version of himself, city background blurry.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null watches from the shadows, knowing the storm will vaporize the city without payment.",
+      "caption": "Null observes the chaos",
+      "image_prompt": "Vertical cinematic shot, Null standing in the dark alleyway, eyes glowing red, watching Kavi struggle with the shards.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To silence the storm, Kavi must internalize the Archive and house these broken timelines.",
+      "caption": "Kavi's desperate choice",
+      "image_prompt": "Vertical cinematic shot, Kavi standing tall in the center of the street, arms outstretched toward the glowing swarm.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shards converge, rushing into Kavi’s chest as the cold weight of centuries floods consciousness.",
+      "caption": "Absorbing the Archive",
+      "image_prompt": "Vertical cinematic shot, blue light streaming from the shards into Kavi's hoodie, intense energy radiating from his body.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The storm vanishes, but as Kavi opens eyes, they burn with a blinding, endless digital blue.",
+      "caption": "Kavi's transformation complete",
+      "image_prompt": "Vertical cinematic shot, extreme close up of Kavi's face, eyes glowing with bright blue digital light, intense atmosphere.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

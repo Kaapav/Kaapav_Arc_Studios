@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e095",
+  "season": 1,
+  "episode": 95,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "Null's Bargain | ECHO//100 Episode 95",
+  "description": "Kavi confronts a physical manifestation of his past mistakes within the decaying void between worlds. He must choose between his perfect reality and the existence of every timeline he once discarded. Episode 95 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The mirror image solidifies, shedding the Kavi disguise to reveal Null’s true, glitch-filled, terrifying form.",
+      "caption": "Null manifests fully",
+      "image_prompt": "A tall, shadowy entity with glowing red eyes and flickering purple static stands in a void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null grips a glowing sphere, trapping the small, helpless drone Byte within a prison.",
+      "caption": "Byte is captured",
+      "image_prompt": "Byte, a small white drone with a cyan face and orange antenna, trapped inside a sphere.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null demands the administrator keys to the timeline in exchange for the captive companion.",
+      "caption": "A dangerous bargain",
+      "image_prompt": "Null wearing Kavi's face, holding a hand out toward Kavi who wears a red hoodie.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi recognizes the truth: Null exists not as a monster, but as failed futures.",
+      "caption": "Null's true identity",
+      "image_prompt": "Kavi looking at a wall of flickering, transparent windows showing alternate versions of his life.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The echoes of every erased version scream from beneath the surface of Null’s skin.",
+      "caption": "Discarded timelines",
+      "image_prompt": "Kavi in a red hoodie and glasses, staring at the shifting, glitchy face of Null.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Surrender feeds the hunger, yet staying starves the potential of the entire fragile world.",
+      "caption": "The moral reversal",
+      "image_prompt": "Kavi lowering his backpack, looking at his hands as the ground beneath him begins cracking.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi rejects the bargain, declaring the perfect cage a lie that requires immediate destruction.",
+      "caption": "Kavi makes his choice",
+      "image_prompt": "Kavi standing firm in his red hoodie while Null’s face twists into a furious snarl.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null laughs as the horizon dissolves, erasing reality from the edges toward the center.",
+      "caption": "The world ends",
+      "image_prompt": "The background landscape disintegrating into white digital dust, leaving Kavi suspended in nothingness.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

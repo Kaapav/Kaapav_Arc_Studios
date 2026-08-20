@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e050",
+  "season": 1,
+  "episode": 50,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Final Frequency | ECHO//100 Episode 50",
+  "description": "The city dissolves into raw data, forcing Kavi to choose between erasure and total portability. This is Episode 50 of ECHO//100: ARC. This content is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The skyline flickers into transparent wireframes, exposing the neon matrix pulsing beneath crumbling city streets.",
+      "caption": "City turning translucent",
+      "image_prompt": "Vertical shot, Kavi in red hoodie and glasses standing on a floating concrete slab, city buildings becoming glowing wireframe grids, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s orange antenna sparks as the final phone materializes in Kavi’s trembling, gloved hand.",
+      "caption": "Byte manifesting the phone",
+      "image_prompt": "Kavi holding a glowing digital phone, Byte the white floating robot with cyan face hovering nearby, Null's dark silhouette fading in the background.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "These devices serve as blueprints for a reality existing entirely outside the endless loops.",
+      "caption": "Revealing the hidden truth",
+      "image_prompt": "Close up of Kavi's face, reflection of complex digital code in his glasses, intense expression, city geometry collapsing into light particles.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira arrives, her teal coat shimmering while she decrypts the void’s chaotic, shifting core.",
+      "caption": "Mira joins the fray",
+      "image_prompt": "Mira in a blue holographic teal coat standing beside Kavi, hands moving through floating holographic data streams, void background.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The atmosphere tears open, forcing the entire city to fold inward like origami paper.",
+      "caption": "City folding into data",
+      "image_prompt": "Wide shot, skyscrapers bending and folding into a singular point of light, Kavi and Byte bracing against a massive data storm.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the city is not being saved but compressed into a portable file.",
+      "caption": "Kavi makes the choice",
+      "image_prompt": "Kavi pressing a button on the final phone, the entire city shrinking into a glowing sphere inside his palm, reality warping.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The void falls silent as skyscrapers vanish, leaving only a small, humming drive behind.",
+      "caption": "The city is saved",
+      "image_prompt": "Kavi standing in an empty white void, holding a small glowing cube that contains a miniature version of the city, Byte floating close.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A blank doorway opens in the emptiness; Kavi steps forward, carrying the world inside.",
+      "caption": "Stepping into the unknown",
+      "image_prompt": "Kavi walking toward a bright rectangular portal, tiny glowing city held in his hand, silhouette fading into the white light, vertical composition.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

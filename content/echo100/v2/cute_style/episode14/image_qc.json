@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "series": "ECHO//30",
+  "episode": 14,
+  "status": "accepted",
+  "accepted_frames": [
+    "story_frames/shot_01.png",
+    "story_frames/shot_02.png",
+    "story_frames/shot_03.png",
+    "story_frames/shot_04.png",
+    "story_frames/shot_05.png",
+    "story_frames/shot_06.png",
+    "story_frames/shot_07.png",
+    "story_frames/shot_08.png"
+  ],
+  "new_locked_references": [
+    "../characters/mira_human_teen_turnaround_v1.png",
+    "../characters/byte_prototype_turnaround_v1.png",
+    "../characters/imran_teen_turnaround_v1.png"
+  ],
+  "qc_checks": {
+    "frame_count": "pass",
+    "portrait_composition": "pass",
+    "lead_identity_consistency": "pass",
+    "age_variant_consistency": "pass",
+    "costume_and_prop_consistency": "pass",
+    "scene_continuity": "pass",
+    "action_accuracy": "pass",
+    "no_duplicate_leads": "pass",
+    "no_generated_text_or_watermark": "pass",
+    "narrative_action_per_frame": "pass"
+  },
+  "rejected_generations": [
+    {
+      "source": "exec-85b9a19f-85cf-4145-ab80-41d879db2375.png",
+      "intended_shot": 7,
+      "reason": "Tara inherited human Mira's teal uniform and teen Mira was duplicated as a full body."
+    }
+  ],
+  "render_gate": "images_accepted_video_not_started"
+}

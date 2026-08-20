@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep020",
+  "episode_number": 20,
+  "arc": 2,
+  "title": "The Man Behind the Mask",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Meera uses Tick’s thirteenth gear and Maya’s handbell to open a stable mirror between Platform 13 and the Conductor’s carriage.",
+      "dialogue_audio": "Meera: “Maya. Your brother is listening.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Maya sees the cracked mask. Elias removes it completely, revealing the older face of the teenager who saved her in 1976.",
+      "dialogue_audio": "Maya: “You missed fifty birthdays.” Elias: “I counted every one.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Elias explains that he became Conductor after the previous keeper vanished, using the role to slow Nila’s releases.",
+      "dialogue_audio": "Elias: “I enforced the rule because a bad lock was all we had.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Maya places her palm on the mirror; Elias aligns his palm without touching, mirroring Episode 1 without an exchange.",
+      "dialogue_audio": "Maya: “Then help us build a better one.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Elias gives Arin the master ticket punch and names him Passenger One by choice, not ownership.",
+      "dialogue_audio": "Elias: “A rule born from consent can be rewritten by consent.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "The engine tears open. Nila sits in the driver’s position as all twelve doors unlock toward the city.",
+      "dialogue_audio": "Nila: “You had a century. I’m opening everything.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "ARC II COMPLETE — THE TRAIN HAS NO CONDUCTOR"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

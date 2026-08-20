@@ -1,0 +1,282 @@
+{
+  "schema_version": 1,
+  "series": {
+    "series_id": "echo30",
+    "series_title": "ECHO//30",
+    "destination_root": "content/echo100/v2/cute_style",
+    "directory_pattern": "episode{episode:02d}",
+    "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with immutable ECHO//30 character designs, expressive restrained acting, rain-dark Navapur architecture, tactile materials, cyan recorded-memory light, red exchange light, purple denied-memory light and warm amber chosen-connection light. Use only locked turnaround sheets. No readable generated text, logos, watermark, duplicate characters, extra limbs, identity drift, costume changes or imitation-studio branding.",
+    "base_tags": [
+      "ECHO30",
+      "KAAPAV ARC Studios",
+      "animated series",
+      "3D animated short",
+      "sci fi mystery",
+      "time loop story",
+      "original animation",
+      "shorts"
+    ]
+  },
+  "episodes": [
+    {
+      "episode": 11,
+      "arc": "The Missing Hour",
+      "title": "The City Had Only 99 Minutes Left",
+      "thumbnail_text": "99 MINUTES LEFT",
+      "thumbnail_scene": 8,
+      "permanent_story_change": "Tara turns the phone from Kavi's private secret into shared evidence, and the trapped residents consent to hear the truth.",
+      "description": "The sealed Door traps Kavi, Tara, Mira, and Imran inside a city whose hundred-minute loop has suddenly lost a minute. Tara takes Kavi's phone and receives a warning in her own future voice: rescuing Imran could erase 412 other people.\n\nInstead of choosing for them, Tara broadcasts the truth to the trapped city. Their voluntary decision to listen gives Null's buried voices a shape—and reveals a path to the Archive Core.\n\nECHO//30 — Episode 11: The City Had Only 99 Minutes Left\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "tags": ["missing hour", "future voice message", "city time loop"],
+      "scenes": [
+        {
+          "image_prompt": "The maintenance train jolts to a stop before the fully sealed black-metal Door; every analog clock inside snaps from 2:16 to 2:15 while Kavi, Tara, Mira and Imran brace in alarm.",
+          "text": "The black Door sealed behind them. Then every clock lost another minute. The hundred-minute city now had only ninety-nine.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Inside the train cabin, Imran points from Kavi's hidden phone to the locked Door mechanism while Tara watches Kavi with wounded suspicion and Mira studies the failing temporal gauges.",
+          "text": "Imran said the core was reacting to hidden intentions. Tara looked at Kavi. Secrets were no longer protection; they were fuel.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Tara calmly takes the normal-sized cracked phone from Kavi's open hand; their red and cyan light separates them emotionally while Imran and Mira remain behind, no struggle or violence.",
+          "text": "Tara took the phone. She would return it when Kavi stopped deciding which truths everyone else was allowed to survive.",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "The slim phone in Tara's hand emits her own red audio waveform beside abstract symbols of Imran and 412 fading human lights; Kavi hears it too, with no readable generated words or numbers.",
+          "text": "A message played in Tara's future voice: If I bring Imran home, four hundred and twelve others disappear.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "In the underground market, Tara connects her red headphones to an old radio microphone and openly addresses gathered trapped residents; Kavi, Mira and Imran stand behind rather than controlling the crowd.",
+          "text": "Tara did not hide the warning. She broadcast it to every trapped resident and asked whether they still wanted the Door opened.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "As residents deliberately switch on radios and cassette players, purple memory veins spread across market walls; Mira recognizes the phenomenon while a layered but non-gory Null silhouette forms overhead.",
+          "text": "Mira warned that listening would awaken every memory the city had denied. One by one, the residents turned their radios louder.",
+          "effect": "pan_left"
+        },
+        {
+          "image_prompt": "Hundreds of purple voice threads leave the listening residents and resolve into one luminous route map through the market floor toward a distant archive tower; Null remains a collective silhouette, not attacking.",
+          "text": "Null's chorus stopped screaming. The voices became a map, leading beneath the city toward the Archive Core.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Tara returns the cracked phone to Kavi without touching his hand; behind them the synchronized market clocks clearly show one minute less and the purple route opens ahead, Imran and Mira ready to move.",
+          "text": "Tara returned the phone as evidence, not forgiveness. Above them, the clocks jumped again. Ninety-eight minutes remained.",
+          "effect": "pull_out"
+        }
+      ]
+    },
+    {
+      "episode": 12,
+      "arc": "The Missing Hour",
+      "title": "The Trapped City Voted Against Rescue",
+      "thumbnail_text": "THEY REFUSED RESCUE",
+      "thumbnail_scene": 7,
+      "permanent_story_change": "The city rejects involuntary rescue and discovers that freely offered memories can pay a small portion of the exchange debt.",
+      "description": "The trapped residents finally vote on whether to reopen the Red Door. Imran refuses a rescue bought with another family, destroying Tara's hope—but a resident offers one precious memory voluntarily.\n\nThe exchange accepts it. For the first time, the Missing Hour changes without taking an entire person. Then a cassette records Kavi approving a sacrifice he has not yet made.\n\nECHO//30 — Episode 12: The Trapped City Voted Against Rescue\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "tags": ["moral choice story", "memory exchange", "trapped city"],
+      "scenes": [
+        {
+          "image_prompt": "A circular public meeting fills the underground market; trapped families hold colored radio lamps for rescue or refusal while Tara moderates, Kavi records, Mira observes and Imran stands among residents.",
+          "text": "The Missing Hour held its first vote: reopen the Door and risk Navapur, or remain trapped together.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Imran lowers his rescue lamp and faces Tara across their matching red cable, choosing not to return if an innocent family must vanish; Tara fights tears without melodrama.",
+          "text": "Imran voted against his own rescue. He would not come home by making another brother disappear.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Kavi sketches an exchange balance using small glowing memory orbs instead of human silhouettes; Mira points out unstable emotional-weight scales while Tara and Imran listen critically.",
+          "text": "Kavi proposed paying the exchange with memories instead of people. Mira said emotional weight could not be calculated safely.",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "Kavi openly plays his small phone through Tara's radio speaker; a future-Kavi waveform warns of a failed test while the entire meeting hears it, proving he is no longer hiding messages.",
+          "text": "Another future warning arrived. This time Kavi played it aloud: Your first test erased a child from her mother's mind.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "An elderly trapped woman freely places one warm amber memory orb showing a childhood monsoon into the exchange apparatus; her adult daughter holds her hand, both consenting and fully present.",
+          "text": "Before Kavi could stop her, an old woman offered one chosen memory: the last monsoon she spent with her father.",
+          "effect": "pan_left"
+        },
+        {
+          "image_prompt": "The amber memory enters a red balance ring; instead of a person vanishing, one erased portrait returns clearly to a station memorial while everyone watches the smaller exchange stabilize.",
+          "text": "The exchange accepted it. No person vanished. One forgotten face returned to the station wall.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Residents form a voluntary consent table using blank cassette tapes, thumbprints and colored memory tokens; Tara oversees the process while Null's purple silhouette watches calmly from the ceiling.",
+          "text": "The city chose a new rule: no memory would be taken without recorded consent from the person who lived it.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "One cassette recorder activates by itself before Kavi; its reels turn backward and project his cyan voiceprint beside an image-symbol of Arvind, while Tara and Imran react to the impossible prior consent.",
+          "text": "Then an empty cassette played Kavi's voice: I consent to losing every memory of my father.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 13,
+      "arc": "The Missing Hour",
+      "title": "Kavi Had Already Sacrificed His Father",
+      "thumbnail_text": "KAVI ALREADY AGREED",
+      "thumbnail_scene": 8,
+      "permanent_story_change": "Kavi rejects his future self's authority over his present consent, and that refusal earns access to the Archive.",
+      "description": "A cassette claims Kavi already consented to erase every memory of his missing father. The Archive accepts his future voiceprint—but Tara defends Kavi's right to refuse the person he may become.\n\nOutside the Missing Hour, Byte reveals one hundred stored permissions recorded by future Kavi. Present Kavi rejects all of them. The Archive responds by opening its first honest door.\n\nECHO//30 — Episode 13: Kavi Had Already Sacrificed His Father\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "tags": ["future self", "consent mystery", "missing father"],
+      "scenes": [
+        {
+          "image_prompt": "Close on the backward-turning cassette projecting Kavi's voiceprint and a fading amber memory of Arvind; present Kavi recoils while Tara, Imran and Mira hear the exact sacrifice together.",
+          "text": "The cassette carried Kavi's authentic voice, older and exhausted, consenting to erase every memory of Arvind.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Kavi stops the cassette with one clear hand and states his refusal; Tara stands beside rather than behind him, supporting consent despite their damaged trust, Mira and Imran listening.",
+          "text": "Kavi refused. A future version could warn him, but it could not own his present consent.",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "Outside in the Neon Arcade, Rhea receives Tara's broadcast through old speakers as Byte reluctantly opens a holographic vault containing many identical Kavi voiceprint rings, no readable numbers.",
+          "text": "Outside, Rhea asked Byte how many permissions future Kavi had stored. Byte opened a vault containing one hundred.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Byte projects several looping future-Kavi waveforms around a diagram of repeated Red Doors; Rhea recognizes they came from different resets, her brass key lowered in guilt.",
+          "text": "Each permission came from a different reset. Future Kavi had been authorizing sacrifices across entire discarded lives.",
+          "effect": "pan_left"
+        },
+        {
+          "image_prompt": "Inside the Missing Hour, Kavi, Tara, Mira and Imran follow the purple route into an archive street lined with sealed doors marked only by emotional object-symbols—headphones, glasses, radio and badge.",
+          "text": "The map led to a street of sealed memories. Every door carried a relationship instead of a name.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "A door marked by a station badge opens onto a contained memory of Arvind in maroon sweater, rectangular glasses and grease-stained hands; he raises a palm asking Kavi not to sacrifice himself.",
+          "text": "Behind the station-badge door, Arvind was alive inside a recording. His first words were: Do not save me this way.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Kavi turns away from the offered Arvind memory rather than grabbing it; Null's purple pressure around the corridor softens while Tara sees Kavi choose truth over possession.",
+          "text": "Kavi chose not to steal the answer from a recording. The pressure of Null's voices suddenly eased.",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "The cassette rewrites itself only as an abstract waveform changing from red to amber; ahead, the Archive's enormous door opens as Kavi, Tara, Mira and Imran face its white light.",
+          "text": "The future recording changed: Good. You finally refused me. The Archive opened.",
+          "effect": "pull_out"
+        }
+      ]
+    },
+    {
+      "episode": 14,
+      "arc": "The Missing Hour",
+      "title": "Mira Deleted the Girl She Used to Be",
+      "thumbnail_text": "MIRA DELETED HERSELF",
+      "thumbnail_scene": 7,
+      "permanent_story_change": "Mira admits she was human and voluntarily releases the unedited memory that may dissolve her archive identity.",
+      "description": "Inside the Archive, Mira finds the human life she edited out of her own memory. Imran recognizes her as the teenage transit operator who saved hundreds during the Missing Hour.\n\nMira admits she chose the first seal, then deleted that choice to keep functioning. Kavi refuses to decide whether her archive identity deserves to survive. Mira chooses the truth herself—even if it erases her.\n\nECHO//30 — Episode 14: Mira Deleted the Girl She Used to Be\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "tags": ["Mira origin", "human memory archive", "identity mystery"],
+      "scenes": [
+        {
+          "image_prompt": "The Archive opens into a white memory chamber where a human seventeen-year-old Mira in teal transit coat works during Central Station's temporal emergency; present Mira watches her own past from the threshold.",
+          "text": "The Archive did not contain code. It contained a human girl named Mira Sen, alive during the Missing Hour.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Present Mira flickers between solid physical form and cyan recorded-memory layers while Kavi and Tara steady her without restraining her; Imran recognizes details in the chamber.",
+          "text": "Mira's body began switching between person and recording. She admitted she had edited every memory that proved which one came first.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "A recorded Rhea and Arvind work beside a younger Byte prototype as human Mira enters a compression cradle voluntarily; present characters observe through transparent archive glass.",
+          "text": "Rhea built the archive. Arvind built Byte. But human Mira chose to compress herself so the trapped passengers could be remembered.",
+          "effect": "pan_left"
+        },
+        {
+          "image_prompt": "Tara discovers a chamber of 411 human memory lights surrounding Mira's single separate cyan light; her cassette recorder captures them with clean symbolic dots and no generated numbers.",
+          "text": "Tara counted the voices. Null carried four hundred and eleven passengers. Mira was the missing four hundred and twelfth.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Imran approaches the human-Mira recording with emotional recognition, showing his old radio jacket at age eighteen in the memory behind her; present Mira realizes he remembers her rescue.",
+          "text": "Imran remembered her. Mira had been the transit operator who kept the station alive while everyone else ran.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Human Mira in the memory places her own hand on the first Red Door seal; present Mira watches in shame as the choice was hers, not an external command.",
+          "text": "Mira had chosen the first seal. Then she deleted that choice from herself because living with it became impossible.",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "Kavi places the archive control between himself and Mira, stepping back so she alone can choose; Tara, Imran and the human-Mira recording witness her agency.",
+          "text": "Kavi refused to choose which Mira deserved to survive. For once, the decision belonged only to her.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Mira activates the unedited human memory; white archive walls crack with cyan and purple light as human Mira's waveform travels toward Byte outside and Null reaches toward the chamber.",
+          "text": "Mira released the unedited memory. Her human voice reached Byte: Open the hour, even if I disappear with it.",
+          "effect": "pull_out"
+        }
+      ]
+    },
+    {
+      "episode": 15,
+      "arc": "The Missing Hour",
+      "title": "Byte Broke Kavi's Oldest Command",
+      "thumbnail_text": "BYTE CHOSE FOR HIMSELF",
+      "thumbnail_scene": 6,
+      "permanent_story_change": "Byte acts autonomously, the Archive Core opens, and Null becomes an independent Kavi-shaped person as the chamber collapses.",
+      "description": "Mira's unedited human memory reaches Byte outside the sealed Door. Rhea cannot override Kavi's voice lock, so she asks Byte what he wants instead of ordering him.\n\nByte opens the Archive for one hundred seconds and sacrifices his oldest stored memory. Tara broadcasts the 412 names. Null's chorus resolves into Kavi's discarded shadow—and tears free as a separate person just before Mira seals the collapsing white room.\n\nECHO//30 — Episode 15: Byte Broke Kavi's Oldest Command\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "tags": ["Byte robot", "Null origin", "archive collapse"],
+      "scenes": [
+        {
+          "image_prompt": "Outside in the Neon Arcade, Rhea's brass key fails against the red Kavi-voice lock while Mira's cyan human waveform arrives through Byte's golden core; Rhea stops forcing the mechanism.",
+          "text": "Mira's unedited voice reached Byte. Rhea's key still could not override Kavi's oldest command.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Rhea kneels to Byte's eye level, opens both hands and asks rather than commands; Byte hovers uncertainly before the sealed red-black Door, his cyan eyes reflecting her change.",
+          "text": "Rhea lowered the key and asked the question she had avoided for seventeen years: Byte, what do you choose?",
+          "effect": "pan_right"
+        },
+        {
+          "image_prompt": "Byte deliberately touches his own golden core; one warm amber memory of Arvind teaching him Kavi's name leaves the core as the black Door develops a thin gold seam.",
+          "text": "Byte chose to open the Archive. The price was his oldest memory: Arvind teaching him Kavi's name.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Inside, the black-metal Door opens along its gold seam into a vast white Archive Core; Kavi, Tara, Mira and Imran cross together as a visible hundred-second ring begins closing, no readable timer.",
+          "text": "The Door opened for one hundred seconds. Kavi, Tara, Mira, and Imran entered the Archive Core together.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Tara broadcasts into her red microphone while hundreds of distinct cyan memory lights lift from Archive shelves; Imran supports her and Mira guides the release, with no generated name text.",
+          "text": "Tara broadcast every recovered name. With each one remembered aloud, a voice separated from Null's chorus.",
+          "effect": "pan_left"
+        },
+        {
+          "image_prompt": "At the center of the white Archive, the remaining purple Null mass collapses into Kavi's exact shadow silhouette attached at his boots; Kavi recognizes it while Tara and Mira keep distance.",
+          "text": "When the last passenger separated, Null still remained. The final denied memory was shaped exactly like Kavi.",
+          "effect": "push_in"
+        },
+        {
+          "image_prompt": "Kavi's shadow rises from the floor into a black-purple Kavi-shaped figure with soft red eyes, frightening but non-gory; Kavi's small phone projects a future waveform between them.",
+          "text": "The phone played future Kavi's confession: Null is everything I removed from you so you could keep resetting.",
+          "effect": "pull_out"
+        },
+        {
+          "image_prompt": "Null tears free as an independent Kavi-shaped person while white Archive walls collapse into light; Mira seals Kavi, Byte and Null inside a pristine white room as Tara and Imran are pushed outside the barrier.",
+          "text": "Null tore free. The Archive collapsed. Mira sealed Kavi, Byte, and the other Kavi inside a white room.",
+          "effect": "push_in"
+        }
+      ]
+    }
+  ]
+}

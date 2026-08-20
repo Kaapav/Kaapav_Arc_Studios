@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 14,
+  "episode_id": "namelesshouse-ep014",
+  "output_slug": "namelesshouse-episode014",
+  "title": "Noor Chose a Name That Wasn't Hers | HOUSE OF THE NAMELESS Ep. 14",
+  "description": "Noor considers using her chosen name to free the others despite not knowing her birth name.\n\nHOUSE OF THE NAMELESS — Episode 14\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NOOR SIGNED THE WILL",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Deep Rooms",
+  "permanent_story_change": "A chosen name gains legal power, but opens Noor to the house's control.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The second will waits beneath a pen that accepts only an identity freely claimed.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The second will waits beneath a pen that accepts only an identity freely claimed.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Harrow argues Noor is a nickname and therefore legally meaningless.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harrow argues Noor is a nickname and therefore legally meaningless.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Avi says a name given with permission can be truer than one imposed at birth.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Avi says a name given with permission can be truer than one imposed at birth.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Noor signs as Noor and the house recognizes her decision.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor signs as Noor and the house recognizes her decision.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Doors open for dozens of erased children to enter the upper floors.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Doors open for dozens of erased children to enter the upper floors.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. The same signature gives the house a direct path into Noor's chosen identity.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The same signature gives the house a direct path into Noor's chosen identity.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Her blank nameplate engraves NOOR in spectral light without readable generated lettering in visuals.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Her blank nameplate engraves NOOR in spectral light without readable generated lettering in visuals.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Noor turns toward Leela and speaks with the house's voice.. Location lock: estate signing room surrounded by blank witnesses. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor turns toward Leela and speaks with the house's voice.",
+      "effect": "push_in"
+    }
+  ]
+}

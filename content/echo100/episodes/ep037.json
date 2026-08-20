@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e037",
+  "season": 1,
+  "episode": 37,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "The Architect's Toll: Mira Protocol | ECHO//100 Episode 37",
+  "description": "Kavi faces an impossible ultimatum as the city’s gravity collapses into a lethal, ninety-degree shift. He must choose between liberating Mira or maintaining the false reality protecting the trapped inhabitants. Episode 37 of ECHO//100: ARC. This content is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Gravity shifts violently, slamming the inhabitants against the cold, vertical steel of the city walls.",
+      "caption": "Gravity shifts violently",
+      "image_prompt": "Kavi in his red hoodie and glasses clinging to a vertical wall in a city street, wide angle.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi forces his way toward the core, burdened by the crushing weight of his forgotten duty.",
+      "caption": "Kavi fights gravity",
+      "image_prompt": "Kavi crawling up a wall, Mira's blue holographic coat visible in the distance through a glass window.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Collapsing the city frees Mira, yet every soul inside faces total erasure into the void.",
+      "caption": "The impossible ultimatum",
+      "image_prompt": "Kavi staring at a glowing console, Byte hovering beside him with a concerned cyan face.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Preserving their lives traps them within this lie, forever ignorant of the fake sky above.",
+      "caption": "Trapped in a lie",
+      "image_prompt": "Close up of Kavi looking at the holographic skeletons of citizens frozen in the city streets.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte pulses orange, projecting a data stream that defies the warden’s rigid, programmed physical laws.",
+      "caption": "Byte hacks reality",
+      "image_prompt": "Byte's orange antenna glowing intensely, casting light on the fractured, cracking geometry of the city walls.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi chooses to merge the city with the discarded timeline, forging a space for truth.",
+      "caption": "A third option",
+      "image_prompt": "Byte hovering between Kavi and a swirling, unstable rift in the center of the city square.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He initiates the merge, tearing the fabric of the current world to stitch it into history.",
+      "caption": "Merging the timelines",
+      "image_prompt": "Kavi's hands glowing with blue light as he interfaces with the core, the city landscape warping.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A jagged red doorway expands instantly, swallowing the architecture as the entire city begins to dissolve.",
+      "caption": "The city consumed",
+      "image_prompt": "A massive, terrifying red doorway tearing through the city skyline, swallowing buildings into total darkness.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

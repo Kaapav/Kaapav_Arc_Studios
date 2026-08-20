@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e094",
+  "season": 1,
+  "episode": 94,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "The Pulsing Threshold | ECHO//100 Episode 94",
+  "description": "Kavi confronts a twin who promises a life without his mysterious burdens. Episode 94 of ECHO//100: ARC. This is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The crimson door swings open, revealing a flawless, smiling mirror-image of Kavi standing inside.",
+      "caption": "The door opens",
+      "image_prompt": "Vertical shot, Kavi in red hoodie standing before a glowing red door, a perfect copy of Kavi faces him from within.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The double claims to be the true Kavi who never touched the dead phone.",
+      "caption": "A false reality",
+      "image_prompt": "Kavi looking at his double, Kavi wears a backpack, the double wears identical clothing but looks pristine.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He gestures toward a sterile white world, promising a life free from digital nightmares.",
+      "caption": "The tempting offer",
+      "image_prompt": "The double gestures toward a bright, clean white void seen through the red door frame.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes this perfect timeline is merely a gilded cage designed to enforce ignorance.",
+      "caption": "The trap revealed",
+      "image_prompt": "Kavi staring intensely at his own reflection, realization dawning on his face behind his glasses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The double’s composure cracks, leaking jagged purple static that stains the pristine white floorboards.",
+      "caption": "Mask begins slipping",
+      "image_prompt": "The double's hand flickering with purple glitch energy, the background warping into dark geometric shapes.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the projection, his red eyes burning with the intent to erase memory.",
+      "caption": "Null revealed",
+      "image_prompt": "Null standing in the red doorway, his black-purple glitch form towering over a shocked Kavi.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte shrieks, glowing bright cyan as he lunges desperately to protect Kavi from the void.",
+      "caption": "Byte attacks",
+      "image_prompt": "Byte, the white floating robot with cyan face and orange antenna, flying toward the red doorway.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte passes through the double like smoke, vanishing instantly into the infinite red abyss forever.",
+      "caption": "Byte is lost",
+      "image_prompt": "Kavi reaching out, Byte mid-air dissolving into red light as he crosses the threshold alone.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

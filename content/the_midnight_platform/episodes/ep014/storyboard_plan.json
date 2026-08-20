@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep014",
+  "episode_number": 14,
+  "arc": 2,
+  "title": "The Train Chose Arin",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "The record completes: 317 nights earlier, young Arin stands hypnotized on the track as the Midnight Train approaches.",
+      "dialogue_audio": "Narrator: “The badge did not call the train for Meera.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Meera tackles Arin clear and lands inside the open carriage; the door closes before he can reach her.",
+      "dialogue_audio": "Meera in memory: “Don’t open the door!”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Present Arin confronts the Conductor in the corridor, holding the cracked badge like evidence.",
+      "dialogue_audio": "Arin: “She took my place before I took hers.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "The Conductor’s ivory mask tilts; a human eye behind one slit is wet but controlled.",
+      "dialogue_audio": "Conductor: “The train recognizes sacrifice. It does not understand love.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "In the city, Meera’s school registration, bedroom photos, and messages begin blanking while she watches.",
+      "dialogue_audio": "Meera: “It’s charging me twice.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Tick projects a countdown from the notch in his ear: MEERA / 09 NIGHTS.",
+      "dialogue_audio": "Maya: “When it reaches zero, only we will know she existed.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CITY IS FORGETTING MEERA"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

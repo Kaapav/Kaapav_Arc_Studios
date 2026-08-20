@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep002",
+  "episode_number": 2,
+  "arc": 1,
+  "title": "The Girl Who Forgot Her Name",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Arin enters a carriage lined with thousands of hanging brass name tags; each tag whispers in a different voice.",
+      "dialogue_audio": "Conductor, over speaker: “Door One collects what passengers stop defending.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "A rust-red blur tackles Arin away from a tag reaching for his chest; reveal Saira with silver compass necklace.",
+      "dialogue_audio": "Saira: “Say your name. Now.” Arin: “Arin Rao.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Arin repeats his name while letters vanish from his blank ticket; Saira presses her compass to her heart.",
+      "dialogue_audio": "Saira: “Again. Before the carriage eats it.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "A tag marked only by editorial typography SAIRA SEN / 1998 swings behind her; Arin realizes her era.",
+      "dialogue_audio": "Arin: “You’ve been here since 1998?” Saira: “It’s still 1998.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "The carriage lights fail in sequence. A child-sized silhouette with cracked luminous hands watches through the forest of tags.",
+      "dialogue_audio": "Child whisper: “He brought me another name.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Arin and Saira slam the next door shut; the brass tag in Arin’s fist now carries Meera’s fingerprint, not text.",
+      "dialogue_audio": "Saira: “That was Passenger Zero.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "SHE HAS BEEN SIXTEEN FOR 28 YEARS"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

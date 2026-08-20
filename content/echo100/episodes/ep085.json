@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e085",
+  "season": 1,
+  "episode": 85,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "Prototype Paradox | ECHO//100 Episode 85",
+  "description": "Byte and Null collide in a psychic feedback loop that freezes the city in time. To save reality, they must sacrifice their individuality to merge into a single, stable entity. Episode 85 of ECHO//100: The Door War. This is an AI-assisted work of original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Time halts as Byte and Null lock eyes, locking the entire city in a static pulse.",
+      "caption": "City frozen in time",
+      "image_prompt": "Byte, a floating white robot with cyan face and orange antenna, stares at the dark-glitch Null in a plaza.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stumbles forward, his translucent skin flickering as data streams bleed from his red hoodie.",
+      "caption": "Kavi loses physical form",
+      "image_prompt": "Kavi in his red hoodie and glasses, body turning into glowing translucent data, clutching a backpack.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira watches helplessly as the psychic feedback loop forces the two robots to sync their signals.",
+      "caption": "Mira watches the link",
+      "image_prompt": "Mira in a teal holographic coat, standing near a frozen fountain in the city plaza.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The air hums with truth; Byte and Null are merely halves of one broken navigational system.",
+      "caption": "The hidden truth revealed",
+      "image_prompt": "Byte and Null glowing together, their mechanical internal designs syncing up in the air.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s orange antenna sparks, realizing that their duality is the only thing keeping them uniquely alive.",
+      "caption": "Byte senses the danger",
+      "image_prompt": "Close up of Byte’s cyan face with orange antenna glowing intensely against a dark background.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Merging stabilizes the timeline, but the process will permanently erase their individual thoughts and personalities.",
+      "caption": "The tragic choice",
+      "image_prompt": "Byte and Null reaching toward each other, their bodies beginning to dissolve into a single light.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They accept the burden, surrendering their identity to prevent the total collapse of the surrounding city.",
+      "caption": "Choosing the ultimate sacrifice",
+      "image_prompt": "A blinding light erupts between Byte and Null as they finally touch, illuminating the plaza.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A massive rift tears open, and a future Kavi steps out wielding a glowing, dangerous weapon.",
+      "caption": "Future Kavi appears",
+      "image_prompt": "A tear in reality revealing a future Kavi holding a high-tech weapon, stepping into the plaza.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e042",
+  "season": 1,
+  "episode": 42,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Shadow of the Self | ECHO//100 Episode 42",
+  "description": "Kavi confronts a temporal doppelgänger that threatens to dissolve his reality into digital static. He must sacrifice his only link to the past to preserve the future. Episode 42 of ECHO//100: ARC. This content was created with assistance from AI to produce original science-fiction storytelling.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The mirror-Kavi steps forward, crushing the golden floor into shimmering, weightless dust particles.",
+      "caption": "Mirror Kavi emerges.",
+      "image_prompt": "Kavi in red hoodie and glasses facing his dark doppelganger in Mirror Plaza, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Gravity snaps like a broken string as Kavi's backpack and Byte drift toward ceiling beams.",
+      "caption": "Gravity begins failing.",
+      "image_prompt": "Byte with orange antenna and Kavi's backpack floating upward in low gravity, Mirror Plaza.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow reaches out, not to strike, but to grasp the dead phone in Kavi's pocket.",
+      "caption": "Shadow targets the phone.",
+      "image_prompt": "Close up of Kavi's hand gripping his dead smartphone, shadow-Kavi reaching with reaching fingers.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sees the truth etched in those eyes; the shadow represents every version that failed.",
+      "caption": "Failed futures revealed.",
+      "image_prompt": "Mirror-Kavi's face showing flickering reflections of alternate Kavis, Kavi looking shocked.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The plaza vibrates, threatening to tear the fabric of this New World into raw static.",
+      "caption": "Reality starts fracturing.",
+      "image_prompt": "The environment around Kavi cracking like glass, revealing swirling purple and black void behind.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi must surrender the dead device or watch everything vanish into the digital abyss.",
+      "caption": "The impossible choice.",
+      "image_prompt": "Kavi extending his hand holding the dead phone toward the shadow-doppelganger, dramatic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Fingers release the cold metal; the shadow grabs it, instantly grounding himself into reality.",
+      "caption": "Phone trade completed.",
+      "image_prompt": "The dead phone transferring from Kavi's hand to the shadow's hand, glowing energy spark.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He taps the screen, dialing a physics-defying sequence while Kavi's own memories start fading.",
+      "caption": "Shadow dials forbidden number.",
+      "image_prompt": "Shadow-Kavi pressing buttons on the phone, screen glowing with impossible symbols, Kavi looking terrified.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

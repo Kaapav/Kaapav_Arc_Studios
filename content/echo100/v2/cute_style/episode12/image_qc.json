@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "series": "ECHO//30",
+  "episode": 12,
+  "status": "accepted",
+  "accepted_frames": [
+    "story_frames/shot_01.png",
+    "story_frames/shot_02.png",
+    "story_frames/shot_03.png",
+    "story_frames/shot_04.png",
+    "story_frames/shot_05.png",
+    "story_frames/shot_06.png",
+    "story_frames/shot_07.png",
+    "story_frames/shot_08.png"
+  ],
+  "new_locked_reference": "../characters/episode12_memory_donors_turnaround_v1.png",
+  "qc_checks": {
+    "frame_count": "pass",
+    "portrait_composition": "pass",
+    "lead_identity_consistency": "pass",
+    "supporting_identity_consistency": "pass",
+    "costume_and_prop_consistency": "pass",
+    "scene_continuity": "pass",
+    "no_duplicate_leads": "pass",
+    "no_generated_text_or_watermark": "pass",
+    "narrative_action_per_frame": "pass"
+  },
+  "rejected_generations": [
+    {
+      "source": "exec-5699c3ea-47e6-40b6-8fc3-7a3faa1f4028.png",
+      "intended_shot": 2,
+      "reason": "Duplicated Tara and omitted adult Imran."
+    },
+    {
+      "source": "exec-e3c3e587-ac6d-4480-829e-de4e07b4f13c.png",
+      "intended_shot": 3,
+      "reason": "Duplicated Tara-like identities and removed Kavi's locked design."
+    },
+    {
+      "source": "exec-394033e5-700b-49eb-bdf1-4c8ebf883f87.png",
+      "intended_shot": 4,
+      "reason": "Duplicated Tara in the public-warning group."
+    },
+    {
+      "source": "exec-c5f2adb6-e7fe-48e2-a73f-a8b25434f9da.png",
+      "intended_shot": 8,
+      "reason": "Physical Imran inherited Arvind's maroon sweater and glasses."
+    }
+  ],
+  "render_gate": "images_accepted_video_not_started"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e084",
+  "season": 1,
+  "episode": 84,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "The Glitch Protocol | ECHO//100 Episode 84",
+  "description": "Kavi’s physical form dissolves as the red shard activates a lethal timeline reset. Mira discovers that Null is not merely a guardian, but a discarded prototype of Byte. Episode 84 of ECHO//100: The Door War. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The red shard pulses, turning Kavi’s skin into shimmering, translucent strands of corrupted data.",
+      "caption": "Kavi dissolves into light",
+      "image_prompt": "Kavi in his red hoodie and glasses, his hands turning into digital pixels inside the Clock Tower.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira slams her palms against the console, activating the archive’s desperate, high-frequency defensive protocols.",
+      "caption": "Mira initiates security",
+      "image_prompt": "Mira in her teal holographic coat typing rapidly on a glowing floating blue interface.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Blue light floods the chamber, but the shard’s code overrides every security layer Mira deploys.",
+      "caption": "Security protocols fail",
+      "image_prompt": "Bright blue holographic grids failing and turning red around the Clock Tower walls.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shard is a reset switch designed to erase every version of Kavi from existence.",
+      "caption": "The reset switch",
+      "image_prompt": "A close-up of the glowing red shard floating above Kavi’s shaking hand.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s own shadow begins to disconnect, drifting away as his molecular structure loses its anchor.",
+      "caption": "Losing his anchor",
+      "image_prompt": "Kavi’s backpack falling to the floor as his body turns into transparent light particles.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null leaps forward, shielding Kavi with a barrier of static, flickering violently under the pressure.",
+      "caption": "Null intervenes",
+      "image_prompt": "Null with black-purple glitch effects and red eyes standing between Kavi and the shard.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The energy overload forces Null’s outer shell to crack, revealing a complex mechanical interior underneath.",
+      "caption": "The shell shatters",
+      "image_prompt": "Cracks spreading across Null’s dark armor, emitting bright white light from within.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Behind the broken armor, a familiar orange antenna and cyan faceplate hum with Byte’s signature.",
+      "caption": "Byte's prototype revealed",
+      "image_prompt": "Null’s shattered face revealing the distinct mechanical features of Byte’s original design.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

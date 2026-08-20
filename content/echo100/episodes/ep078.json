@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e078",
+  "season": 1,
+  "episode": 78,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "The Call of the Loop | ECHO//100 Episode 78",
+  "description": "Kavi receives a cryptic warning from his future self that threatens the stability of his reality. He must choose between following his predecessor's orders or trusting his instincts before the past catches up to him. Episode 78 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The dead phone vibrates, emitting a signal that defies the laws of this timeline.",
+      "caption": "The phone glows red",
+      "image_prompt": "Kavi in his red hoodie holding a glowing black phone inside the Glass Bedroom.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi answers the call, hearing a familiar voice whisper to destroy the doorway instead.",
+      "caption": "Voice from the future",
+      "image_prompt": "Close up of Kavi's face, his glasses reflecting the glowing screen of the phone.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Shattering the doorway risks total erasure, leaving Kavi adrift within the cold, empty static.",
+      "caption": "The doorway flickers",
+      "image_prompt": "A shimmering, translucent doorway standing in the center of the dark Glass Bedroom.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira materializes, her teal coat shimmering while she scans energy flowing from the frame.",
+      "caption": "Mira appears",
+      "image_prompt": "Mira, a holographic figure in a teal coat, looking intently at the glass doorway.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, his orange antenna twitching as he maps the hidden machine's core.",
+      "caption": "Byte scans doorway",
+      "image_prompt": "Byte, a white floating robot with a cyan face, scanning the base of the doorway.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira warns Kavi that the structure acts as the system's power source, fueling the loop.",
+      "caption": "The power source revealed",
+      "image_prompt": "Mira pointing at the glowing core inside the base of the shimmering doorway structure.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, the air rips open, and a figure emerges wearing a familiar red hoodie.",
+      "caption": "A double emerges",
+      "image_prompt": "Original Kavi stepping out of the phone, his silhouette warping the room's light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Original Kavi lunges forward, eyes cold, intent on killing Kavi to protect the door.",
+      "caption": "The final confrontation",
+      "image_prompt": "Original Kavi tackling current Kavi, both figures struggling near the glowing glass frame.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

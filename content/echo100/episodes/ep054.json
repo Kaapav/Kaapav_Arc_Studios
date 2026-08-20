@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e054",
+  "season": 1,
+  "episode": 54,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "Memory Fragments | ECHO//100 Episode 54",
+  "description": "Kavi discovers his life is a loop, forcing him to confront the architect of his false reality. Mira watches as the boundary between digital code and humanity dissolves forever. Episode 54 of ECHO//100: Byte's Lie. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi watches as fingertips dissolve into pixelated dust while the red door pulses rhythmically.",
+      "caption": "Hand turning into code",
+      "image_prompt": "Kavi in his red hoodie and glasses reaching toward a massive glowing red door in the sky, his right hand disintegrating into floating digital particles.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira grips Kavi’s shoulder, her teal holographic coat shimmering against the dark, static sky.",
+      "caption": "Mira pulls Kavi back",
+      "image_prompt": "Mira, wearing a glowing teal holographic coat, pulling Kavi away from the red door while Byte hovers nearby with a cyan face.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The door surface ripples, projecting a childhood home where a family celebrates without Kavi.",
+      "caption": "Empty projections on door",
+      "image_prompt": "A close-up of the red door surface showing a warm living room scene with people laughing, but the space where Kavi should be is empty.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi searches every frame, yet remains absent from the entirety of this fabricated past.",
+      "caption": "Kavi searching for self",
+      "image_prompt": "Kavi staring intensely at the door, his reflection missing from the projected memories playing on the surface.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s orange antenna flickers while the drone reveals Kavi was merely a witness, not lead.",
+      "caption": "Byte confesses the truth",
+      "image_prompt": "Byte floating silently, his cyan face glowing softly as he looks at Kavi, the red door reflecting in his mechanical eyes.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null descends suddenly, barricading the red door against Kavi’s desperate, reaching hands.",
+      "caption": "Null blocks the door",
+      "image_prompt": "The shadowy, glitching figure of Null standing firmly in front of the red door, red eyes glowing with defensive intensity.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the entire history is a loop, a cage disguised as a life.",
+      "caption": "Kavi realizes the lie",
+      "image_prompt": "Kavi standing alone, looking at his hands, realizing his backpack and hoodie are just visual assets of a pre-programmed life.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "From behind the red door, a voice whispers a name Kavi has never heard before.",
+      "caption": "The mysterious voice calls",
+      "image_prompt": "A tight close-up on Kavi’s face, wide-eyed and terrified, as the red door begins to swing open toward a blinding white light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

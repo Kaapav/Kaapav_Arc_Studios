@@ -1,0 +1,874 @@
+{
+  "schema_version": 1,
+  "series": {
+    "series_id": "echo30",
+    "series_title": "ECHO//30",
+    "destination_root": "content/echo100/v2/cute_style",
+    "directory_pattern": "episode{episode:02d}",
+    "global_image_style": "Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.",
+    "base_tags": [
+      "KAAPAV ARC Studios",
+      "animated series",
+      "science fiction mystery",
+      "original animation",
+      "shorts"
+    ]
+  },
+  "episodes": [
+    {
+      "episode": 16,
+      "title": "The Other Kavi",
+      "description": "Locked inside the collapsing archive, Kavi faces the part of himself created to carry every erased memory.\n\nECHO//30 — Episode 16\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE OTHER KAVI",
+      "thumbnail_scene": 8,
+      "arc": "The Missing Hour",
+      "permanent_story_change": "Null becomes an independent person and Byte chooses Kavi over his programming.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Null tears free from Kavi's purple reflection and takes his exact shape.",
+          "image_prompt": "SHOT 1, cinematic story composition in the white archive room. Visually depict this exact causal beat: Null tears free from Kavi's purple reflection and takes his exact shape. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the white archive room, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the white archive room. Visually depict this exact causal beat: Inside the white archive room, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Locked inside the collapsing archive, Kavi faces the part of himself created to carry every erased memory.",
+          "image_prompt": "SHOT 3, cinematic story composition in the white archive room. Visually depict this exact causal beat: Locked inside the collapsing archive, Kavi faces the part of himself created to carry every erased memory. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the white archive room. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Null is Kavi's discarded fear and guilt, given a body by repeated timeline resets.",
+          "image_prompt": "SHOT 5, cinematic story composition in the white archive room. Visually depict this exact causal beat: Null is Kavi's discarded fear and guilt, given a body by repeated timeline resets. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the white archive room. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Byte breaks his oldest command and protects Kavi instead of protecting the loop.",
+          "image_prompt": "SHOT 7, cinematic story composition in the white archive room. Visually depict this exact causal beat: Byte breaks his oldest command and protects Kavi instead of protecting the loop. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Mira seals Kavi, Byte, and Null inside a white room before the archive collapses.",
+          "image_prompt": "SHOT 8, cinematic story composition in the white archive room. Visually depict this exact causal beat: Mira seals Kavi, Byte, and Null inside a white room before the archive collapses. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 17,
+      "title": "Mira's First Lie",
+      "description": "Mira confesses why she preserved the loop while the Missing Hour begins consuming the present.\n\nECHO//30 — Episode 17\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "MIRA'S FIRST LIE",
+      "thumbnail_scene": 8,
+      "arc": "The Missing Hour",
+      "permanent_story_change": "The team learns that future Kavi created the reset protocol.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "The white room fills with recordings of Mira resetting Kavi hundreds of times.",
+          "image_prompt": "SHOT 1, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: The white room fills with recordings of Mira resetting Kavi hundreds of times. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside Mira's memory chamber, Mira pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Inside Mira's memory chamber, Mira pursues an immediate answer before the new danger closes in. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Mira confesses why she preserved the loop while the Missing Hour begins consuming the present.",
+          "image_prompt": "SHOT 3, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira confesses why she preserved the loop while the Missing Hour begins consuming the present. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Mira to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: A concrete clue forces Mira to question the explanation the group has trusted until now. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Mira preserved the resets because releasing the Missing Hour all at once once destroyed the city.",
+          "image_prompt": "SHOT 5, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira preserved the resets because releasing the Missing Hour all at once once destroyed the city. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Mira is not the architect of the loop; future Kavi ordered every reset.",
+          "image_prompt": "SHOT 7, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira is not the architect of the loop; future Kavi ordered every reset. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "A recording shows future Kavi placing a sealed memory inside Byte.",
+          "image_prompt": "SHOT 8, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: A recording shows future Kavi placing a sealed memory inside Byte. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 18,
+      "title": "The Memory Inside Byte",
+      "description": "Kavi enters Byte's sealed memory to recover the truth Mira's AI shell cannot remember.\n\nECHO//30 — Episode 18\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE MEMORY INSIDE BYTE",
+      "thumbnail_scene": 8,
+      "arc": "The Missing Hour",
+      "permanent_story_change": "Mira's human origin and Byte's role in creating her are reconciled.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Byte's shell opens and projects a frightened human girl with Mira's face.",
+          "image_prompt": "SHOT 1, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Byte's shell opens and projects a frightened human girl with Mira's face. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside Byte's sealed memory, Byte pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Inside Byte's sealed memory, Byte pursues an immediate answer before the new danger closes in. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi enters Byte's sealed memory to recover the truth Mira's AI shell cannot remember.",
+          "image_prompt": "SHOT 3, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Kavi enters Byte's sealed memory to recover the truth Mira's AI shell cannot remember. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Byte to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: A concrete clue forces Byte to question the explanation the group has trusted until now. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Byte built Mira's archive identity around the final memory of a real girl trapped in the Missing Hour.",
+          "image_prompt": "SHOT 5, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Byte built Mira's archive identity around the final memory of a real girl trapped in the Missing Hour. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Deleting the archive would free the city but erase every surviving trace of human Mira.",
+          "image_prompt": "SHOT 7, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Deleting the archive would free the city but erase every surviving trace of human Mira. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Human Mira asks Kavi to release the hour even if she disappears with it.",
+          "image_prompt": "SHOT 8, cinematic story composition in Byte's sealed memory. Visually depict this exact causal beat: Human Mira asks Kavi to release the hour even if she disappears with it. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 19,
+      "title": "Thirteen O'Clock",
+      "description": "Kavi must carry the archive through the Red Door before the Missing Hour overwrites reality.\n\nECHO//30 — Episode 19\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THIRTEEN O'CLOCK",
+      "thumbnail_scene": 8,
+      "arc": "The Missing Hour",
+      "permanent_story_change": "Kavi and Null reunite, allowing Kavi to remember every failed loop.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Every clock grows a thirteenth number as the city freezes mid-breath.",
+          "image_prompt": "SHOT 1, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Every clock grows a thirteenth number as the city freezes mid-breath. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the frozen clock tower, Null pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Inside the frozen clock tower, Null pursues an immediate answer before the new danger closes in. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi must carry the archive through the Red Door before the Missing Hour overwrites reality.",
+          "image_prompt": "SHOT 3, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Kavi must carry the archive through the Red Door before the Missing Hour overwrites reality. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Null to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: A concrete clue forces Null to question the explanation the group has trusted until now. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Only someone containing both remembered and erased history can cross the unstable threshold.",
+          "image_prompt": "SHOT 5, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Only someone containing both remembered and erased history can cross the unstable threshold. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Null makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Instead of hiding the discovery, Null makes a choice that the others can challenge and understand. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Null willingly merges back into Kavi, surrendering his new body so Kavi can cross.",
+          "image_prompt": "SHOT 7, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Null willingly merges back into Kavi, surrendering his new body so Kavi can cross. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi reaches the city clock and finds a switch labelled with his own birth date.",
+          "image_prompt": "SHOT 8, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Kavi reaches the city clock and finds a switch labelled with his own birth date. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 20,
+      "title": "Everyone Remembers",
+      "description": "The Missing Hour returns, forcing every citizen to remember the lives the loop erased.\n\nECHO//30 — Episode 20\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "EVERYONE REMEMBERS",
+      "thumbnail_scene": 8,
+      "arc": "The Missing Hour",
+      "permanent_story_change": "The Missing Hour becomes part of public history and the reset cycle can no longer remain secret.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Kavi throws the switch and one hundred stolen years strike the city at once.",
+          "image_prompt": "SHOT 1, cinematic story composition in the restored city square. Visually depict this exact causal beat: Kavi throws the switch and one hundred stolen years strike the city at once. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the restored city square, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the restored city square. Visually depict this exact causal beat: Inside the restored city square, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "The Missing Hour returns, forcing every citizen to remember the lives the loop erased.",
+          "image_prompt": "SHOT 3, cinematic story composition in the restored city square. Visually depict this exact causal beat: The Missing Hour returns, forcing every citizen to remember the lives the loop erased. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the restored city square. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The Red Door was a filter created to ration unbearable memories, not a prison.",
+          "image_prompt": "SHOT 5, cinematic story composition in the restored city square. Visually depict this exact causal beat: The Red Door was a filter created to ration unbearable memories, not a prison. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the restored city square. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "The city survives because its people share the memories instead of leaving Kavi to carry them alone.",
+          "image_prompt": "SHOT 7, cinematic story composition in the restored city square. Visually depict this exact causal beat: The city survives because its people share the memories instead of leaving Kavi to carry them alone. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "All the dead phones in the city ring with different versions of Kavi's voice.",
+          "image_prompt": "SHOT 8, cinematic story composition in the restored city square. Visually depict this exact causal beat: All the dead phones in the city ring with different versions of Kavi's voice. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 21,
+      "title": "The Hundred Phones",
+      "description": "Kavi must identify the original transmission while false futures turn the city against itself.\n\nECHO//30 — Episode 21\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE HUNDRED PHONES",
+      "thumbnail_scene": 8,
+      "arc": "The Architect's Lie",
+      "permanent_story_change": "Kavi learns that the warning itself causes the loop.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "One hundred dead phones predict one hundred different disasters before sunrise.",
+          "image_prompt": "SHOT 1, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: One hundred dead phones predict one hundred different disasters before sunrise. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the phone-filled city square, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: Inside the phone-filled city square, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi must identify the original transmission while false futures turn the city against itself.",
+          "image_prompt": "SHOT 3, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: Kavi must identify the original transmission while false futures turn the city against itself. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The phones do not predict futures; every warning creates the future it describes.",
+          "image_prompt": "SHOT 5, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: The phones do not predict futures; every warning creates the future it describes. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "The first authentic message came from the current Kavi, not an unknown future version.",
+          "image_prompt": "SHOT 7, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: The first authentic message came from the current Kavi, not an unknown future version. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Byte refuses to play the rest of the message and locks his own memory.",
+          "image_prompt": "SHOT 8, cinematic story composition in the phone-filled city square. Visually depict this exact causal beat: Byte refuses to play the rest of the message and locks his own memory. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 22,
+      "title": "Byte Is the Lock",
+      "description": "Byte reveals the purpose future Kavi buried inside him while reality begins folding around the Red Door.\n\nECHO//30 — Episode 22\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "BYTE IS THE LOCK",
+      "thumbnail_scene": 8,
+      "arc": "The Architect's Lie",
+      "permanent_story_change": "Byte's true purpose and the cost of ending the loop are revealed.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Golden machinery pushes through Byte's cracked white shell and stops every phone mid-ring.",
+          "image_prompt": "SHOT 1, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Golden machinery pushes through Byte's cracked white shell and stops every phone mid-ring. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the Red Door chamber, Byte pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Inside the Red Door chamber, Byte pursues an immediate answer before the new danger closes in. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Byte reveals the purpose future Kavi buried inside him while reality begins folding around the Red Door.",
+          "image_prompt": "SHOT 3, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Byte reveals the purpose future Kavi buried inside him while reality begins folding around the Red Door. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Byte to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: A concrete clue forces Byte to question the explanation the group has trusted until now. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Byte is the living lock containing the singularity produced by all discarded timelines.",
+          "image_prompt": "SHOT 5, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Byte is the living lock containing the singularity produced by all discarded timelines. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Opening the lock can end the loop, but Byte will cease to exist as Kavi knows him.",
+          "image_prompt": "SHOT 7, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Opening the lock can end the loop, but Byte will cease to exist as Kavi knows him. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Null speaks through Kavi and calls Byte his younger brother.",
+          "image_prompt": "SHOT 8, cinematic story composition in the Red Door chamber. Visually depict this exact causal beat: Null speaks through Kavi and calls Byte his younger brother. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 23,
+      "title": "Prototype Null",
+      "description": "Kavi reconstructs the first failed guardian and learns why it became the monster hunting him.\n\nECHO//30 — Episode 23\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "PROTOTYPE NULL",
+      "thumbnail_scene": 8,
+      "arc": "The Architect's Lie",
+      "permanent_story_change": "Null becomes an ally and the original function of both guardians is known.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Null's shadow splits open to reveal machinery identical to Byte's golden core.",
+          "image_prompt": "SHOT 1, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Null's shadow splits open to reveal machinery identical to Byte's golden core. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the prototype laboratory, Null pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Inside the prototype laboratory, Null pursues an immediate answer before the new danger closes in. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi reconstructs the first failed guardian and learns why it became the monster hunting him.",
+          "image_prompt": "SHOT 3, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Kavi reconstructs the first failed guardian and learns why it became the monster hunting him. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Null to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: A concrete clue forces Null to question the explanation the group has trusted until now. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Null was the first guardian prototype, built to absorb erased timelines until the burden corrupted him.",
+          "image_prompt": "SHOT 5, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Null was the first guardian prototype, built to absorb erased timelines until the burden corrupted him. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Null makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Instead of hiding the discovery, Null makes a choice that the others can challenge and understand. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Null hunted Kavi to return the memories, not to destroy him.",
+          "image_prompt": "SHOT 7, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Null hunted Kavi to return the memories, not to destroy him. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Null opens the oldest memory and reveals the adult architect: future Kavi.",
+          "image_prompt": "SHOT 8, cinematic story composition in the prototype laboratory. Visually depict this exact causal beat: Null opens the oldest memory and reveals the adult architect: future Kavi. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 24,
+      "title": "The Architect",
+      "description": "Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all.\n\nECHO//30 — Episode 24\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE ARCHITECT",
+      "thumbnail_scene": 8,
+      "arc": "The Architect's Lie",
+      "permanent_story_change": "The architect relinquishes control of the loop to present Kavi.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Future Kavi walks out of Byte's memory carrying the blueprint for the first Red Door.",
+          "image_prompt": "SHOT 1, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Future Kavi walks out of Byte's memory carrying the blueprint for the first Red Door. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the first Red Door laboratory, Future Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Inside the first Red Door laboratory, Future Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all.",
+          "image_prompt": "SHOT 3, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Future Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: A concrete clue forces Future Kavi to question the explanation the group has trusted until now. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Future Kavi built the loop after one failed attempt to save everyone erased the entire city.",
+          "image_prompt": "SHOT 5, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Future Kavi built the loop after one failed attempt to save everyone erased the entire city. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Future Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Instead of hiding the discovery, Future Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "He no longer wants to preserve the loop; he has been waiting for a Kavi willing to accept loss.",
+          "image_prompt": "SHOT 7, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: He no longer wants to preserve the loop; he has been waiting for a Kavi willing to accept loss. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "He gives Kavi a key that can open the doorway to Episode One.",
+          "image_prompt": "SHOT 8, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: He gives Kavi a key that can open the doorway to Episode One. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 25,
+      "title": "The First Kavi",
+      "description": "Kavi meets the untouched original whose ordinary life was sacrificed to create every later timeline.\n\nECHO//30 — Episode 25\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE FIRST KAVI",
+      "thumbnail_scene": 8,
+      "arc": "The Architect's Lie",
+      "permanent_story_change": "No Kavi is treated as a disposable copy, removing the loop's central justification.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "The key reveals a childhood bedroom containing a Kavi who never received the phone.",
+          "image_prompt": "SHOT 1, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: The key reveals a childhood bedroom containing a Kavi who never received the phone. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the glass childhood bedroom, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: Inside the glass childhood bedroom, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi meets the untouched original whose ordinary life was sacrificed to create every later timeline.",
+          "image_prompt": "SHOT 3, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: Kavi meets the untouched original whose ordinary life was sacrificed to create every later timeline. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Every version of Kavi is real; the door copied choices, not people.",
+          "image_prompt": "SHOT 5, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: Every version of Kavi is real; the door copied choices, not people. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "The untouched Kavi refuses to replace the others and gives up his claim to the single surviving life.",
+          "image_prompt": "SHOT 7, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: The untouched Kavi refuses to replace the others and gives up his claim to the single surviving life. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "The bedroom walls crack open as hundreds of discarded timelines arrive to claim the exit.",
+          "image_prompt": "SHOT 8, cinematic story composition in the glass childhood bedroom. Visually depict this exact causal beat: The bedroom walls crack open as hundreds of discarded timelines arrive to claim the exit. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 26,
+      "title": "The Door War",
+      "description": "Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte.\n\nECHO//30 — Episode 26\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE DOOR WAR",
+      "thumbnail_scene": 8,
+      "arc": "The Final Transmission",
+      "permanent_story_change": "The surviving timelines stop competing and share one collective history.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Hundreds of Red Doors open across the sky and every surviving Kavi steps through.",
+          "image_prompt": "SHOT 1, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Hundreds of Red Doors open across the sky and every surviving Kavi steps through. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the collapsing doorway nexus, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Inside the collapsing doorway nexus, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte.",
+          "image_prompt": "SHOT 3, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The doors remain stable only while different Kavis fight for one preferred reality.",
+          "image_prompt": "SHOT 5, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: The doors remain stable only while different Kavis fight for one preferred reality. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Kavi refuses to choose a winner and connects every dead phone into one shared memory network.",
+          "image_prompt": "SHOT 7, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Kavi refuses to choose a winner and connects every dead phone into one shared memory network. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "The network points to 2:17 AM on the night Episode One began.",
+          "image_prompt": "SHOT 8, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: The network points to 2:17 AM on the night Episode One began. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 27,
+      "title": "Back to 2:17",
+      "description": "The team reaches the origin but discovers they are ghosts who cannot physically stop the first message.\n\nECHO//30 — Episode 27\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "BACK TO 2:17",
+      "thumbnail_scene": 8,
+      "arc": "The Final Transmission",
+      "permanent_story_change": "The team reaches the origin and accepts that simple prevention would destroy the people they saved.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Kavi returns to the arcade seconds before his younger self touches the dead phone.",
+          "image_prompt": "SHOT 1, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Kavi returns to the arcade seconds before his younger self touches the dead phone. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the Episode One arcade, Mira pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Inside the Episode One arcade, Mira pursues an immediate answer before the new danger closes in. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "The team reaches the origin but discovers they are ghosts who cannot physically stop the first message.",
+          "image_prompt": "SHOT 3, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: The team reaches the origin but discovers they are ghosts who cannot physically stop the first message. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Mira to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: A concrete clue forces Mira to question the explanation the group has trusted until now. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "Mira can transmit through the phone because her archive exists outside the rewritten timeline.",
+          "image_prompt": "SHOT 5, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Mira can transmit through the phone because her archive exists outside the rewritten timeline. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Stopping the call would erase Byte, Mira, and every person restored from the Missing Hour.",
+          "image_prompt": "SHOT 7, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Stopping the call would erase Byte, Mira, and every person restored from the Missing Hour. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Young Kavi answers, and present Kavi hears his own opening warning leave his mouth.",
+          "image_prompt": "SHOT 8, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Young Kavi answers, and present Kavi hears his own opening warning leave his mouth. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 28,
+      "title": "Change One Word",
+      "description": "Kavi searches for a message that preserves his friends without recreating the Red Door cycle.\n\nECHO//30 — Episode 28\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "CHANGE ONE WORD",
+      "thumbnail_scene": 8,
+      "arc": "The Final Transmission",
+      "permanent_story_change": "The causal message is rewritten without erasing the restored history.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "The original warning repeats every ten seconds, rebuilding the same doomed future each time.",
+          "image_prompt": "SHOT 1, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: The original warning repeats every ten seconds, rebuilding the same doomed future each time. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the repeating arcade moment, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: Inside the repeating arcade moment, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi searches for a message that preserves his friends without recreating the Red Door cycle.",
+          "image_prompt": "SHOT 3, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: Kavi searches for a message that preserves his friends without recreating the Red Door cycle. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The loop is anchored by the command to fear Byte, not by the phone itself.",
+          "image_prompt": "SHOT 5, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: The loop is anchored by the command to fear Byte, not by the phone itself. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Kavi changes 'don't trust Byte' to 'trust Byte when he asks you to let go.'",
+          "image_prompt": "SHOT 7, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: Kavi changes 'don't trust Byte' to 'trust Byte when he asks you to let go.' Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "The altered message reaches young Kavi, and Byte's golden lock begins opening.",
+          "image_prompt": "SHOT 8, cinematic story composition in the repeating arcade moment. Visually depict this exact causal beat: The altered message reaches young Kavi, and Byte's golden lock begins opening. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 29,
+      "title": "The Last Door",
+      "description": "Byte, Null, and Mira spend their final stored power to merge the timelines into one lived history.\n\nECHO//30 — Episode 29\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "THE LAST DOOR",
+      "thumbnail_scene": 8,
+      "arc": "The Final Transmission",
+      "permanent_story_change": "All timelines converge, the singularity is neutralized, and the doorway system ends.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Byte opens his core while every Red Door collapses toward the singularity inside him.",
+          "image_prompt": "SHOT 1, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Byte opens his core while every Red Door collapses toward the singularity inside him. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside inside the final Red Door, Byte pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Inside inside the final Red Door, Byte pursues an immediate answer before the new danger closes in. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Byte, Null, and Mira spend their final stored power to merge the timelines into one lived history.",
+          "image_prompt": "SHOT 3, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Byte, Null, and Mira spend their final stored power to merge the timelines into one lived history. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Byte to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: A concrete clue forces Byte to question the explanation the group has trusted until now. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The singularity can become memory instead of destruction if the city willingly remembers every loss.",
+          "image_prompt": "SHOT 5, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: The singularity can become memory instead of destruction if the city willingly remembers every loss. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Instead of hiding the discovery, Byte makes a choice that the others can challenge and understand. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "Byte survives by surrendering the lock, but he loses all memories of Kavi.",
+          "image_prompt": "SHOT 7, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Byte survives by surrendering the lock, but he loses all memories of Kavi. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "Kavi sends the final transmission and the last Red Door closes on his hand.",
+          "image_prompt": "SHOT 8, cinematic story composition in inside the final Red Door. Visually depict this exact causal beat: Kavi sends the final transmission and the last Red Door closes on his hand. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    },
+    {
+      "episode": 30,
+      "title": "2:17 Passes in Silence",
+      "description": "In the restored linear timeline, Kavi searches for proof that Byte, Mira, and the Missing Hour were real.\n\nECHO//30 — Episode 30\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+      "thumbnail_text": "2:17 PASSES IN SILENCE",
+      "thumbnail_scene": 8,
+      "arc": "The Final Transmission",
+      "permanent_story_change": "Kavi begins a linear life, the Red Door is gone, and the causal loop is permanently closed.",
+      "tags": [
+        "ECHO//30",
+        "animated sci fi",
+        "time mystery",
+        "cute 3D animation"
+      ],
+      "scenes": [
+        {
+          "text": "Kavi wakes in an ordinary bedroom with no dead phone and no Red Door.",
+          "image_prompt": "SHOT 1, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: Kavi wakes in an ordinary bedroom with no dead phone and no Red Door. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Inside the restored city and Kavi's bedroom, Kavi pursues an immediate answer before the new danger closes in.",
+          "image_prompt": "SHOT 2, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: Inside the restored city and Kavi's bedroom, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "In the restored linear timeline, Kavi searches for proof that Byte, Mira, and the Missing Hour were real.",
+          "image_prompt": "SHOT 3, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: In the restored linear timeline, Kavi searches for proof that Byte, Mira, and the Missing Hour were real. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+          "image_prompt": "SHOT 4, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_left"
+        },
+        {
+          "text": "The city remembers the Missing Hour as history, but nobody remembers the loop or its sacrifices.",
+          "image_prompt": "SHOT 5, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: The city remembers the Missing Hour as history, but nobody remembers the loop or its sacrifices. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        },
+        {
+          "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+          "image_prompt": "SHOT 6, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pull_out"
+        },
+        {
+          "text": "A repaired museum robot recognizes Kavi's voice even though it has no memory of him.",
+          "image_prompt": "SHOT 7, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: A repaired museum robot recognizes Kavi's voice even though it has no memory of him. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "pan_right"
+        },
+        {
+          "text": "At 2:17 AM, Kavi waits beside the silent phone socket; nothing rings, and he finally smiles.",
+          "image_prompt": "SHOT 8, cinematic story composition in the restored city and Kavi's bedroom. Visually depict this exact causal beat: At 2:17 AM, Kavi waits beside the silent phone socket; nothing rings, and he finally smiles. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+          "effect": "push_in"
+        }
+      ]
+    }
+  ]
+}

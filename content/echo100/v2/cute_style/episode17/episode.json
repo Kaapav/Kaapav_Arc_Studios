@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 17,
+  "episode_id": "echo30-ep017",
+  "output_slug": "echo30-episode017",
+  "title": "Mira's First Lie in the Missing Hour | ECHO//30 Ep. 17",
+  "description": "Mira confesses why she preserved the loop while the Missing Hour begins consuming the present.\n\nECHO//30 — Episode 17\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "KAAPAV ARC Studios",
+    "animated series",
+    "science fiction mystery",
+    "original animation",
+    "shorts",
+    "ECHO//30",
+    "animated sci fi",
+    "time mystery",
+    "cute 3D animation"
+  ],
+  "thumbnail_text": "MIRA'S FIRST LIE",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.",
+  "arc": "The Missing Hour",
+  "permanent_story_change": "The team learns that future Kavi created the reset protocol.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: The white room fills with recordings of Mira resetting Kavi hundreds of times. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "The white room fills with recordings of Mira resetting Kavi hundreds of times.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Inside Mira's memory chamber, Mira pursues an immediate answer before the new danger closes in. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Inside Mira's memory chamber, Mira pursues an immediate answer before the new danger closes in.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira confesses why she preserved the loop while the Missing Hour begins consuming the present. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Mira confesses why she preserved the loop while the Missing Hour begins consuming the present.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: A concrete clue forces Mira to question the explanation the group has trusted until now. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "A concrete clue forces Mira to question the explanation the group has trusted until now.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira preserved the resets because releasing the Missing Hour all at once once destroyed the city. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Mira preserved the resets because releasing the Missing Hour all at once once destroyed the city.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: Mira is not the architect of the loop; future Kavi ordered every reset. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Mira is not the architect of the loop; future Kavi ordered every reset.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cinematic story composition in Mira's memory chamber. Visually depict this exact causal beat: A recording shows future Kavi placing a sealed memory inside Byte. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "A recording shows future Kavi placing a sealed memory inside Byte.",
+      "effect": "push_in"
+    }
+  ]
+}

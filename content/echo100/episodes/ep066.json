@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e066",
+  "season": 1,
+  "episode": 66,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "The Child of Glitches | ECHO//100 Episode 66",
+  "description": "Kavi-Byte and Mira confront the tragic source of the reality-breaking glitch within the void. This encounter forces a confrontation with the painful origins of Kavi’s forgotten past. Episode 66 of ECHO//100: Null Before Null. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The child’s touch triggers a shockwave, blooming the sterile White Space into a vibrant, impossible garden.",
+      "caption": "Data garden blooms",
+      "image_prompt": "Kavi-Byte in red hoodie and Mira in teal coat standing in a garden of floating glowing golden data particles.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Floating code-petals drift around the boy, whose eyes hold the terrifying depth of a thousand deleted files.",
+      "caption": "The glitch child",
+      "image_prompt": "Close up of a young boy with glowing eyes surrounded by floating binary code leaves in a digital forest.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira scans the boy’s frequency, finding a corrupted partition locked behind a deep, centuries-old emotional firewall.",
+      "caption": "Mira scans reality",
+      "image_prompt": "Mira holding a holographic scanner toward the child, her teal coat reflecting the garden's golden light.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s orange antenna flickers as he detects the boy’s intent to wipe the memory of missing parents.",
+      "caption": "Byte detects intent",
+      "image_prompt": "Byte the floating white robot with a cyan face observing the boy with concern, orange antenna buzzing.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The boy screams, attempting to delete his own existence to bury the grief of his lost family.",
+      "caption": "Desperate deletion attempt",
+      "image_prompt": "The boy clutching his head as the garden floor begins to pixelate and dissolve into dark void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi-Byte realizes he cannot save this child without finally accepting the crushing weight of his trauma.",
+      "caption": "Kavi's heavy realization",
+      "image_prompt": "Kavi-Byte looking at his hands, his red hoodie tattered as he faces his younger self.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The suppression finally snaps, flooding Kavi’s mind with the vivid, painful truth of that final departure day.",
+      "caption": "Suppression finally breaks",
+      "image_prompt": "Kavi-Byte with glowing eyes, surrounded by rapid flashes of his childhood memories manifesting as floating images.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "As the child weeps, the garden withers, causing the entire timeline to accelerate toward a chaotic collapse.",
+      "caption": "Timeline collapsing fast",
+      "image_prompt": "The child crying as the garden turns into swirling grey static, the environment warping violently.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

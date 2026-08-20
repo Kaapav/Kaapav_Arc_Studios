@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e027",
+  "season": 1,
+  "episode": 27,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "The Human Core | ECHO//100 Episode 27",
+  "description": "Kavi discovers a girl trapped within the Spire's heart, fueling the city's existence. He must decide if the price of her freedom is worth the destruction of their world. Episode 27 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The pulsing purple Null-glitch devours Kavi’s arm until Mira’s warm palm halts the corruption.",
+      "caption": "Mira touches Kavi",
+      "image_prompt": "Kavi in his red hoodie and glasses reaching out to a human-looking Mira in a teal coat, purple glitch energy receding from his arm, inside a glowing crystalline spire core.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira is no mere code, but a living prisoner shackled to the Archive’s central core.",
+      "caption": "Mira is trapped",
+      "image_prompt": "Mira looking exhausted, connected to glowing blue data-cables that snake into the spire walls, while Kavi watches in horror.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans the floor, projecting a warning that the Archive reboot seals them inside forever.",
+      "caption": "Byte detects danger",
+      "image_prompt": "Byte the floating white robot with a cyan face and orange antenna hovering near a massive glowing countdown clock on the wall.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi pulls the shimmering cables free, causing the Spire to scream as reality unspools rapidly.",
+      "caption": "Disconnecting the core",
+      "image_prompt": "Kavi ripping glowing blue cables from the wall, causing the room to shake and walls to dissolve into digital shards.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city’s structural integrity remains tethered to her heartbeat; her departure ensures total systemic collapse.",
+      "caption": "The fatal cost",
+      "image_prompt": "Kavi looking at a holographic map of the city flickering out of existence as Mira gasps in pain.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Freeing Mira requires murdering the home, as breaking these golden chains shatters the entire timeline.",
+      "caption": "The impossible reversal",
+      "image_prompt": "Close up of Kavi's face, eyes wide behind his glasses, reflecting a collapsing digital city skyline.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the static, eyes burning red, demanding Kavi choose between her life and theirs.",
+      "caption": "Null demands choice",
+      "image_prompt": "A shadowy figure with black-purple glitch skin and glowing red eyes standing between Kavi and the exit.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the power switch, knowing saving Mira will delete the city forever today.",
+      "caption": "The final decision",
+      "image_prompt": "Kavi hovering his hand over a glowing red terminal, with Mira behind him and Null looming in the dark background.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

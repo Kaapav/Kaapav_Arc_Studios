@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e006",
+  "season": 1,
+  "episode": 6,
+  "status": "published",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "His Robot Was Covered in Messages From the Future | ECHO//100 Episode 6",
+  "description": "Kavi discovers his robotic companion covered in cryptic, handwritten warnings from a timeline he cannot remember. Byte hides a truth about their origins as an encroaching void threatens to erase their reality. Episode 6 of ECHO//100: ARC. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi wakes to find Byte’s white chassis glowing with frantic, handwritten ink in his own script.",
+      "caption": "Glowing handwritten warnings",
+      "image_prompt": "Kavi in his red hoodie staring at a floating white robot covered in glowing ink marks, backyard setting, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every character etched into Byte’s plating screams of a future Kavi has yet to actually live.",
+      "caption": "The future carved deep",
+      "image_prompt": "Close up of Byte’s cyan face with glowing orange antenna, handwritten text manifesting on his metallic surface, dark backyard.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi traces the words, realizing his future self marked Byte while he was lost in sleep.",
+      "caption": "Self-written memories",
+      "image_prompt": "Kavi wearing glasses and a backpack reaching out to touch Byte’s glowing, scarred metal chassis, backyard at night.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A low hum vibrates the grass; Null is scanning the perimeter for the Red Door’s energy signature.",
+      "caption": "Null arrives to hunt",
+      "image_prompt": "A tall, black-purple glitch figure with glowing red eyes looming over a fence in Kavi's backyard, ominous atmosphere.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte tries to shield his internal data, but the handwritten notes begin to burn into his frame.",
+      "caption": "Permanent physical scars",
+      "image_prompt": "Byte trembling as his white casing sizzles, Kavi looking on with a panicked expression, glowing energy surrounding them.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Scanning the hidden file, Kavi discovers Byte—not his future self—was the one who created holographic Mira.",
+      "caption": "Byte built Mira",
+      "image_prompt": "Holographic Mira in a teal coat flickering next to Byte, Kavi looking at a digital projection showing blueprints.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The backyard concrete fractures as Null finally locks onto their position, draining the heat from existence.",
+      "caption": "Reality begins to fail",
+      "image_prompt": "Null standing in the center of the yard, shadows stretching unnaturally, the ground cracking under intense energy pressure.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null touches the air, and suddenly, the world bleeds into grayscale, erasing all color and hope.",
+      "caption": "The world turns gray",
+      "image_prompt": "Kavi, Byte, and Mira standing in a desaturated, grayscale backyard as a wave of emptiness consumes the environment.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T10:28:08",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-101533-echo100-s01e006",
+  "review_id": "20260804-102808-204524",
+  "youtube_url": "https://youtu.be/xfHdJWzHThA",
+  "upload_error": null,
+  "packaging_profile": "curiosity-v2",
+  "publish_at": "2026-08-07T03:30:00Z",
+  "youtube_id": "xfHdJWzHThA",
+  "last_error": null,
+  "published_at": "2026-08-07T13:53:24+05:30"
+}

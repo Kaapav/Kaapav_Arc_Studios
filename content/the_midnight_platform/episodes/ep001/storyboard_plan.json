@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep001",
+  "episode_number": 1,
+  "arc": 1,
+  "title": "The Train Returned His Missing Sister",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "On the rain-soaked abandoned platform, Arin and quadruped Tick face an impossible train emerging through fog.",
+      "dialogue_audio": "Narrator: “For three hundred and seventeen nights, Arin waited for the train that stole his sister.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "The carriage door opens. Meera appears behind wet glass, frightened rather than relieved.",
+      "dialogue_audio": "Arin: “Meera?” Meera: “Don’t open the door!”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "A blank brass exchange plaque wakes red between Arin’s hand and Meera.",
+      "dialogue_audio": "Station: “One may return. One must take their place.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Arin steps over the threshold while golden clockwork light moves Meera outward; Tick reaches with one front paw.",
+      "dialogue_audio": "Arin: “Then take me.” Meera: “Arin, no!”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "The train departs. Meera and Tick run beside Arin’s rain-streaked window.",
+      "dialogue_audio": "Meera: “Arin!” Arin: “Don’t wait for me.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Inside, the clock-masked Conductor offers Arin a blank brass ticket as twelve doors wake behind him.",
+      "dialogue_audio": "Conductor: “Welcome aboard, Passenger One. Twelve doors remain.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE NEXT DOOR OPENS AT MIDNIGHT"
+  },
+  "video_generation_allowed": true,
+  "youtube_upload_allowed": false
+}

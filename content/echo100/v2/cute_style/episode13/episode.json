@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 13,
+  "episode_id": "echo30-ep013",
+  "output_slug": "echo30-episode013",
+  "title": "Kavi Had Already Sacrificed His Father | ECHO//30 Ep. 13",
+  "description": "A cassette claims Kavi already consented to erase every memory of his missing father. The Archive accepts his future voiceprint—but Tara defends Kavi's right to refuse the person he may become.\n\nOutside the Missing Hour, Byte reveals one hundred stored permissions recorded by future Kavi. Present Kavi rejects all of them. The Archive responds by opening its first honest door.\n\nECHO//30 — Episode 13: Kavi Had Already Sacrificed His Father\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "3D animated short",
+    "sci fi mystery",
+    "time loop story",
+    "original animation",
+    "shorts",
+    "future self",
+    "consent mystery",
+    "missing father"
+  ],
+  "thumbnail_text": "KAVI ALREADY AGREED",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with immutable ECHO//30 character designs, expressive restrained acting, rain-dark Navapur architecture, tactile materials, cyan recorded-memory light, red exchange light, purple denied-memory light and warm amber chosen-connection light. Use only locked turnaround sheets. No readable generated text, logos, watermark, duplicate characters, extra limbs, identity drift, costume changes or imitation-studio branding.",
+  "arc": "The Missing Hour",
+  "permanent_story_change": "Kavi rejects his future self's authority over his present consent, and that refusal earns access to the Archive.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "Close on the backward-turning cassette projecting Kavi's voiceprint and a fading amber memory of Arvind; present Kavi recoils while Tara, Imran and Mira hear the exact sacrifice together.",
+      "text": "The cassette carried Kavi's authentic voice, older and exhausted, consenting to erase every memory of Arvind.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "Kavi stops the cassette with one clear hand and states his refusal; Tara stands beside rather than behind him, supporting consent despite their damaged trust, Mira and Imran listening.",
+      "text": "Kavi refused. A future version could warn him, but it could not own his present consent.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "Outside in the Neon Arcade, Rhea receives Tara's broadcast through old speakers as Byte reluctantly opens a holographic vault containing many identical Kavi voiceprint rings, no readable numbers.",
+      "text": "Outside, Rhea asked Byte how many permissions future Kavi had stored. Byte opened a vault containing one hundred.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "Byte projects several looping future-Kavi waveforms around a diagram of repeated Red Doors; Rhea recognizes they came from different resets, her brass key lowered in guilt.",
+      "text": "Each permission came from a different reset. Future Kavi had been authorizing sacrifices across entire discarded lives.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "Inside the Missing Hour, Kavi, Tara, Mira and Imran follow the purple route into an archive street lined with sealed doors marked only by emotional object-symbols—headphones, glasses, radio and badge.",
+      "text": "The map led to a street of sealed memories. Every door carried a relationship instead of a name.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "A door marked by a station badge opens onto a contained memory of Arvind in maroon sweater, rectangular glasses and grease-stained hands; he raises a palm asking Kavi not to sacrifice himself.",
+      "text": "Behind the station-badge door, Arvind was alive inside a recording. His first words were: Do not save me this way.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "Kavi turns away from the offered Arvind memory rather than grabbing it; Null's purple pressure around the corridor softens while Tara sees Kavi choose truth over possession.",
+      "text": "Kavi chose not to steal the answer from a recording. The pressure of Null's voices suddenly eased.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "The cassette rewrites itself only as an abstract waveform changing from red to amber; ahead, the Archive's enormous door opens as Kavi, Tara, Mira and Imran face its white light.",
+      "text": "The future recording changed: Good. You finally refused me. The Archive opened.",
+      "effect": "pull_out"
+    }
+  ]
+}

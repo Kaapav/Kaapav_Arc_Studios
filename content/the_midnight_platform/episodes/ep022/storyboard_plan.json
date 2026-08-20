@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep022",
+  "episode_number": 22,
+  "arc": 3,
+  "title": "Twelve Doors Open",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Door One opens; brass name tags swarm the avenue and citizens momentarily exchange names with strangers.",
+      "dialogue_audio": "Saira: “Don’t answer to a name that isn’t yours!”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Door Two opens; vertical rain floods upward through an underground market while Dev guides trapped children out.",
+      "dialogue_audio": "Dev: “Follow the dry footprints!”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Door Three opens; false childhood homes unfold across real storefronts, tempting people to enter impossible reunions.",
+      "dialogue_audio": "Meera, over loudspeaker: “Ask the memory something only love would know.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Doors Five through Eleven flash rapidly: stopped clocks, missing shadows, repeated streets, silent songs, and forgotten faces spill out as distinct physical events.",
+      "dialogue_audio": "Maya: “These aren’t monsters. They’re unpaid lives.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Arin punches each carriage coupling with the master tool, separating the doors from the engine without closing them on passengers.",
+      "dialogue_audio": "Arin: “Open safely. Not all at once.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Door Twelve remains sealed. From inside comes one heartbeat shared by hundreds of missing passengers.",
+      "dialogue_audio": "Elias: “That is the debt Nila carried alone.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "DOOR TWELVE HOLDS EVERY GOODBYE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

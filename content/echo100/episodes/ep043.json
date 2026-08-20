@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e043",
+  "season": 1,
+  "episode": 43,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Static Signals | ECHO//100 Episode 43",
+  "description": "Every window in the city flickers with a grainy transmission as a digital entity hunts a corrupted timeline. Kavi discovers the cost of salvation when his own existence begins to unravel. Episode 43 of ECHO//100: The Hundred Phones. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Rhythmic black-and-purple static erupts across every city window, blinding the neon streets below.",
+      "caption": "Citywide digital blackout",
+      "image_prompt": "Vertical wide shot, city skyscrapers with windows flashing purple static, Kavi in red hoodie looking up in shock.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the power grid as a jagged silhouette of corrupted, glowing code.",
+      "caption": "Null manifests",
+      "image_prompt": "Vertical close-up, Null made of black glitch pixels and red eyes standing inside a glowing power grid core.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The entity acts as a cosmic garbage collector, purging the shadow’s dying, broken timeline.",
+      "caption": "The cosmic cleaner",
+      "image_prompt": "Vertical medium shot, Null reaching into a digital stream, pulling out fragments of a fading reality.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi tracks the shadow to the core, finding his stolen phone humming with death.",
+      "caption": "Shadow's signal located",
+      "image_prompt": "Vertical medium shot, Kavi standing before a floating phone emitting dark energy, his backpack strap loose.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow dials a forbidden number, threatening to overwrite the foundation of the world.",
+      "caption": "Forbidden call initiated",
+      "image_prompt": "Vertical close-up, the shadow's hand pressing buttons on the phone, reality warping into geometric shards.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s deletion of the shadow would erase the New World and all connected lives.",
+      "caption": "The fatal reversal",
+      "image_prompt": "Vertical medium shot, Kavi looking at his translucent hands, realizing his existence is tethered to the shadow.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null lunges, grabbing Kavi to tether their signatures in a violent union of data.",
+      "caption": "Null grabs Kavi",
+      "image_prompt": "Vertical close-up, Null’s glitch-hand gripping Kavi’s red hoodie, sparks of cyan and purple electricity flying everywhere.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi turns transparent, phasing through the floor, permanently tethered to the hunt for eternity.",
+      "caption": "Kavi phases through",
+      "image_prompt": "Vertical long shot, Kavi falling halfway through a solid metal floor, his glasses glowing with static energy.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

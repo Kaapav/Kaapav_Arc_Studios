@@ -1,0 +1,113 @@
+# ============================================================================
+#  Channel configuration — edit this, not the code.
+# ============================================================================
+
+channel:
+  name: "KAAPAV ARC Studios"  # your channel / brand name (shown on thumbnails)
+  niche: "practical AI tools and creative workflows for content creators"
+  language: "english"           # one of: hindi | english | hinglish  (English = higher global ad rates)
+  audience: "creators, freelancers, and curious beginners who want real AI results"
+  cta: "Subscribe for one tested AI workflow every day!"   # spoken/written call to action
+
+# ── Brand identity: this is what turns viewers into a LOYAL fanbase. Keeping a
+# ── consistent persona, opening line, sign-off, and recurring series makes the
+# ── channel recognizable — people subscribe to a *character*, not random clips.
+brand:
+  persona: "an energetic AI workflow tester who demonstrates tools for creators and gives an honest verdict"
+  catchphrase: "Alright explorers, watch this."      # spoken as the very first line vibe
+  signoff: "That's today's AI discovery — follow so you don't miss tomorrow's."
+  # Recurring series create appointment-viewing and loyalty. The writer rotates these.
+  series:
+    - "I Tested It for Creators"
+    - "AI Before vs After"
+    - "Build It With AI"
+    - "Free Tool, Real Result"
+    - "AI Workflow in 60 Seconds"
+
+# How the narration sounds. edge-tts voices (free). Good picks for global AI niche:
+#   en-US-GuyNeural (m, upbeat), en-US-AriaNeural (f), en-GB-RyanNeural (m),
+#   en-IN-PrabhatNeural (m, Indian), en-IN-NeerjaNeural (f, Indian)
+voice:
+  provider: "piper"             # piper | edge | elevenlabs
+  edge_voice: "en-US-GuyNeural"
+  edge_timeout_seconds: 25       # fail fast to the offline Windows voice if Edge is blocked
+  piper_model: "assets/voices/piper/en_US-lessac-medium.onnx"
+  word_timing_provider: "proportional"  # zero-download default; use "whisper" only if wanted
+  whisper_model: "tiny.en"      # optional when word_timing_provider is "whisper"
+  rate: "+10%"                  # punchy pace = better retention on Shorts
+  pitch: "+0Hz"
+
+# Video look & format
+video:
+  format: "shorts"              # shorts (9:16, <=60s)  |  long (16:9)
+  width: 720
+  height: 1280                  # for 'long' use 1920x1080
+  fps: 24
+  max_seconds: 58               # hard cap for Shorts
+  captions: true                # burn word-synced subtitles (big retention boost)
+  caption_font_size: 42
+  caption_style: "cinematic"    # white type on a soft dark pill; "legacy" keeps yellow text
+  stock_video: true            # prefer moving Pexels clips; stills remain the fallback
+  background_music: true         # loops assets/music.mp3 at low volume if present
+  music_volume: 0.08
+  ken_burns: true               # applies only when a motion clip is unavailable
+
+# How scripts are generated
+script:
+  target_words: 110             # ~110 words ≈ 40s; tight = higher completion rate
+  hook_first: true              # force a scroll-stopping first line
+  scenes: 8                     # short visual beats; avoids long slideshow holds
+  viral_mode: true              # enforce hook -> tension -> payoff structure
+  loop_ending: true             # end line loops back to the hook to boost re-watches
+  use_series: true              # frame each video as one of brand.series (loyalty)
+
+# ── Content safety: every script is screened BEFORE render/upload. One bad video
+# ── can strike or demonetize the whole channel, so the gate is conservative and
+# ── nothing flagged can be published without your explicit --force.
+safety:
+  enabled: true
+  on_fail: "hold"               # hold  = render + upload PRIVATE, wait for human review
+                                # block = skip the video entirely
+  block_profanity: true         # strong profanity = advertiser-unfriendly -> hold
+  use_moderation_api: true      # nuanced LLM moderation layer (needs OPENAI_API_KEY)
+  append_ai_disclosure: true    # add "AI-generated" note to every description (honesty
+                                # builds trust and aligns with YouTube's disclosure rules)
+  custom_blocklist: []          # your own always-hold terms, e.g. ["some brand", "term"]
+
+# ── Human review: daily drafts upload as PRIVATE and queue here. Publish with:
+# ──   python review.py list / approve <id> / approve-safe / reject <id>
+review:
+  queue_file: "output/review_queue.json"
+
+# YouTube publishing
+youtube:
+  expected_channel_id: "UCylPn80btY6lpivJ_N-cXGQ"  # @kaapavarcstudios; fail closed on wrong OAuth channel
+  privacy: "private"            # drafts upload private; review.py publishes them
+  # FULL-AUTO MODE: true = safety-passed videos go PUBLIC automatically (zero-touch).
+  # Safety-flagged videos still upload private + wait for your review, always.
+  # Recommended: keep false for the first 5-10 videos, watch them, then flip to true.
+  auto_publish: false
+  category_id: "28"             # 28 = Science & Tech (fits AI). 27 = Education, 24 = Entertainment
+  made_for_kids: false
+  tags_extra: ["ai", "aitools", "artificialintelligence", "aiart", "shorts", "tech", "aicreative"]
+  title_max: 90
+
+# ── Content safety gate: screens every script BEFORE it can be published.
+# ── Protects the channel from Community-Guideline strikes and demonetization.
+safety:
+  enabled: true                 # never turn this off on a monetized channel
+  on_fail: "hold"               # hold = upload private + wait for your review | block = skip entirely
+  block_profanity: true         # strong profanity is advertiser-unfriendly
+  use_moderation_api: true      # nuanced AI check (needs OPENAI_API_KEY; free endpoint)
+  append_ai_disclosure: true    # adds an AI-content note to every description (honesty = trust)
+  custom_blocklist: []          # extra terms to always flag, e.g. ["some brand", "rival channel"]
+
+# ── Human-in-the-loop review: every video uploads as a PRIVATE draft and waits
+# ── in a queue. Publish with:  python review.py list / approve <id> / approve-safe
+review:
+  queue_file: "output/review_queue.json"
+
+# Where things get written
+paths:
+  output_dir: "output"          # finished videos + metadata land here
+  cache_dir: ".cache"           # downloaded stock media cache

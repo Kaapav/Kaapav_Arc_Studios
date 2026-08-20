@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e057",
+  "season": 1,
+  "episode": 57,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "Contract of Code | ECHO//100 Episode 57",
+  "description": "Kavi discovers a devastating price for the city's survival when Mira offers her digital soul. Episode 57 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The Data-Vault walls liquefy into raw, jagged light as the miniature city screams in agony.",
+      "caption": "City collapsing inward",
+      "image_prompt": "Kavi in his red hoodie and glasses standing inside a crumbling digital vault, glowing particles swirling around him.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira projects a shimmering terminal, offering her entire memory core to stabilize the crumbling horizon.",
+      "caption": "Mira offers sacrifice",
+      "image_prompt": "Mira in her teal holographic coat extending a glowing data-stream toward Kavi, her face fading into static.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi hesitates; if Mira deletes her personality, the city survives, but she ceases to exist.",
+      "caption": "Kavi's impossible choice",
+      "image_prompt": "Close up of Kavi looking at his backpack, his expression pained, reflections of blue code on his glasses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Deep within her database, a hidden file pulses, revealing the master key meant for Byte’s lock.",
+      "caption": "Master key found",
+      "image_prompt": "Mira's hands pulling a translucent golden schematic from the air, illuminating the dark vault walls.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte floats forward, his cyan face flickering as he firmly rejects the sacrifice of his friend.",
+      "caption": "Byte refuses sacrifice",
+      "image_prompt": "Byte with his orange antenna glowing, hovering protectively between Kavi and the volatile data-stream.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte demands a new path, insisting they bridge reality without erasing the only companion left.",
+      "caption": "A new path",
+      "image_prompt": "Byte gesturing toward the crumbling city, his mechanical shell cracking to reveal pulses of golden gears.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A sudden, sharp resonance echoes from Kavi’s own chest, cracking the fabric of the digital space.",
+      "caption": "Resonance begins",
+      "image_prompt": "Kavi clutching his chest through his red hoodie, a blinding light leaking from beneath his fingers.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches into his own heart, pulling out a glowing, jagged key made of pure reality.",
+      "caption": "The living vessel",
+      "image_prompt": "Kavi holding a jagged, glowing golden key extracted from his own chest, the city behind him freezing.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

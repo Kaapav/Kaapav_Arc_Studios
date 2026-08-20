@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep030",
+  "episode_number": 30,
+  "arc": 3,
+  "title": "No One Takes Their Place",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Nila crosses the cyan memory bridge. The red exchange plaque turns blank and fractures into harmless brass dust.",
+      "dialogue_audio": "Station voice: “Debt distributed. Exchange concluded.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Around the city, missing people return to families who remember them; volunteers notice one small chosen memory is gone, exactly as agreed.",
+      "dialogue_audio": "Rohan: “I lost one morning. I got my sister.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Elias steps off the train beside Maya as an ordinary aging man; she gives him the cracked mask, then closes his fingers around the handbell instead.",
+      "dialogue_audio": "Maya: “You’re late.” Elias: “I know.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Meera installs a simple wind-up spring in Tick. His cyan eyes relight; he stands on four paws and wags his segmented tail without supernatural clock power.",
+      "dialogue_audio": "Meera: “Ordinary time suits you.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Arin cannot recover the surrendered childhood image of Meera, so she recreates it by resting her head on his shoulder during a new monsoon blackout.",
+      "dialogue_audio": "Meera: “We make another memory.” Arin: “And keep this one together.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "At dawn, Arin, Meera, and Tick walk away from the now-public Platform 13. A distant unused arch briefly reveals a different KAAPAV ARC world, but they do not enter.",
+      "dialogue_audio": "Narrator: “The midnight train never returned—because nobody was waiting to be replaced.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE MIDNIGHT PLATFORM — SEASON ONE COMPLETE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

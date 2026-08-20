@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep029",
+  "episode_number": 29,
+  "arc": 3,
+  "title": "The Last Exchange",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "The train collapses around Nila; without Passenger Zero crossing, the master clock cannot restart and Tick cannot be recovered.",
+      "dialogue_audio": "Elias: “The first debt must choose the new rule.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Arin steps onto the red plaque and faces Nila exactly as he once faced Meera.",
+      "dialogue_audio": "Arin: “Then take me. Let Nila leave.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "The plaque accepts and begins changing Arin into the new Conductor; a clock-mask forms toward his face.",
+      "dialogue_audio": "Nila: “You would give me the life your sister saved?”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Meera shatters the forming mask with Maya’s handbell before the exchange completes.",
+      "dialogue_audio": "Meera: “That choice saved me once. It does not get to own him forever.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Meera offers Nila the one memory shared by the whole city: everyone speaking a forgotten person’s name at midnight.",
+      "dialogue_audio": "Citizens, across city: “Nila Rao.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Nila hears her name carried by people who owe her nothing and finally takes Arin’s hand off the plaque.",
+      "dialogue_audio": "Nila: “No one takes my place.” Arin: “No one.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE EXCHANGE IS BROKEN"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

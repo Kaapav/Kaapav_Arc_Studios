@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "handoff_code": "KAAPAV-ARC-HANDOFF-V1",
+  "workspace": "D:\\Apps\\YT-Auto",
+  "channel": {
+    "title": "KAAPAV ARC Studios",
+    "handle": "@kaapavarcstudios",
+    "id": "UCylPn80btY6lpivJ_N-cXGQ"
+  },
+  "expected_structural_state": {
+    "series": 10,
+    "episodes_per_series": 30,
+    "episode_manifests": 300,
+    "scene_scripts": 2340
+  },
+  "startup_files": [
+    "AGENTS.md",
+    "STUDIO_PRODUCTION_STATUS.md",
+    "content/studio_master_release_plan.json",
+    "content/studio_universe_audit.json",
+    "MANUAL_STUDIO_PIPELINE.md"
+  ],
+  "verification_command": ".\\.venv\\Scripts\\python.exe -u audit_studio_universe.py",
+  "security_exclusions": [
+    ".env",
+    "credentials/",
+    "OAuth tokens",
+    "client secrets",
+    "service-account keys",
+    "refresh tokens",
+    "private keys"
+  ],
+  "integrity_phrase": "TEN WORLDS / THIRTY DOORS / QC BEFORE RELEASE"
+}

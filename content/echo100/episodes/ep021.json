@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e021",
+  "season": 1,
+  "episode": 21,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Stilled Hearts | ECHO//100 Episode 21",
+  "description": "Kavi watches in horror as the city's frozen population loses their own shadows to a dark, autonomous existence. Episode 21 of ECHO//100: The City Without Shadows. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The city clock halts, leaving citizens frozen like statues beneath a blood-red sky.",
+      "caption": "Frozen city square",
+      "image_prompt": "Vertical wide shot of Kavi in his red hoodie and glasses standing in a city square filled with people frozen mid-step, sky is deep ominous red.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Shadows peel away from the pavement, moving with a life of their own.",
+      "caption": "Shadows detaching",
+      "image_prompt": "Close up on the ground where a man's shadow detaches from his feet, rising into a 3D silhouette shape.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi watches the scanner fail as silhouettes manifest like stolen memories seeking freedom.",
+      "caption": "Byte scans shadows",
+      "image_prompt": "Kavi looking at his floating companion Byte, whose cyan face glows as it scans a shadow walking past them.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira touches a drifting shadow and gasps, experiencing a lifetime of alien secrets.",
+      "caption": "Mira feels the memory",
+      "image_prompt": "Mira in her blue holographic coat reaching out to touch a passing dark silhouette, her eyes widening in realization.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Null-glitch in Kavi’s chest pulses, attempting to reclaim the fragments torn apart.",
+      "caption": "Kavi's internal struggle",
+      "image_prompt": "Kavi clutching his backpack straps, black and purple glitch energy leaking from his chest near his red hoodie.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi evicted the collective trauma, casting those dark memories to wander the streets.",
+      "caption": "The tragic reversal",
+      "image_prompt": "Kavi looking at the Red Door shards on the ground, realizing the shadows are the city's discarded past.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The populace remains catatonic while their histories march toward the edge of town.",
+      "caption": "Empty citizens",
+      "image_prompt": "View of the square where citizens stand like mannequins while their shadows march away in a unified pack.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s own shadow stands tall, turns, and stares with burning, impossible, glowing red eyes.",
+      "caption": "The shadow rebels",
+      "image_prompt": "Kavi looking down at his own shadow on the floor, which has turned to look up at him with glowing red eyes.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e091",
+  "season": 1,
+  "episode": 91,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "Echoes of Silence | ECHO//100 Episode 91",
+  "description": "Kavi wakes to a room where gravity obeys the weight of his own forgotten memories. He must master his past before the house crumbles into nothingness. Episode 91 of ECHO//100: The Final Message. This content is original science fiction created with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Toys and books hover three inches above the floor, defying every known law of physics.",
+      "caption": "Objects defying gravity",
+      "image_prompt": "Vertical shot of Kavi in a red hoodie waking up in a bedroom where toys, books, and furniture hover three inches above the floorboards.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A childhood bear hangs suspended in the air, anchoring the room to a distant day.",
+      "caption": "Heavy memory bear",
+      "image_prompt": "Kavi reaching out toward a floating teddy bear that ripples with distorted light, causing the floorboards beneath to crack.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every object remains a physical anchor, mapped to the intensity of Kavi's buried, secret thoughts.",
+      "caption": "Memories manifest physically",
+      "image_prompt": "Close up of Kavi looking at his backpack; it glows with a bright aura, pulling the floor upward toward him.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To stabilize the gravity, Kavi must shed the trauma of the Door War from consciousness.",
+      "caption": "Forgetting the war",
+      "image_prompt": "Kavi closing his eyes tightly, gripping his head, while the furniture around him begins to jitter and spin violently.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi forces away the screams, but the walls begin dissolving into flickering white digital static.",
+      "caption": "House dissolving away",
+      "image_prompt": "The bedroom walls turning into white geometric pixels, revealing a void of pure light behind the wallpaper.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Erasing the trauma deletes reality itself; the house cannot exist without that dark, painful past.",
+      "caption": "The fatal reversal",
+      "image_prompt": "Kavi standing on a floating floor tile, staring in horror as his bed vanishes into a stream of shimmering binary data.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The floor collapses, leaving Kavi suspended in a silence heavier than any known, crushing gravity.",
+      "caption": "Suspended in void",
+      "image_prompt": "Kavi floating in a white void, surrounded by drifting debris of his childhood room as reality tears apart around him.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A rusted, ancient Byte emerges from the static, leaking blue archive data into the abyss.",
+      "caption": "Ancient Byte appears",
+      "image_prompt": "An old, rusted version of Byte with a flickering cyan face and cracked casing, leaking glowing blue data in the corner.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

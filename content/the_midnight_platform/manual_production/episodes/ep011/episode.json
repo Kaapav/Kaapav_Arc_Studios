@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 11,
+  "episode_id": "the-midnight-platform-ep011",
+  "output_slug": "the-midnight-platform-episode011",
+  "title": "The Bridge Nobody Remembered | MIDNIGHT PLATFORM Ep. 11",
+  "description": "The Bridge Nobody Remembered. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 11\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "BRIDGE NOBODY REMEMBERED",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep011\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep011\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. At dawn, Meera faces an uninterrupted river where the east bridge should stand; Saira’s compass points straight across open water. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “A city can’t forget forty thousand tonnes of steel.”",
+      "dialogue_audio": "Meera: “A city can’t forget forty thousand tonnes of steel.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Maya rings her dented handbell. For one second, rusted bridge cables appear inside the fog, then vanish. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “Matter follows memory here. Keep speaking.”",
+      "dialogue_audio": "Maya: “Matter follows memory here. Keep speaking.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Meera, Saira, Maya, and quadruped Tick step onto invisible decking, each naming a detail of the old bridge. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “Blue rails. Lion bolts. Tea seller at the centre.”",
+      "dialogue_audio": "Saira: “Blue rails. Lion bolts. Tea seller at the centre.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Halfway across, Maya forgets the bridge and falls through; Tick anchors all four paws and catches her shawl with his teeth. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “Maya—remember the bell!”",
+      "dialogue_audio": "Meera: “Maya—remember the bell!”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. Saira opens her compass. Inside is a tiny 1998 photograph of the bridge and her little brother Rohan. The entire span solidifies. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “He’ll be thirty-six now.”",
+      "dialogue_audio": "Saira: “He’ll be thirty-six now.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. Under the far pier they find a locked station archive door bearing the same thirteen cracks as Arin’s badge. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “The train hid its accounts beneath the city.”",
+      "dialogue_audio": "Maya: “The train hid its accounts beneath the city.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

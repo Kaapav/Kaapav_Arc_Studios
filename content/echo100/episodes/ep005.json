@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e005",
+  "season": 1,
+  "episode": 5,
+  "status": "published",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "The Red Door Opened to 1994 | ECHO//100 Episode 5",
+  "description": "Kavi confronts the manifestation of the Red Door, only to face a memory-wiping intervention from Mira. Episode 5 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The Red Door vibrates, turning solid concrete into swirling liquid beneath Kavi’s trembling sneakers.",
+      "caption": "Concrete melting away",
+      "image_prompt": "A vertical shot of a mysterious glowing red door standing in a suburban backyard; the concrete ground around it is turning into viscous liquid, Kavi in red hoodie standing nearby.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the handle, but a high-pitched hum shatters the silence, freezing movement.",
+      "caption": "The humming threshold",
+      "image_prompt": "Kavi reaches toward the metallic red door, his hands shaking; Byte floats beside him, his cyan face glowing intensely in the dark backyard.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, Mira appears as a flickering hologram, her teal coat shimmering with aggressive static.",
+      "caption": "Mira’s sudden arrival",
+      "image_prompt": "Mira’s holographic form manifests near the door, wearing a sharp teal coat, her face stern and projected in blue light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira forces a hard reset on the phone, purging the last hour of fragile memories.",
+      "caption": "Memory wipe initiated",
+      "image_prompt": "Kavi looks down at his phone screen, which emits a blinding white light, wiping his recent history; his expression is dazed.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The door pulses, displaying a date from 1994, revealing a machine for time travel.",
+      "caption": "A temporal gateway",
+      "image_prompt": "The surface of the red door displays glowing digital numbers reading 1994; the air around it warps with temporal distortion.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte secretly encrypts a hidden file, shielding full knowledge of these endless, repeating loops.",
+      "caption": "Byte’s hidden secret",
+      "image_prompt": "Byte hides a glowing orange data packet behind his back; his cyan face shows a complex, knowing expression while Mira looks away.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira vanishes, leaving Kavi alone with the door as it begins to creak open.",
+      "caption": "The door opens",
+      "image_prompt": "The red door slowly swings inward, revealing a blinding, impossible light spilling out into the dark backyard.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A voice drifts from the void, identical to Kavi’s, begging for salvation from within.",
+      "caption": "My own voice",
+      "image_prompt": "Kavi stands frozen in front of the open door; his reflection in the doorway seems to look back at him with terror.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T10:15:33",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-100121-echo100-s01e005",
+  "review_id": "20260804-101533-380896",
+  "youtube_url": "https://youtu.be/6MTX2zfAotg",
+  "upload_error": null,
+  "packaging_profile": "curiosity-v2",
+  "publish_at": "2026-08-06T03:30:00Z",
+  "youtube_id": "6MTX2zfAotg",
+  "last_error": null,
+  "published_at": "2026-08-06T09:00:10+05:30"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e082",
+  "season": 1,
+  "episode": 82,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "Clockwork Horizon | ECHO//100 Episode 82",
+  "description": "Kavi scales a vertical metropolis powered by his own lost memories. Episode 82 of ECHO//100: The Door War. This is an AI-assisted original fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky rips open, slamming Kavi against the side of a massive, ticking iron tower.",
+      "caption": "Kavi pinned to tower",
+      "image_prompt": "Vertical shot of Kavi in a red hoodie and glasses, pinned sideways to a giant bronze clock tower wall.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte detaches from Kavi’s backpack, floating toward a glowing, pulsing port in the brass machinery.",
+      "caption": "Byte interfaces with port",
+      "image_prompt": "Byte, a white floating robot with a cyan face and orange antenna, reaches toward a glowing gear.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "As Byte connects, a surge of raw, erased memories floods the city’s complex, golden internal gears.",
+      "caption": "Memories fueling the city",
+      "image_prompt": "Golden clockwork gears spinning rapidly, illuminating holographic fragments of Kavi's past adventures.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi gasps, recognizing the stolen seconds of his own life powering the city’s rhythmic, mechanical heartbeat.",
+      "caption": "Kavi realizes the truth",
+      "image_prompt": "Kavi looking at his hands, which are glowing with the same hue as the city's ticking gears.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, Byte’s antenna locks into the central core, tethering his consciousness to the city’s mainframe forever.",
+      "caption": "Byte permanently tethered",
+      "image_prompt": "Byte locked into a central hub, orange antenna glowing bright as energy cables connect to his body.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira flickers into view, warning that these clocks are counting down to total, irreversible reality collapse.",
+      "caption": "Mira reveals the countdown",
+      "image_prompt": "Mira, a blue holographic figure in a teal coat, looking terrified as the clock hands reverse.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The ticking stops abruptly, replaced by a deafening silence that vibrates through the entire vertical world.",
+      "caption": "The ticking stops",
+      "image_prompt": "The giant clock tower frozen in time, with Kavi and Mira suspended against the vertical surface.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "From every clock face, a voice identical to Kavi’s whispers a dark, synchronized threat at them.",
+      "caption": "Kavi's voice echoes",
+      "image_prompt": "A giant shadow looming over Kavi, with hundreds of clock faces showing Kavi's reflection in the glass.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

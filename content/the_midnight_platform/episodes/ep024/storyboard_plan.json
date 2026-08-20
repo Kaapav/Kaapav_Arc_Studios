@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep024",
+  "episode_number": 24,
+  "arc": 3,
+  "title": "Saira Knocked on the Door",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "As the city fails, Saira finally stands at Rohan’s bicycle shop door, still sixteen while he is thirty-six.",
+      "dialogue_audio": "Saira: “Rohan. I’m sorry I’m late.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Rohan compares her to the missing poster in his wallet and touches the matching compass tattoo on his arm.",
+      "dialogue_audio": "Rohan: “You carried me through the fire.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "The exchange plaque manifests between them and demands a memory; Saira turns away to protect him.",
+      "dialogue_audio": "Saira: “I won’t let it take from you.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Rohan deliberately places his hand on the plaque and offers the memory of learning to ride his first bicycle with her.",
+      "dialogue_audio": "Rohan: “You already saved my whole life. Take one morning.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "The plaque turns cyan instead of red. Saira becomes fully anchored in the present; no unrelated person or place disappears.",
+      "dialogue_audio": "Maya, witnessing: “Consent changes the debt.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Rohan cannot remember the first ride, but knows exactly who Saira is and embraces her.",
+      "dialogue_audio": "Rohan: “We’ll make another morning.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE RULE CAN BE REWRITTEN"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

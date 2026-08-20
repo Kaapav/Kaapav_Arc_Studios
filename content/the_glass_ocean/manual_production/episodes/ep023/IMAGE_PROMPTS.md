@@ -1,0 +1,55 @@
+# THE GLASS OCEAN — Episode 23
+
+## Locked global style
+
+Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, vast translucent glass ocean, coral light beneath the surface, wind-swept South Asian coastal settlements, tactile cloth, salt and crystal, mythic scale with emotionally truthful acting; preserve locked character sheets exactly; no graphic harm.
+
+## Manual image files
+
+### Shot 01 → `story_frames/shot_01.png`
+
+SHOT 1, dramatic close-up. Ghostlike images of ships repeat their final calls inside the wave.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Ghostlike images of ships repeat their final calls inside the wave.
+
+### Shot 02 → `story_frames/shot_02.png`
+
+SHOT 2, medium two-shot. Surface salvagers race to claim cargo before the thaw destroys it.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Surface salvagers race to claim cargo before the thaw destroys it.
+
+### Shot 03 → `story_frames/shot_03.png`
+
+SHOT 3, wide establishing shot. Mira recognizes orders she gave captains moments before freezing them.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Mira recognizes orders she gave captains moments before freezing them.
+
+### Shot 04 → `story_frames/shot_04.png`
+
+SHOT 4, over-the-shoulder shot. Nila stops her from sinking with the wrecks as private penance.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Nila stops her from sinking with the wrecks as private penance.
+
+### Shot 05 → `story_frames/shot_05.png`
+
+SHOT 5, low-angle action shot. Families choose which recordings to receive and which to leave private.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Families choose which recordings to receive and which to leave private.
+
+### Shot 06 → `story_frames/shot_06.png`
+
+SHOT 6, intimate close-up. Salvagers clear only physical hazards under community supervision.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: Salvagers clear only physical hazards under community supervision.
+
+### Shot 07 → `story_frames/shot_07.png`
+
+SHOT 7, dynamic tracking shot. The memory current opens a navigable channel.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: The memory current opens a navigable channel.
+
+### Shot 08 → `story_frames/shot_08.png`
+
+SHOT 8, cliffhanger reveal. At its center floats Nila's childhood boat, carrying a second version of Arun.. Location lock: memory current inside the tsunami. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Captain Mira Varma (strong Indian woman early forties, dark brown skin, sharp sea-green eyes, long black braid threaded with white shell beads, indigo captain coat, rust sash, crystal-hook staff); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.
+
+Narration: At its center floats Nila's childhood boat, carrying a second version of Arun.

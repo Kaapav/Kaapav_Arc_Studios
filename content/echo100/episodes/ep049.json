@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e049",
+  "season": 1,
+  "episode": 49,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "The Great Deletion | ECHO//100 Episode 49",
+  "description": "Kavi must purge the corrupted Hundred Phones before they unravel the fabric of their reality. The cost of salvation proves far higher than anyone anticipated. Episode 49 of ECHO//100: ARC. This is a work of original science-fiction, AI-assisted.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The city’s infrastructure is liquefying; every rotary and smartphone is crumbling into shimmering purple sand.",
+      "caption": "Phones turning to dust",
+      "image_prompt": "Vertical shot of a city street where vintage phones are dissolving into glowing purple sand particles.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi frantically taps his terminal, watching the Null-Void signal spikes climb toward a critical threshold.",
+      "caption": "Kavi hacking the void",
+      "image_prompt": "Kavi in his red hoodie and glasses, frantically typing on a floating holographic terminal.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s cyan face flickers, his orange antenna sparking as he locks the synchronization protocol into place.",
+      "caption": "Byte locking the protocol",
+      "image_prompt": "Byte, a white floating robot, with his orange antenna sparking intensely against a dark void.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Shadow emerges, his glitching form pulsing with the secrets of a thousand dead, failed timelines.",
+      "caption": "The Shadow appears",
+      "image_prompt": "The Shadow, a dark silhouette with red eyes, standing amidst swirling purple sand in Null-Void.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To stop the sync, someone must be erased, someone holding the blueprint of the entire loop.",
+      "caption": "The ultimate sacrifice",
+      "image_prompt": "Kavi and the Shadow staring at each other, a glowing red portal between them.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Shadow steps forward, offering his own existence as the catalyst for the system-wide purge.",
+      "caption": "Shadow offers deletion",
+      "image_prompt": "The Shadow pointing to himself, his body beginning to fray into digital static fragments.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi hesitates, then strikes the execution key, feeling the weight of the deletion command ripple outward.",
+      "caption": "Kavi executes the purge",
+      "image_prompt": "Kavi pressing a glowing red button on his backpack, light surging through his fingers.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Instead of the Shadow, the ground beneath Kavi cracks, and the New World begins dissolving away.",
+      "caption": "Reality starts collapsing",
+      "image_prompt": "Kavi looking down as the floor of the Null-Void turns into purple sand, falling apart.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "clockworkmoon",
+  "series_title": "THE CLOCKWORK MOON",
+  "episode": 7,
+  "episode_id": "clockworkmoon-ep007",
+  "output_slug": "clockworkmoon-episode007",
+  "title": "Her Mother Left a Door in Time | THE CLOCKWORK MOON Ep. 7",
+  "description": "The moon-key opens a workshop belonging to Anya's vanished mother.\n\nTHE CLOCKWORK MOON — Episode 7\nAn original animated story from KAAPAV ARC Studios.\n\n#ClockworkMoon #AnimatedSeries #Shorts",
+  "tags": [
+    "The Clockwork Moon",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "fantasy adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "MOTHER'S HIDDEN DOOR",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile brass clockwork, moon-silver magic and jewel-toned mountain environments, warm candlelight against cool lunar glow, coherent anatomy and props, emotionally truthful acting, adventurous rather than violent; preserve all locked character sheets exactly.",
+  "arc": "The Falling Minute",
+  "permanent_story_change": "Anya finds proof that Queen Elara entered the Moon Engine willingly.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The moon-key stops one ribbon of waterfall, revealing a dry door behind the rushing water.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The moon-key stops one ribbon of waterfall, revealing a dry door behind the rushing water.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Inside, clocks built by Queen Elara tick backward toward Anya's birth.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Inside, clocks built by Queen Elara tick backward toward Anya's birth.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Mara admits Elara was both queen and the last human Moon Winder.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Mara admits Elara was both queen and the last human Moon Winder.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. A recorded mechanical tableau shows Elara climbing a silver ladder into the moon during a famine.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A recorded mechanical tableau shows Elara climbing a silver ladder into the moon during a famine.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Vale told the kingdom she died, but her final clock still receives a heartbeat each midnight.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Vale told the kingdom she died, but her final clock still receives a heartbeat each midnight.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Anya wants to follow immediately; Mara insists the ladder opens only after all stolen minutes return.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya wants to follow immediately; Mara insists the ladder opens only after all stolen minutes return.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. They find a ledger showing Vale removed the first minute on the night Elara disappeared.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They find a ledger showing Vale removed the first minute on the night Elara disappeared.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Elara's heartbeat clock stops, then taps Anya's name in repair code.. Location lock: hidden workshop inside an unmoving waterfall. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Master Mara Vale (short elderly brown-skinned woman, sharp warm eyes, silver hair in a braided bun, plum mechanic robe, leather tool belt, round magnifying spectacles, left hand made of elegant brass fingers). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Elara's heartbeat clock stops, then taps Anya's name in repair code.",
+      "effect": "push_in"
+    }
+  ]
+}

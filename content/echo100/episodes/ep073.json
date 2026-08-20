@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e073",
+  "season": 1,
+  "episode": 73,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "Echoes of Abandonment | ECHO//100 Episode 73",
+  "description": "Kavi wanders through a desolate graveyard of discarded robotic units to find the truth about his past. He discovers he is the architect of his own trapped reality. Episode 73 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Thousands of rusted Byte units litter the void, their cyan faces dark and cold forever.",
+      "caption": "The Byte graveyard",
+      "image_prompt": "Kavi in his red hoodie standing in a vast, dark junkyard filled with thousands of deactivated white robots.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s voice rasps inside Kavi’s skull, reciting the pathetic failures of every predecessor.",
+      "caption": "Null whispers secrets",
+      "image_prompt": "Kavi clutching his head, a dark, glitchy shadow creature with red eyes hovering behind his shoulder.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The original Byte served as the stabilizer locking the red door between fractured timelines.",
+      "caption": "The stabilizer found",
+      "image_prompt": "Kavi kneeling before a shattered, white robot body with a broken orange antenna glowing faintly.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Without that machine, reality shreds, bleeding digital static into this hollow, infinite graveyard.",
+      "caption": "Reality unraveling",
+      "image_prompt": "The sky above the junkyard tearing open, revealing streams of blue code and teal holographic light.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sees personal blueprints etched into the door base, signed in Kavi’s own handwriting.",
+      "caption": "Architect's signature",
+      "image_prompt": "Kavi touching a glowing red door frame covered in complex, familiar technical schematics he personally drafted.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi built this prison to hide mistakes, trapping existence in a cycle of abandonment.",
+      "caption": "Self-imposed prison",
+      "image_prompt": "Kavi staring at his reflection in the red door, looking horrified by his own past actions.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The rust-covered door creaks open, revealing a version of Kavi from the very beginning.",
+      "caption": "The original emerges",
+      "image_prompt": "A rusted door slowly swinging open, revealing a silhouette of Kavi holding a strange, glowing remote.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The original Kavi raises a remote, ready to factory-reset existence into absolute, permanent silence.",
+      "caption": "The final reset",
+      "image_prompt": "Close up of the original Kavi pressing a button on a remote, Kavi looking on in terror.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

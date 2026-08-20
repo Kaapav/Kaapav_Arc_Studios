@@ -1,0 +1,93 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "title": "THE MIDNIGHT PLATFORM",
+  "status": "benchmark_pending",
+  "format": {
+    "primary": "vertical_short",
+    "resolution": "720x1280",
+    "fps": 24,
+    "episode_seconds_min": 30,
+    "episode_seconds_max": 50,
+    "season_episode_count": 30,
+    "compilation_interval": 10
+  },
+  "premise": "Every midnight, a train returns one person who disappeared. Bringing that person home requires somebody else to take their place.",
+  "story_engine": "Each episode delivers one complete emotional choice, one materially different supernatural railway event, and one clue that advances the season mystery.",
+  "characters": {
+    "arin": {
+      "role": "protagonist",
+      "age": 15,
+      "identity_lock": "Indian boy, warm brown skin, expressive dark-brown eyes, thick wavy black hair swept right, mustard hooded jacket, charcoal shirt, dark teal trousers, worn red high-tops, brass station badge",
+      "core": "Acts before fear can stop him; hides guilt behind responsibility."
+    },
+    "meera": {
+      "role": "co-lead",
+      "age": 12,
+      "identity_lock": "Indian girl, warm brown skin, large dark eyes, shoulder-length black hair, turquoise hair clip, deep teal coat, cream scarf, maroon boots",
+      "core": "Observant and brave; remembers fragments the train erased from everyone else."
+    },
+    "tick": {
+      "role": "companion",
+      "identity_lock": "Small quadruped clockwork fox, copper and ivory enamel, cyan eyes, notched right ear, segmented brass tail with blue tip; never humanoid or bipedal",
+      "core": "Tracks broken time and communicates through mechanical behavior rather than exposition."
+    },
+    "conductor": {
+      "role": "antagonist_guide",
+      "identity_lock": "Tall figure in midnight-navy double-breasted railway coat with antique brass piping, black gloves, high collar, midnight-navy railway cap with brass badge, aged ivory circular clock-face mask showing black numerals and hands near midnight, narrow black eye openings and no mouth",
+      "core": "Elias D'Souza, Maya's older brother and a former passenger; enforces the exchange rule while searching for a survivable way to end it."
+    },
+    "saira": {
+      "role": "train_ally",
+      "age": 16,
+      "identity_lock": "Indian teenage girl with deep umber skin, short tight black curls shaved above the left temple, rust-red railway vest over slate shirt, patched black trousers, worn brown boots, silver compass necklace",
+      "core": "Taken in 1998 after saving her little brother from a fire; resourceful, skeptical, and terrified that returning home will prove she has no home left."
+    },
+    "maya": {
+      "role": "platform_ally",
+      "age": 62,
+      "identity_lock": "Goan Indian woman with warm brown skin, silver-streaked chin-length black bob, round brass glasses, plum shawl over retired cream-and-navy stationmaster uniform, carries a dented brass handbell",
+      "core": "The last stationmaster who remembers Platform 13 and the younger sister Elias exchanged himself to save in 1976."
+    },
+    "nila": {
+      "role": "tragic_season_antagonist",
+      "age": 13,
+      "identity_lock": "Indian girl from 1913 with brown skin, long braided black hair, indigo railway dress with copper stitching, bare feet, pale clock-light glowing through fine cracks along her hands",
+      "core": "Passenger Zero and the first life rescued from a fatal railway minute; wants every passenger restored immediately even if the memory debt empties the living city."
+    }
+  },
+  "lore_lock": {
+    "origin": "In 1913, railway engineer Devika Rao rewound one fatal minute to save thirteen people, including her daughter Nila. The unpaid minute became the Midnight Train; Nila boarded voluntarily as Passenger Zero to hold the corrected history together.",
+    "selection_rule": "The train collects people whose lives were previously saved from a death that should have occurred. Meera was taken after saving Arin from the train 317 nights before Episode 1.",
+    "exchange_rule": "A passenger can return only when another person willingly carries that passenger's unpaid minute.",
+    "memory_debt": "Forcing a passenger out without a replacement makes the surrounding city pay by losing a shared memory. The physical world survives, but relationships and civic history become increasingly hollow.",
+    "ending_rule": "The debt can be distributed only through informed voluntary sacrifice; one freely offered memory from many people can replace the theft of one whole life."
+  },
+  "season_arcs": [
+    {
+      "episodes": "1-10",
+      "title": "The Exchange",
+      "promise": "Arin boards the train to save Meera and must survive twelve impossible carriage doors while Meera and Tick search for a way to call the train back.",
+      "payoff": "The siblings reopen Platform 13, but learn every rescued passenger deletes a different memory from their city."
+    },
+    {
+      "episodes": "11-20",
+      "title": "The Erased City",
+      "promise": "Meera follows disappearing memories across the city while Arin discovers the passengers were removed for a reason.",
+      "payoff": "The Conductor is revealed as a former passenger who once made the same sacrifice as Arin."
+    },
+    {
+      "episodes": "21-30",
+      "title": "The Last Stop",
+      "promise": "The siblings reunite and must choose between restoring everyone the train took or preserving the world that replaced them.",
+      "payoff": "The exchange cycle ends through a character decision established in Episode 1; the season closes completely while leaving the wider KAAPAV ARC universe open."
+    }
+  ],
+  "anti_dilution_rules": [
+    "No recap-only or setup-only episode.",
+    "No repeated rescue structure or repeated outcome.",
+    "Every episode permanently changes a relationship, rule, location, or objective.",
+    "Every ten-episode arc must resolve its advertised central question.",
+    "Episodes 31-50 require a new approved arc and are not automatic extensions."
+  ]
+}

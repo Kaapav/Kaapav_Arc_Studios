@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e072",
+  "season": 1,
+  "episode": 72,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "Shadow of the Glitch | ECHO//100 Episode 72",
+  "description": "Kavi confronts the entity Null within the crumbling digital graveyard of the Architect’s discarded experiments. This confrontation forces a permanent bond between the two disparate versions of reality. Episode 72 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Null’s purple static ripples, peeling back to reveal the hollow, weeping face of the first Kavi.",
+      "caption": "Null reveals Kavi's face",
+      "image_prompt": "Close-up of Null, a shadowy purple-black entity, with a human face resembling Kavi emerging through digital glitch pixels.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte floats backward in terror, his cyan display flickering while scanning the hybrid digital signature.",
+      "caption": "Byte scans the hybrid",
+      "image_prompt": "Byte, a small floating white robot with an orange antenna, backing away from Kavi, who wears a red hoodie and glasses.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches into the void, pulling data threads that reveal Null is the Architect’s trash bin.",
+      "caption": "Accessing the trash bin",
+      "image_prompt": "Kavi, wearing his backpack, reaching into glowing golden data streams that show discarded, failed iterations of himself.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every discarded version of Kavi trapped here screams in unison, begging for release from prison.",
+      "caption": "Discarded timelines screaming",
+      "image_prompt": "A vast, dark memory dump filled with translucent, glitching silhouettes of Kavi trapped in shattered glass containers.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s blue holographic coat flickers in Kavi’s mind, granting authority to rewrite the broken code.",
+      "caption": "Mira's power awakens",
+      "image_prompt": "Kavi standing tall, surrounded by a swirling aura of teal light emanating from his chest, projecting Mira's holographic form.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "New administrative access forces Null to his knees, stripping away control over the shifting architecture.",
+      "caption": "Kavi becomes administrator",
+      "image_prompt": "Null kneeling on a digital platform while Kavi stands over him, holding a glowing command interface in his hand.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The entity smiles, grasping Kavi’s shadow and tethering corrupted essence to the physical form forever.",
+      "caption": "Null grabs the shadow",
+      "image_prompt": "Null's dark hand reaching out to grab Kavi's shadow on the floor, creating a visible, glowing tether between them.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Gravity vanishes as Null drags Kavi screaming into the dark depths of the Architect’s broken timelines.",
+      "caption": "Dragged into the void",
+      "image_prompt": "Kavi being pulled downward into a swirling vortex of black and purple static, his face filled with sudden realization.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

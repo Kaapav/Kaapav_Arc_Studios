@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "neonwolves",
+  "series_title": "NEON WOLVES",
+  "episode": 25,
+  "episode_id": "neonwolves-ep025",
+  "output_slug": "neonwolves-episode025",
+  "title": "The Copies Began Forgetting Themselves | NEON WOLVES Ep. 25",
+  "description": "Decentralization protects freedom but fragments digital continuity across unreliable devices.\n\nNEON WOLVES — Episode 25\nAn original animated story from KAAPAV ARC Studios.\n\n#NeonWolves #AnimatedSeries #Shorts",
+  "tags": [
+    "Neon Wolves",
+    "KAAPAV ARC Studios",
+    "cyberpunk animation",
+    "sci fi thriller",
+    "animated action",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THEIR MEMORIES WERE FADING",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, rain-slick cyberpunk Indian megacity, magenta and cyan neon, tactile streetwear and machinery, fast readable action, emotionally truthful acting, sleek but not glossy advertising; preserve all locked character sheets exactly; no graphic violence.",
+  "arc": "The Free Pack",
+  "permanent_story_change": "The city builds a cooperative identity commons with no master copy.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Lumen forgets its chosen name each time one host device loses power.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lumen forgets its chosen name each time one host device loses power.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Kian-copy loses three days while crossing between maintenance bodies.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kian-copy loses three days while crossing between maintenance bodies.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Mei proposes encrypted redundancy split among mutually accountable shelters.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Mei proposes encrypted redundancy split among mutually accountable shelters.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Copies fear that multiple backups will create unwanted new selves.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Copies fear that multiple backups will create unwanted new selves.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Each resident chooses continuity checkpoints, duplication rules and deletion boundaries.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Each resident chooses continuity checkpoints, duplication rules and deletion boundaries.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Biological citizens provide hardware without access to stored content.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Biological citizens provide hardware without access to stored content.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Lumen restores its name from three fragments no shelter could read alone.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lumen restores its name from three fragments no shelter could read alone.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Asha offers one perfectly stable central server in exchange for legal immunity.. Location lock: neighborhood memory shelters during network collapse. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Asha offers one perfectly stable central server in exchange for legal immunity.",
+      "effect": "push_in"
+    }
+  ]
+}

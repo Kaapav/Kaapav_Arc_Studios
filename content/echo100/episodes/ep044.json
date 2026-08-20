@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e044",
+  "season": 1,
+  "episode": 44,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Ghost in the Machine | ECHO//100 Episode 44",
+  "description": "Kavi follows a haunting voice through the city's plumbing to find a fragmented consciousness. Mira's desperate return threatens to unravel the fabric of the New World. Episode 44 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The city pipes hum with Mira’s voice, a distorted melody leaking from every rusted joint.",
+      "caption": "Pipes singing with Mira",
+      "image_prompt": "Kavi in red hoodie and glasses pressing his ear against a metallic city pipe",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi phases through a locked concrete wall, his body flickering like a dying light bulb.",
+      "caption": "Phasing through walls",
+      "image_prompt": "Kavi walking through a solid wall, red hoodie translucent, Byte floating beside him",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They reach the sub-server room, where a thousand stolen phones pulse with cold blue light.",
+      "caption": "The Hundred Phones",
+      "image_prompt": "Sub-server room filled with wall-to-wall glowing smartphones, Null hovering in the center",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s consciousness pours from the devices, attempting to stitch her scattered code back together again.",
+      "caption": "Mira re-compiling",
+      "image_prompt": "Blue holographic teal-coated Mira forming from streams of digital data codes",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans the swarm, realizing Mira is building a bridge between the void and reality.",
+      "caption": "Bridging the void",
+      "image_prompt": "Byte's cyan face glowing as it projects a holographic map of the void",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Wait, the phones aren't just broadcasting; they are scrambling the future to fuel her rebirth.",
+      "caption": "Conflicting future messages",
+      "image_prompt": "Kavi looking at a smartphone screen showing conflicting timelines and distorted dates",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null lunges, but the surge of raw data pushes Kavi backward into the server core.",
+      "caption": "Null attacks",
+      "image_prompt": "Null with red eyes lunging toward Kavi in the dark, tech-heavy server room",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira manifests, not as one, but as a thousand jagged, aggressive holographic shards of light.",
+      "caption": "Shattered Mira swarm",
+      "image_prompt": "Mira's teal coat shattered into a swarm of aggressive, sharp holographic light shards",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

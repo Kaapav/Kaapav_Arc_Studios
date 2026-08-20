@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "endnightlibrary",
+  "series_title": "THE LIBRARY AT THE END OF NIGHT",
+  "episode": 24,
+  "episode_id": "endnightlibrary-ep024",
+  "output_slug": "endnightlibrary-episode024",
+  "title": "Kavya Chose Not to Stay Forever | THE LIBRARY AT THE END OF NIGHT Ep. 24",
+  "description": "Kavya refuses a permanent return built by overriding the life that continued without her.\n\nTHE LIBRARY AT THE END OF NIGHT — Episode 24\nAn original animated story from KAAPAV ARC Studios.\n\n#EndOfNightLibrary #AnimatedSeries #Shorts",
+  "tags": [
+    "The Library at the End of Night",
+    "KAAPAV ARC Studios",
+    "dark fantasy animation",
+    "magical library",
+    "mystery adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "MOTHER CHOSE ONE DAY",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, immense dark-fantasy library, midnight indigo, candle gold, ink-black shadows, floating books and impossible stairways, tactile paper and wood, emotionally truthful acting, eerie but not graphic; preserve all locked character sheets exactly.",
+  "arc": "The Open Ending",
+  "permanent_story_change": "Kavya chooses recurring visits while building a new independent future.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Kavya's one-day body begins turning into blank paper.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kavya's one-day body begins turning into blank paper.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. The punctuation seed could declare her return permanent.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The punctuation seed could declare her return permanent.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Aadi wants to use it before time removes her again.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Aadi wants to use it before time removes her again.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Kavya says love does not require pretending the lost years never happened.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kavya says love does not require pretending the lost years never happened.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. She chooses an ending where this visit completes but future doors remain negotiable.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She chooses an ending where this visit completes but future doors remain negotiable.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Aadi lets the day end and keeps no secret copy of her.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Aadi lets the day end and keeps no secret copy of her.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Kavya returns to a free field-book she can now leave by invitation.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kavya returns to a free field-book she can now leave by invitation.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The seed passes to the Library, which asks residents whether it should end.. Location lock: Aadi's waking bookshop at sunset. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Kavya Rao (Indian woman late thirties, warm brown skin, kind dark-hazel eyes, shoulder-length wavy black hair, moss-green explorer coat, maroon scarf matching Aadi's rust tone, leather satchel of blank books); The Library (endless midnight library of dark carved wood, candle constellations, floating spiral shelves, paper bridges, one enormous round dawn window, no literal face). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The seed passes to the Library, which asks residents whether it should end.",
+      "effect": "push_in"
+    }
+  ]
+}

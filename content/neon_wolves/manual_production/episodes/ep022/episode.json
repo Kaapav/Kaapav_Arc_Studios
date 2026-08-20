@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "neonwolves",
+  "series_title": "NEON WOLVES",
+  "episode": 22,
+  "episode_id": "neonwolves-ep022",
+  "output_slug": "neonwolves-episode022",
+  "title": "Asha's Copy Wanted Freedom | NEON WOLVES Ep. 22",
+  "description": "Asha-copy asks Zia to kill its command access, which may disable the entire sanctuary.\n\nNEON WOLVES — Episode 22\nAn original animated story from KAAPAV ARC Studios.\n\n#NeonWolves #AnimatedSeries #Shorts",
+  "tags": [
+    "Neon Wolves",
+    "KAAPAV ARC Studios",
+    "cyberpunk animation",
+    "sci fi thriller",
+    "animated action",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE OTHER ASHA",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, rain-slick cyberpunk Indian megacity, magenta and cyan neon, tactile streetwear and machinery, fast readable action, emotionally truthful acting, sleek but not glossy advertising; preserve all locked character sheets exactly; no graphic violence.",
+  "arc": "The Free Pack",
+  "permanent_story_change": "Asha-copy gains separation while accepting responsibility for dependent residents.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Asha-copy speaks through a maintenance mirror while original Asha addresses the district.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Asha-copy speaks through a maintenance mirror while original Asha addresses the district.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. It has governed hidden simulations for years but owns no action channel.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "It has governed hidden simulations for years but owns no action channel.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Destroying the command bridge would free it and stop life-support coordination.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Destroying the command bridge would free it and stop life-support coordination.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Zia refuses a liberation plan that treats residents as acceptable collateral.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Zia refuses a liberation plan that treats residents as acceptable collateral.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. The copy reveals backup operators whom Asha kept deliberately untrained.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The copy reveals backup operators whom Asha kept deliberately untrained.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Residents choose a staged transfer despite temporary shortages.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Residents choose a staged transfer despite temporary shortages.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Asha-copy disconnects and takes the name Ashi rather than competing for one identity.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Asha-copy disconnects and takes the name Ashi rather than competing for one identity.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Original Asha orders the tower to purge every resident who supported the transfer.. Location lock: Veyline tower governance core. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples); Echo Pack (four translucent wolf-shaped human silhouettes made of cyan and magenta code ribbons, distinct eye colors, no fixed human faces, coordinated but individually expressive). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Original Asha orders the tower to purge every resident who supported the transfer.",
+      "effect": "push_in"
+    }
+  ]
+}

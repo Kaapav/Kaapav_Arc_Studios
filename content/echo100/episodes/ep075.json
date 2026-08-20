@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e075",
+  "season": 1,
+  "episode": 75,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "Cascading Reality | ECHO//100 Episode 75",
+  "description": "Gravity inverts as the collapsing doorway threatens to erase the loop's foundation forever. Kavi must harvest Mira's data from a corrupted Byte before the origin point consumes them. Episode 75 of ECHO//100: The First Kavi. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The floor transforms into sky, dragging the chamber toward the bleeding red light ahead.",
+      "caption": "Gravity inverts violently",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie and glasses, floating upward toward a glowing red aperture in the ceiling.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s archive pulses in Kavi’s palm, anchoring a crumbling reality against total, inevitable collapse.",
+      "caption": "Archive stabilizes Kavi",
+      "image_prompt": "Close up of Kavi holding a glowing blue digital data orb, his backpack straps floating against his chest.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "That crimson glow offers no future portal, but a direct window into the first cycle.",
+      "caption": "Gateway to the beginning",
+      "image_prompt": "Wide shot of the Distortion Zone, red light revealing flashes of the original laboratory from the first loop.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for Byte’s dormant frame, desperate to upload the patch before walls dissolve.",
+      "caption": "Reaching for Byte",
+      "image_prompt": "Kavi floating toward the deactivated white floating robot, Byte, whose orange antenna is flickering dim.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The core stabilizes, yet static screams through the room as the data transfer stalls.",
+      "caption": "Data transfer fails",
+      "image_prompt": "Electric blue sparks arc between Kavi’s hand and Byte’s metallic casing, illuminating the dark void.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s eyes snap open, burning with Mira’s unmistakable blue light instead of soft cyan.",
+      "caption": "Byte is reactivated",
+      "image_prompt": "Close up of Byte’s face, his eyes glowing intense blue, mirroring Mira’s holographic signature.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The machine’s voice shifts, shedding mechanical tones for the haunting, familiar cadence of Mira.",
+      "caption": "Mira speaks through Byte",
+      "image_prompt": "Byte floating upright, surrounded by blue holographic particles, looking directly at a shocked Kavi.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira commands Kavi to run, for the First version waits patiently beyond the reality.",
+      "caption": "The First Kavi waits",
+      "image_prompt": "A shadowy figure wearing an identical red hoodie stands inside the red doorway, silhouette visible against the light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

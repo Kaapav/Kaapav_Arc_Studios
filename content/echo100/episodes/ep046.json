@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e046",
+  "season": 1,
+  "episode": 46,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "The Archive Within | ECHO//100 Episode 46",
+  "description": "Kavi struggles to contain the flood of historical data rewriting his physical consciousness. He discovers the city's impending system update is a trap designed to erase existence. Episode 46 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Glowing lines of raw code crawl beneath Kavi's skin, burning like liquid neon circuits.",
+      "caption": "Kavi's skin glows",
+      "image_prompt": "Kavi in his red hoodie and glasses, glowing blue code patterns pulsing under his arm skin, dark room.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Hundred Phones hum in unison, signaling a city-wide update overwriting all existing reality.",
+      "caption": "Phones pulse rhythmically",
+      "image_prompt": "One hundred floating black smartphones vibrating with orange light in a circular formation around Kavi.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers as the Archive’s data surges, threatening to dissolve Kavi's memories into binary.",
+      "caption": "Byte is destabilizing",
+      "image_prompt": "Byte, the white floating bot with a cyan face, glitching and flickering beside a terrified Kavi.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A shadow figure emerges from the digital mist, wielding blades of shattered, forgotten time.",
+      "caption": "Shadow entity appears",
+      "image_prompt": "A tall, black-purple glitch figure named Null with glowing red eyes emerging from swirling blue shards.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi prepares to strike the shadow, unaware he holds the only key to survival.",
+      "caption": "Kavi readies weapon",
+      "image_prompt": "Kavi holding a glowing digital baton, facing the menacing Null in the shimmering Mental Archive.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null halts the blade, revealing an intent to prevent the update, not cause destruction.",
+      "caption": "Null blocks strike",
+      "image_prompt": "Null catching Kavi's weapon mid-air, purple glitch energy clashing against Kavi's blue digital light.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow drops his guard, his face shifting into a haunting reflection of Kavi.",
+      "caption": "Shadow reveals face",
+      "image_prompt": "Null's face morphing into a younger, hollow-eyed version of Kavi wearing the same red hoodie.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He whispers that he is the original Kavi, the one who never survived the loop.",
+      "caption": "The terrifying truth",
+      "image_prompt": "Kavi staring in shock at his own face on Null, the Archive background dissolving into white noise.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

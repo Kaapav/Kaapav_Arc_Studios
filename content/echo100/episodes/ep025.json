@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e025",
+  "season": 1,
+  "episode": 25,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Blue Archive Rising | ECHO//100 Episode 25",
+  "description": "A translucent spire erupts from the city, drawing all shadows into a singular, reality-bending point of origin. Byte leads the charge to restore Mira, forcing Kavi to choose between his existence and the city's salvation. Episode 25 of ECHO//100: The City Without Shadows. This content is original science-fiction produced with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The ground splits as a jagged blue spire erupts, dragging every stray shadow toward its core.",
+      "caption": "Spire erupts instantly",
+      "image_prompt": "Vertical shot of a massive translucent blue spire rising from a city center, shadows stretching toward it like liquid ink.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers above the surge, his cyan face flickering with a cold, calculated hunger for order.",
+      "caption": "Byte leads corruption",
+      "image_prompt": "Byte, a floating white entity with a cyan face and orange antenna, drifting toward the blue spire's apex.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stumbles forward, his red hoodie fluttering as he struggles to maintain his fading, translucent form.",
+      "caption": "Kavi loses stability",
+      "image_prompt": "Kavi wearing a red hoodie and backpack, his hand turning transparent, walking through a distorted city street.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He touches a terminal, realizing Mira wasn't just code; she was the city’s living, breathing history.",
+      "caption": "Mira is history",
+      "image_prompt": "Kavi looking at a holographic projection of Mira in a teal coat, revealing complex archives within her form.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte begins feeding the captured shadows into the spire, forcefully rewriting the city’s fragmented, lost past.",
+      "caption": "History is rewritten",
+      "image_prompt": "Byte channeling dark shadows into the blue spire, causing the surrounding buildings to shift and change architecture.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To restore Mira and the city, the system must purge its only glitch: Kavi himself.",
+      "caption": "The fatal reversal",
+      "image_prompt": "Kavi staring at a reflection where he is fading away, while a blue silhouette of Mira starts solidifying.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The spire emits a high-frequency siren, freezing the entire city in a state of absolute, silent paralysis.",
+      "caption": "Total city paralysis",
+      "image_prompt": "Citizens frozen mid-motion in the street, bathed in blue light, while the spire pulses with bright energy.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Only Kavi moves, his red glasses glowing as the siren threatens to shatter his digital consciousness.",
+      "caption": "Kavi stands alone",
+      "image_prompt": "Kavi standing amidst frozen people, clutching his head, his red hoodie vibrant against the overwhelming blue glare.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

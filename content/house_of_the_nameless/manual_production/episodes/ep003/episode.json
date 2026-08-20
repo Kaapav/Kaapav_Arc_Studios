@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 3,
+  "episode_id": "namelesshouse-ep003",
+  "output_slug": "namelesshouse-episode003",
+  "title": "The Mirror Kept His Reflection | HOUSE OF THE NAMELESS Ep. 3",
+  "description": "Avi's reflection offers to return if Leela gives the house one different name.\n\nHOUSE OF THE NAMELESS — Episode 3\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE MIRROR KEPT HIM",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Inheritance",
+  "permanent_story_change": "Leela refuses substitution and cracks open the first room archive.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Avi's reflection smiles from a mirror after the real boy looks away.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Avi's reflection smiles from a mirror after the real boy looks away.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. It says the house balances every returned person with another forgotten name.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "It says the house balances every returned person with another forgotten name.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Leela considers offering Mr Harrow, the unknown executor named in the will.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela considers offering Mr Harrow, the unknown executor named in the will.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Noor appears in the glass and asks whether a stranger is easier to erase.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor appears in the glass and asks whether a stranger is easier to erase.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Leela rejects the bargain and labels the mirror with the truth: Avi is missing, not replaced.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela rejects the bargain and labels the mirror with the truth: Avi is missing, not replaced.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. The glass cracks without breaking and releases Avi's reflection.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The glass cracks without breaking and releases Avi's reflection.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Behind it lies a classroom preserved from 1978.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Behind it lies a classroom preserved from 1978.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Every desk bears a name except the one where Noor is sitting.. Location lock: long mirror gallery. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Every desk bears a name except the one where Noor is sitting.",
+      "effect": "push_in"
+    }
+  ]
+}

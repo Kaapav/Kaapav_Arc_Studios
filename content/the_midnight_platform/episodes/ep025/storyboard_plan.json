@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep025",
+  "episode_number": 25,
+  "arc": 3,
+  "title": "Arin Gave Away Her Face",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Elias reveals the engine door opens only for a passenger who pays a memory equal to the person they most want to save.",
+      "dialogue_audio": "Elias: “It will ask for Meera.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Arin holds his cracked badge as it plays his oldest memory: toddler Meera asleep on his shoulder during a monsoon blackout.",
+      "dialogue_audio": "Arin: “If I give this, will I know her?”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Through the train window, Meera understands and presses her palm to the glass, choosing not to stop him.",
+      "dialogue_audio": "Meera: “You taught the city my name.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Arin inserts the badge. Meera’s face drains from his memories into the lock; the engine door opens.",
+      "dialogue_audio": "Arin: “Take the memory. Not my choice.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Meera stands before him, but he looks at her as a stranger; Tick projects the twelve witness memories around her.",
+      "dialogue_audio": "Arin: “I don’t remember you.” Meera: “You don’t have to do it alone.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Arin takes her hand based on trust rather than recognition and leads her into the engine.",
+      "dialogue_audio": "Arin: “Tell me who we are while we run.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "LOVE SURVIVED WITHOUT THE MEMORY"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

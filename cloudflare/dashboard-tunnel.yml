@@ -1,0 +1,10 @@
+tunnel: d109d7ae-2781-44fd-adb9-6270f85a80e9
+credentials-file: C:\Users\Kawshik\.cloudflared\d109d7ae-2781-44fd-adb9-6270f85a80e9.json
+
+ingress:
+  - hostname: yt.kaapav.com
+    service: http://127.0.0.1:8765
+    originRequest:
+      httpHostHeader: kaapav-dashboard-tunnel.internal
+      connectTimeout: 10s
+  - service: http_status:404

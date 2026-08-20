@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e069",
+  "season": 1,
+  "episode": 69,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "System Purge | ECHO//100 Episode 69",
+  "description": "Mira races to the Architect's core to end the cycle of manufactured happiness. She discovers that saving the child requires erasing her own existence. Episode 69 of ECHO//100: ARC. This is an AI-assisted original-fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The digital eraser scythes through the garden, vaporizing every tree into static and cold binary.",
+      "caption": "Eraser scythes garden",
+      "image_prompt": "A massive digital wall of white noise tearing through a lush holographic forest, Mira sprinting away.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The narrator shoves the boy through the glowing archive rift, abandoning the silent, crumbling garden.",
+      "caption": "Shoving through rift",
+      "image_prompt": "Mira pushing a young boy in a red hoodie into a swirling neon-blue portal, digital debris falling.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Both figures tumble into the Origin Chamber, where the Architect’s source code pulses like stars.",
+      "caption": "Inside Origin Chamber",
+      "image_prompt": "Mira and the boy standing in a vast, dark room filled with floating lines of golden light.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A solitary button floats at the center, promising to silence the system that enslaved Kavi.",
+      "caption": "The terminal button",
+      "image_prompt": "A singular, glowing white button hovering on a pedestal, reflecting in Mira’s teal holographic eyes.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The database confirms the truth: pressing this terminates the Architect and every sentient file here.",
+      "caption": "System termination warning",
+      "image_prompt": "Mira looking at a holographic warning screen displaying her own file marked for permanent deletion.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Pulling the plug ends the narrator's existence alongside the system keeping the boy trapped forever.",
+      "caption": "Sacrifice revealed",
+      "image_prompt": "Mira’s hand hovering over the button, her holographic body flickering with translucent transparency.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The boy stands, his features sharpening into the teenage Kavi the narrator once fought saving.",
+      "caption": "Kavi aging rapidly",
+      "image_prompt": "The boy in the red hoodie rapidly transforming, his face maturing into a teenager with familiar glasses.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The narrator watches the teenager, presses the button down, and prepares to blink from reality.",
+      "caption": "Final choice",
+      "image_prompt": "Mira pressing the button, looking back at the teenage Kavi as her hand begins to dissolve.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

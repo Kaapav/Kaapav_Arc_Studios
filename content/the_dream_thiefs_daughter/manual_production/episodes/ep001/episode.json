@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "dreamthiefdaughter",
+  "series_title": "THE DREAM THIEF'S DAUGHTER",
+  "episode": 1,
+  "episode_id": "dreamthiefdaughter-ep001",
+  "output_slug": "dreamthiefdaughter-episode001",
+  "title": "Her Father Stole Her Last Dream | THE DREAM THIEF'S DAUGHTER Ep. 1",
+  "description": "Amaya wakes from a dreamless birthday and finds her missing father's compass pointing inside her sleep.\n\nTHE DREAM THIEF'S DAUGHTER — Episode 1\nAn original animated story from KAAPAV ARC Studios.\n\n#DreamThiefsDaughter #AnimatedSeries #Shorts",
+  "tags": [
+    "The Dream Thief's Daughter",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "dream mystery",
+    "emotional adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HER DREAM WAS EMPTY",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile Indian twilight city, floating dream fabrics, luminous indigo, coral and gold, handcrafted surreal environments, emotionally truthful acting, beautiful but never sugary, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Empty Sleep",
+  "permanent_story_change": "Amaya enters her first stolen dream and awakens Moth.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. On her fourteenth birthday, Amaya wakes remembering no dream and no decision she made the previous day.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "On her fourteenth birthday, Amaya wakes remembering no dream and no decision she made the previous day.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Her missing father's silver compass spins whenever she closes her eyes.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Her missing father's silver compass spins whenever she closes her eyes.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Leena dismisses it as grief and locks Dev's remaining dream-vials away.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leena dismisses it as grief and locks Dev's remaining dream-vials away.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Amaya falls asleep holding the compass and wakes inside a vast white room.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya falls asleep holding the compass and wakes inside a vast white room.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. One tiny indigo moth creature beats against a sealed glass memory.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "One tiny indigo moth creature beats against a sealed glass memory.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Amaya opens it and remembers choosing to search for Dev before that choice vanished.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya opens it and remembers choosing to search for Dev before that choice vanished.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. The creature becomes Moth and projects Dev stealing Amaya's final dream.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The creature becomes Moth and projects Dev stealing Amaya's final dream.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Dev's voice warns from the white horizon: do not let the Lucidarium wake you.. Location lock: Amaya's twilight bedroom and an empty white dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev's voice warns from the white horizon: do not let the Lucidarium wake you.",
+      "effect": "push_in"
+    }
+  ]
+}

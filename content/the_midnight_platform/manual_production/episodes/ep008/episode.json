@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 8,
+  "episode_id": "the-midnight-platform-ep008",
+  "output_slug": "the-midnight-platform-episode008",
+  "title": "The Night Everyone Forgot the Moon | MIDNIGHT PLATFORM Ep. 8",
+  "description": "The Night Everyone Forgot the Moon. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 8\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NIGHT EVERYONE FORGOT THE MOON",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep008\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep008\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Meera, Maya, and quadruped Tick align thirteen station mirrors into a ring around the brass handbell. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “One signal cost a minute. Two may cost the city.”",
+      "dialogue_audio": "Maya: “One signal cost a minute. Two may cost the city.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Meera rings anyway. Above them the full moon flickers like a faulty lamp while Arin appears across all mirrors. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “Arin, the route says Car Four.”",
+      "dialogue_audio": "Meera: “Arin, the route says Car Four.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Arin shouts back from the train as Nila’s glowing cracks spread across the mirrored sky. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Arin: “Don’t call again. It charges everyone.”",
+      "dialogue_audio": "Arin: “Don’t call again. It charges everyone.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. The signal breaks. People across the city look up at a bright circle they can see but cannot name. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Child in street: “What is that light?”",
+      "dialogue_audio": "Child in street: “What is that light?”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. Maya opens a schoolbook: every moon illustration remains, but every printed label is blank under clean editorial masking. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “A shared memory. Taken whole.”",
+      "dialogue_audio": "Maya: “A shared memory. Taken whole.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. Meera writes MOON on her palm before she forgets, then looks up and says the word to Tick. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “We remember for them.”",
+      "dialogue_audio": "Meera: “We remember for them.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

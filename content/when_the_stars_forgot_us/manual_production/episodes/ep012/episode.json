@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "starsforgotus",
+  "series_title": "WHEN THE STARS FORGOT US",
+  "episode": 12,
+  "episode_id": "starsforgotus-ep012",
+  "output_slug": "starsforgotus-episode012",
+  "title": "The Lighthouse Had Forgotten Its Builders | WHEN THE STARS FORGOT US Ep. 12",
+  "description": "The Array treats its human creators as unknown intruders.\n\nWHEN THE STARS FORGOT US — Episode 12\nAn original animated story from KAAPAV ARC Studios.\n\n#WhenTheStarsForgotUs #AnimatedSeries #Shorts",
+  "tags": [
+    "When the Stars Forgot Us",
+    "KAAPAV ARC Studios",
+    "cosmic mystery",
+    "sci fi drama",
+    "animated space story",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE MACHINE DIDN'T KNOW US",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, grounded near-future Indian hill observatory, deep indigo skies, restrained cyan instruments, warm amber homes, breathtaking cosmic scale, tactile cloth and hardware, emotionally truthful acting; preserve all locked character sheets exactly; no graphic harm.",
+  "arc": "The Lighthouse",
+  "permanent_story_change": "Anvi enters through Neel's personal memory channel rather than command authority.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The Array rejects Sana's access ring as an object without history.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Array rejects Sana's access ring as an object without history.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Defense mirrors bend the craft's own light into blinding loops.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Defense mirrors bend the craft's own light into blinding loops.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Anvi refuses to identify Earth through a full unfiltered broadcast.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anvi refuses to identify Earth through a full unfiltered broadcast.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Neel sends the rhythm of a childhood hand game through one thread.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Neel sends the rhythm of a childhood hand game through one thread.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Jo verifies the rhythm as relational evidence, not a universal password.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Jo verifies the rhythm as relational evidence, not a universal password.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. The Array opens a passage limited to Anvi's current signal.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Array opens a passage limited to Anvi's current signal.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Lumi marks an exit before they cross so consent remains reversible.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lumi marks an exit before they cross so consent remains reversible.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Inside, millions of forgotten stars orbit Neel's sleeping body.. Location lock: outer ring of the Lighthouse Array. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist); Aster (tall humanlike silhouette made from deep-space darkness, thousands of soft gold star points, one gentle cyan face-light without features, flowing edges like nebula dust). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Inside, millions of forgotten stars orbit Neel's sleeping body.",
+      "effect": "push_in"
+    }
+  ]
+}

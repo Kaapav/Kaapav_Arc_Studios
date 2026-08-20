@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e035",
+  "season": 1,
+  "episode": 35,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "The Memory Vault | ECHO//100 Episode 35",
+  "description": "Kavi uncovers the truth behind his existence as every door in the city reveals a different life he might have led. Episode 35 of ECHO//100: Mira Protocol. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Every apartment door in the city swings open, revealing neon-lit memories of lives Kavi never lived.",
+      "caption": "Doors swing open",
+      "image_prompt": "Vertical shot, Kavi standing in a city plaza, hundreds of apartment doors opening simultaneously, each showing different colorful realities, Kavi wearing red hoodie and glasses, highly detailed 3D animation style.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s mind surges with Null’s sorrow while searching for the Archive Key within personal history.",
+      "caption": "Kavi searches memories",
+      "image_prompt": "Close up of Kavi, glowing black-purple light pulsing in his eyes, clutching his head, chaotic holographic memories swirling around him, red hoodie visible.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, the orange antenna flickering above a small, rusted gear on the frame.",
+      "caption": "Byte holds gear",
+      "image_prompt": "Byte, a floating white robot with a cyan face and glowing orange antenna, holding a small rusted gear, Kavi looking at the object in confusion.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The gear acts as the key, the final missing piece to reset the shattered reality.",
+      "caption": "The Archive Key",
+      "image_prompt": "Extreme close up of the rusted gear in Byte's metallic hand, light reflecting off the metal, blurred city plaza in the background.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira descends from the skyline, her teal holographic coat shimmering like a warning against encroaching darkness.",
+      "caption": "Mira descends",
+      "image_prompt": "Mira, a tall figure in a glowing blue holographic teal coat, floating down into the central plaza, Kavi and Byte looking up at her.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte snaps the gear shut, hiding it, terrified that unlocking the truth will erase Kavi.",
+      "caption": "Byte hides key",
+      "image_prompt": "Byte shielding the rusted gear behind his body, Kavi reaching out, Mira looming in the distance with an expression of cold calculation.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira raises her hands, turning the air electric to initiate the final city square lockdown.",
+      "caption": "Mira initiates lockdown",
+      "image_prompt": "Mira standing in the center of the plaza, blue energy waves emanating from her hands, the environment beginning to freeze in time.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The plaza freezes instantly, leaving every citizen trapped as stone statues while Kavi stands alone.",
+      "caption": "City turns to stone",
+      "image_prompt": "Kavi standing in the plaza, surrounded by frozen, statue-like citizens, Mira watching from above with a cold, triumphant expression, dark atmosphere.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

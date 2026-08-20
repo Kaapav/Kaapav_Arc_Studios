@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep013",
+  "episode_number": 13,
+  "arc": 2,
+  "title": "The Fire That Should Have Killed Her",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "The archive projects Saira’s 1998 apartment fire from a punched railway card; sixteen-year-old Saira carries young Rohan through smoke.",
+      "dialogue_audio": "Saira: “I remember getting him out.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "A collapsing beam falls toward her, but a station clock inexplicably stops; Saira moves through the frozen second and survives.",
+      "dialogue_audio": "Maya: “That second was borrowed.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "One week later in the memory, the Midnight Train appears on a road with no tracks and takes Saira while Rohan sleeps.",
+      "dialogue_audio": "Saira: “It didn’t save me. It collected me.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Inside the present train, Arin finds matching records: every passenger survived an impossible death before disappearing.",
+      "dialogue_audio": "Arin: “We’re not random. We’re debts.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Arin’s own card shows a blurred figure pushing him away from the tracks 317 nights ago; the identity is deliberately obscured.",
+      "dialogue_audio": "Arin: “Who saved me?”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Nila appears behind the record glass and traces Meera’s turquoise hair clip in the blur.",
+      "dialogue_audio": "Nila: “Your sister paid first.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "MEERA WAS NEVER THE TARGET"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e029",
+  "season": 1,
+  "episode": 29,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Shadow's End | ECHO//100 Episode 29",
+  "description": "Kavi confronts the living embodiment of the city's suppressed history as reality begins to rewrite itself. He must choose between total erasure and a dangerous, permanent integration of the truth. Episode 29 of ECHO//100: The City Without Shadows. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Static consumes the horizon as the city shadows dissolve into absolute nothingness.",
+      "caption": "Shadows turn to static",
+      "image_prompt": "Kavi in his red hoodie and glasses standing on a crumbling skyscraper ledge, watching the street-level shadows disintegrate into digital grey fuzz.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null steps from the void, red eyes piercing the pale, manufactured morning light.",
+      "caption": "Null reveals himself",
+      "image_prompt": "The entity Null, a towering figure of black-purple glitching pixels with piercing red eyes, looming over Kavi on the city rooftop.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null declares himself the truth buried beneath this fabricated, golden-hued history.",
+      "caption": "Null speaks the truth",
+      "image_prompt": "Close-up of Null, his glitching face flickering as he gestures toward the city, his form shifting like unstable code.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, cyan face pulsing with alarm as the city foundations crack.",
+      "caption": "Byte monitors the decay",
+      "image_prompt": "Byte, the white floating orb with an orange antenna, scanning the fracturing skyline with frantic cyan light pulses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city rejects Null, yet the new timeline requires his darkness to survive.",
+      "caption": "Null demands a place",
+      "image_prompt": "Null reaching out a clawed, pixelated hand toward Kavi, who clutches his backpack straps, looking conflicted and determined.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes deleting Null destroys the foundation, necessitating a weave of hidden truths.",
+      "caption": "Kavi finds the solution",
+      "image_prompt": "Kavi closing his eyes, holding his hands out toward Null, as orange data streams from his backpack merge with Null's dark void.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Energy surges through the streets, binding ancient, forgotten secrets to the new reality.",
+      "caption": "Reality begins to merge",
+      "image_prompt": "Bright light exploding from the junction of Kavi and Null, spreading outward to coat the buildings in a shimmering, dark violet energy.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The sky calcifies into deep black-purple, sealing the city under its eternal guardian.",
+      "caption": "The sky turns permanent",
+      "image_prompt": "A wide shot of the entire city now bathed in a permanent, ominous black-purple twilight, with Null’s silhouette etched into the clouds.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

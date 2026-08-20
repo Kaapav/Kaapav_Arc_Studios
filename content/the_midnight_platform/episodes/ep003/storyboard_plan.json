@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep003",
+  "episode_number": 3,
+  "arc": 1,
+  "title": "The Platform Inside the Mirror",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "At 11:59 PM, Meera aims a cracked station mirror across the abandoned tracks; the real platform is empty, but the reflection shows Arin’s moving train.",
+      "dialogue_audio": "Meera: “Tick. He’s still on it.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Tick remains quadruped and projects cyan clock marks onto the mirror; his notched ear rotates toward an unheard bell.",
+      "dialogue_audio": "Meera: “You can hear the train?”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "A dented brass handbell enters frame. Maya D’Souza, in retired stationmaster uniform and plum shawl, stands behind them.",
+      "dialogue_audio": "Maya: “No. He hears what the train owes.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Maya unlocks a tiled wall that city maps show as solid; behind it is a sealed arch labelled only with clean editorial text PLATFORM 13.",
+      "dialogue_audio": "Meera: “Who erased this?” Maya: “Everyone.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Maya opens her ledger: faces remain in old photographs, but their names and surrounding memories are blank.",
+      "dialogue_audio": "Maya: “The train doesn’t hide people. It edits the goodbye.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "In the mirror, Arin turns as though he hears Meera. She rings Maya’s bell once; the reflection fractures into thirteen doors.",
+      "dialogue_audio": "Meera: “Then we make it remember us.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CITY FORGOT AN ENTIRE PLATFORM"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

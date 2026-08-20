@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 12,
+  "episode_id": "the-midnight-platform-ep012",
+  "output_slug": "the-midnight-platform-episode012",
+  "title": "Saira Came Home 28 Years Late | MIDNIGHT PLATFORM Ep. 12",
+  "description": "Saira Came Home 28 Years Late. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 12\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "SAIRA CAME HOME 28 YEARS",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep012\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep012\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Saira watches thirty-six-year-old Rohan lock a small bicycle shop; he wears her silver compass symbol as a faded tattoo. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira, whisper: “He kept looking.”",
+      "dialogue_audio": "Saira, whisper: “He kept looking.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Rohan notices her across the road and freezes—the exact face from the missing poster he has carried for decades. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Rohan: “Saira?”",
+      "dialogue_audio": "Rohan: “Saira?”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Saira starts toward him, but nearby street signs and faces lose detail as the memory debt wakes around her. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Maya: “If he remembers you all at once, something else disappears.”",
+      "dialogue_audio": "Maya: “If he remembers you all at once, something else disappears.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Saira steps back into shadow and phones the shop instead, hearing her brother’s voice without claiming her place. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “Did your sister like trains?” Rohan: “She hated goodbyes.”",
+      "dialogue_audio": "Saira: “Did your sister like trains?” Rohan: “She hated goodbyes.”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. Rohan turns toward the empty street while Saira silently breaks; Meera takes her hand without a speech. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Rohan: “Who is this?” Saira: “Someone who found her.”",
+      "dialogue_audio": "Rohan: “Who is this?” Saira: “Someone who found her.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. In the archive, Saira adds her own photograph to a board of returned passengers and writes NOT HOME YET beneath it. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “We end the debt first. Then I knock.”",
+      "dialogue_audio": "Saira: “We end the debt first. Then I knock.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

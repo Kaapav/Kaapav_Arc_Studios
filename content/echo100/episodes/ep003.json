@@ -1,0 +1,104 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e003",
+  "season": 1,
+  "episode": 3,
+  "status": "published",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "The Archive Pulse | ECHO//100 Episode 3",
+  "description": "Kavi navigates a city turned against him after his face appears on every digital billboard. He discovers that his companion Mira holds the secret to his own mysterious origins. Episode 3 of ECHO//100: ARC. This story is an original work of fiction created with the assistance of artificial intelligence.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Null’s pixelated hand tears through the phone, dragging the arcade floor into a digital abyss.",
+      "caption": "Null emerges from screen",
+      "image_prompt": "Kavi in red hoodie backing away from a glowing phone screen, jagged purple pixels forming a claw, abandoned neon arcade background, vertical 9:16.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sprints into neon rain as every city screen displays a face in pure terror.",
+      "caption": "Kavi's face everywhere",
+      "image_prompt": "Kavi running through wet city streets, giant digital billboards reflecting his face, blue holographic rain, vertical 9:16.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Sirens wail while authorities close in, treating the existence of Kavi as a system breach.",
+      "caption": "Authorities closing in",
+      "image_prompt": "Police drones hovering above Kavi, red searchlights scanning the alleyway, Kavi hiding behind a rusted dumpster, vertical 9:16.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte pulses frantically, projecting a complex, glowing map of the Red Door’s hidden internal architecture.",
+      "caption": "Byte displays map",
+      "image_prompt": "Byte the floating robot with cyan face, orange antenna glowing, projecting a complex 3D holographic map, Kavi watching intently, vertical 9:16.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira flickers into view, her teal coat shimmering as she blocks a strike from Null.",
+      "caption": "Mira fights Null",
+      "image_prompt": "Mira in teal holographic coat shielding Kavi, deflecting jagged purple energy from Null, city grid background, vertical 9:16.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira is no rogue program, but the fail-safe a future version of Kavi built earlier.",
+      "caption": "Mira is the fail-safe",
+      "image_prompt": "Close up on Mira, face glowing with soft blue light, looking at Kavi with recognition, vertical 9:16.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow of Kavi stands still beneath a streetlamp, pointing silently toward the Red Door.",
+      "caption": "Shadow points the way",
+      "image_prompt": "Kavi's shadow detached from his feet on the sidewalk, pointing at a mysterious heavy red door in a wall, vertical 9:16.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches into a pocket and pulls out a physical key, despite never touching it.",
+      "caption": "The mysterious key",
+      "image_prompt": "Kavi's hand holding a glowing ornate metallic key, the Red Door looming in the background, vertical 9:16.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T09:47:14",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-091829-echo100-s01e003",
+  "review_id": "20260804-094714-232142",
+  "youtube_url": "https://youtu.be/Bast4zpJqGs",
+  "upload_error": null,
+  "published_at": "2026-08-04T09:50:40",
+  "youtube_id": "Bast4zpJqGs",
+  "last_error": null
+}

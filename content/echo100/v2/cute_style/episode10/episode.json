@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 10,
+  "episode_id": "echo30-v2-s01e010-cute",
+  "output_slug": "echo30-v2-episode10-cute",
+  "title": "Every Escape Freed One Prisoner by Erasing a Family | ECHO//30 Ep. 10",
+  "description": "Imran reveals why he stopped trying to escape the Missing Hour: every rescue erased another innocent family in Navapur. Tara refuses to accept that no fair solution exists—but Kavi secretly follows a route sent by his future voice.\n\nThe route leads to the temporal core, where the Red Door should reopen without a human exchange. Instead, Byte plays an order recorded by an older Kavi. The Door seals into black metal, and Tara finally sees the message Kavi hid from her.\n\nECHO//30 — Episode 10: Byte Closes the Lock\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\nSubscribe to follow the mystery: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "animated short",
+    "3D animated short",
+    "sci fi animation",
+    "mystery animation",
+    "future self mystery",
+    "time loop story",
+    "robot betrayal",
+    "original animation",
+    "cinematic animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HE SEALED THEM IN",
+  "thumbnail_scene": 7,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with locked ECHO//30 character designs, expressive acting, dramatic cyan/amber/red lighting, coherent props and environments, no readable text, watermark, duplicate characters, extra limbs, identity drift or costume changes.",
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "Imran explains the human cost of earlier escape attempts beside memorial glass where paired family silhouettes fade into dust; Tara, Kavi and Mira react in horror.",
+      "text": "Imran revealed that every escape attempt freed one prisoner by erasing an innocent family in Navapur. He had stopped trying.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "Intimate Tara and Imran confrontation connected by their matching red cable; Tara argues for a fair exchange while Imran rejects the idea of a fair victim.",
+      "text": "Tara insisted they could find a fair exchange. Imran answered that a fair victim was still a victim.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "Kavi conceals a normal-sized cracked phone projecting an abstract route toward the temporal core while Tara watches suspiciously and Imran and Mira study a map.",
+      "text": "Kavi's phone received a route from his future voice to the station's temporal core. He hid the sender from Tara.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "Mira drives an old maintenance train through concentric time machinery toward a cyan core; Kavi, Tara and Imran brace inside the moving cabin.",
+      "text": "Mira guided them onto a maintenance train, believing the core could reopen the Red Door without trading a human life.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "Outside the Missing Hour, Rhea aims her brass key at the vanished Door while Byte refuses; a red voiceprint lock with Kavi's glasses emblem blocks her.",
+      "text": "Outside the Missing Hour, Rhea ordered Byte to release the lock. Byte said Kavi's own voiceprint blocked her command.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "Byte involuntarily plays a stored future voice waveform that forces a holographic lock shut; Rhea lowers her key in betrayal and Byte looks ashamed.",
+      "text": "Then Byte played a stored order from an older Kavi: seal the Door after we cross.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "The maintenance train faces one doorway transforming from red energy on its left half into locked black metal on its right half as all four travelers react.",
+      "text": "The train reached a blank tunnel wall. A red doorway appeared, then hardened into impenetrable black metal.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "Kavi holds one slim vertical phone showing Byte linked to a lock; Tara sees the secret and pulls her red headphone cable away while Mira and Imran watch.",
+      "text": "Kavi received the matching message. Byte did exactly what I asked. Tara saw the screen—and pulled her red cable away.",
+      "effect": "push_in"
+    }
+  ],
+  "permanent_story_change": "Kavi received the matching message. Byte did exactly what I asked. Tara saw the screen—and pulled her red cable away.",
+  "permanent_story_change_restored_from_script": true
+}

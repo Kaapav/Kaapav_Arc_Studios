@@ -1,0 +1,154 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "policy": "turnaround required before any shot containing the character is generated",
+  "characters_total": 17,
+  "characters_ready": 11,
+  "characters_pending": [
+    "elias_teen_1976",
+    "maya_child_1976",
+    "rohan_child",
+    "mother_rao",
+    "father_rao",
+    "nurse_anjali"
+  ],
+  "all_characters_ready": false,
+  "characters": [
+    {
+      "character": "arin",
+      "scope": "episodes_1_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\arin_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "meera",
+      "scope": "episodes_1_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\meera_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "tick",
+      "scope": "episodes_1_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\tick_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "conductor_masked",
+      "scope": "episodes_1_to_20",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\conductor_masked_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "saira",
+      "scope": "episodes_2_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\saira_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "maya",
+      "scope": "episodes_3_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\maya_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "nila",
+      "scope": "episodes_2_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\nila_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "elias_unmasked",
+      "scope": "episodes_17_to_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\elias_unmasked_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "elias_teen_1976",
+      "scope": "episodes_15_20",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\elias_teen_1976_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    },
+    {
+      "character": "maya_child_1976",
+      "scope": "episodes_15_20",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\maya_child_1976_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    },
+    {
+      "character": "dev",
+      "scope": "episodes_4_22_28",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\dev_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "rohan_adult",
+      "scope": "episodes_11_12_24_30",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\rohan_adult_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "rohan_child",
+      "scope": "episodes_13_24",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\rohan_child_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    },
+    {
+      "character": "devika_rao",
+      "scope": "episodes_7_18_23",
+      "status": "candidate_visual_qc_passed",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\devika_rao_turnaround.png",
+      "turnaround_exists": true,
+      "production_ready": true
+    },
+    {
+      "character": "mother_rao",
+      "scope": "episodes_4_6_25",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\mother_rao_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    },
+    {
+      "character": "father_rao",
+      "scope": "episodes_19_30",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\father_rao_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    },
+    {
+      "character": "nurse_anjali",
+      "scope": "episodes_19_21_22_26_28",
+      "status": "design_pending",
+      "turnaround": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\assets\\references\\turnarounds\\nurse_anjali_turnaround.png",
+      "turnaround_exists": false,
+      "production_ready": false
+    }
+  ]
+}

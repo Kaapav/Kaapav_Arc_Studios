@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e077",
+  "season": 1,
+  "episode": 77,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "Paradox Protocol | ECHO//100 Episode 77",
+  "description": "Kavi attempts to intercept his own traumatic abduction, only to realize he is the architect of his own misery. Episode 77 of ECHO//100: The First Kavi. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi lunges for his younger self, but his fingers phase right through the boy’s glass shoulder.",
+      "caption": "Ghostly touch failure",
+      "image_prompt": "Vertical shot, adult Kavi in red hoodie reaching for a terrified young boy in a glass bedroom.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The child screams as the void opens, a swirling vortex of static hungry for his fragile existence.",
+      "caption": "The void opens",
+      "image_prompt": "Vertical shot, a swirling dark vortex appearing behind a young boy sitting on a glass bed.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi screams, realizing his own frantic arrival at the Origin Point actually signaled the kidnapper to strike.",
+      "caption": "Triggering the loop",
+      "image_prompt": "Vertical shot, Kavi standing in the doorway, his silhouette casting a shadow that triggers the vortex.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The timeline feeds on his failure, a closed circuit that demands a victim to sustain its reality.",
+      "caption": "Self-sustaining trap",
+      "image_prompt": "Vertical shot, the glass bedroom cracking into geometric patterns, showing Kavi's reflection in every shard.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null steps from the shadows, his glitching black-purple form crackling with the energy of a thousand timelines.",
+      "caption": "Null emerges",
+      "image_prompt": "Vertical shot, Null with glowing red eyes stepping through a digital tear in the glass wall.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null catches the boy, whispering that he stole him to hide him from the Architect’s total deletion.",
+      "caption": "The truth revealed",
+      "image_prompt": "Vertical shot, Null holding the young boy protectively while Kavi watches in total, stunned silence.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null turns to Kavi, extending a hand to offer a heavy, vintage phone stained with deep static.",
+      "caption": "The offered phone",
+      "image_prompt": "Vertical shot, Null handing a dead, retro-style phone to adult Kavi in his signature red hoodie.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The dead phone suddenly sparks to life, its screen displaying a caller ID from the distant future.",
+      "caption": "Incoming future call",
+      "image_prompt": "Vertical shot, close up on the phone screen glowing bright white, Kavi looking at it in terror.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

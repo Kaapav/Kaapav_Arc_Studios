@@ -1,0 +1,89 @@
+{
+  "schema_version": 1,
+  "public_series": "ECHO//30",
+  "style": "premium original cute cinematic 3D feature-animation",
+  "identity_rule": "Use the locked sheet on every generation. Do not redesign clothing, face geometry, proportions, hair, colors, or signature props.",
+  "locked": [
+    {
+      "character": "Tara Malik",
+      "reference": "tara_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Kavi Rao",
+      "reference": "kavi_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Byte",
+      "reference": "byte_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Null",
+      "reference": "null_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Dr. Rhea Rao",
+      "reference": "rhea_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Tara's mother",
+      "reference": "tara_mother_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Mira Sen",
+      "reference": "mira_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Arvind Rao",
+      "reference": "arvind_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Imran Malik",
+      "reference": "imran_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Episode 12 elderly memory donor",
+      "reference": "episode12_memory_donors_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Episode 12 memory donor's adult daughter",
+      "reference": "episode12_memory_donors_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Mira Sen, human age 17",
+      "reference": "mira_human_teen_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Byte early prototype",
+      "reference": "byte_prototype_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Imran Malik, age 18",
+      "reference": "imran_teen_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Null, independent Kavi-shaped form",
+      "reference": "null_kavi_independent_turnaround_v1.png",
+      "status": "locked"
+    },
+    {
+      "character": "Kavi Rao, age 34 (Future Kavi)",
+      "reference": "future_kavi_turnaround_v1.png",
+      "status": "locked"
+    }
+  ],
+  "pending_before_first_appearance": []
+}

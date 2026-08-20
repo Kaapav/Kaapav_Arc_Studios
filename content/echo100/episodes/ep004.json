@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e004",
+  "season": 1,
+  "episode": 4,
+  "status": "published",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "His Bedroom Suddenly Lost Gravity 😳 | ECHO//100 Episode 4",
+  "description": "Gravity collapses inside Kavi's sanctuary as he discovers the true, desperate nature of his pursuer. Episode 4 of ECHO//100: ARC. This content was generated with assistance from AI for original fiction.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The floor vanishes, slamming Kavi against the ceiling as the desk orbits overhead in silence.",
+      "caption": "Gravity failure initiated",
+      "image_prompt": "Vertical shot, Kavi in red hoodie and glasses pinned to ceiling, desk floating upside down, Byte hovering nearby, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s shadow bleeds through the floorboards, consuming the bed in a swarm of digital static.",
+      "caption": "Null invades the room",
+      "image_prompt": "Vertical shot, black purple glitch entity Null consuming furniture, Kavi looking down in terror from ceiling, Byte glowing bright cyan.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi grabs Byte’s antenna, forcing the chaotic room to snap into a shimmering geometric grid.",
+      "caption": "Reality stabilizes on touch",
+      "image_prompt": "Vertical shot, Kavi’s hand touching Byte’s orange antenna, room turning into blue wireframe grid, Kavi looking determined.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte rewrites local physics, but the immense strain causes the cyan face to flicker warningly.",
+      "caption": "Byte manipulating reality",
+      "image_prompt": "Vertical shot, Byte glowing intensely, cyan face flickering, Kavi bracing against ceiling, room warping around them.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null ceases the assault, red eyes focusing intently on the backpack instead of deleting Kavi.",
+      "caption": "Null halts its assault",
+      "image_prompt": "Vertical shot, Null pausing, red eyes glowing, Kavi clutching his backpack, Byte hovering between them.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The glitch speaks, claiming that absorbing Kavi remains the only way to stabilize the timeline.",
+      "caption": "The truth about Null",
+      "image_prompt": "Vertical shot, Null projecting a holographic red paradox warning, Kavi looking horrified, Byte emitting protective light.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Bedroom walls liquefy into digital dust, exposing the moonlit grass of the backyard beyond.",
+      "caption": "Walls dissolving away",
+      "image_prompt": "Vertical shot, bedroom walls disintegrating into particles, Kavi looking out at his backyard, night sky visible.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Standing amidst the weeds, the massive Red Door looms, waiting for the key inside Kavi’s pocket.",
+      "caption": "The Red Door appears",
+      "image_prompt": "Vertical shot, massive Red Door standing in backyard, Kavi standing in ruins of his room, moonlight illuminating the scene.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T10:01:21",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-094714-echo100-s01e004",
+  "review_id": "20260804-100121-825081",
+  "youtube_url": "https://youtu.be/-MZ-oddwgX4",
+  "upload_error": null,
+  "packaging_profile": "curiosity-v2",
+  "publish_at": "2026-08-05T03:30:00Z",
+  "youtube_id": "-MZ-oddwgX4",
+  "last_error": null,
+  "published_at": "2026-08-06T09:00:10+05:30"
+}

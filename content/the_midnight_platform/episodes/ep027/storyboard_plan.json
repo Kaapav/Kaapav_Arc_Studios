@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep027",
+  "episode_number": 27,
+  "arc": 3,
+  "title": "Tick Stopped the Clock",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Central Station’s master clock races toward 12:13 as the train penetrates the concourse; the cyan memory network remains incomplete.",
+      "dialogue_audio": "Elias: “We need sixty seconds the train cannot own.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Tick looks from Meera to his thirteenth gear and climbs the clock mechanism on four paws.",
+      "dialogue_audio": "Meera: “No. We find another way.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Tick nudges Meera’s turquoise clip back into her hair, then locks his segmented tail and all four paws around the escapement.",
+      "dialogue_audio": "Maya: “He already chose.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "All thirteen gears leave Tick’s body one by one and enter the master clock; the second hand stops one mark before 12:13.",
+      "dialogue_audio": "Sound: thirteen distinct mechanical heartbeats, then silence.",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Across the frozen city, the final voluntary memory slip lights cyan and joins the network.",
+      "dialogue_audio": "Arin: “The minute is ours.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Tick lies still but intact—clearly a small quadruped fox, never humanoid—while Meera carries him from the gears.",
+      "dialogue_audio": "Meera: “You are more than the time inside you.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "TICK USED HIS LAST MINUTE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 22,
+  "episode_id": "namelesshouse-ep022",
+  "output_slug": "namelesshouse-episode022",
+  "title": "Harrow Offered Her His Name | HOUSE OF THE NAMELESS Ep. 22",
+  "description": "Harrow sincerely offers erasure as restitution, but Leela refuses another substitution.\n\nHOUSE OF THE NAMELESS — Episode 22\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "TAKE MY NAME",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Naming",
+  "permanent_story_change": "Harrow chooses to live without controlling the outcome of his accountability.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Harrow removes the ledger chain and writes his full identity on a brass label.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harrow removes the ledger chain and writes his full identity on a brass label.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. He says Leela can take his remembered place and restore herself instantly.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He says Leela can take his remembered place and restore herself instantly.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. For the first time his offer is sacrifice rather than manipulation.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "For the first time his offer is sacrifice rather than manipulation.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Leela refuses because remorse does not make identity transferable.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela refuses because remorse does not make identity transferable.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. She asks Harrow to help dismantle the system while remaining present for consequences.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She asks Harrow to help dismantle the system while remaining present for consequences.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Harrow opens his mother's door and accepts that she may reject him.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harrow opens his mother's door and accepts that she may reject him.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. His mother remembers the child he was and the archivist he became without merging them.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "His mother remembers the child he was and the archivist he became without merging them.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Their reunion releases the ledger's chained names, including the one hidden under Noor's plate.. Location lock: front label hall during a quiet storm. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Their reunion releases the ledger's chained names, including the one hidden under Noor's plate.",
+      "effect": "push_in"
+    }
+  ]
+}

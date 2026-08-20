@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e079",
+  "season": 1,
+  "episode": 79,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "Shattered Foundation | ECHO//100 Episode 79",
+  "description": "Kavi confronts his hollow progenitor as reality fractures into a mosaic of conflicting timelines. Episode 79 of ECHO//100: ARC. This is an original work of fiction created with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Glass walls splinter, revealing a thousand versions of Kavi bleeding into the sterile room.",
+      "caption": "Glass walls fracturing",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie standing in a glass room, walls cracking with holographic visions of his life, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Original Kavi lunges, movements jagged, desperate to preserve the doorway’s dark, hollow heart.",
+      "caption": "Original Kavi attacks",
+      "image_prompt": "An older, hollow-eyed version of Kavi lunging forward, red hoodie tattered, inside a fractured glass bedroom.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira projects raw historical data, attempting to overload the door’s unstable, flickering power core.",
+      "caption": "Mira projecting data",
+      "image_prompt": "Mira in her teal coat holding a glowing blue holographic interface, Byte floating beside her with an orange antenna glowing.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The archive pulses against his chest, yet the Original Kavi ignores the digital cold.",
+      "caption": "Archive pulses red",
+      "image_prompt": "Kavi holding a glowing data-shard, the Original Kavi shrugging off the energy, dark purple glitch effects swirling around him.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "His eyes soften as Kavi broadcasts a cherished memory of a distant, fading sunset.",
+      "caption": "Shared warm memory",
+      "image_prompt": "Close up of Kavi's glasses reflecting a warm orange sunset memory, Original Kavi looking confused and vulnerable.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi ceases fighting, choosing instead to offer the kindness the Original never knew.",
+      "caption": "Choosing empathy",
+      "image_prompt": "Kavi lowering his guard, reaching out his hand to the Original Kavi, soft golden light emanating between them.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "As data flows, the hollow shell dissolves into Kavi, rewriting the foundation of reality.",
+      "caption": "Merging timelines",
+      "image_prompt": "Kavi and the Original Kavi beginning to overlap, their bodies turning into glowing particles of red and white light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "No longer two, a single, balanced boy stands amidst the silent, shattered glass.",
+      "caption": "Final merge complete",
+      "image_prompt": "A single Kavi standing in the center of the room, looking at his hands, the glass walls now perfectly still.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

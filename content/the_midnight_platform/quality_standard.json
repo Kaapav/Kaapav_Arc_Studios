@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "profile": "midnight-platform-benchmark-v1",
+  "publish_mode": "fail_closed",
+  "benchmark_episode": "ep001",
+  "hard_fail": {
+    "identity": [
+      "face or age drift",
+      "wardrobe or signature-color drift",
+      "Tick becomes humanoid, bipedal, or changes species",
+      "duplicate or merged characters"
+    ],
+    "anatomy": [
+      "extra or missing human fingers",
+      "broken limbs or impossible joints",
+      "melted faces, eyes, mouths, or hands"
+    ],
+    "motion": [
+      "camera-only motion when character action is required",
+      "looped source footage",
+      "slow-stretched generated footage",
+      "frozen faces during dialogue",
+      "unmotivated morphing, jitter, or teleportation"
+    ],
+    "continuity": [
+      "screen direction contradicts the prior shot",
+      "train door, window, prop, or character position changes without cause",
+      "reused composition presented as a new event"
+    ],
+    "image_artifacts": [
+      "generated pseudo-text",
+      "watermark or provider mark",
+      "unplanned logos",
+      "obvious frame tearing, flicker, or compression corruption"
+    ],
+    "audio": [
+      "robotic or unintelligible dialogue",
+      "clipped speech or music masking dialogue",
+      "missing impact, ambience, or scene-transition sound",
+      "dialogue assigned to the wrong character"
+    ],
+    "story": [
+      "hook is not understandable without description text",
+      "choice or consequence is unclear",
+      "episode ends without a payoff",
+      "generic call-to-action interrupts the story"
+    ]
+  },
+  "technical_requirements": {
+    "width": 720,
+    "height": 1280,
+    "fps": 24,
+    "duration_seconds_min": 30,
+    "duration_seconds_max": 50,
+    "audio_codec": "aac",
+    "video_codec": "h264",
+    "max_frozen_frame_ratio": 0.02,
+    "max_near_duplicate_frame_ratio": 0.01,
+    "required_distinct_compositions": 6,
+    "native_motion_only": true,
+    "allow_time_stretch": false,
+    "allow_looping": false
+  },
+  "release_gate": [
+    "technical probe passed",
+    "all six motion clips inspected at start, middle, and end",
+    "full contact sheet inspected",
+    "full-speed final watched with audio",
+    "identity checked against master reference",
+    "no hard-fail condition present",
+    "explicit Episode 1 approval received"
+  ]
+}

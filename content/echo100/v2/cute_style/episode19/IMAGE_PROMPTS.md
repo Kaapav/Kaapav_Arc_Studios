@@ -1,0 +1,55 @@
+# ECHO//30 — Episode 19
+
+## Locked global style
+
+Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.
+
+## Manual image files
+
+### Shot 01 → `story_frames/shot_01.png`
+
+SHOT 1, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Every clock grows a thirteenth number as the city freezes mid-breath. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Every clock grows a thirteenth number as the city freezes mid-breath.
+
+### Shot 02 → `story_frames/shot_02.png`
+
+SHOT 2, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Inside the frozen clock tower, Null pursues an immediate answer before the new danger closes in. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Inside the frozen clock tower, Null pursues an immediate answer before the new danger closes in.
+
+### Shot 03 → `story_frames/shot_03.png`
+
+SHOT 3, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Kavi must carry the archive through the Red Door before the Missing Hour overwrites reality. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Kavi must carry the archive through the Red Door before the Missing Hour overwrites reality.
+
+### Shot 04 → `story_frames/shot_04.png`
+
+SHOT 4, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: A concrete clue forces Null to question the explanation the group has trusted until now. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: A concrete clue forces Null to question the explanation the group has trusted until now.
+
+### Shot 05 → `story_frames/shot_05.png`
+
+SHOT 5, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Only someone containing both remembered and erased history can cross the unstable threshold. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Only someone containing both remembered and erased history can cross the unstable threshold.
+
+### Shot 06 → `story_frames/shot_06.png`
+
+SHOT 6, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Instead of hiding the discovery, Null makes a choice that the others can challenge and understand. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Instead of hiding the discovery, Null makes a choice that the others can challenge and understand.
+
+### Shot 07 → `story_frames/shot_07.png`
+
+SHOT 7, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Null willingly merges back into Kavi, surrendering his new body so Kavi can cross. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Null willingly merges back into Kavi, surrendering his new body so Kavi can cross.
+
+### Shot 08 → `story_frames/shot_08.png`
+
+SHOT 8, cinematic story composition in the frozen clock tower. Visually depict this exact causal beat: Kavi reaches the city clock and finds a switch labelled with his own birth date. Locked identities on screen: Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.
+
+Narration: Kavi reaches the city clock and finds a switch labelled with his own birth date.

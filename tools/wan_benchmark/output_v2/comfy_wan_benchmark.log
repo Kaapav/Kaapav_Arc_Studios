@@ -1,0 +1,77 @@
+[32m[INFO][0m setup plugin alembic.autogenerate.schemas
+[32m[INFO][0m setup plugin alembic.autogenerate.tables
+[32m[INFO][0m setup plugin alembic.autogenerate.types
+[32m[INFO][0m setup plugin alembic.autogenerate.constraints
+[32m[INFO][0m setup plugin alembic.autogenerate.defaults
+[32m[INFO][0m setup plugin alembic.autogenerate.comments
+[1m[33m[WARNING][0m WARNING: You need pytorch with cu130 or higher to use optimized CUDA operations.
+[32m[INFO][0m Found comfy_kitchen backend triton: {'available': True, 'disabled': True, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8']}
+[32m[INFO][0m Found comfy_kitchen backend eager: {'available': True, 'disabled': False, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_mxfp8', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'gemv_awq_w4a16', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8', 'quantize_svdquant_w4a4', 'scaled_mm_mxfp8', 'scaled_mm_nvfp4', 'scaled_mm_svdquant_w4a4', 'stochastic_rounding_fp8']}
+[32m[INFO][0m Found comfy_kitchen backend cuda: {'available': True, 'disabled': True, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'gemv_awq_w4a16', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8', 'quantize_svdquant_w4a4', 'scaled_mm_nvfp4', 'scaled_mm_svdquant_w4a4', 'stochastic_rounding_fp8']}
+[32m[INFO][0m Checkpoint files will always be loaded safely.
+[32m[INFO][0m Total VRAM 14912 MB, total RAM 32100 MB
+[32m[INFO][0m pytorch version: 2.10.0+cu128
+[32m[INFO][0m Set vram state to: LOW_VRAM
+[32m[INFO][0m Device: cuda:0 Tesla T4 : cudaMallocAsync
+[32m[INFO][0m Using async weight offloading with 2 streams
+[32m[INFO][0m Enabled pinned memory 28890.0
+[32m[INFO][0m working around nvidia conv3d memory bug.
+[32m[INFO][0m Using pytorch attention
+aimdo: /project/src-posix/cuda-funchooks.c:52:DEBUG:aimdo_setup_hooks: hooks successfully installed
+aimdo: /project/src/control.c:247:INFO:comfy-aimdo inited for GPU: Tesla T4 (VRAM: 14911 MB)
+[32m[INFO][0m DynamicVRAM support detected and enabled
+[32m[INFO][0m Python version: 3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]
+[32m[INFO][0m ComfyUI version: 0.26.0
+[32m[INFO][0m comfy-aimdo version: 0.4.10
+[32m[INFO][0m comfy-kitchen version: 0.2.10
+[1m[33m[WARNING][0m ****** User settings have been changed to be stored on the server instead of browser storage. ******
+[1m[33m[WARNING][0m ****** For multi-user setups add the --multi-user CLI argument to enable multiple user profiles. ******
+[32m[INFO][0m comfyui-frontend-package version: 1.45.19
+[32m[INFO][0m comfyui-workflow-templates version: 0.10.3
+[32m[INFO][0m comfyui-embedded-docs version: 0.5.5
+[32m[INFO][0m comfy-kitchen version: 0.2.10
+[32m[INFO][0m comfy-aimdo version: 0.4.10
+[32m[INFO][0m [Prompt Server] web root: /usr/local/lib/python3.12/dist-packages/comfyui_frontend_package/static
+[32m[INFO][0m Asset seeder disabled
+[32m[INFO][0m 
+Import times for custom nodes:
+[32m[INFO][0m    0.0 seconds: /kaggle/working/ComfyUI-wan-benchmark/custom_nodes/websocket_image_save.py
+[32m[INFO][0m 
+[32m[INFO][0m Context impl SQLiteImpl.
+[32m[INFO][0m Will assume non-transactional DDL.
+[32m[INFO][0m Context impl SQLiteImpl.
+[32m[INFO][0m Will assume non-transactional DDL.
+[32m[INFO][0m Running upgrade  -> 0001_assets, Initial assets schema
+Revision ID: 0001_assets
+Revises: None
+Create Date: 2025-12-10 00:00:00
+[32m[INFO][0m Running upgrade 0001_assets -> 0002_merge_to_asset_references, Merge AssetInfo and AssetCacheState into unified asset_references table.
+[32m[INFO][0m Running upgrade 0002_merge_to_asset_references -> 0003_add_metadata_job_id, Add system_metadata and job_id columns to asset_references.
+Change preview_id FK from assets.id to asset_references.id.
+[32m[INFO][0m Running upgrade 0003_add_metadata_job_id -> 0004_drop_tag_type, Drop the vestigial tags.tag_type column.
+[32m[INFO][0m Database upgraded from None to 0004_drop_tag_type
+[32m[INFO][0m Using RAM pressure cache.
+[32m[INFO][0m Starting server
+
+[32m[INFO][0m To see the GUI go to: http://127.0.0.1:8188
+[32m[INFO][0m got prompt
+[32m[INFO][0m Using pytorch attention in VAE
+[32m[INFO][0m Using pytorch attention in VAE
+[32m[INFO][0m VAE load device: cuda:0, offload device: cpu, dtype: torch.float16
+[32m[INFO][0m Requested to load CLIPVisionModelProjection
+[32m[INFO][0m Model CLIPVisionModelProjection prepared for dynamic VRAM loading. 1205MB Staged. 0 patches attached. Force pre-loaded 132 weights: 330 KB.
+[32m[INFO][0m Found quantization metadata version 1
+[32m[INFO][0m Using MixedPrecisionOps for text encoder
+[32m[INFO][0m CLIP/text encoder model load device: cuda:0, offload device: cpu, current: cpu, dtype: torch.float16
+[32m[INFO][0m Requested to load WanTEModel
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Requested to load WanVAE
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 241MB Staged. 0 patches attached. Force pre-loaded 60 weights: 61 KB.
+[32m[INFO][0m model weight dtype torch.float8_e4m3fn, manual cast: torch.float16
+[32m[INFO][0m model_type FLOW
+[32m[INFO][0m Requested to load WAN21
+[32m[INFO][0m Model WAN21 prepared for dynamic VRAM loading. 15634MB Staged. 0 patches attached. Force pre-loaded 284 weights: 1416 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:43<13:51, 43.78s/it] 10%|█         | 2/20 [01:11<10:17, 34.32s/it] 15%|█▌        | 3/20 [01:54<10:48, 38.15s/it] 20%|██        | 4/20 [02:37<10:41, 40.11s/it] 25%|██▌       | 5/20 [03:19<10:14, 40.97s/it] 30%|███       | 6/20 [04:02<09:42, 41.58s/it] 35%|███▌      | 7/20 [04:45<09:04, 41.92s/it] 40%|████      | 8/20 [05:28<08:26, 42.25s/it] 45%|████▌     | 9/20 [06:10<07:46, 42.43s/it] 50%|█████     | 10/20 [06:53<07:05, 42.54s/it] 55%|█████▌    | 11/20 [07:36<06:23, 42.56s/it] 60%|██████    | 12/20 [08:19<05:41, 42.64s/it] 65%|██████▌   | 13/20 [09:01<04:58, 42.61s/it] 70%|███████   | 14/20 [09:44<04:16, 42.69s/it] 75%|███████▌  | 15/20 [10:27<03:33, 42.67s/it] 80%|████████  | 16/20 [11:10<02:51, 42.81s/it] 85%|████████▌ | 17/20 [11:53<02:08, 42.83s/it] 90%|█████████ | 18/20 [12:36<01:25, 42.87s/it] 95%|█████████▌| 19/20 [13:18<00:42, 42.83s/it]100%|██████████| 20/20 [14:15<00:00, 46.87s/it]100%|██████████| 20/20 [14:15<00:00, 42.76s/it]
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 241MB Staged. 0 patches attached. Force pre-loaded 60 weights: 61 KB.
+[32m[INFO][0m [32mPrompt executed in 00:14:52[0m

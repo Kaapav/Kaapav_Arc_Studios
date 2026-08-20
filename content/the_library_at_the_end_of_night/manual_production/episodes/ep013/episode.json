@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "endnightlibrary",
+  "series_title": "THE LIBRARY AT THE END OF NIGHT",
+  "episode": 13,
+  "episode_id": "endnightlibrary-ep013",
+  "output_slug": "endnightlibrary-episode013",
+  "title": "Nib Carried the Sentence Varun Couldn't Finish | THE LIBRARY AT THE END OF NIGHT Ep. 13",
+  "description": "Finishing Nib's sentence could restore Varun's sister or erase Nib.\n\nTHE LIBRARY AT THE END OF NIGHT — Episode 13\nAn original animated story from KAAPAV ARC Studios.\n\n#EndOfNightLibrary #AnimatedSeries #Shorts",
+  "tags": [
+    "The Library at the End of Night",
+    "KAAPAV ARC Studios",
+    "dark fantasy animation",
+    "magical library",
+    "mystery adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NIB HELD THE LAST WORD",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, immense dark-fantasy library, midnight indigo, candle gold, ink-black shadows, floating books and impossible stairways, tactile paper and wood, emotionally truthful acting, eerie but not graphic; preserve all locked character sheets exactly.",
+  "arc": "The First Shelf",
+  "permanent_story_change": "Nib claims independent identity and refuses completion.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Nib's wings unfold into a sentence ending before Varun's sister's fate.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Nib's wings unfold into a sentence ending before Varun's sister's fate.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Varun believes one final word will recreate her from the story.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Varun believes one final word will recreate her from the story.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Iyra warns the sentence's completion would consume the creature it became.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Iyra warns the sentence's completion would consume the creature it became.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Aadi refuses to decide based only on Varun's grief.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Aadi refuses to decide based only on Varun's grief.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Nib folds one wing for no and keeps the sentence unfinished.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Nib folds one wing for no and keeps the sentence unfinished.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Varun reads the existing words without forcing an ending.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Varun reads the existing words without forcing an ending.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. He remembers his sister choosing to remain uncertain during their world's collapse.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He remembers his sister choosing to remain uncertain during their world's collapse.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The silver quill rejects him and flies toward Aadi's hand.. Location lock: paper cocoon containing Varun's family story. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The silver quill rejects him and flies toward Aadi's hand.",
+      "effect": "push_in"
+    }
+  ]
+}

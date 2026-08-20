@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 5,
+  "episode_id": "namelesshouse-ep005",
+  "output_slug": "namelesshouse-episode005",
+  "title": "Grandmother Locked the Classroom | HOUSE OF THE NAMELESS Ep. 5",
+  "description": "Devika admits she saved the village by letting the house erase one classroom.\n\nHOUSE OF THE NAMELESS — Episode 5\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "DEVIKA'S FIRST LIE",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Inheritance",
+  "permanent_story_change": "Devika confesses her role and gives Leela the Keeper's pen.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Devika recognizes Noor's blank nameplate and drops her practiced denial.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Devika recognizes Noor's blank nameplate and drops her practiced denial.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. In 1978 the house offered to contain a landslide if one room surrendered its relationships.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "In 1978 the house offered to contain a landslide if one room surrendered its relationships.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Devika locked the classroom believing everyone would be restored later.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Devika locked the classroom believing everyone would be restored later.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. The village survived, but even parents forgot the children existed.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The village survived, but even parents forgot the children existed.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Noor asks why Devika kept living in the house instead of freeing them.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor asks why Devika kept living in the house instead of freeing them.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Devika admits the house threatened to return the landslide whenever she tried.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Devika admits the house threatened to return the landslide whenever she tried.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. She gives Leela a fountain pen able to mark truth but not create names.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She gives Leela a fountain pen able to mark truth but not create names.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The pen writes by itself: one erased student is living outside the house.. Location lock: Devika's bedroom joined to the 1978 classroom. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The pen writes by itself: one erased student is living outside the house.",
+      "effect": "push_in"
+    }
+  ]
+}

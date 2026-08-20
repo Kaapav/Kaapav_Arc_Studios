@@ -1,0 +1,158 @@
+{
+  "version": 3,
+  "model_family": "Wan2.2-TI2V-5B",
+  "status": "passed",
+  "comfy_release": "v0.26.0",
+  "comfy_commit": "f6c162d",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "frames": 49,
+    "fps": 16,
+    "steps": 20,
+    "cfg": 5.0,
+    "seed": 817263
+  },
+  "stages": [
+    {
+      "name": "validating_environment",
+      "at": 1786197339.4210851
+    },
+    {
+      "name": "preparing_comfy",
+      "at": 1786197339.4788463
+    },
+    {
+      "name": "starting_comfy",
+      "at": 1786197358.5707645
+    },
+    {
+      "name": "generating",
+      "at": 1786197388.894003
+    },
+    {
+      "name": "validating_output",
+      "at": 1786197519.0188582
+    }
+  ],
+  "gpu": [
+    "0, Tesla T4, 15360 MiB, 580.159.04",
+    "1, Tesla T4, 15360 MiB, 580.159.04"
+  ],
+  "models": {
+    "diffusion_models": {
+      "path": "/kaggle/input/datasets/kaapav/kaapav-wan22-models/wan2.2_ti2v_5B_fp16.safetensors",
+      "bytes": 9999658848
+    },
+    "text_encoders": {
+      "path": "/kaggle/input/datasets/kaapav/kaapav-wan22-models/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "bytes": 6735906897
+    },
+    "vae": {
+      "path": "/kaggle/input/datasets/kaapav/kaapav-wan22-models/wan2.2_vae.safetensors",
+      "bytes": 1409400960
+    }
+  },
+  "system_stats": {
+    "system": {
+      "os": "linux",
+      "ram_total": 33659379712,
+      "ram_free": 31680917504,
+      "comfyui_version": "0.26.0",
+      "required_frontend_version": "1.45.19",
+      "installed_templates_version": "0.10.3",
+      "required_templates_version": "0.10.3",
+      "comfy_package_versions": [
+        {
+          "name": "comfyui-frontend-package",
+          "installed": "1.45.19",
+          "required": "1.45.19"
+        },
+        {
+          "name": "comfyui-workflow-templates",
+          "installed": "0.10.3",
+          "required": "0.10.3"
+        },
+        {
+          "name": "comfyui-embedded-docs",
+          "installed": "0.5.5",
+          "required": "0.5.5"
+        },
+        {
+          "name": "comfy-kitchen",
+          "installed": "0.2.10",
+          "required": "0.2.10"
+        },
+        {
+          "name": "comfy-aimdo",
+          "installed": "0.4.10",
+          "required": "0.4.10"
+        }
+      ],
+      "python_version": "3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]",
+      "pytorch_version": "2.10.0+cu128",
+      "embedded_python": false,
+      "deploy_environment": "local-git",
+      "argv": [
+        "main.py",
+        "--listen",
+        "127.0.0.1",
+        "--port",
+        "8188",
+        "--lowvram"
+      ]
+    },
+    "devices": [
+      {
+        "name": "cuda:0 Tesla T4 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 15636037632,
+        "vram_free": 15526068224,
+        "torch_vram_total": 0,
+        "torch_vram_free": 0
+      }
+    ]
+  },
+  "required_nodes": [
+    "CLIPLoader",
+    "CLIPTextEncode",
+    "KSampler",
+    "LoadImage",
+    "ModelSamplingSD3",
+    "SaveImage",
+    "UNETLoader",
+    "VAEDecode",
+    "VAELoader",
+    "Wan22ImageToVideoLatent"
+  ],
+  "prompt_id": "4274d8e8-69c9-4353-853a-a7906aa84d15",
+  "generation_seconds": 130.11,
+  "comfy_output": {
+    "frame_count": 49,
+    "first": {
+      "filename": "kaapav_wan22_00001_.png",
+      "subfolder": "wan22_benchmark",
+      "type": "output"
+    },
+    "last": {
+      "filename": "kaapav_wan22_00049_.png",
+      "subfolder": "wan22_benchmark",
+      "type": "output"
+    }
+  },
+  "output": {
+    "path": "/kaggle/working/kaapav_wan22_benchmark.mp4",
+    "bytes": 212736,
+    "frames": 49,
+    "duration_seconds": 3.063,
+    "width": 512,
+    "height": 512,
+    "motion_score": 25.1333
+  },
+  "gpu_after": [
+    "0, Tesla T4, 7521 MiB, 15360 MiB, 0 %",
+    "1, Tesla T4, 0 MiB, 15360 MiB, 0 %"
+  ],
+  "total_seconds": 181.26
+}

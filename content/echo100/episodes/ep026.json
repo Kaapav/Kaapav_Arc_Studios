@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e026",
+  "season": 1,
+  "episode": 26,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Fragmented Truth | ECHO//100 Episode 26",
+  "description": "Kavi infiltrates the shifting Blue Spire to prevent the city from being rewritten into a silent void. He must choose between the city's restoration and his own existence. Episode 26 of ECHO//100: The City Without Shadows. This content is original science-fiction produced with the assistance of artificial intelligence.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The spire pulses, turning the sky into a shattered mirror of blue light and ancient data.",
+      "caption": "Spire pulses blue",
+      "image_prompt": "Kavi in red hoodie and glasses standing before a massive glowing blue crystalline spire, vertical composition, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi touches the cold surface, and reality snaps, dragging consciousness into a spiraling temporal abyss.",
+      "caption": "Kavi touches spire",
+      "image_prompt": "Close up of Kavi's hand touching the spire, glowing geometric patterns reflecting on his glasses, vertical frame.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "History flickers in reverse as buildings dissolve into stardust, forcing the city from this plane.",
+      "caption": "City dissolving backwards",
+      "image_prompt": "A futuristic city skyline crumbling upward into light, vibrant teal and blue color palette, vertical perspective.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi watches Mira erase the exit coordinates, tethering the city to this broken, dying world.",
+      "caption": "Mira stops departure",
+      "image_prompt": "Holographic Mira in a teal coat commanding a floating interface, stars swirling around her, vertical shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Blue Archive functions not as a library, but as a cage of stolen memories.",
+      "caption": "Archive revealed",
+      "image_prompt": "Kavi walking through a labyrinth of floating data blocks, glowing cyan light, vertical composition.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "If the reformation completes, the city survives, but these vital, painful memories will vanish forever.",
+      "caption": "The impossible choice",
+      "image_prompt": "Kavi looking at his own hand fading into pixels, serious expression, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To stop the loop, Kavi must convince the archive that some truths deserve total oblivion.",
+      "caption": "Kavi confronts ghosts",
+      "image_prompt": "Kavi surrounded by shadowy, translucent figures of city citizens, intense blue lighting, vertical frame.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Standing behind the final data wall, a living, breathing Mira blinks, trapped inside her cycle.",
+      "caption": "The living Mira",
+      "image_prompt": "A human Mira looking through a glass prison at Kavi, face illuminated by orange antenna light, vertical shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

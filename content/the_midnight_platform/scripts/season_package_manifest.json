@@ -1,0 +1,185 @@
+{
+  "status": "passed",
+  "episodes": [
+    {
+      "episode": 1,
+      "title": "The Train Returned His Missing Sister",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\storyboard_plan.json"
+    },
+    {
+      "episode": 2,
+      "title": "The Girl Who Forgot Her Name",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep002\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep002\\storyboard_plan.json"
+    },
+    {
+      "episode": 3,
+      "title": "The Platform Inside the Mirror",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep003\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep003\\storyboard_plan.json"
+    },
+    {
+      "episode": 4,
+      "title": "The Carriage Where It Always Rains",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep004\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep004\\storyboard_plan.json"
+    },
+    {
+      "episode": 5,
+      "title": "Tick Lost One Minute",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep005\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep005\\storyboard_plan.json"
+    },
+    {
+      "episode": 6,
+      "title": "The Door That Looked Like Home",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep006\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep006\\storyboard_plan.json"
+    },
+    {
+      "episode": 7,
+      "title": "The Passenger Without a Ticket",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep007\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep007\\storyboard_plan.json"
+    },
+    {
+      "episode": 8,
+      "title": "The Night Everyone Forgot the Moon",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep008\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep008\\storyboard_plan.json"
+    },
+    {
+      "episode": 9,
+      "title": "How to Call a Train That Does Not Exist",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep009\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep009\\storyboard_plan.json"
+    },
+    {
+      "episode": 10,
+      "title": "Platform 13",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep010\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep010\\storyboard_plan.json"
+    },
+    {
+      "episode": 11,
+      "title": "The Bridge Nobody Remembered",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep011\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep011\\storyboard_plan.json"
+    },
+    {
+      "episode": 12,
+      "title": "Saira Came Home 28 Years Late",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep012\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep012\\storyboard_plan.json"
+    },
+    {
+      "episode": 13,
+      "title": "The Fire That Should Have Killed Her",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep013\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep013\\storyboard_plan.json"
+    },
+    {
+      "episode": 14,
+      "title": "The Train Chose Arin",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep014\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep014\\storyboard_plan.json"
+    },
+    {
+      "episode": 15,
+      "title": "Tick’s Thirteenth Gear",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep015\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep015\\storyboard_plan.json"
+    },
+    {
+      "episode": 16,
+      "title": "The City Without Shadows",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep016\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep016\\storyboard_plan.json"
+    },
+    {
+      "episode": 17,
+      "title": "The Face Behind the Clock",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep017\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep017\\storyboard_plan.json"
+    },
+    {
+      "episode": 18,
+      "title": "The First Exchange",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep018\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep018\\storyboard_plan.json"
+    },
+    {
+      "episode": 19,
+      "title": "The Last Person Who Remembers Meera",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep019\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep019\\storyboard_plan.json"
+    },
+    {
+      "episode": 20,
+      "title": "The Man Behind the Mask",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep020\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep020\\storyboard_plan.json"
+    },
+    {
+      "episode": 21,
+      "title": "The Train Entered the City",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep021\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep021\\storyboard_plan.json"
+    },
+    {
+      "episode": 22,
+      "title": "Twelve Doors Open",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep022\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep022\\storyboard_plan.json"
+    },
+    {
+      "episode": 23,
+      "title": "Passenger Zero Came Home",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep023\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep023\\storyboard_plan.json"
+    },
+    {
+      "episode": 24,
+      "title": "Saira Knocked on the Door",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep024\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep024\\storyboard_plan.json"
+    },
+    {
+      "episode": 25,
+      "title": "Arin Gave Away Her Face",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep025\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep025\\storyboard_plan.json"
+    },
+    {
+      "episode": 26,
+      "title": "The City Chose at Midnight",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep026\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep026\\storyboard_plan.json"
+    },
+    {
+      "episode": 27,
+      "title": "Tick Stopped the Clock",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep027\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep027\\storyboard_plan.json"
+    },
+    {
+      "episode": 28,
+      "title": "Thirteen Passengers",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep028\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep028\\storyboard_plan.json"
+    },
+    {
+      "episode": 29,
+      "title": "The Last Exchange",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep029\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep029\\storyboard_plan.json"
+    },
+    {
+      "episode": 30,
+      "title": "No One Takes Their Place",
+      "screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep030\\screenplay.md",
+      "storyboard_plan": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep030\\storyboard_plan.json"
+    }
+  ]
+}

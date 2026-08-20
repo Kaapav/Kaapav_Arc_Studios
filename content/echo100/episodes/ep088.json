@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e088",
+  "season": 1,
+  "episode": 88,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "The First Call | ECHO//100 Episode 88",
+  "description": "Kavi desperately attempts to rewrite his own origin story while trapped within a fractured memory loop. The fabric of reality tears as past and future collide in the series' inception. Episode 88 of ECHO//100: The Door War. This is an AI-assisted work of original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Floorboards dissolve into starlight as Kavi reaches toward the trembling hand of his past self.",
+      "caption": "Falling through memory",
+      "image_prompt": "Kavi in red hoodie and glasses reaching downward toward a younger version of himself, floating in an abstract void of starry geometry.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Fingers pass through the younger man like gray smoke, leaving the boy entirely unaware.",
+      "caption": "Intangible ghost",
+      "image_prompt": "A close-up of Kavi's hand passing through the shoulder of a younger Kavi wearing a red hoodie and backpack.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira watches from the rafters, her holographic coat flickering under the loop's crushing weight.",
+      "caption": "Mira observes",
+      "image_prompt": "Mira in her glowing teal coat standing on a distorted wooden beam, looking down at Kavi with a concerned expression.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte drifts near the ringing telephone, his cyan face pulsing with raw, unfiltered data.",
+      "caption": "Byte monitors",
+      "image_prompt": "Byte the floating white robot with an orange antenna hovering over a vintage rotary phone emitting static.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The phone screams with an ancient frequency, anchoring this moment to the war's beginning.",
+      "caption": "The ringing phone",
+      "image_prompt": "A macro shot of a black rotary phone cord twisting into a digital portal, glowing with intense white light.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira taps the receiver, forcing a data packet into the line to rewrite history.",
+      "caption": "Hacking the past",
+      "image_prompt": "Mira's hands glowing with blue light as she interfaces directly with the vintage phone's circuitry.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The ringing stops, replaced by a low hum vibrating through the very core of Kavi.",
+      "caption": "The silence shifts",
+      "image_prompt": "The younger Kavi freezing mid-reach, the phone dangling off the hook, surrounded by floating digital code.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Past Kavi turns, eyes locking onto the future version standing directly before his gaze.",
+      "caption": "The realization",
+      "image_prompt": "Young Kavi looking directly into the camera lens with a shocked expression, while older Kavi stares back in terror.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

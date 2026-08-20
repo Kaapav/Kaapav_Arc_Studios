@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "starsforgotus",
+  "series_title": "WHEN THE STARS FORGOT US",
+  "episode": 3,
+  "episode_id": "starsforgotus-ep003",
+  "output_slug": "starsforgotus-episode003",
+  "title": "The Mission Never Existed | WHEN THE STARS FORGOT US Ep. 3",
+  "description": "Official history has removed Neel and everyone connected to his mission.\n\nWHEN THE STARS FORGOT US — Episode 3\nAn original animated story from KAAPAV ARC Studios.\n\n#WhenTheStarsForgotUs #AnimatedSeries #Shorts",
+  "tags": [
+    "When the Stars Forgot Us",
+    "KAAPAV ARC Studios",
+    "cosmic mystery",
+    "sci fi drama",
+    "animated space story",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THEY ERASED NEEL",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, grounded near-future Indian hill observatory, deep indigo skies, restrained cyan instruments, warm amber homes, breathtaking cosmic scale, tactile cloth and hardware, emotionally truthful acting; preserve all locked character sheets exactly; no graphic harm.",
+  "arc": "The Empty Sky",
+  "permanent_story_change": "Anvi learns handwritten reciprocal memories resist cosmic erasure.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Family photographs show Anvi standing beside empty spaces throughout childhood.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Family photographs show Anvi standing beside empty spaces throughout childhood.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Neighbors remember Sana having only one child.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Neighbors remember Sana having only one child.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Anvi retains Neel because their shared notebook records both perspectives.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anvi retains Neel because their shared notebook records both perspectives.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Jo begins forgetting Neel whenever he stops touching the physical launch manifest.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Jo begins forgetting Neel whenever he stops touching the physical launch manifest.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Lumi restores one memory but cannot make it persist alone.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Lumi restores one memory but cannot make it persist alone.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Anvi asks Jo to write what he independently chooses to remember.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anvi asks Jo to write what he independently chooses to remember.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Their reciprocal notes survive after the archive erases itself again.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Their reciprocal notes survive after the archive erases itself again.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. One surviving page says Reyan ordered the Lighthouse activated during Neel's mission.. Location lock: Mehta home and erased mission archive. Locked on-screen identities: Anvi Mehta (small Indian teen girl, warm brown skin, huge dark-indigo eyes, round freckled face, thick black hair in low ponytail with silver star clip, rust-orange puffer jacket over navy sweater, grey cargo trousers, white snow boots, brass pocket radio and red notebook); Jo Fernandes (lean Indian teen boy, deep brown skin, large green-brown eyes, short curly black hair, teal mechanic parka, cream thermal shirt, black utility trousers, orange boots, folding antenna tool across backpack); Lumi (palm-sized translucent comet creature, rounded cyan-white body, two large violet oval eyes, soft gold nucleus, ribbon tail scattering tiny non-text star shapes, no mouth); Dr Sana Mehta (Indian woman early forties, warm brown skin, tired dark eyes, long black hair streaked silver in a practical braid, charcoal observatory coat over burgundy sari, rectangular glasses, brass access ring); Neel Mehta (Indian young man age twenty-four, warm brown skin, calm indigo-brown eyes, wavy black hair, white deep-space suit with rust-orange shoulder panels, clear cracked helmet, red family thread around wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "One surviving page says Reyan ordered the Lighthouse activated during Neel's mission.",
+      "effect": "push_in"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "endnightlibrary",
+  "series_title": "THE LIBRARY AT THE END OF NIGHT",
+  "episode": 11,
+  "episode_id": "endnightlibrary-ep011",
+  "output_slug": "endnightlibrary-episode011",
+  "title": "The World After Its Last Night | THE LIBRARY AT THE END OF NIGHT Ep. 11",
+  "description": "A daylight world shows what happens when every story is forced to conclude.\n\nTHE LIBRARY AT THE END OF NIGHT — Episode 11\nAn original animated story from KAAPAV ARC Studios.\n\n#EndOfNightLibrary #AnimatedSeries #Shorts",
+  "tags": [
+    "The Library at the End of Night",
+    "KAAPAV ARC Studios",
+    "dark fantasy animation",
+    "magical library",
+    "mystery adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NO NIGHT REMAINED",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, immense dark-fantasy library, midnight indigo, candle gold, ink-black shadows, floating books and impossible stairways, tactile paper and wood, emotionally truthful acting, eerie but not graphic; preserve all locked character sheets exactly.",
+  "arc": "The First Shelf",
+  "permanent_story_change": "The group witnesses Varun's original world and understands his grief.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Beyond the window, people repeat completed routines without dreams or new stories.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Beyond the window, people repeat completed routines without dreams or new stories.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Varun says this was his home before the Library existed.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade); The Library (endless midnight library of dark carved wood, candle constellations, floating spiral shelves, paper bridges, one enormous round dawn window, no literal face). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Varun says this was his home before the Library existed.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. A plague of unfinished wars led him to write one universal peaceful ending.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A plague of unfinished wars led him to write one universal peaceful ending.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. The sentence stopped violence by removing every future choice.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The sentence stopped violence by removing every future choice.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Iyra admits the Library was built from possibilities escaping that sentence.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade); The Library (endless midnight library of dark carved wood, candle constellations, floating spiral shelves, paper bridges, one enormous round dawn window, no literal face). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Iyra admits the Library was built from possibilities escaping that sentence.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Aadi understands Varun's motive without accepting permanent stillness.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Aadi understands Varun's motive without accepting permanent stillness.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. They recover one wild unwritten seed from a crack in the pavement.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They recover one wild unwritten seed from a crack in the pavement.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The seed grows into a staircase leading to the Library's first memory.. Location lock: silent world under permanent white daylight. Locked on-screen identities: Aadi Rao (small Indian boy, warm brown skin, huge dark-hazel eyes, round face, thick black hair swept left, indigo school blazer over cream shirt, rust scarf, charcoal shorts over leggings, brown boots, brass bookmark compass in breast pocket); Sumi Das (small Indian teen girl, deep brown skin, large amber eyes, long black hair in two looped braids, mustard hooded cape, teal dress over trousers, red boots, wooden story beads around wrist); Nib (palm-sized plush-like cream moth, four paper-textured wings edged in ink blue, round black eyes, tiny brass reading spectacles, ribbon bookmark tail, no mouth); Librarian Iyra (tall brown-skinned Indian woman appearing early thirties, luminous silver eyes, very long black hair braided with paper strips, layered midnight robe with gold shelf-key belt, ink-stained fingers); The First Reader (slender brown-skinned boy appearing fifteen, pale gold eyes, straight black hair turning white at tips, antique ivory tunic beneath torn black scholar coat, silver quill shaped like a small blade); The Library (endless midnight library of dark carved wood, candle constellations, floating spiral shelves, paper bridges, one enormous round dawn window, no literal face). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The seed grows into a staircase leading to the Library's first memory.",
+      "effect": "push_in"
+    }
+  ]
+}

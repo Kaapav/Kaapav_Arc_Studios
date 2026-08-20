@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e065",
+  "season": 1,
+  "episode": 65,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "Fractured Reality | ECHO//100 Episode 65",
+  "description": "The memory collapses as Mira extracts the battery, casting our heroes into the void between broken timelines. They confront the source of their existence in a space where reality is merely raw, uncompiled code. Episode 65 of ECHO//100: ARC. This is original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Obsidian skies fracture, spilling blinding white light across the bedroom floor as reality dissolves.",
+      "caption": "The sky shatters",
+      "image_prompt": "Vertical shot of the bedroom ceiling fracturing into shards, revealing blinding white void behind, Kavi-Byte in red hoodie and Mira in teal coat looking upward.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi and Mira drift helplessly into a silent, infinite, and empty void of nothingness.",
+      "caption": "Falling through void",
+      "image_prompt": "Kavi-Byte and Mira floating in a vertical white void, the bedroom furniture disintegrating into digital dust behind them.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from static, its monstrous purple form vibrating against the pure white geometry.",
+      "caption": "Null appears",
+      "image_prompt": "Null with red eyes and glitching black-purple silhouette looming over Kavi-Byte in the vast white space.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They stand within the Architect’s source code, the origin point of all universal laws.",
+      "caption": "The Architect's source",
+      "image_prompt": "Kavi-Byte touching a floating holographic grid line in the white space, glowing lines illuminating his red glasses.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The glitching monster screams as its dark armor flickers and dissolves into thin air.",
+      "caption": "Null starts dissolving",
+      "image_prompt": "Null screaming in pain, its black-purple glitch skin turning transparent, revealing a soft, human glow beneath.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Darkness falls away, revealing a frightened young child huddled amidst the swirling digital static.",
+      "caption": "A hidden child",
+      "image_prompt": "Close-up of a small, frightened human child sitting in the white void, the remains of Null’s glitch-cloak falling away.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira gasps as the child stands, eyes searching the vast void for a face.",
+      "caption": "Child stands up",
+      "image_prompt": "Mira looking shocked, the small child standing alone in the white space, looking directly at Kavi-Byte.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The boy locks eyes with Kavi, whispering a secret name lost for many long centuries.",
+      "caption": "The secret name",
+      "image_prompt": "Extreme close-up of the child whispering, Kavi-Byte looking stunned, his red hoodie reflecting the stark white light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "status": "accepted",
+  "inspected_at": "2026-08-17T18:19:16Z",
+  "inspection_method": "visual_contact_sheet_review",
+  "contact_sheet": "source_contact_sheet.jpg",
+  "accepted_frames": [
+    "story_frames/shot_01.png",
+    "story_frames/shot_02.png",
+    "story_frames/shot_03.png",
+    "story_frames/shot_04.png",
+    "story_frames/shot_05.png",
+    "story_frames/shot_06.png",
+    "story_frames/shot_07.png",
+    "story_frames/shot_08.png"
+  ],
+  "checks": {
+    "character_consistency": "passed",
+    "distinct_visual_intentions": "passed",
+    "causal_story_progression": "passed",
+    "duplicate_filler": "none",
+    "identity_drift": "none_observed"
+  },
+  "notes": "Kavi, Tara and Byte remain visually consistent across eight distinct causal shots; the Neon Arcade and Red Door continuity is preserved."
+}

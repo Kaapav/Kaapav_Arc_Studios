@@ -1,0 +1,17 @@
+{
+  "id": "kaapav/kaapav-wan-2-2-5b-benchmark",
+  "title": "KAAPAV Wan 2.2 5B Benchmark",
+  "code_file": "kaapav-wan22-benchmark.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "kaapav/kaapav-wan22-models"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

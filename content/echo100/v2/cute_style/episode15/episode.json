@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 15,
+  "episode_id": "echo30-ep015",
+  "output_slug": "echo30-episode015",
+  "title": "Byte Broke Kavi's Oldest Command | ECHO//30 Ep. 15",
+  "description": "Mira's unedited human memory reaches Byte outside the sealed Door. Rhea cannot override Kavi's voice lock, so she asks Byte what he wants instead of ordering him.\n\nByte opens the Archive for one hundred seconds and sacrifices his oldest stored memory. Tara broadcasts the 412 names. Null's chorus resolves into Kavi's discarded shadow—and tears free as a separate person just before Mira seals the collapsing white room.\n\nECHO//30 — Episode 15: Byte Broke Kavi's Oldest Command\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "3D animated short",
+    "sci fi mystery",
+    "time loop story",
+    "original animation",
+    "shorts",
+    "Byte robot",
+    "Null origin",
+    "archive collapse"
+  ],
+  "thumbnail_text": "BYTE CHOSE FOR HIMSELF",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with immutable ECHO//30 character designs, expressive restrained acting, rain-dark Navapur architecture, tactile materials, cyan recorded-memory light, red exchange light, purple denied-memory light and warm amber chosen-connection light. Use only locked turnaround sheets. No readable generated text, logos, watermark, duplicate characters, extra limbs, identity drift, costume changes or imitation-studio branding.",
+  "arc": "The Missing Hour",
+  "permanent_story_change": "Byte acts autonomously, the Archive Core opens, and Null becomes an independent Kavi-shaped person as the chamber collapses.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "Outside in the Neon Arcade, Rhea's brass key fails against the red Kavi-voice lock while Mira's cyan human waveform arrives through Byte's golden core; Rhea stops forcing the mechanism.",
+      "text": "Mira's unedited voice reached Byte. Rhea's key still could not override Kavi's oldest command.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "Rhea kneels to Byte's eye level, opens both hands and asks rather than commands; Byte hovers uncertainly before the sealed red-black Door, his cyan eyes reflecting her change.",
+      "text": "Rhea lowered the key and asked the question she had avoided for seventeen years: Byte, what do you choose?",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "Byte deliberately touches his own golden core; one warm amber memory of Arvind teaching him Kavi's name leaves the core as the black Door develops a thin gold seam.",
+      "text": "Byte chose to open the Archive. The price was his oldest memory: Arvind teaching him Kavi's name.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "Inside, the black-metal Door opens along its gold seam into a vast white Archive Core; Kavi, Tara, Mira and Imran cross together as a visible hundred-second ring begins closing, no readable timer.",
+      "text": "The Door opened for one hundred seconds. Kavi, Tara, Mira, and Imran entered the Archive Core together.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "Tara broadcasts into her red microphone while hundreds of distinct cyan memory lights lift from Archive shelves; Imran supports her and Mira guides the release, with no generated name text.",
+      "text": "Tara broadcast every recovered name. With each one remembered aloud, a voice separated from Null's chorus.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "At the center of the white Archive, the remaining purple Null mass collapses into Kavi's exact shadow silhouette attached at his boots; Kavi recognizes it while Tara and Mira keep distance.",
+      "text": "When the last passenger separated, Null still remained. The final denied memory was shaped exactly like Kavi.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "Kavi's shadow rises from the floor into a black-purple Kavi-shaped figure with soft red eyes, frightening but non-gory; Kavi's small phone projects a future waveform between them.",
+      "text": "The phone played future Kavi's confession: Null is everything I removed from you so you could keep resetting.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "Null tears free as an independent Kavi-shaped person while white Archive walls collapse into light; Mira seals Kavi, Byte and Null inside a pristine white room as Tara and Imran are pushed outside the barrier.",
+      "text": "Null tore free. The Archive collapsed. Mira sealed Kavi, Byte, and the other Kavi inside a white room.",
+      "effect": "push_in"
+    }
+  ]
+}

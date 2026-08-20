@@ -1,0 +1,74 @@
+[{"stream_name":"stderr","time":10.50941136,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":10.51012352,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":11.842785535,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.842844095,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.842849825,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.842853545,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":12.565997922,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":12.566025856,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":12.566030792,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":12.566034502,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":13.992779347,"data":"\n"}
+,{"stream_name":"stdout","time":13.992827018,"data":"=== VALIDATING_ENVIRONMENT ===\n"}
+,{"stream_name":"stdout","time":13.993552207,"data":"+ nvidia-smi --query-gpu=index,name,memory.total,driver_version --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":14.036906019,"data":"0, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":14.036950273,"data":"1, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":14.036958468,"data":"\n"}
+,{"stream_name":"stderr","time":14.04336611,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":14.043388343,"data":"  File \"/tmp/ipykernel_23/3569387757.py\", line 503, in main\n"}
+,{"stream_name":"stderr","time":14.043404773,"data":"    models, _gpu = validate_environment()\n"}
+,{"stream_name":"stderr","time":14.043408945,"data":"                   ^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":14.043412772,"data":"  File \"/tmp/ipykernel_23/3569387757.py\", line 138, in validate_environment\n"}
+,{"stream_name":"stderr","time":14.043417048,"data":"    raise FileNotFoundError(f\"Required model missing: {path}\")\n"}
+,{"stream_name":"stderr","time":14.0434209,"data":"FileNotFoundError: Required model missing: /kaggle/input/datasets/kaapav/kaapav-wan22-models/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors\n"}
+,{"stream_name":"stderr","time":14.043425162,"data":"\n"}
+,{"stream_name":"stderr","time":14.0434291,"data":"\n"}
+,{"stream_name":"stderr","time":14.043433435,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":14.04343691,"data":"  File \"/tmp/ipykernel_23/3569387757.py\", line 503, in main\n"}
+,{"stream_name":"stderr","time":14.043441287,"data":"    models, _gpu = validate_environment()\n"}
+,{"stream_name":"stderr","time":14.04344471,"data":"                   ^^^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":14.04344824,"data":"  File \"/tmp/ipykernel_23/3569387757.py\", line 138, in validate_environment\n"}
+,{"stream_name":"stderr","time":14.04345212,"data":"    raise FileNotFoundError(f\"Required model missing: {path}\")\n"}
+,{"stream_name":"stderr","time":14.043472668,"data":"FileNotFoundError: Required model missing: /kaggle/input/datasets/kaapav/kaapav-wan22-models/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors\n"}
+,{"stream_name":"stderr","time":14.043476043,"data":"\n"}
+,{"stream_name":"stderr","time":14.277768427,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":14.277794968,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":14.277800427,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":14.277897787,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":14.277959161,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":14.278167903,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":14.278336062,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":14.278344393,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":14.27834825,"data":"Exception encountered at \"In [1]\":\n"}
+,{"stream_name":"stderr","time":14.278351818,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":14.278355435,"data":"FileNotFoundError                         Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":14.278358912,"data":"/tmp/ipykernel_23/3569387757.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":14.278362808,"data":"    577 \n"}
+,{"stream_name":"stderr","time":14.278366082,"data":"    578 if __name__ == \"__main__\":\n"}
+,{"stream_name":"stderr","time":14.27836955,"data":"--\u003e 579     main()\n"}
+,{"stream_name":"stderr","time":14.278373035,"data":"\n"}
+,{"stream_name":"stderr","time":14.278376261,"data":"/tmp/ipykernel_23/3569387757.py in main()\n"}
+,{"stream_name":"stderr","time":14.278379615,"data":"    501     try:\n"}
+,{"stream_name":"stderr","time":14.27838293,"data":"    502         stage(\"validating_environment\")\n"}
+,{"stream_name":"stderr","time":14.27838645,"data":"--\u003e 503         models, _gpu = validate_environment()\n"}
+,{"stream_name":"stderr","time":14.278389895,"data":"    504         write_input_image()\n"}
+,{"stream_name":"stderr","time":14.278393233,"data":"    505 \n"}
+,{"stream_name":"stderr","time":14.278397195,"data":"\n"}
+,{"stream_name":"stderr","time":14.278401143,"data":"/tmp/ipykernel_23/3569387757.py in validate_environment()\n"}
+,{"stream_name":"stderr","time":14.278405526,"data":"    136         path = models / folder / filename\n"}
+,{"stream_name":"stderr","time":14.278409552,"data":"    137         if not path.exists():\n"}
+,{"stream_name":"stderr","time":14.278412915,"data":"--\u003e 138             raise FileNotFoundError(f\"Required model missing: {path}\")\n"}
+,{"stream_name":"stderr","time":14.278416507,"data":"    139         size = path.stat().st_size\n"}
+,{"stream_name":"stderr","time":14.278419833,"data":"    140         if size \u003c minimum_bytes:\n"}
+,{"stream_name":"stderr","time":14.278423273,"data":"\n"}
+,{"stream_name":"stderr","time":14.278426498,"data":"FileNotFoundError: Required model missing: /kaggle/input/datasets/kaapav/kaapav-wan22-models/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors\n"}
+,{"stream_name":"stderr","time":14.278430253,"data":"\n"}
+,{"stream_name":"stderr","time":16.486822398,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":16.486880858,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":16.679621907,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":16.679658346,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":17.317186235,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":17.605818163,"data":"[NbConvertApp] Writing 127750 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":19.861039573,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":20.715941695,"data":"[NbConvertApp] Writing 465225 bytes to __results__.html\n"}
+]

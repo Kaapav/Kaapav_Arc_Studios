@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 4,
+  "episode_id": "the-midnight-platform-ep004",
+  "output_slug": "the-midnight-platform-episode004",
+  "title": "The Carriage Where It Always Rains | MIDNIGHT PLATFORM Ep. 4",
+  "description": "The Carriage Where It Always Rains. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 4\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "CARRIAGE WHERE IT ALWAYS RAINS",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep004\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep004\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Door Two opens into a flooded railway carriage under indoor thunderclouds; schoolboy Dev clings to a luggage rack above black water. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Dev: “Please—I can’t remember my mother’s face.”",
+      "dialogue_audio": "Dev: “Please—I can’t remember my mother’s face.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. Saira ties her compass cord around Arin as he wades into rising water; rain falls upward around the exit. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “The door wants a memory, not a hero.”",
+      "dialogue_audio": "Saira: “The door wants a memory, not a hero.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Arin reaches Dev while a warm vision of his mother singing appears in the water beneath him. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Mother’s echo: “Arin, come home.”",
+      "dialogue_audio": "Mother’s echo: “Arin, come home.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. Arin closes his eyes and pulls Dev free; the song collapses into silent golden droplets leaving his head. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Arin: “Take the song. Not him.”",
+      "dialogue_audio": "Arin: “Take the song. Not him.”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. On Platform 13, Meera tries to hum their mother’s lullaby but both she and Maya suddenly lose the melody. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Meera: “Why can’t I finish it?”",
+      "dialogue_audio": "Meera: “Why can’t I finish it?”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. Dev escapes into a safe compartment; Arin remembers his mother’s face but no longer her voice. Saira sees the cost in him. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “You didn’t pay alone. Your whole city did.”",
+      "dialogue_audio": "Saira: “You didn’t pay alone. Your whole city did.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

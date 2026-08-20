@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "policy": {
+    "reference_required_for_every_shot": true,
+    "turnaround_required_before_storyboard": true,
+    "identity_drift_action": "reject_and_regenerate",
+    "costume_drift_action": "reject_and_regenerate",
+    "anatomy_drift_action": "reject_and_regenerate",
+    "video_generation_for_episodes_2_to_30": "blocked_until_episode_1_approval"
+  },
+  "required_views": [
+    "front",
+    "front_left_three_quarter",
+    "left_profile",
+    "rear_left_three_quarter",
+    "back",
+    "rear_right_three_quarter",
+    "right_profile",
+    "front_right_three_quarter"
+  ],
+  "characters": {
+    "arin": {
+      "scope": "episodes_1_to_30",
+      "source_master": "character_world_master.png",
+      "turnaround": "turnarounds/arin_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "meera": {
+      "scope": "episodes_1_to_30",
+      "source_master": "character_world_master.png",
+      "turnaround": "turnarounds/meera_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "tick": {
+      "scope": "episodes_1_to_30",
+      "source_master": "character_world_master.png",
+      "turnaround": "turnarounds/tick_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "conductor_masked": {
+      "scope": "episodes_1_to_20",
+      "source_master": "../../episodes/ep001/shot_frames/shot06_the_conductor.png",
+      "turnaround": "turnarounds/conductor_masked_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "saira": {
+      "scope": "episodes_2_to_30",
+      "source_master": "secondary_character_master_candidate_v2.png",
+      "turnaround": "turnarounds/saira_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "maya": {
+      "scope": "episodes_3_to_30",
+      "source_master": "secondary_character_master_candidate_v2.png",
+      "turnaround": "turnarounds/maya_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "nila": {
+      "scope": "episodes_2_to_30",
+      "source_master": "secondary_character_master_candidate_v2.png",
+      "turnaround": "turnarounds/nila_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "elias_unmasked": {
+      "scope": "episodes_17_to_30",
+      "source_master": "secondary_character_master_candidate_v2.png",
+      "turnaround": "turnarounds/elias_unmasked_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "elias_teen_1976": {
+      "scope": "episodes_15_20",
+      "turnaround": "turnarounds/elias_teen_1976_turnaround.png",
+      "status": "design_pending"
+    },
+    "maya_child_1976": {
+      "scope": "episodes_15_20",
+      "turnaround": "turnarounds/maya_child_1976_turnaround.png",
+      "status": "design_pending"
+    },
+    "dev": {
+      "scope": "episodes_4_22_28",
+      "turnaround": "turnarounds/dev_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "rohan_adult": {
+      "scope": "episodes_11_12_24_30",
+      "turnaround": "turnarounds/rohan_adult_turnaround.png",
+      "signature_lock": "silver compass-symbol tattoo on inner left forearm",
+      "status": "candidate_visual_qc_passed"
+    },
+    "rohan_child": {
+      "scope": "episodes_13_24",
+      "turnaround": "turnarounds/rohan_child_turnaround.png",
+      "status": "design_pending"
+    },
+    "devika_rao": {
+      "scope": "episodes_7_18_23",
+      "turnaround": "turnarounds/devika_rao_turnaround.png",
+      "status": "candidate_visual_qc_passed"
+    },
+    "mother_rao": {
+      "scope": "episodes_4_6_25",
+      "turnaround": "turnarounds/mother_rao_turnaround.png",
+      "status": "design_pending"
+    },
+    "father_rao": {
+      "scope": "episodes_19_30",
+      "turnaround": "turnarounds/father_rao_turnaround.png",
+      "status": "design_pending"
+    },
+    "nurse_anjali": {
+      "scope": "episodes_19_21_22_26_28",
+      "turnaround": "turnarounds/nurse_anjali_turnaround.png",
+      "status": "design_pending"
+    }
+  }
+}

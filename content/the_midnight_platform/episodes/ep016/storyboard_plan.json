@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep016",
+  "episode_number": 16,
+  "arc": 2,
+  "title": "The City Without Shadows",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "At noon, people cross a busy square but cast no shadows; behind them appear translucent shadows of missing passengers instead.",
+      "dialogue_audio": "News voice: “Authorities report a citywide optical event.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Meera’s shadow is Arin inside the train; his shadow looks up and meets her gaze independently.",
+      "dialogue_audio": "Arin’s shadow: “Door Seven. She opened it.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Inside Door Seven, Arin and Saira enter a miniature version of the city made from thousands of bottled memories.",
+      "dialogue_audio": "Saira: “Nila moved the debt out of the train.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Nila uncorks a bottle labelled only by editorial text EAST BRIDGE; outside, the real bridge reappears violently through traffic.",
+      "dialogue_audio": "Nila: “I can return everything.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Another bottle opens and a living family forgets the child standing between them; Meera pulls the child to safety.",
+      "dialogue_audio": "Meera: “Returning a place erased a person.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Arin refuses Nila’s offered bottle containing Meera’s complete memory.",
+      "dialogue_audio": "Arin: “Not if somebody else pays for her.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "EVERY RESTORED MEMORY ERASES ANOTHER"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

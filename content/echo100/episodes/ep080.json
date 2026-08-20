@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e080",
+  "season": 1,
+  "episode": 80,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "The First Kavi | ECHO//100 Episode 80",
+  "description": "Kavi emerges from the shattered glass dimension into a reality that no longer loops. He must confront his final shadow to secure his sovereign future. Episode 80 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The glass world detonates, leaving Kavi standing in the silence of his own living room.",
+      "caption": "Shattered glass reality",
+      "image_prompt": "Kavi in his red hoodie and glasses standing in a normal living room, shards of glass suspended in mid-air behind him, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He touches the wall; it is solid, cold, and undeniably real for the first time.",
+      "caption": "Solid walls remain",
+      "image_prompt": "Close up of Kavi's hand touching a wooden wall, the texture is realistic, warm ambient sunlight filtering through a window.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers out of existence, leaving behind a fading trail of cyan light and static.",
+      "caption": "Byte fades away",
+      "image_prompt": "Byte, the white floating entity, dissolving into cyan pixels in the center of the living room, Kavi watching with wide eyes.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi steps onto the porch, realizing the red door that trapped him has finally vanished.",
+      "caption": "The door disappears",
+      "image_prompt": "Kavi standing on his porch looking at a blank wall where a red door used to be, red hoodie blowing in the wind.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "History settles within his mind; he is the only version of himself left standing now.",
+      "caption": "The unique Kavi",
+      "image_prompt": "Kavi standing alone on the porch, his shadow casting a single, sharp silhouette against the porch floor.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null sits on the porch swing, shedding his glitchy form to reveal a human face.",
+      "caption": "Null becomes human",
+      "image_prompt": "Null sitting on a porch swing, his black-purple glitch skin turning into pale human skin, red eyes remaining intense and focused.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null smiles, gesture inviting, as he holds out a heavy, rusted physical iron door key.",
+      "caption": "The final key",
+      "image_prompt": "Null's hand extended toward Kavi, holding a large, antique iron key, the background is a quiet, suburban neighborhood at twilight.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Take this, Null whispers, because the future is a choice you finally have to make.",
+      "caption": "Choice is yours",
+      "image_prompt": "Extreme close up of the iron key in Kavi's hand, Kavi's face determined and looking forward, the porch light flickering on.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

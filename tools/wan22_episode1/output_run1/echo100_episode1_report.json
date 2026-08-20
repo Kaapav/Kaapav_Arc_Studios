@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "production": "ECHO//100 Episode 1",
+  "model_family": "Wan2.2-TI2V-5B",
+  "status": "failed",
+  "comfy_release": "v0.26.0",
+  "comfy_commit": "f6c162d",
+  "settings": {
+    "width": 480,
+    "height": 832,
+    "generated_frames_per_shot": 49,
+    "used_frames_per_shot": 41,
+    "shots": 8,
+    "fps": 16,
+    "steps": 20,
+    "cfg": 5.0,
+    "seeds": [
+      817263,
+      817264,
+      817265,
+      817266,
+      817267,
+      817268,
+      817269,
+      817270
+    ]
+  },
+  "stages": [
+    {
+      "name": "validating_environment",
+      "at": 1786199826.398959
+    }
+  ],
+  "gpu": [
+    "0, Tesla T4, 15360 MiB, 580.159.04",
+    "1, Tesla T4, 15360 MiB, 580.159.04"
+  ],
+  "models": {
+    "diffusion_models": {
+      "path": "/kaggle/input/kaapav-wan22-models/wan2.2_ti2v_5B_fp16.safetensors",
+      "bytes": 9999658848
+    },
+    "text_encoders": {
+      "path": "/kaggle/input/kaapav-wan22-models/umt5_xxl_fp8_e4m3fn_scaled.safetensors",
+      "bytes": 6735906897
+    },
+    "vae": {
+      "path": "/kaggle/input/kaapav-wan22-models/wan2.2_vae.safetensors",
+      "bytes": 1409400960
+    }
+  },
+  "error": "Embedded reference 1 is implausibly small",
+  "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_23/550901008.py\", line 583, in main\n    input_paths = write_input_images()\n                  ^^^^^^^^^^^^^^^^^^^^\n  File \"/tmp/ipykernel_23/550901008.py\", line 282, in write_input_images\n    raise RuntimeError(f\"Embedded reference {index} is implausibly small\")\nRuntimeError: Embedded reference 1 is implausibly small\n",
+  "total_seconds": 0.06
+}

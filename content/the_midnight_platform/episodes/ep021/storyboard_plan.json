@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep021",
+  "episode_number": 21,
+  "arc": 3,
+  "title": "The Train Entered the City",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "At midnight, brass rails grow down the centre of a modern rain-wet avenue; the Midnight Train emerges between buses and buildings.",
+      "dialogue_audio": "News voice: “A train is moving through the east district. There are no tracks.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Nila drives barefoot, cracked hands fused to the clock controls, while stored memories orbit the engine like bottled stars.",
+      "dialogue_audio": "Nila: “Every passenger gets a door home.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Arin, Saira, and unmasked Elias race across the roof toward the engine as the city bends into overlapping years below.",
+      "dialogue_audio": "Elias: “If the engine reaches Central, the debt reaches everyone.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Meera, Maya, and quadruped Tick pursue in Maya’s tiny maintenance trolley along tracks forming seconds ahead of them.",
+      "dialogue_audio": "Meera: “Then we reach Central first.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "One carriage door opens beside a hospital. A missing nurse steps out; across the street, a family simultaneously forgets why they are crying.",
+      "dialogue_audio": "Maya: “One return. One memory taken.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "The train’s destination board changes in clean editorial type to CENTRAL STATION / LAST STOP / 12:13.",
+      "dialogue_audio": "Elias: “Thirteen minutes until the city is emptied.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE LAST STOP IS THE WHOLE CITY"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

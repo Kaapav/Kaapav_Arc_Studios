@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e010",
+  "season": 1,
+  "episode": 10,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "The Architect’s Toll | ECHO//100 Episode 10",
+  "description": "Kavi confronts a temporal paradox as his house folds into the center of the Red Door. Episode 10 of ECHO//100: ARC. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The hallway stretches into infinity, pulling Kavi toward a glowing, pulsating Red Door of impossible architecture.",
+      "caption": "The infinite hallway",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie and backpack running down a hallway that is folding like paper, Red Door visible in the distance.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Inside the frame, an older Kavi stands frozen, clutching a blueprint labeled Byte with trembling fingers.",
+      "caption": "Future self revealed",
+      "image_prompt": "Kavi looking through the Red Door at an older version of himself holding a glowing digital blueprint.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, his orange antenna flickering as he realizes his existence was coded for this.",
+      "caption": "Byte's cruel purpose",
+      "image_prompt": "Byte, a white floating robot with a cyan face and orange antenna, looking at his own hands in shock.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null surges from the door frame, his black-purple glitch skin binding him to the surrounding structure.",
+      "caption": "Null becomes the door",
+      "image_prompt": "Null, a creature of black-purple glitch-matter with glowing red eyes, merging his body into the frame of the Red Door.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Destroying the door to save reality forces the permanent erasure of Byte from existence entirely.",
+      "caption": "A devastating choice",
+      "image_prompt": "Close up of Kavi wearing his glasses, looking torn between the door and the floating robot Byte.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The past self’s cryptic warning was never to stay away, but to reach this loop sooner.",
+      "caption": "The hidden truth",
+      "image_prompt": "Kavi looking at a holographic message left by his future self, realizing the true meaning of the warning.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches forward, abandoning all caution, and plunges a hand into the swirling, unstable vortex.",
+      "caption": "Reaching for the end",
+      "image_prompt": "Kavi reaching out his hand towards the center of the Red Door as the world around him shatters.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Pain screams through Kavi as fingers dissolve into the same purple glitch-matter that consumed Null.",
+      "caption": "Corrupted by the loop",
+      "image_prompt": "Kavi's hand turning into purple glitch-matter upon touching the surface of the Red Door, his expression one of terror.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T11:03:46",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-105346-echo100-s01e010",
+  "review_id": "20260804-110346-700997",
+  "youtube_url": null,
+  "upload_error": null
+}

@@ -1,0 +1,67 @@
+.env
+credentials/token.json
+credentials/client_secret.json
+credentials/service-account*.json
+credentials/*service_account*.json
+credentials/dashboard_session_secret.bin
+credentials/meta_system_user_token.txt
+credentials/meta_media_signing_secret.bin
+credentials/meta_system_user_token.txt
+credentials/meta_media_signing_secret.bin
+output/
+analytics/
+.cache/
+!.cache/used_topics.txt
+__pycache__/
+*.pyc
+.venv/
+assets/music.mp3
+
+# secrets - ALL credential files regardless of name
+credentials/*.json
+credentials/*.txt
+credentials/*.bin
+*.token.json
+token.json
+!credentials/.gitkeep
+
+# large model/media binaries (never in git)
+*.safetensors
+*.onnx
+*.wav
+*.mp3
+*.mp4
+*.mov
+*.mkv
+*.pdb
+tools/wan_benchmark/dataset*/
+tools/wan22_benchmark/dataset*/
+
+# content media frames (regenerable from prompts)
+content/*/*/story_frames/
+content/*/*/*/story_frames/
+content/*/*/*/*/story_frames/
+*.png
+!**/*.png.json
+
+# runtime artifacts
+logs/
+backups/
+tmp/
+.cache/
+.pytest_cache/
+.playwright-mcp/
+
+# flutter build outputs
+flutter/*/build/
+flutter/*/windows/flutter/ephemeral/
+flutter/*/.dart_tool/
+
+# QC failure artifacts
+*/qc/kernel_failure/
+*/qc/kernel_failure/*/
+
+
+# app release bundles
+flutter/releases/
+

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "clockworkmoon",
+  "series_title": "THE CLOCKWORK MOON",
+  "episode": 9,
+  "episode_id": "clockworkmoon-ep009",
+  "output_slug": "clockworkmoon-episode009",
+  "title": "The Clockbird Chose the Ground | THE CLOCKWORK MOON Ep. 9",
+  "description": "Orlo refuses to abandon endangered workers, forcing Anya to choose rescue over reaching the moon.\n\nTHE CLOCKWORK MOON — Episode 9\nAn original animated story from KAAPAV ARC Studios.\n\n#ClockworkMoon #AnimatedSeries #Shorts",
+  "tags": [
+    "The Clockwork Moon",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "fantasy adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "ORLO REFUSED TO FLY",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile brass clockwork, moon-silver magic and jewel-toned mountain environments, warm candlelight against cool lunar glow, coherent anatomy and props, emotionally truthful acting, adventurous rather than violent; preserve all locked character sheets exactly.",
+  "arc": "The Falling Minute",
+  "permanent_story_change": "Orlo freely joins Anya after she proves he is not merely transport.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Harpoons tear the dock supports and send workers sliding toward the cloud edge.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harpoons tear the dock supports and send workers sliding toward the cloud edge.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Anya orders Orlo upward, but the bird folds his wings and shields the workers instead.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya orders Orlo upward, but the bird folds his wings and shields the workers instead.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Rian reveals royal handlers treated Orlo as a machine that could not choose.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Rian reveals royal handlers treated Orlo as a machine that could not choose.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. The moon ladder begins fading, perhaps their only chance to reach Elara.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The moon ladder begins fading, perhaps their only chance to reach Elara.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Anya removes Orlo's command bridle even though doing so ends her authority over him.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya removes Orlo's command bridle even though doing so ends her authority over him.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Freed, Orlo catches the falling workers with both wings before the dock breaks.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Freed, Orlo catches the falling workers with both wings before the dock breaks.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. He then kneels to Anya by choice, allowing Pip to restore his temporary counterweight.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He then kneels to Anya by choice, allowing Pip to restore his temporary counterweight.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The rescued foreman reveals Vale moved all stolen minutes into the bell tower for tonight's eclipse.. Location lock: collapsing royal sky-dock. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Orlo (large friendly owl-like clockwork bird, layered bronze feathers, round moon-white eyes, cobalt enamel wing tips, hanging silver counterweight beneath chest); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The rescued foreman reveals Vale moved all stolen minutes into the bell tower for tonight's eclipse.",
+      "effect": "push_in"
+    }
+  ]
+}

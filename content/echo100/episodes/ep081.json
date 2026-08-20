@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e081",
+  "season": 1,
+  "episode": 81,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "The Null Invitation | ECHO//100 Episode 81",
+  "description": "Kavi receives a key that unravels the fabric of his reality, forcing him to confront the truth about his home. He must choose between the comfort of a prison or the danger of the unknown. Episode 81 of ECHO//100: The Door War. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The key vibrates in Kavi’s palm, pulsing with a rhythmic, low-frequency hum defying physics.",
+      "caption": "Key begins to hum",
+      "image_prompt": "Close up of Kavi wearing a red hoodie and glasses, staring at a glowing, jagged metal key in his hand.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, the front lawn dissolves into a violent, swirling vortex of jagged, multicolored static.",
+      "caption": "Lawn turns to static",
+      "image_prompt": "Wide shot of Kavi standing on his porch as the green grass transforms into a swirling digital static abyss.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null stands motionless, his black-purple glitch form flickering like a dying signal amidst chaos.",
+      "caption": "Null remains perfectly still",
+      "image_prompt": "Null, a tall figure of shifting purple glitch patterns, stands calmly on the porch while the world behind him tears apart.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null is no villain, but a custodian desperately holding the frayed timeline together by hand.",
+      "caption": "Null is the custodian",
+      "image_prompt": "Close up of Null with glowing red eyes looking at Kavi, his hands glowing with golden light holding the air together.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He offers Kavi the choice: remain in this quiet house or enter the actual world.",
+      "caption": "The ultimate choice",
+      "image_prompt": "Over-the-shoulder shot from Kavi, looking at Null, who holds out a hand toward the swirling vortex.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi looks back at the front door, realizing this home is a stagnant containment cell.",
+      "caption": "House is a prison",
+      "image_prompt": "Low angle shot of Kavi's house, its walls beginning to flicker and fade, revealing metallic bars hidden beneath the siding.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The safety of the loop was never meant to protect, but to stop Kavi.",
+      "caption": "Breaking the cycle",
+      "image_prompt": "Kavi standing firmly on the porch, his backpack straps pulled tight, looking at the house with sudden realization.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi jams the key into empty air, tearing the sky open to reveal a city.",
+      "caption": "City of floating clocks",
+      "image_prompt": "Kavi thrusts the key into a rift in the sky, revealing a massive, impossible city of gold gears and floating clock towers.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

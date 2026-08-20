@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e058",
+  "season": 1,
+  "episode": 58,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "The Unlocking | ECHO//100 Episode 58",
+  "description": "Kavi discovers his true purpose as the master key to the reality-reset mechanism. He must sacrifice his physical form to prevent the collapse of the city. Episode 58 of ECHO//100: Byte's Lie. This is an original work of science fiction, partially assisted by AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The jagged key in Kavi’s palm vibrates, humming a low, reality-tearing frequency that silences the room.",
+      "caption": "The key hums",
+      "image_prompt": "Kavi in his red hoodie holding a glowing jagged key, intense focus, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The massive red door groans, swinging open to reveal a blinding, infinite white void beyond the threshold.",
+      "caption": "Red door opens",
+      "image_prompt": "A massive red door frame revealing a blinding white void, Kavi standing in front.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null lunges from the shadows, his black-purple glitch form flickering wildly as he tries to tackle Kavi.",
+      "caption": "Null attacks",
+      "image_prompt": "Null with red eyes lunging toward Kavi, dark glitch distortion effects surrounding him.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers between them, his cyan face pulsing with urgency while he shields Kavi from Null's reach.",
+      "caption": "Byte shields Kavi",
+      "image_prompt": "Byte with his orange antenna glowing, pushing back against Null's glitch energy.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stares into the white, realizing the void is a library filled with endless shadows of himself.",
+      "caption": "Infinite versions",
+      "image_prompt": "Kavi looking into the void, seeing hundreds of ghostly silhouettes of himself inside.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The truth hits like a blade: the door won't open for him because he is the lock.",
+      "caption": "Becoming the door",
+      "image_prompt": "Kavi looking at his hands, which are beginning to turn into geometric red light.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s human skin fractures, revealing shimmering crystalline structures beneath as his backpack dissolves into raw code.",
+      "caption": "Structural transformation",
+      "image_prompt": "Kavi's body unfolding into geometric crystalline shapes, red hoodie tearing away.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi merges into the frame, his face frozen in a permanent, glowing lattice as the door seals.",
+      "caption": "The final seal",
+      "image_prompt": "Kavi's face becoming part of the red door structure, glowing crystalline lattice, final shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

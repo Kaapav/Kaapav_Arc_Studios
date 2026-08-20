@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e031",
+  "season": 1,
+  "episode": 31,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Echoes of the Unborn | ECHO//100 Episode 31",
+  "description": "Kavi steps through the Red Threshold to discover he is the architect of a city built from unborn memories. Episode 31 of ECHO//100: Mira Protocol. This content is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The red doorway exhales silver mist, turning the surrounding metallic ruins into fragile, glowing blueprints.",
+      "caption": "Silver mist architecture",
+      "image_prompt": "Kavi in his red hoodie and glasses stands before a glowing red doorway emitting thick silver mist in a ruined city.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi steps inside, abandoning Byte and Mira to face the humming, infinite void of the threshold.",
+      "caption": "Entering the void",
+      "image_prompt": "Kavi walking alone into a swirling vortex of red light and floating geometry.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A version of Kavi stands there, wearing pristine white robes and holding a pen of pure light.",
+      "caption": "The alternate architect",
+      "image_prompt": "Kavi facing an older, calm version of himself dressed in white robes inside a room of floating blueprints.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He claims this city is a recursive loop, a sanctuary for every soul that never drew breath.",
+      "caption": "Sanctuary for the unborn",
+      "image_prompt": "The alternate Kavi gesturing to thousands of translucent, unborn silhouettes drifting through the city architecture.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans the walls, realizing the cryptic future-self messages are actually construction schematics for the next city.",
+      "caption": "Byte decodes reality",
+      "image_prompt": "Byte, the white floating robot with a cyan face, projecting a holographic map of the city’s structure.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city isn't a destination; it is a machine designed to archive lives that never truly began.",
+      "caption": "The city is hardware",
+      "image_prompt": "Mira looking at a wall of infinite memory files that look like blueprints of human souls.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s hand begins to dissolve, his skin shedding into flickering data streams of jagged, glowing blue code.",
+      "caption": "Kavi is disintegrating",
+      "image_prompt": "Close up of Kavi's hand turning into digital light particles, his red hoodie sleeve fraying into binary.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The architect smiles as Kavi becomes code, bound forever to the logic of the recursive loop.",
+      "caption": "Kavi becomes data",
+      "image_prompt": "Kavi's face becoming transparent and pixelated, merging with the red digital patterns of the doorway.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

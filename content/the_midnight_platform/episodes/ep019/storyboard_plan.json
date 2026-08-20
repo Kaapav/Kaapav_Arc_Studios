@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep019",
+  "episode_number": 19,
+  "arc": 2,
+  "title": "The Last Person Who Remembers Meera",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Meera enters her home; her father politely asks who she is while her own photographs show an empty space beside Arin.",
+      "dialogue_audio": "Father: “Can I help you?” Meera: “No. I’m sorry.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "At Platform 13, Maya forgets Meera mid-sentence; Saira immediately says Meera’s name and restores the recognition for one breath.",
+      "dialogue_audio": "Saira: “Meera Rao. Twelve. Teal coat. Saved her brother.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Tick projects hundreds of silent memories: Meera repairing his ear, laughing in rain, writing MOON on her palm.",
+      "dialogue_audio": "Meera: “He can’t hold all of me alone.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "The twelve bridge witnesses return and each learns one true memory of Meera, accepting that they may lose something else.",
+      "dialogue_audio": "Nurse: “I’ll remember the warning at the door.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Countdown reaches zero. The city forgets Meera, but twelve witnesses speak their chosen memories and her outline becomes solid again.",
+      "dialogue_audio": "Witnesses, overlapping: “We remember Meera.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "On the train, every locked door displays Meera’s turquoise hair clip symbol; Arin hears the city speak her name.",
+      "dialogue_audio": "Arin: “She found a payment the train didn’t steal.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "MEMORY CAN BE GIVEN — NOT ONLY TAKEN"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

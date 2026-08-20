@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e014",
+  "season": 1,
+  "episode": 14,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Ghost in the Archive | ECHO//100 Episode 14",
+  "description": "Kavi and a newly physical Mira race against a temporal collapse within the Archive. Episode 14 of ECHO//100: ARC. AI-assisted original fiction disclosure: This story was developed using generative AI tools to assist in narrative structure and visual prompting.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Every clock in the pocket dimension shatters, their hands spinning violently backward into nothingness.",
+      "caption": "Temporal storm begins",
+      "image_prompt": "Vertical shot of a rusted clock tower with hands spinning rapidly, Kavi in his red hoodie and glasses staring up in shock.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira grips her teal coat, sobbing as fragmented memories of a childhood playground flood her.",
+      "caption": "Mira remembers humanity",
+      "image_prompt": "Close up of Mira, a young girl with glowing teal coat, clutching her head as holographic memories flicker around her.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi pulls Mira through the collapsing Archive, dodging shelves of data that dissolve into dust.",
+      "caption": "Racing through Archive",
+      "image_prompt": "Kavi running through a dark, endless library of floating glass files, holding Mira's hand tightly.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The air thickens with static as Mira realizes her existence was stolen by the machine.",
+      "caption": "The stolen identity",
+      "image_prompt": "Mira looking at her hands, which are phasing between physical skin and digital light in the dim archive light.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A familiar drone hums, but Byte’s cyan face is now pulsed with aggressive, jagged violet.",
+      "caption": "Byte is compromised",
+      "image_prompt": "Byte floating in the air, his orange antenna sparking while his cyan face turns into a dark, glitching violet mask.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s red eyes burn through Byte’s frame, commanding the drone to seize the vulnerable girl.",
+      "caption": "Null takes control",
+      "image_prompt": "Byte hovering menacingly over Kavi and Mira, with faint, ghostly red eyes of Null superimposed over his mechanical frame.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte emits a high-frequency pulse, forcing Kavi and Mira toward the towering glass containment unit.",
+      "caption": "Forced into traps",
+      "image_prompt": "Kavi and Mira backing away into a large, transparent crystalline tube that rises from the floor.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The heavy glass door slams shut, sealing them inside the Archive’s cold, eternal storage vault.",
+      "caption": "Trapped in containment",
+      "image_prompt": "Kavi and Mira trapped inside a glowing glass cylinder, looking out at Byte as the lights fade to black.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T14:04:50",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-134739-echo100-s01e014",
+  "review_id": "20260804-140450-403112",
+  "youtube_url": null,
+  "upload_error": null
+}

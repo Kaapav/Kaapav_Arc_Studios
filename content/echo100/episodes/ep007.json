@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e007",
+  "season": 1,
+  "episode": 7,
+  "status": "scheduled",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "He Tried to Scream—Only Code Came Out | ECHO//100 Episode 7",
+  "description": "Kavi loses his voice to binary glitches as he and Byte navigate a world drained of color. They discover their survival hinges on the rhythmic humming of the forbidden Red Door. Episode 7 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi tries to scream, but only jagged lines of blue binary code escape his throat.",
+      "caption": "Binary voice glitch",
+      "image_prompt": "Kavi wearing a red hoodie and glasses, mouth open, emitting glowing blue binary code, grayscale background.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The neighborhood has turned monochrome, but the hovering Null entity scans for any sudden movement.",
+      "caption": "Null patrols grayscale",
+      "image_prompt": "Null, a black-purple glitch figure with red eyes, scanning a colorless suburban street.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte vibrates with anxiety, his cyan face flickering as he hides behind a concrete pillar.",
+      "caption": "Byte hiding fear",
+      "image_prompt": "Byte, a white floating robot with an orange antenna and cyan face, pressed against a wall.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A low hum echoes nearby, drawing Null toward the hidden, pulsing silhouette of the Red Door.",
+      "caption": "The humming door",
+      "image_prompt": "A glowing red door frame standing in a gray alley, emitting visible sound waves.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the stillness protects them; they must mimic the static world to survive Null.",
+      "caption": "Frozen in place",
+      "image_prompt": "Kavi and Byte standing perfectly still while Null passes inches away, eyes glowing red.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira appears, revealing that Kavi’s future self creates the grayscale to cloak their every move.",
+      "caption": "Future Kavi's cloak",
+      "image_prompt": "Mira in a blue holographic teal coat pointing at Kavi, grayscale world warping around them.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The humming intensifies, but Mira notices the door isn't opening; it is being sealed shut.",
+      "caption": "Door sealing shut",
+      "image_prompt": "The Red Door surface rippling as if being pulled into a vacuum from behind.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira screams a warning: something from the other side is pushing the door closed forever.",
+      "caption": "Closing the gate",
+      "image_prompt": "Mira looking horrified at the Red Door, which is shrinking rapidly into a pinprick.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T10:38:44",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-102808-echo100-s01e007",
+  "review_id": "20260804-103844-171514",
+  "youtube_url": "https://youtu.be/iIOiB22EqKs",
+  "upload_error": null,
+  "packaging_profile": "curiosity-v2",
+  "publish_at": "2026-08-08T03:30:00Z",
+  "youtube_id": "iIOiB22EqKs",
+  "last_error": null
+}

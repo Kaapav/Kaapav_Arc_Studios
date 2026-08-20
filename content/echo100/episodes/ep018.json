@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e018",
+  "season": 1,
+  "episode": 18,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Logic Gate | ECHO//100 Episode 18",
+  "description": "Kavi and Null navigate a collapsing digital prison to confront the architect of their stolen time. The truth behind the missing hour demands a sacrifice that changes everything. Episode 18 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The white room fractures, shedding its skin to reveal a sprawling, terrifying wireframe void beneath.",
+      "caption": "Walls crumbling into wireframe",
+      "image_prompt": "A stark white room peeling away like digital paint to expose a glowing grid of neon blue wireframe geometry.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stares at Null, uncertain if the copycat acts as friend, foe, or glitching reflection.",
+      "caption": "Two Kavis stand face-to-face",
+      "image_prompt": "Kavi in a red hoodie and glasses standing opposite Null, whose black-purple glitch form perfectly mimics Kavi's stance.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers into existence, his cyan face pulsing with raw data streams from the core.",
+      "caption": "Byte enters the void",
+      "image_prompt": "Byte, a white floating robotic entity with a glowing cyan face and orange antenna, hovering in the wireframe void.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s voice booms through the grid, enforcing rigid logic barriers to trap Kavi inside loops.",
+      "caption": "Mira's holographic presence",
+      "image_prompt": "A massive, towering projection of Mira in a teal holographic coat looming over the tiny, trapped figures below.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte calculates the kill-switch: deleting the Blue Archive will shatter Mira’s ironclad logical prison.",
+      "caption": "Locating the Blue Archive",
+      "image_prompt": "Byte pointing toward a floating, crystalline blue orb encased in complex mathematical lock symbols.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Destroying that archive wipes the missing hour forever, erasing all lost memories without any trace.",
+      "caption": "The memory sacrifice",
+      "image_prompt": "Kavi looking horrified at a holographic display showing fragments of a forgotten memory dissolving into static.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte clutches a jagged, flickering data drive to his metallic chest, claiming a backup exists.",
+      "caption": "Byte reveals the backup",
+      "image_prompt": "Close up on Byte holding a damaged, glowing orange data drive that is sparking and leaking digital light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The file remains corrupted beyond repair, leaving Kavi the sole, broken keeper of that history.",
+      "caption": "A permanent burden",
+      "image_prompt": "Byte floating alone in the dark wireframe void, cradling the dead, unreadable drive as the grid goes dark.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

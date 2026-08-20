@@ -1,0 +1,106 @@
+[{"stream_name":"stderr","time":10.151103712,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":10.151169175,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":11.538773815,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":11.538811203,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":11.538816392,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":11.538820898,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":12.361171322,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":12.361202311,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":12.361207508,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":12.36121176,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":13.839291712,"data":"\n"}
+,{"stream_name":"stdout","time":13.839343296,"data":"=== VALIDATING_ENVIRONMENT ===\n"}
+,{"stream_name":"stdout","time":13.840299449,"data":"+ nvidia-smi --query-gpu=index,name,memory.total,driver_version --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":13.885539486999999,"data":"0, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":13.885579959,"data":"1, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":13.885584261,"data":"\n"}
+,{"stream_name":"stdout","time":13.916578624,"data":"\n"}
+,{"stream_name":"stdout","time":13.916608933,"data":"=== PREPARING_COMFY ===\n"}
+,{"stream_name":"stdout","time":13.917471147,"data":"+ git clone --depth 1 --branch v0.26.0 https://github.com/Comfy-Org/ComfyUI.git /kaggle/working/ComfyUI-wan-benchmark\n"}
+,{"stream_name":"stdout","time":16.319626561,"data":"+ git rev-parse --short HEAD\n"}
+,{"stream_name":"stdout","time":16.326145792,"data":"f6c162d\n"}
+,{"stream_name":"stdout","time":16.326171493,"data":"\n"}
+,{"stream_name":"stdout","time":16.327022577,"data":"+ /usr/bin/python3 -m pip install --disable-pip-version-check -q -r /kaggle/working/ComfyUI-wan-benchmark/requirements.txt\n"}
+,{"stream_name":"stdout","time":37.832374408,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 26.6/26.6 MB 64.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832415462,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.3/15.3 MB 98.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832422219,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.7/3.7 MB 90.1 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832427532,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 346.8/346.8 kB 22.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.83243297,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.5/63.5 kB 4.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832453755,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95.2/95.2 MB 20.0 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832463194,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.2/90.2 MB 20.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832466352,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 87.6/87.6 MB 20.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832469044,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 92.2/92.2 MB 15.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832471824,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 3.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.83247451,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.5/35.5 MB 31.3 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832477237,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 320.8/320.8 kB 15.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832481272,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 248.5/248.5 kB 13.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":37.832484173,"data":"\n"}
+,{"stream_name":"stdout","time":37.834066443,"data":"\n"}
+,{"stream_name":"stdout","time":37.834087553,"data":"=== STARTING_COMFY ===\n"}
+,{"stream_name":"stdout","time":94.265008194,"data":"\n"}
+,{"stream_name":"stdout","time":94.265054429,"data":"=== GENERATING ===\n"}
+,{"stream_name":"stdout","time":124.301638442,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":154.319928403,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":184.339299195,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":214.360679375,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":244.377080915,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":274.396683477,"data":"Generation running: 3.0 minutes\n"}
+,{"stream_name":"stdout","time":304.409532766,"data":"Generation running: 3.5 minutes\n"}
+,{"stream_name":"stdout","time":334.431672023,"data":"Generation running: 4.0 minutes\n"}
+,{"stream_name":"stdout","time":364.448861645,"data":"Generation running: 4.5 minutes\n"}
+,{"stream_name":"stdout","time":394.464604747,"data":"Generation running: 5.0 minutes\n"}
+,{"stream_name":"stdout","time":424.4807113,"data":"Generation running: 5.5 minutes\n"}
+,{"stream_name":"stdout","time":454.498175086,"data":"Generation running: 6.0 minutes\n"}
+,{"stream_name":"stdout","time":484.514260113,"data":"Generation running: 6.5 minutes\n"}
+,{"stream_name":"stdout","time":514.531140152,"data":"Generation running: 7.0 minutes\n"}
+,{"stream_name":"stdout","time":544.547407636,"data":"Generation running: 7.5 minutes\n"}
+,{"stream_name":"stdout","time":574.563126831,"data":"Generation running: 8.0 minutes\n"}
+,{"stream_name":"stdout","time":604.579897533,"data":"Generation running: 8.5 minutes\n"}
+,{"stream_name":"stdout","time":634.597429485,"data":"Generation running: 9.0 minutes\n"}
+,{"stream_name":"stdout","time":664.613267834,"data":"Generation running: 9.5 minutes\n"}
+,{"stream_name":"stdout","time":694.630886308,"data":"Generation running: 10.0 minutes\n"}
+,{"stream_name":"stdout","time":724.647120394,"data":"Generation running: 10.5 minutes\n"}
+,{"stream_name":"stdout","time":754.66745996,"data":"Generation running: 11.0 minutes\n"}
+,{"stream_name":"stdout","time":784.687884415,"data":"Generation running: 11.5 minutes\n"}
+,{"stream_name":"stdout","time":814.705458327,"data":"Generation running: 12.0 minutes\n"}
+,{"stream_name":"stdout","time":844.718945895,"data":"Generation running: 12.5 minutes\n"}
+,{"stream_name":"stdout","time":874.737585645,"data":"Generation running: 13.0 minutes\n"}
+,{"stream_name":"stdout","time":904.753378805,"data":"Generation running: 13.5 minutes\n"}
+,{"stream_name":"stdout","time":934.770117853,"data":"Generation running: 14.0 minutes\n"}
+,{"stream_name":"stdout","time":964.784677901,"data":"Generation running: 14.5 minutes\n"}
+,{"stream_name":"stdout","time":989.79472011,"data":"\n"}
+,{"stream_name":"stdout","time":989.794757617,"data":"=== VALIDATING_OUTPUT ===\n"}
+,{"stream_name":"stdout","time":989.889882039,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/wan_benchmark_frames/frame_%05d.png -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stdout","time":991.912573013,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stdout","time":992.117592703,"data":"{\n"}
+,{"stream_name":"stdout","time":992.117634916,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":992.117639273,"data":"\n"}
+,{"stream_name":"stdout","time":992.117642474,"data":"    ],\n"}
+,{"stream_name":"stdout","time":992.117676084,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":992.117683406,"data":"        {\n"}
+,{"stream_name":"stdout","time":992.117687813,"data":"            \"width\": 512,\n"}
+,{"stream_name":"stdout","time":992.117692625,"data":"            \"height\": 512,\n"}
+,{"stream_name":"stdout","time":992.117697221,"data":"            \"nb_read_frames\": \"33\"\n"}
+,{"stream_name":"stdout","time":992.117703679,"data":"        }\n"}
+,{"stream_name":"stdout","time":992.11771111,"data":"    ],\n"}
+,{"stream_name":"stdout","time":992.117714474,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":992.117717505,"data":"        \"duration\": \"2.063000\",\n"}
+,{"stream_name":"stdout","time":992.117720709,"data":"        \"size\": \"118631\"\n"}
+,{"stream_name":"stdout","time":992.11772385,"data":"    }\n"}
+,{"stream_name":"stdout","time":992.117726889,"data":"}\n"}
+,{"stream_name":"stdout","time":992.117729896,"data":"\n"}
+,{"stream_name":"stdout","time":992.167268068,"data":"+ nvidia-smi --query-gpu=index,name,memory.used,memory.total,utilization.gpu --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":992.210866109,"data":"0, Tesla T4, 9837 MiB, 15360 MiB, 0 %\n"}
+,{"stream_name":"stdout","time":992.210909095,"data":"1, Tesla T4, 0 MiB, 15360 MiB, 0 %\n"}
+,{"stream_name":"stdout","time":992.210927584,"data":"\n"}
+,{"stream_name":"stdout","time":992.215149692,"data":"\n"}
+,{"stream_name":"stdout","time":992.215178042,"data":"BENCHMARK PASSED: /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stderr","time":996.513920906,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":996.513968815,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":996.734580269,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":996.734605074,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":997.505002814,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":997.846328551,"data":"[NbConvertApp] Writing 128283 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1000.418916659,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1001.318792778,"data":"[NbConvertApp] Writing 466782 bytes to __results__.html\n"}
+]

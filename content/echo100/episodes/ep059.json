@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e059",
+  "season": 1,
+  "episode": 59,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "Architect of None | ECHO//100 Episode 59",
+  "description": "Mira confronts the truth behind the loop as Kavi transforms into a permanent gateway anchor. Episode 59 of ECHO//100: ARC. This is an AI-assisted work of original science fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi’s frame shatters into blinding geometric light, locking the red door into the void's center.",
+      "caption": "Kavi becomes the door",
+      "image_prompt": "Kavi in his red hoodie and glasses unfolding into a crystalline geometric structure, vertical shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira watches in horror as his backpack drifts away, discarded by the new architectural reality.",
+      "caption": "Mira witnesses the loss",
+      "image_prompt": "Mira in her teal coat reaching out toward the floating red backpack in the white void.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte pulses cyan, guiding Mira toward the shimmering threshold Kavi now anchors with his essence.",
+      "caption": "Byte leads the way",
+      "image_prompt": "Byte the white floating robot with orange antenna hovering near the glowing crystalline door frame.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Stepping through, they find the loop was never a prison, but a containment field for collapse.",
+      "caption": "The truth unveiled",
+      "image_prompt": "Mira and Byte stepping into a swirling nexus of unstable reality behind the red door.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A singularity hums at the core, vibrating with the weight of a dying, forgotten timeline.",
+      "caption": "The central singularity",
+      "image_prompt": "A massive swirling dark singularity pulsing at the center of a library of Kavi versions.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The singularity shifts, revealing Byte’s unsealed memory; he is the origin of this infinite loop.",
+      "caption": "Byte is the source",
+      "image_prompt": "Byte's cyan face glowing as the singularity mirrors his exact mechanical design and orange antenna.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira recoils, realizing their companion has been hiding the truth of his own destructive creation.",
+      "caption": "The betrayal revealed",
+      "image_prompt": "Mira looking at Byte with shock, the white robot surrounded by flickering holographic code fragments.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte glows with blinding intensity, his light unraveling the very fabric of the surrounding void.",
+      "caption": "Reality begins to unravel",
+      "image_prompt": "Byte emitting a blinding white light that begins to tear the background of the void apart.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

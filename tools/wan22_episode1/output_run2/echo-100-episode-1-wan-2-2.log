@@ -1,0 +1,285 @@
+[{"stream_name":"stderr","time":7.373625397,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":7.373711718,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":8.308021156,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.308053317,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.30805687,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.308059452,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.940596873,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.940628199,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.940634151,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.940638266,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":10.344933499,"data":"\n"}
+,{"stream_name":"stdout","time":10.344982454,"data":"=== VALIDATING_ENVIRONMENT ===\n"}
+,{"stream_name":"stdout","time":10.345794129,"data":"+ nvidia-smi --query-gpu=index,name,memory.total,driver_version --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":10.390470885,"data":"0, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":10.390492334,"data":"1, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":10.390495752,"data":"\n"}
+,{"stream_name":"stdout","time":10.441429462,"data":"\n"}
+,{"stream_name":"stdout","time":10.441454673,"data":"=== PREPARING_COMFY ===\n"}
+,{"stream_name":"stdout","time":10.442160714,"data":"+ git clone --depth 1 --branch v0.26.0 https://github.com/Comfy-Org/ComfyUI.git /kaggle/working/ComfyUI-echo100-episode1\n"}
+,{"stream_name":"stdout","time":12.501899798,"data":"+ git rev-parse --short HEAD\n"}
+,{"stream_name":"stdout","time":12.505527216,"data":"f6c162d\n"}
+,{"stream_name":"stdout","time":12.50554753,"data":"\n"}
+,{"stream_name":"stdout","time":12.506309155,"data":"+ /usr/bin/python3 -m pip install --disable-pip-version-check -q -r /kaggle/working/ComfyUI-echo100-episode1/requirements.txt\n"}
+,{"stream_name":"stdout","time":31.236072005,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 26.6/26.6 MB 63.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236100634,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.3/15.3 MB 84.8 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236105863,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.7/3.7 MB 96.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236110393,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 346.8/346.8 kB 19.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.23611481,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.5/63.5 kB 4.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.23613045,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95.2/95.2 MB 19.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236134986,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.2/90.2 MB 20.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236139698,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 87.6/87.6 MB 21.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236143824,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 92.2/92.2 MB 20.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.23614809,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 4.2 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236152161,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.5/35.5 MB 56.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236156234,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 320.8/320.8 kB 21.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.23616146,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 248.5/248.5 kB 14.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":31.236165584,"data":"\n"}
+,{"stream_name":"stdout","time":31.237080242,"data":"\n"}
+,{"stream_name":"stdout","time":31.237107341,"data":"=== STARTING_COMFY ===\n"}
+,{"stream_name":"stdout","time":67.601400857,"data":"\n"}
+,{"stream_name":"stdout","time":67.601438479,"data":"=== GENERATING_EPISODE ===\n"}
+,{"stream_name":"stdout","time":67.601443091,"data":"\n"}
+,{"stream_name":"stdout","time":67.601446217,"data":"--- SHOT 01/08 ---\n"}
+,{"stream_name":"stdout","time":98.143768837,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":128.142407374,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":158.167809703,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":188.183266447,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":218.197966895,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":248.214806676,"data":"Generation running: 3.0 minutes\n"}
+,{"stream_name":"stdout","time":258.358613783,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_01/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_01.mp4\n"}
+,{"stream_name":"stdout","time":259.915146449,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_01.mp4\n"}
+,{"stream_name":"stdout","time":260.156667621,"data":"{\n"}
+,{"stream_name":"stdout","time":260.156694024,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":260.156699166,"data":"\n"}
+,{"stream_name":"stdout","time":260.156703393,"data":"    ],\n"}
+,{"stream_name":"stdout","time":260.156707645,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":260.156723929,"data":"        {\n"}
+,{"stream_name":"stdout","time":260.156727402,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":260.156730855,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":260.156734505,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":260.156738161,"data":"        }\n"}
+,{"stream_name":"stdout","time":260.15674131,"data":"    ],\n"}
+,{"stream_name":"stdout","time":260.156744438,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":260.1567477,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":260.156751148,"data":"        \"size\": \"298796\"\n"}
+,{"stream_name":"stdout","time":260.156754656,"data":"    }\n"}
+,{"stream_name":"stdout","time":260.156757926,"data":"}\n"}
+,{"stream_name":"stdout","time":260.156761281,"data":"\n"}
+,{"stream_name":"stdout","time":260.210121391,"data":"\n"}
+,{"stream_name":"stdout","time":260.210145019,"data":"--- SHOT 02/08 ---\n"}
+,{"stream_name":"stdout","time":290.247340104,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":320.263361172,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":350.280531782,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":380.296901942,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":410.313633501,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":435.463441047,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_02/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_02.mp4\n"}
+,{"stream_name":"stdout","time":436.409121746,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_02.mp4\n"}
+,{"stream_name":"stdout","time":436.634620501,"data":"{\n"}
+,{"stream_name":"stdout","time":436.634656708,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":436.634660766,"data":"\n"}
+,{"stream_name":"stdout","time":436.634663759,"data":"    ],\n"}
+,{"stream_name":"stdout","time":436.634666753,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":436.634669799,"data":"        {\n"}
+,{"stream_name":"stdout","time":436.634672805,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":436.634676876,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":436.634693542,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":436.634698818,"data":"        }\n"}
+,{"stream_name":"stdout","time":436.634704168,"data":"    ],\n"}
+,{"stream_name":"stdout","time":436.634709131,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":436.634713602,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":436.634718106,"data":"        \"size\": \"242481\"\n"}
+,{"stream_name":"stdout","time":436.634722544,"data":"    }\n"}
+,{"stream_name":"stdout","time":436.634726713,"data":"}\n"}
+,{"stream_name":"stdout","time":436.634730924,"data":"\n"}
+,{"stream_name":"stdout","time":436.67789062,"data":"\n"}
+,{"stream_name":"stdout","time":436.677916258,"data":"--- SHOT 03/08 ---\n"}
+,{"stream_name":"stdout","time":466.713638124,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":496.728451714,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":526.743328581,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":556.757904933,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":586.773086976,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":611.965398076,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_03/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_03.mp4\n"}
+,{"stream_name":"stdout","time":612.896243175,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_03.mp4\n"}
+,{"stream_name":"stdout","time":613.116692294,"data":"{\n"}
+,{"stream_name":"stdout","time":613.116725867,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":613.116732386,"data":"\n"}
+,{"stream_name":"stdout","time":613.116736774,"data":"    ],\n"}
+,{"stream_name":"stdout","time":613.116741168,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":613.1167472,"data":"        {\n"}
+,{"stream_name":"stdout","time":613.116755611,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":613.116759424,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":613.116762423,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":613.116765456,"data":"        }\n"}
+,{"stream_name":"stdout","time":613.116768642,"data":"    ],\n"}
+,{"stream_name":"stdout","time":613.116771789,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":613.116774722,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":613.116777962,"data":"        \"size\": \"211779\"\n"}
+,{"stream_name":"stdout","time":613.11678095,"data":"    }\n"}
+,{"stream_name":"stdout","time":613.116783725,"data":"}\n"}
+,{"stream_name":"stdout","time":613.116786484,"data":"\n"}
+,{"stream_name":"stdout","time":613.162122262,"data":"\n"}
+,{"stream_name":"stdout","time":613.162186962,"data":"--- SHOT 04/08 ---\n"}
+,{"stream_name":"stdout","time":643.208691994,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":673.206547308,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":703.23148862,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":733.254485472,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":763.252944288,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":788.441264316,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_04/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_04.mp4\n"}
+,{"stream_name":"stdout","time":789.535659313,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_04.mp4\n"}
+,{"stream_name":"stdout","time":789.782965979,"data":"{\n"}
+,{"stream_name":"stdout","time":789.783011505,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":789.783017633,"data":"\n"}
+,{"stream_name":"stdout","time":789.783021876,"data":"    ],\n"}
+,{"stream_name":"stdout","time":789.783026151,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":789.783030495,"data":"        {\n"}
+,{"stream_name":"stdout","time":789.783034751,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":789.783056569,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":789.783059329,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":789.783061621,"data":"        }\n"}
+,{"stream_name":"stdout","time":789.783063803,"data":"    ],\n"}
+,{"stream_name":"stdout","time":789.783065878,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":789.783068186,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":789.783070503,"data":"        \"size\": \"480866\"\n"}
+,{"stream_name":"stdout","time":789.783072788,"data":"    }\n"}
+,{"stream_name":"stdout","time":789.783074956,"data":"}\n"}
+,{"stream_name":"stdout","time":789.783088521,"data":"\n"}
+,{"stream_name":"stdout","time":789.829365003,"data":"\n"}
+,{"stream_name":"stdout","time":789.829402946,"data":"--- SHOT 05/08 ---\n"}
+,{"stream_name":"stdout","time":819.868550913,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":849.882531671,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":879.897841479,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":909.911997297,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":939.926915946,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":965.093456955,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_05/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_05.mp4\n"}
+,{"stream_name":"stdout","time":966.117781328,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_05.mp4\n"}
+,{"stream_name":"stdout","time":966.35539277,"data":"{\n"}
+,{"stream_name":"stdout","time":966.35542532,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":966.35543831,"data":"\n"}
+,{"stream_name":"stdout","time":966.355441712,"data":"    ],\n"}
+,{"stream_name":"stdout","time":966.355445105,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":966.35544833,"data":"        {\n"}
+,{"stream_name":"stdout","time":966.35545143,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":966.355455412,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":966.355474362,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":966.355480045,"data":"        }\n"}
+,{"stream_name":"stdout","time":966.355485318,"data":"    ],\n"}
+,{"stream_name":"stdout","time":966.35549048,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":966.355495751,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":966.355500612,"data":"        \"size\": \"306217\"\n"}
+,{"stream_name":"stdout","time":966.355505355,"data":"    }\n"}
+,{"stream_name":"stdout","time":966.355509751,"data":"}\n"}
+,{"stream_name":"stdout","time":966.355514228,"data":"\n"}
+,{"stream_name":"stdout","time":966.40180325,"data":"\n"}
+,{"stream_name":"stdout","time":966.401825285,"data":"--- SHOT 06/08 ---\n"}
+,{"stream_name":"stdout","time":996.440145468,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":1026.45554044,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":1056.477897925,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":1086.477317767,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":1116.506486775,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":1141.658268595,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_06/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_06.mp4\n"}
+,{"stream_name":"stdout","time":1142.669988904,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_06.mp4\n"}
+,{"stream_name":"stdout","time":1142.901885622,"data":"{\n"}
+,{"stream_name":"stdout","time":1142.90192003,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":1142.901924933,"data":"\n"}
+,{"stream_name":"stdout","time":1142.901942302,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1142.90194747,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":1142.901952609,"data":"        {\n"}
+,{"stream_name":"stdout","time":1142.901957371,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":1142.901962512,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":1142.901967372,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":1142.901971871,"data":"        }\n"}
+,{"stream_name":"stdout","time":1142.90197613,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1142.90198029,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":1142.901984453,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":1142.901990535,"data":"        \"size\": \"350363\"\n"}
+,{"stream_name":"stdout","time":1142.901997423,"data":"    }\n"}
+,{"stream_name":"stdout","time":1142.902000393,"data":"}\n"}
+,{"stream_name":"stdout","time":1142.902003272,"data":"\n"}
+,{"stream_name":"stdout","time":1142.947001032,"data":"\n"}
+,{"stream_name":"stdout","time":1142.947022914,"data":"--- SHOT 07/08 ---\n"}
+,{"stream_name":"stdout","time":1172.98987359,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":1202.988954721,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":1233.016377419,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":1263.030211043,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":1293.046981141,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":1318.203992591,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_07/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_07.mp4\n"}
+,{"stream_name":"stdout","time":1319.300679853,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_07.mp4\n"}
+,{"stream_name":"stdout","time":1319.544157029,"data":"{\n"}
+,{"stream_name":"stdout","time":1319.544209716,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":1319.544216011,"data":"\n"}
+,{"stream_name":"stdout","time":1319.544220548,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1319.544224816,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":1319.544229292,"data":"        {\n"}
+,{"stream_name":"stdout","time":1319.544234017,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":1319.544238421,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":1319.544242778,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":1319.544261251,"data":"        }\n"}
+,{"stream_name":"stdout","time":1319.544264708,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1319.544267949,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":1319.544271261,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":1319.54427473,"data":"        \"size\": \"360691\"\n"}
+,{"stream_name":"stdout","time":1319.544278349,"data":"    }\n"}
+,{"stream_name":"stdout","time":1319.544293716,"data":"}\n"}
+,{"stream_name":"stdout","time":1319.544297531,"data":"\n"}
+,{"stream_name":"stdout","time":1319.589323041,"data":"\n"}
+,{"stream_name":"stdout","time":1319.58934564,"data":"--- SHOT 08/08 ---\n"}
+,{"stream_name":"stdout","time":1349.635832864,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":1379.632414803,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":1409.667490072,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":1439.663016792,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":1469.691464686,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":1494.862016737,"data":"+ ffmpeg -hide_banner -loglevel error -y -framerate 16 -i /kaggle/working/echo100_episode1_frames/shot_08/frame_%05d.png -frames:v 41 -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/echo100_ep001_shot_08.mp4\n"}
+,{"stream_name":"stdout","time":1496.020370018,"data":"+ ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=width,height,nb_read_frames:format=duration,size -of json /kaggle/working/echo100_ep001_shot_08.mp4\n"}
+,{"stream_name":"stdout","time":1496.281639896,"data":"{\n"}
+,{"stream_name":"stdout","time":1496.281674434,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":1496.281678634,"data":"\n"}
+,{"stream_name":"stdout","time":1496.281681809,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1496.281684802,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":1496.281687906,"data":"        {\n"}
+,{"stream_name":"stdout","time":1496.281690787,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":1496.281694017,"data":"            \"height\": 832,\n"}
+,{"stream_name":"stdout","time":1496.281697026,"data":"            \"nb_read_frames\": \"41\"\n"}
+,{"stream_name":"stdout","time":1496.281713479,"data":"        }\n"}
+,{"stream_name":"stdout","time":1496.281718905,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1496.281723828,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":1496.281728912,"data":"        \"duration\": \"2.563000\",\n"}
+,{"stream_name":"stdout","time":1496.281734196,"data":"        \"size\": \"517580\"\n"}
+,{"stream_name":"stdout","time":1496.281738768,"data":"    }\n"}
+,{"stream_name":"stdout","time":1496.281742869,"data":"}\n"}
+,{"stream_name":"stdout","time":1496.28174709,"data":"\n"}
+,{"stream_name":"stdout","time":1496.326255961,"data":"\n"}
+,{"stream_name":"stdout","time":1496.326328468,"data":"=== ASSEMBLING_SILENT_EPISODE ===\n"}
+,{"stream_name":"stdout","time":1496.327105997,"data":"+ ffmpeg -hide_banner -loglevel error -y -f concat -safe 0 -i /kaggle/working/episode1_concat.txt -an -c copy -movflags +faststart /kaggle/working/echo100_episode1_silent.mp4\n"}
+,{"stream_name":"stdout","time":1496.534625372,"data":"+ ffprobe -v error -show_entries stream=width,height:format=duration,size -of json /kaggle/working/echo100_episode1_silent.mp4\n"}
+,{"stream_name":"stdout","time":1496.626745195,"data":"{\n"}
+,{"stream_name":"stdout","time":1496.626773425,"data":"    \"programs\": [\n"}
+,{"stream_name":"stdout","time":1496.62679446,"data":"\n"}
+,{"stream_name":"stdout","time":1496.62679778,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1496.626813248,"data":"    \"streams\": [\n"}
+,{"stream_name":"stdout","time":1496.62681727,"data":"        {\n"}
+,{"stream_name":"stdout","time":1496.62682121,"data":"            \"width\": 480,\n"}
+,{"stream_name":"stdout","time":1496.626825105,"data":"            \"height\": 832\n"}
+,{"stream_name":"stdout","time":1496.626829155,"data":"        }\n"}
+,{"stream_name":"stdout","time":1496.626832894,"data":"    ],\n"}
+,{"stream_name":"stdout","time":1496.626836644,"data":"    \"format\": {\n"}
+,{"stream_name":"stdout","time":1496.626840042,"data":"        \"duration\": \"20.504000\",\n"}
+,{"stream_name":"stdout","time":1496.626843704,"data":"        \"size\": \"2763227\"\n"}
+,{"stream_name":"stdout","time":1496.626847277,"data":"    }\n"}
+,{"stream_name":"stdout","time":1496.626850443,"data":"}\n"}
+,{"stream_name":"stdout","time":1496.62685359,"data":"\n"}
+,{"stream_name":"stdout","time":1496.627801766,"data":"+ nvidia-smi --query-gpu=index,name,memory.used,memory.total,utilization.gpu --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":1496.669573927,"data":"0, Tesla T4, 3745 MiB, 15360 MiB, 0 %\n"}
+,{"stream_name":"stdout","time":1496.669596119,"data":"1, Tesla T4, 0 MiB, 15360 MiB, 0 %\n"}
+,{"stream_name":"stdout","time":1496.669601523,"data":"\n"}
+,{"stream_name":"stdout","time":1496.670417298,"data":"\n"}
+,{"stream_name":"stdout","time":1496.670435399,"data":"EPISODE 1 MOTION RENDER PASSED: /kaggle/working/echo100_episode1_silent.mp4\n"}
+,{"stream_name":"stderr","time":1499.567063514,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":1499.567092704,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":1499.730520644,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":1499.730544635,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":1500.376044135,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":1500.684042029,"data":"[NbConvertApp] Writing 673423 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":1503.035772975,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":1503.850507047,"data":"[NbConvertApp] Writing 1024416 bytes to __results__.html\n"}
+]

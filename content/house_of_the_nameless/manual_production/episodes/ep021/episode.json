@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 21,
+  "episode_id": "namelesshouse-ep021",
+  "output_slug": "namelesshouse-episode021",
+  "title": "The Village Forgot Leela | HOUSE OF THE NAMELESS Ep. 21",
+  "description": "Leela returns outside to a family that sees her as a stranger.\n\nHOUSE OF THE NAMELESS — Episode 21\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "NOBODY KNEW HER",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Naming",
+  "permanent_story_change": "Avi chooses to trust evidence of relationship before memory returns.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Leela steps outside and Avi screams because an unknown girl is holding his hand.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela steps outside and Avi screams because an unknown girl is holding his hand.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Devika politely asks the stranger to leave her grandchildren alone.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Devika politely asks the stranger to leave her grandchildren alone.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Only Noor remembers Leela because she remains legally inside the House.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Only Noor remembers Leela because she remains legally inside the House.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Leela refuses to force memories back using the pen.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela refuses to force memories back using the pen.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. She gives Avi their puzzle book and lets him judge the years of shared handwriting.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She gives Avi their puzzle book and lets him judge the years of shared handwriting.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Avi cannot remember her but chooses to protect the person who consistently protected him.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Avi cannot remember her but chooses to protect the person who consistently protected him.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Samir finds hundreds of village testimonies referring to an unnamed girl at every rescue.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Samir finds hundreds of village testimonies referring to an unnamed girl at every rescue.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The House offers Leela one immediate way to be remembered: take Harrow's name.. Location lock: village street and Joshi family home. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The House offers Leela one immediate way to be remembered: take Harrow's name.",
+      "effect": "push_in"
+    }
+  ]
+}

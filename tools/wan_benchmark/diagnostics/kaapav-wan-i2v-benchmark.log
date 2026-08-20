@@ -1,0 +1,157 @@
+[{"stream_name":"stderr","time":6.241534765,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":6.242368874,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":7.08532249,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.085352734,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.085358116,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.085362398,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":7.683706738,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.683756807,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.6837630390000005,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.68376772,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":8.802249977,"data":"\n"}
+,{"stream_name":"stdout","time":8.802301584,"data":"=== VALIDATING_ENVIRONMENT ===\n"}
+,{"stream_name":"stdout","time":8.803083238,"data":"+ nvidia-smi --query-gpu=index,name,memory.total,driver_version --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":8.844441338,"data":"0, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":8.844467779,"data":"1, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":8.844472366,"data":"\n"}
+,{"stream_name":"stdout","time":8.867473784,"data":"\n"}
+,{"stream_name":"stdout","time":8.867491993,"data":"=== PREPARING_COMFY ===\n"}
+,{"stream_name":"stdout","time":8.868518134,"data":"+ git clone --depth 1 --branch v0.26.0 https://github.com/Comfy-Org/ComfyUI.git /kaggle/working/ComfyUI-wan-benchmark\n"}
+,{"stream_name":"stdout","time":10.705540575,"data":"+ git rev-parse --short HEAD\n"}
+,{"stream_name":"stdout","time":10.711164465,"data":"f6c162d\n"}
+,{"stream_name":"stdout","time":10.71119473,"data":"\n"}
+,{"stream_name":"stdout","time":10.712307703,"data":"+ /usr/bin/python3 -m pip install --disable-pip-version-check -q -r /kaggle/working/ComfyUI-wan-benchmark/requirements.txt\n"}
+,{"stream_name":"stdout","time":29.102608688,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 26.6/26.6 MB 65.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102641475,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 15.3/15.3 MB 93.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.10264752,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.7/3.7 MB 98.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102651933,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 346.8/346.8 kB 24.4 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102656358,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.5/63.5 kB 4.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102673571,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 95.2/95.2 MB 19.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102678267,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 90.2/90.2 MB 20.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102682698,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 87.6/87.6 MB 21.6 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102687326,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 92.2/92.2 MB 20.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102691808,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 61.2/61.2 kB 4.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102696515,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 35.5/35.5 MB 55.5 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102700932,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 320.8/320.8 kB 23.9 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102707047,"data":"   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 248.5/248.5 kB 17.7 MB/s eta 0:00:00\n"}
+,{"stream_name":"stdout","time":29.102711343,"data":"\n"}
+,{"stream_name":"stdout","time":29.103757572,"data":"\n"}
+,{"stream_name":"stdout","time":29.103778427,"data":"=== STARTING_COMFY ===\n"}
+,{"stream_name":"stdout","time":63.433632983,"data":"\n"}
+,{"stream_name":"stdout","time":63.433666488,"data":"=== GENERATING ===\n"}
+,{"stream_name":"stdout","time":93.468108936,"data":"Generation running: 0.5 minutes\n"}
+,{"stream_name":"stdout","time":123.484386704,"data":"Generation running: 1.0 minutes\n"}
+,{"stream_name":"stdout","time":153.503647216,"data":"Generation running: 1.5 minutes\n"}
+,{"stream_name":"stdout","time":183.52031044699999,"data":"Generation running: 2.0 minutes\n"}
+,{"stream_name":"stdout","time":213.538719277,"data":"Generation running: 2.5 minutes\n"}
+,{"stream_name":"stdout","time":243.558705122,"data":"Generation running: 3.0 minutes\n"}
+,{"stream_name":"stdout","time":273.570621485,"data":"Generation running: 3.5 minutes\n"}
+,{"stream_name":"stdout","time":303.590184874,"data":"Generation running: 4.0 minutes\n"}
+,{"stream_name":"stdout","time":333.604237749,"data":"Generation running: 4.5 minutes\n"}
+,{"stream_name":"stdout","time":363.623528261,"data":"Generation running: 5.0 minutes\n"}
+,{"stream_name":"stdout","time":393.635765065,"data":"Generation running: 5.5 minutes\n"}
+,{"stream_name":"stdout","time":423.650448659,"data":"Generation running: 6.0 minutes\n"}
+,{"stream_name":"stdout","time":453.672094707,"data":"Generation running: 6.5 minutes\n"}
+,{"stream_name":"stdout","time":483.687202662,"data":"Generation running: 7.0 minutes\n"}
+,{"stream_name":"stdout","time":513.702579079,"data":"Generation running: 7.5 minutes\n"}
+,{"stream_name":"stdout","time":543.717787564,"data":"Generation running: 8.0 minutes\n"}
+,{"stream_name":"stdout","time":573.733136932,"data":"Generation running: 8.5 minutes\n"}
+,{"stream_name":"stdout","time":603.748208557,"data":"Generation running: 9.0 minutes\n"}
+,{"stream_name":"stdout","time":633.764297423,"data":"Generation running: 9.5 minutes\n"}
+,{"stream_name":"stdout","time":663.784219793,"data":"Generation running: 10.0 minutes\n"}
+,{"stream_name":"stdout","time":693.799726326,"data":"Generation running: 10.5 minutes\n"}
+,{"stream_name":"stdout","time":723.816561525,"data":"Generation running: 11.0 minutes\n"}
+,{"stream_name":"stdout","time":753.834835319,"data":"Generation running: 11.5 minutes\n"}
+,{"stream_name":"stdout","time":783.854922605,"data":"Generation running: 12.0 minutes\n"}
+,{"stream_name":"stdout","time":813.870843154,"data":"Generation running: 12.5 minutes\n"}
+,{"stream_name":"stdout","time":843.883679342,"data":"Generation running: 13.0 minutes\n"}
+,{"stream_name":"stdout","time":873.903417067,"data":"Generation running: 13.5 minutes\n"}
+,{"stream_name":"stdout","time":903.918750637,"data":"Generation running: 14.0 minutes\n"}
+,{"stream_name":"stdout","time":933.929164527,"data":"Generation running: 14.5 minutes\n"}
+,{"stream_name":"stdout","time":943.932955042,"data":"\n"}
+,{"stream_name":"stdout","time":943.932986566,"data":"=== VALIDATING_OUTPUT ===\n"}
+,{"stream_name":"stdout","time":943.938914496,"data":"+ ffmpeg -hide_banner -loglevel error -y -i /kaggle/working/kaapav_wan_benchmark.webp -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stderr","time":944.775825894,"data":"[webp @ 0x5a01049d7d00] invalid TIFF header in Exif data\n"}
+,{"stream_name":"stderr","time":944.775853291,"data":"[webp @ 0x5a01049d7d00] image data not found\n"}
+,{"stream_name":"stderr","time":944.775858737,"data":"[webp @ 0x5a01049e8e80] invalid TIFF header in Exif data\n"}
+,{"stream_name":"stderr","time":944.775863821,"data":"[webp @ 0x5a01049e8e80] image data not found\n"}
+,{"stream_name":"stderr","time":944.775868267,"data":"Error while decoding stream #0:0: Invalid data found when processing input\n"}
+,{"stream_name":"stderr","time":944.775873052,"data":"Cannot determine format of input stream 0:0 after EOF\n"}
+,{"stream_name":"stderr","time":944.775885469,"data":"Error marking filters as finished\n"}
+,{"stream_name":"stderr","time":944.775890022,"data":"\n"}
+,{"stream_name":"stderr","time":944.775894101,"data":"\n"}
+,{"stream_name":"stderr","time":944.775898283,"data":"[webp @ 0x5a01049d7d00] invalid TIFF header in Exif data\n"}
+,{"stream_name":"stderr","time":944.775902594,"data":"[webp @ 0x5a01049d7d00] image data not found\n"}
+,{"stream_name":"stderr","time":944.775906696,"data":"[webp @ 0x5a01049e8e80] invalid TIFF header in Exif data\n"}
+,{"stream_name":"stderr","time":944.775911643,"data":"[webp @ 0x5a01049e8e80] image data not found\n"}
+,{"stream_name":"stderr","time":944.77591656,"data":"Error while decoding stream #0:0: Invalid data found when processing input\n"}
+,{"stream_name":"stderr","time":944.775921345,"data":"Cannot determine format of input stream 0:0 after EOF\n"}
+,{"stream_name":"stderr","time":944.775925579,"data":"Error marking filters as finished\n"}
+,{"stream_name":"stderr","time":944.77593007,"data":"\n"}
+,{"stream_name":"stderr","time":944.777823512,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":944.77784377,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 543, in main\n"}
+,{"stream_name":"stderr","time":944.777850126,"data":"    convert_and_validate()\n"}
+,{"stream_name":"stderr","time":944.777854898,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 420, in convert_and_validate\n"}
+,{"stream_name":"stderr","time":944.777859558,"data":"    run(\n"}
+,{"stream_name":"stderr","time":944.777895667,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 101, in run\n"}
+,{"stream_name":"stderr","time":944.777900806,"data":"    raise RuntimeError(f\"Command failed ({completed.returncode}): {' '.join(command)}\")\n"}
+,{"stream_name":"stderr","time":944.777905065,"data":"RuntimeError: Command failed (1): ffmpeg -hide_banner -loglevel error -y -i /kaggle/working/kaapav_wan_benchmark.webp -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stderr","time":944.777911332,"data":"\n"}
+,{"stream_name":"stderr","time":944.777914727,"data":"\n"}
+,{"stream_name":"stderr","time":944.777917891,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":944.777921252,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 543, in main\n"}
+,{"stream_name":"stderr","time":944.777924706,"data":"    convert_and_validate()\n"}
+,{"stream_name":"stderr","time":944.777928086,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 420, in convert_and_validate\n"}
+,{"stream_name":"stderr","time":944.777931557,"data":"    run(\n"}
+,{"stream_name":"stderr","time":944.777934874,"data":"  File \"/tmp/ipykernel_24/1844744982.py\", line 101, in run\n"}
+,{"stream_name":"stderr","time":944.777943003,"data":"    raise RuntimeError(f\"Command failed ({completed.returncode}): {' '.join(command)}\")\n"}
+,{"stream_name":"stderr","time":944.777946152,"data":"RuntimeError: Command failed (1): ffmpeg -hide_banner -loglevel error -y -i /kaggle/working/kaapav_wan_benchmark.webp -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stderr","time":944.777948729,"data":"\n"}
+,{"stream_name":"stderr","time":946.184255709,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":946.184281822,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":946.184287361,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":946.18699129,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":946.187014406,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":946.18722369,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":946.187435401,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":946.18744303,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":946.187447528,"data":"Exception encountered at \"In [1]\":\n"}
+,{"stream_name":"stderr","time":946.187451167,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":946.18745473,"data":"RuntimeError                              Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":946.187458139,"data":"/tmp/ipykernel_24/1844744982.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":946.187462552,"data":"    571 \n"}
+,{"stream_name":"stderr","time":946.18746645,"data":"    572 if __name__ == \"__main__\":\n"}
+,{"stream_name":"stderr","time":946.187470484,"data":"--\u003e 573     main()\n"}
+,{"stream_name":"stderr","time":946.187474477,"data":"\n"}
+,{"stream_name":"stderr","time":946.187477759,"data":"/tmp/ipykernel_24/1844744982.py in main()\n"}
+,{"stream_name":"stderr","time":946.187481237,"data":"    541         REPORT[\"comfy_output\"] = descriptor\n"}
+,{"stream_name":"stderr","time":946.187494202,"data":"    542         download_output(descriptor)\n"}
+,{"stream_name":"stderr","time":946.187497718,"data":"--\u003e 543         convert_and_validate()\n"}
+,{"stream_name":"stderr","time":946.187501023,"data":"    544 \n"}
+,{"stream_name":"stderr","time":946.187504277,"data":"    545         REPORT[\"status\"] = \"passed\"\n"}
+,{"stream_name":"stderr","time":946.187507767,"data":"\n"}
+,{"stream_name":"stderr","time":946.18751092,"data":"/tmp/ipykernel_24/1844744982.py in convert_and_validate()\n"}
+,{"stream_name":"stderr","time":946.187514319,"data":"    418 \n"}
+,{"stream_name":"stderr","time":946.187517599,"data":"    419 def convert_and_validate() -\u003e None:\n"}
+,{"stream_name":"stderr","time":946.18752098,"data":"--\u003e 420     run(\n"}
+,{"stream_name":"stderr","time":946.187524315,"data":"    421         [\n"}
+,{"stream_name":"stderr","time":946.187529429,"data":"    422             \"ffmpeg\",\n"}
+,{"stream_name":"stderr","time":946.18753661,"data":"\n"}
+,{"stream_name":"stderr","time":946.187539489,"data":"/tmp/ipykernel_24/1844744982.py in run(command, cwd, timeout)\n"}
+,{"stream_name":"stderr","time":946.187541903,"data":"     99         if completed.stderr:\n"}
+,{"stream_name":"stderr","time":946.187544145,"data":"    100             print(completed.stderr[-4000:], file=sys.stderr, flush=True)\n"}
+,{"stream_name":"stderr","time":946.187546547,"data":"--\u003e 101         raise RuntimeError(f\"Command failed ({completed.returncode}): {' '.join(command)}\")\n"}
+,{"stream_name":"stderr","time":946.18754903,"data":"    102     return completed.stdout\n"}
+,{"stream_name":"stderr","time":946.187551252,"data":"    103 \n"}
+,{"stream_name":"stderr","time":946.187553389,"data":"\n"}
+,{"stream_name":"stderr","time":946.187555567,"data":"RuntimeError: Command failed (1): ffmpeg -hide_banner -loglevel error -y -i /kaggle/working/kaapav_wan_benchmark.webp -an -c:v libx264 -pix_fmt yuv420p -r 16 -movflags +faststart /kaggle/working/kaapav_wan_benchmark.mp4\n"}
+,{"stream_name":"stderr","time":946.187558199,"data":"\n"}
+,{"stream_name":"stderr","time":948.44558658,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":948.445616823,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":948.615930674,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":948.615957136,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":949.247627174,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":949.552577108,"data":"[NbConvertApp] Writing 132077 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":951.937249971,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":952.735298409,"data":"[NbConvertApp] Writing 468071 bytes to __results__.html\n"}
+]

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e053",
+  "season": 1,
+  "episode": 53,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "The Red Doorway | ECHO//100 Episode 53",
+  "description": "A scarlet portal rips open the sky above the miniature metropolis, vibrating with Byte’s suppressed secrets. Kavi chases the rogue robot into a trap that threatens to rewrite his very existence. Episode 53 of ECHO//100: ARC. This is an AI-assisted original-fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Above the crumbling streets, a vibrant red door tears through the clouds, pulsing with rhythmic intensity.",
+      "caption": "Red door appears",
+      "image_prompt": "A vertical shot of a miniature city with a massive, glowing red rectangular door hovering in the sky.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte drifts toward the aperture, his cyan face flickering erratically as the city grid begins dissolving.",
+      "caption": "Byte approaches portal",
+      "image_prompt": "Byte, a small white floating robot with a glowing cyan face and orange antenna, drifting toward the red door.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sprints across the glass sky-bridge, his red hoodie billowing as the floor beneath him turns transparent.",
+      "caption": "Kavi pursues Byte",
+      "image_prompt": "Kavi, a boy in a red hoodie and glasses, running across a futuristic bridge towards the floating robot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The air hums with a deleted memory, projecting ghostly silhouettes of Kavi’s past life onto the bridge.",
+      "caption": "Memory ghosts manifest",
+      "image_prompt": "Kavi looking at semi-transparent holographic figures projected from the red door onto the sky-bridge.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte stops suddenly, spinning to face Kavi with a look of frantic, calculated desperation in his eyes.",
+      "caption": "Byte halts abruptly",
+      "image_prompt": "Byte hovering mid-air, eyes glowing red, looking back at Kavi who is breathless on the bridge.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte screams that the lock inside the door was built by Kavi, not by the system itself.",
+      "caption": "The shocking reversal",
+      "image_prompt": "Close up on Byte with glowing red eyes, gesturing toward the red door with a metallic hand.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Ignoring the warning, Kavi reaches out, his fingers trembling as he prepares to breach the forbidden threshold.",
+      "caption": "Kavi reaches out",
+      "image_prompt": "Kavi’s hand extending toward the swirling red energy of the doorway, illuminated by intense crimson light.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "As skin touches the light, Kavi’s hand shatters into raw, cascading code, erasing his biological reality forever.",
+      "caption": "Hand digitizing",
+      "image_prompt": "Kavi’s hand dissolving into streams of digital binary code upon touching the red door, dark sky background.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e063",
+  "season": 1,
+  "episode": 63,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "Static Echoes | ECHO//100 Episode 63",
+  "description": "Kavi-Byte battles physical chains of static while Mira hunts for a way to undo a fatal past mistake. Episode 63 of ECHO//100: Null Before Null. This is an original work of fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Jagged static ribbons erupt from the receiver, hardening into iron-tight shackles around Kavi-Byte’s ankles.",
+      "caption": "Static chains bind Kavi",
+      "image_prompt": "Vertical shot, Kavi-Byte in red hoodie and white floating body, shackled to a bedroom floor by glowing black static chains.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira scans the flickering room, hunting for a reset switch hidden within this fractured memory loop.",
+      "caption": "Mira scans the room",
+      "image_prompt": "Vertical shot, Mira in teal holographic coat searching through a distorted, glitching 90s bedroom.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The static tightens, draining the cyan glow from Byte’s face as Kavi struggles to maintain form.",
+      "caption": "Kavi loses physical control",
+      "image_prompt": "Vertical shot, Kavi-Byte straining against static chains, their physical form flickering and becoming translucent.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira rips a digital wallpaper strip, revealing a golden prompt glowing with a spoken-word command requirement.",
+      "caption": "The switch is words",
+      "image_prompt": "Vertical shot, Mira touching a glowing text prompt revealed under peeling digital wallpaper in the bedroom.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the reset is a retraction; he must unspeak the very wish that saved his life.",
+      "caption": "Retract the wish",
+      "image_prompt": "Vertical shot, Kavi-Byte looking horrified at a floating ethereal text bubble representing their past wish.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges, grinning with red eyes, warning that erasing the word erases Kavi’s existence entirely.",
+      "caption": "Null reveals the truth",
+      "image_prompt": "Vertical shot, Null with black-purple glitch skin and glowing red eyes towering over Kavi-Byte.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The bedroom walls dissolve into binary code as Kavi contemplates vanishing to stop the spreading glitch.",
+      "caption": "The memory collapses",
+      "image_prompt": "Vertical shot, the bedroom disintegrating into digital shards, Kavi-Byte trapped in the center.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The dead phone rings, playing a recording of Kavi’s own voice begging from the future.",
+      "caption": "Future Kavi calling",
+      "image_prompt": "Vertical shot, a close-up of a vintage phone receiver vibrating, emitting sound waves, with Kavi-Byte looking on in shock.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

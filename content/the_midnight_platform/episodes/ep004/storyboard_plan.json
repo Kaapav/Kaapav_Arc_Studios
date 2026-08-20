@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep004",
+  "episode_number": 4,
+  "arc": 1,
+  "title": "The Carriage Where It Always Rains",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Door Two opens into a flooded railway carriage under indoor thunderclouds; schoolboy Dev clings to a luggage rack above black water.",
+      "dialogue_audio": "Dev: “Please—I can’t remember my mother’s face.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Saira ties her compass cord around Arin as he wades into rising water; rain falls upward around the exit.",
+      "dialogue_audio": "Saira: “The door wants a memory, not a hero.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Arin reaches Dev while a warm vision of his mother singing appears in the water beneath him.",
+      "dialogue_audio": "Mother’s echo: “Arin, come home.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Arin closes his eyes and pulls Dev free; the song collapses into silent golden droplets leaving his head.",
+      "dialogue_audio": "Arin: “Take the song. Not him.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "On Platform 13, Meera tries to hum their mother’s lullaby but both she and Maya suddenly lose the melody.",
+      "dialogue_audio": "Meera: “Why can’t I finish it?”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Dev escapes into a safe compartment; Arin remembers his mother’s face but no longer her voice. Saira sees the cost in him.",
+      "dialogue_audio": "Saira: “You didn’t pay alone. Your whole city did.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE FIRST MEMORY IS GONE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

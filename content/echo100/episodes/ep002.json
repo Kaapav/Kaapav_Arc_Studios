@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e002",
+  "season": 1,
+  "episode": 2,
+  "status": "published",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "Static Shadows | ECHO//100 Episode 2",
+  "description": "Kavi follows his runaway shadow into the neon depths of a forgotten arcade. Episode 2 of ECHO//100: The Red Door. This is an AI-assisted original fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi watches as a shadow detaches from those sneakers and sprints toward the arcade exit.",
+      "caption": "Shadow detaches from Kavi",
+      "image_prompt": "Kavi in his red hoodie and glasses standing in a dark arcade, his shadow peeling off the floor like ink, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers, scanning the floor where the silhouette once anchored Kavi to the ground.",
+      "caption": "Byte scans the floor",
+      "image_prompt": "Byte, a white floating robot with a cyan face and orange antenna, hovering over the floor tiles, vertical cinematic shot.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Arcade walls pulse with static, revealing dozens of silhouettes trapped within the neon glass.",
+      "caption": "Trapped ghost silhouettes",
+      "image_prompt": "Neon arcade machines displaying 2D shadowy human figures trapped behind the glass screens, vertical cinematic shot.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "These shadows are people erased from history, crying out in a cold, binary silence.",
+      "caption": "Erased people revealed",
+      "image_prompt": "Kavi staring at a screen where a shadow figure presses its hands against the glass, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow stops before the Red Door, beckoning Kavi to enter the heart of Null.",
+      "caption": "Shadow beckons to door",
+      "image_prompt": "A glowing red door at the end of a dark corridor, Kavi's independent shadow standing before it, vertical cinematic shot.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira intercepts Kavi, her holographic coat glowing with a cold, detached, and clinical light.",
+      "caption": "Mira reveals truth",
+      "image_prompt": "Mira in a blue holographic teal coat holding a data pad, looking at Kavi with a neutral expression, vertical cinematic shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira whispers that the goal is not rescue, but logging a final, permanent deletion.",
+      "caption": "Documenting Kavi's deletion",
+      "image_prompt": "Close up of Mira's face, her eyes reflecting lines of scrolling code, vertical cinematic shot.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The phone screen cracks as a jagged, purple pixelated hand reaches out to grab Kavi.",
+      "caption": "Null's hand emerges",
+      "image_prompt": "Kavi's smartphone screen held by his hand, a dark purple pixelated claw erupting from the glass surface, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "rendered_at": "2026-08-04T09:12:51",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-085643-echo100-s01e002",
+  "review_id": "20260804-091251-039712",
+  "youtube_url": "https://youtu.be/7uE5unNTJuM",
+  "upload_error": null,
+  "pov_profile": "third-person-v1",
+  "last_error": null,
+  "stale_review_id": "20260803-094309-362161",
+  "published_at": "2026-08-04T09:23:45",
+  "youtube_id": "7uE5unNTJuM"
+}

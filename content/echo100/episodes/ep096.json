@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e096",
+  "season": 1,
+  "episode": 96,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "Fractured Memories | ECHO//100 Episode 96",
+  "description": "Kavi hunts for a weapon within the collapsing ruins of his own reality. He discovers the origin of his journey is a trap built of his own history. Episode 96 of ECHO//100: ARC. This is an original work of fiction created with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The void crumbles as a shard of the dead phone ignites with blinding, impossible white light.",
+      "caption": "Blinding light erupts",
+      "image_prompt": "Kavi in his red hoodie and glasses standing in a dark void, staring at a glowing white phone fragment on the floor.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the glowing glass while the surrounding static screams, forcing memories to realign.",
+      "caption": "Reality begins shifting",
+      "image_prompt": "Kavi grabbing the shard, his hand vibrating with digital energy as the background reality tears apart.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The device shifts, its light forming a needle that spins wildly toward a point in time.",
+      "caption": "A cosmic compass",
+      "image_prompt": "Close up of the phone shard in Kavi's hand, projecting a holographic needle pointing toward a swirling temporal rift.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The compass pulls Kavi deep into the Memory Nexus, where failed timelines rot like discarded paper.",
+      "caption": "Entering the nexus",
+      "image_prompt": "Kavi walking through a surreal landscape of floating, broken clocks and half-formed cityscapes in the Memory Nexus.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s erasure closes in, turning the horizon into jagged, empty lines of absolute black nothingness.",
+      "caption": "Erasure approaches",
+      "image_prompt": "Null, wearing Kavi's face, standing in the distance while the world behind him dissolves into black pixels.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The needle stops spinning, locking onto the person who handed Kavi the phone years ago.",
+      "caption": "The source revealed",
+      "image_prompt": "Kavi standing before a shimmering mirror portal, his expression shifting from confusion to sudden, sharp realization.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi expects a mentor or a ghost, but the path ends at a mirror image.",
+      "caption": "A shocking connection",
+      "image_prompt": "Kavi reaching out toward a temporal distortion that shows the silhouette of a younger version of himself.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The younger self turns, holding the phone, eyes widening as he realizes who Kavi has become.",
+      "caption": "The loop closes",
+      "image_prompt": "Young Kavi in a smaller red hoodie holding the phone, looking directly at adult Kavi with absolute recognition.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

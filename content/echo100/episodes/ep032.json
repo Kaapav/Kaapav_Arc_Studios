@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e032",
+  "season": 1,
+  "episode": 32,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "The Archive's Pulse | ECHO//100 Episode 32",
+  "description": "Mira struggles to contain a corrupted timeline as Kavi’s digital transformation forces a confrontation with the city's architect. The truth of their reality threatens to erase everything they have built together. Episode 32 of ECHO//100: Mira Protocol. This is an AI-assisted work of original science-fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Mira’s holographic coat flickers, projecting a hundred Kavis falling into a thousand jagged, sterile voids.",
+      "caption": "Mira's unstable projection",
+      "image_prompt": "Mira in her teal holographic coat standing in a dark room, multiple translucent ghost-like images of Kavi in his red hoodie appearing behind her.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city’s atmosphere bleeds raw data, turning the sky into a scrolling waterfall of forbidden code.",
+      "caption": "Atmospheric data leak",
+      "image_prompt": "A vertical city street where the air is filled with glowing blue binary code, Kavi with his backpack looking up in shock.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stumbles into the Forbidden Archive, his physical form shimmering like a fraying, unstable digital wire.",
+      "caption": "Kavi enters archive",
+      "image_prompt": "Kavi wearing his red hoodie and glasses entering a towering library of floating light orbs, his arm turning into transparent pixels.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira blocks the path, her eyes glowing with the desperate, cold light of a failing security protocol.",
+      "caption": "Mira blocks path",
+      "image_prompt": "Close up of Mira with glowing teal eyes, hands outstretched, standing before a massive glowing data pillar.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She confesses: every time Kavi learns the truth, she resets the timeline to keep him safe.",
+      "caption": "The reset confession",
+      "image_prompt": "Mira looking down sadly at Kavi, a holographic display between them showing a timeline loop icon.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes his entry isn't a discovery; he is the catalyst sparking the final, total reset.",
+      "caption": "Triggering the reset",
+      "image_prompt": "Kavi touching a central glowing console, his hand merging with the light as the room begins to vibrate.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte floats frantically toward the console, but the system locks them out with a deafening hum.",
+      "caption": "System lockdown initiated",
+      "image_prompt": "Byte, the white floating robot with cyan face and orange antenna, frantically trying to interface with a locked red console.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The world dissolves into blinding white, yet Kavi’s mind holds the memory of this ending forever.",
+      "caption": "Final reset sequence",
+      "image_prompt": "Kavi and Mira silhouetted against an overwhelming, blinding white light consuming the entire archive room.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 18,
+  "episode_id": "namelesshouse-ep018",
+  "output_slug": "namelesshouse-episode018",
+  "title": "Devika Erased the Architect | HOUSE OF THE NAMELESS Ep. 18",
+  "description": "Devika confronts the bargain she made before the classroom sacrifice.\n\nHOUSE OF THE NAMELESS — Episode 18\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "GRANDMOTHER STARTED IT",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Deep Rooms",
+  "permanent_story_change": "Devika relinquishes Keeper authority and asks Asha's descendants for judgment.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The Keeper's pen opens Devika's first night in the mansion.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Keeper's pen opens Devika's first night in the mansion.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Young Devika erased Asha's name to stop landowners from demolishing the house archive.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Young Devika erased Asha's name to stop landowners from demolishing the house archive.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. That act saved the building but transformed its protection into hunger.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "That act saved the building but transformed its protection into hunger.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Harrow has preserved Devika's guilt because it also preserves his excuse.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harrow has preserved Devika's guilt because it also preserves his excuse.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Devika removes the seven blank tags from her wrist and rejects the title of Keeper.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Devika removes the seven blank tags from her wrist and rejects the title of Keeper.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. She asks Asha's living descendants to decide her public accountability.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She asks Asha's living descendants to decide her public accountability.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Noor does not forgive her, but agrees not to reduce her to one terrible choice.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Noor does not forgive her, but agrees not to reduce her to one terrible choice.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Without a Keeper, every locked room opens at the same time.. Location lock: original Keeper's office during the 1978 monsoon. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Noor (small translucent Indian girl about fifteen, luminous cyan-grey eyes, long floating black hair, faded indigo school dress from 1978, bare feet, blank brass nameplate pinned over heart); Devika Joshi (elderly Indian woman, medium brown skin, alert dark eyes, silver hair in loose bun, rust-red sari beneath charcoal shawl, wooden walking stick containing hidden fountain pen, seven empty name tags around wrist); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Without a Keeper, every locked room opens at the same time.",
+      "effect": "push_in"
+    }
+  ]
+}

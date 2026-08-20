@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 27,
+  "episode_id": "echo30-ep027",
+  "output_slug": "echo30-episode027",
+  "title": "Back to 2:17 before the Final Transmission | ECHO//30 Ep. 27",
+  "description": "The team reaches the origin but discovers they are ghosts who cannot physically stop the first message.\n\nECHO//30 — Episode 27\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "KAAPAV ARC Studios",
+    "animated series",
+    "science fiction mystery",
+    "original animation",
+    "shorts",
+    "ECHO//30",
+    "animated sci fi",
+    "time mystery",
+    "cute 3D animation"
+  ],
+  "thumbnail_text": "BACK TO 2:17",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.",
+  "arc": "The Final Transmission",
+  "permanent_story_change": "The team reaches the origin and accepts that simple prevention would destroy the people they saved.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Kavi returns to the arcade seconds before his younger self touches the dead phone. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Kavi returns to the arcade seconds before his younger self touches the dead phone.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Inside the Episode One arcade, Mira pursues an immediate answer before the new danger closes in. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Inside the Episode One arcade, Mira pursues an immediate answer before the new danger closes in.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: The team reaches the origin but discovers they are ghosts who cannot physically stop the first message. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "The team reaches the origin but discovers they are ghosts who cannot physically stop the first message.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: A concrete clue forces Mira to question the explanation the group has trusted until now. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "A concrete clue forces Mira to question the explanation the group has trusted until now.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Mira can transmit through the phone because her archive exists outside the rewritten timeline. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Mira can transmit through the phone because her archive exists outside the rewritten timeline.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Instead of hiding the discovery, Mira makes a choice that the others can challenge and understand.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Stopping the call would erase Byte, Mira, and every person restored from the Missing Hour. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Stopping the call would erase Byte, Mira, and every person restored from the Missing Hour.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cinematic story composition in the Episode One arcade. Visually depict this exact causal beat: Young Kavi answers, and present Kavi hears his own opening warning leave his mouth. Locked identities on screen: Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Young Kavi answers, and present Kavi hears his own opening warning leave his mouth.",
+      "effect": "push_in"
+    }
+  ]
+}

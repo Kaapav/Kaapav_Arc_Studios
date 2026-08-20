@@ -1,0 +1,74 @@
+[{"stream_name":"stderr","time":7.056177932,"data":"/usr/local/lib/python3.12/dist-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.\n"}
+,{"stream_name":"stderr","time":7.0567999,"data":"  validate(nb)\n"}
+,{"stream_name":"stderr","time":7.983727434,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":7.983754696,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":7.983759947,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":7.983764084,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stderr","time":8.605949862,"data":"0.00s - Debugger warning: It seems that frozen modules are being used, which may\n"}
+,{"stream_name":"stderr","time":8.60599386,"data":"0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off\n"}
+,{"stream_name":"stderr","time":8.60599869,"data":"0.00s - to python to disable frozen modules.\n"}
+,{"stream_name":"stderr","time":8.606003349,"data":"0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.\n"}
+,{"stream_name":"stdout","time":10.012710963,"data":"\n"}
+,{"stream_name":"stdout","time":10.012768784,"data":"=== VALIDATING_ENVIRONMENT ===\n"}
+,{"stream_name":"stdout","time":10.013494303,"data":"+ nvidia-smi --query-gpu=index,name,memory.total,driver_version --format=csv,noheader\n"}
+,{"stream_name":"stdout","time":10.055613252,"data":"0, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":10.055639837,"data":"1, Tesla T4, 15360 MiB, 580.159.04\n"}
+,{"stream_name":"stdout","time":10.055643203,"data":"\n"}
+,{"stream_name":"stderr","time":10.067435514,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":10.067451908,"data":"  File \"/tmp/ipykernel_23/550901008.py\", line 583, in main\n"}
+,{"stream_name":"stderr","time":10.067457983,"data":"    input_paths = write_input_images()\n"}
+,{"stream_name":"stderr","time":10.067464752,"data":"                  ^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":10.067467313,"data":"  File \"/tmp/ipykernel_23/550901008.py\", line 282, in write_input_images\n"}
+,{"stream_name":"stderr","time":10.067469821,"data":"    raise RuntimeError(f\"Embedded reference {index} is implausibly small\")\n"}
+,{"stream_name":"stderr","time":10.067472348,"data":"RuntimeError: Embedded reference 1 is implausibly small\n"}
+,{"stream_name":"stderr","time":10.067474836,"data":"\n"}
+,{"stream_name":"stderr","time":10.067477168,"data":"\n"}
+,{"stream_name":"stderr","time":10.067479296,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":10.0674815,"data":"  File \"/tmp/ipykernel_23/550901008.py\", line 583, in main\n"}
+,{"stream_name":"stderr","time":10.067483881,"data":"    input_paths = write_input_images()\n"}
+,{"stream_name":"stderr","time":10.067486899,"data":"                  ^^^^^^^^^^^^^^^^^^^^\n"}
+,{"stream_name":"stderr","time":10.067501343,"data":"  File \"/tmp/ipykernel_23/550901008.py\", line 282, in write_input_images\n"}
+,{"stream_name":"stderr","time":10.06750534,"data":"    raise RuntimeError(f\"Embedded reference {index} is implausibly small\")\n"}
+,{"stream_name":"stderr","time":10.067509331,"data":"RuntimeError: Embedded reference 1 is implausibly small\n"}
+,{"stream_name":"stderr","time":10.067522794,"data":"\n"}
+,{"stream_name":"stderr","time":10.320485171,"data":"Traceback (most recent call last):\n"}
+,{"stream_name":"stderr","time":10.320519684,"data":"  File \"\u003cstring\u003e\", line 1, in \u003cmodule\u003e\n"}
+,{"stream_name":"stderr","time":10.320524867,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 131, in execute_notebook\n"}
+,{"stream_name":"stderr","time":10.320631357,"data":"    raise_for_execution_errors(nb, output_path)\n"}
+,{"stream_name":"stderr","time":10.320686938,"data":"  File \"/usr/local/lib/python3.12/dist-packages/papermill/execute.py\", line 251, in raise_for_execution_errors\n"}
+,{"stream_name":"stderr","time":10.320794561,"data":"    raise error\n"}
+,{"stream_name":"stderr","time":10.321003184,"data":"papermill.exceptions.PapermillExecutionError: \n"}
+,{"stream_name":"stderr","time":10.321014861,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":10.321018581,"data":"Exception encountered at \"In [1]\":\n"}
+,{"stream_name":"stderr","time":10.321022162,"data":"---------------------------------------------------------------------------\n"}
+,{"stream_name":"stderr","time":10.321025784,"data":"RuntimeError                              Traceback (most recent call last)\n"}
+,{"stream_name":"stderr","time":10.321029247,"data":"/tmp/ipykernel_23/550901008.py in \u003ccell line: 0\u003e()\n"}
+,{"stream_name":"stderr","time":10.321033002,"data":"    668 \n"}
+,{"stream_name":"stderr","time":10.321036347,"data":"    669 if __name__ == \"__main__\":\n"}
+,{"stream_name":"stderr","time":10.321049905,"data":"--\u003e 670     main()\n"}
+,{"stream_name":"stderr","time":10.321053091,"data":"\n"}
+,{"stream_name":"stderr","time":10.321055311,"data":"/tmp/ipykernel_23/550901008.py in main()\n"}
+,{"stream_name":"stderr","time":10.321057986,"data":"    581         stage(\"validating_environment\")\n"}
+,{"stream_name":"stderr","time":10.321072529,"data":"    582         models, _gpu = validate_environment()\n"}
+,{"stream_name":"stderr","time":10.321076476,"data":"--\u003e 583         input_paths = write_input_images()\n"}
+,{"stream_name":"stderr","time":10.321080682,"data":"    584 \n"}
+,{"stream_name":"stderr","time":10.321084408,"data":"    585         stage(\"preparing_comfy\")\n"}
+,{"stream_name":"stderr","time":10.321088487,"data":"\n"}
+,{"stream_name":"stderr","time":10.321092011,"data":"/tmp/ipykernel_23/550901008.py in write_input_images()\n"}
+,{"stream_name":"stderr","time":10.321095402,"data":"    280         path.write_bytes(base64.b64decode(encoded))\n"}
+,{"stream_name":"stderr","time":10.321098844,"data":"    281         if path.stat().st_size \u003c 100_000:\n"}
+,{"stream_name":"stderr","time":10.321102429,"data":"--\u003e 282             raise RuntimeError(f\"Embedded reference {index} is implausibly small\")\n"}
+,{"stream_name":"stderr","time":10.32110619,"data":"    283         paths.append(path)\n"}
+,{"stream_name":"stderr","time":10.32110951,"data":"    284     return paths\n"}
+,{"stream_name":"stderr","time":10.321112907,"data":"\n"}
+,{"stream_name":"stderr","time":10.321116037,"data":"RuntimeError: Embedded reference 1 is implausibly small\n"}
+,{"stream_name":"stderr","time":10.321119492,"data":"\n"}
+,{"stream_name":"stderr","time":12.524575149,"data":"/usr/local/lib/python3.12/dist-packages/mistune.py:435: SyntaxWarning: invalid escape sequence '\\|'\n"}
+,{"stream_name":"stderr","time":12.524608679,"data":"  cells[i][c] = re.sub('\\\\\\\\\\|', '|', cell)\n"}
+,{"stream_name":"stderr","time":12.680900081,"data":"/usr/local/lib/python3.12/dist-packages/nbconvert/filters/filter_links.py:36: SyntaxWarning: invalid escape sequence '\\_'\n"}
+,{"stream_name":"stderr","time":12.680941315,"data":"  text = re.sub(r'_', '\\_', text) # Escape underscores in display text\n"}
+,{"stream_name":"stderr","time":13.275359553,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to notebook\n"}
+,{"stream_name":"stderr","time":13.578166938,"data":"[NbConvertApp] Writing 665230 bytes to __notebook__.ipynb\n"}
+,{"stream_name":"stderr","time":15.888954607,"data":"[NbConvertApp] Converting notebook __notebook__.ipynb to html\n"}
+,{"stream_name":"stderr","time":16.756934999,"data":"[NbConvertApp] Writing 1017540 bytes to __results__.html\n"}
+]

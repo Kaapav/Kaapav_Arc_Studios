@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e048",
+  "season": 1,
+  "episode": 48,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "Legacy of the Loop | ECHO//100 Episode 48",
+  "description": "Kavi faces a terminal choice between a crumbling reality and an eternal, stagnant loop. The Hundred Phones reveal their parasitic nature as the past and future collide. Episode 48 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The final phone ignites, projecting a ghostly world where the loop never shattered or ended.",
+      "caption": "The final phone glows",
+      "image_prompt": "Kavi in red hoodie and glasses staring at a floating smartphone projecting a holographic city, Nexus Point background, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null gestures toward the flickering imagery, revealing that the Hundred Phones drain current reality.",
+      "caption": "Null reveals the truth",
+      "image_prompt": "Null with black-purple glitch skin and red eyes gesturing toward the phones, Kavi looking shocked, dark tech-chamber setting.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes every second spent here feeds the loop, starving the world of its future.",
+      "caption": "The heavy cost",
+      "image_prompt": "Kavi touching his backpack, looking at the Hundred Phones hovering in a circle, deep violet sky visible above.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Golden Byte remains frozen, yet his orange antenna hums with an ancient, forbidden frequency.",
+      "caption": "Byte starts to hum",
+      "image_prompt": "Byte as a golden statue floating in mid-air, cyan face dark, orange antenna sparking with bright light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira watches in horror as her holographic coat begins to bleed thick digital static.",
+      "caption": "Mira loses control",
+      "image_prompt": "Mira in her teal coat fading into blue holographic fragments, reaching toward Kavi, Nexus Point shifting.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte emits a piercing signal, forcing every singular phone to synchronize with the present.",
+      "caption": "Synchronization begins now",
+      "image_prompt": "Byte glowing white with cyan eyes open, a wave of light hitting all hundred floating phones simultaneously.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte wakes, his voice now a haunting chorus echoing from his own future self.",
+      "caption": "Byte has changed",
+      "image_prompt": "Close up on Byte, now white with glowing orange antenna, face showing complex expressions, Kavi watching in awe.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The screens flash white, displaying a final, chilling command for Kavi to erase them.",
+      "caption": "Kavi, delete us",
+      "image_prompt": "Kavi looking at one hundred screens all showing the exact same text, dark chamber, high contrast cinematic vertical shot.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

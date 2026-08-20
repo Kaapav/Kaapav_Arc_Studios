@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "clockworkmoon",
+  "series_title": "THE CLOCKWORK MOON",
+  "episode": 5,
+  "episode_id": "clockworkmoon-ep005",
+  "output_slug": "clockworkmoon-episode005",
+  "title": "The Regent Offered Her Tomorrow | THE CLOCKWORK MOON Ep. 5",
+  "description": "Vale offers Anya a future without disasters if she helps him steal more time.\n\nTHE CLOCKWORK MOON — Episode 5\nAn original animated story from KAAPAV ARC Studios.\n\n#ClockworkMoon #AnimatedSeries #Shorts",
+  "tags": [
+    "The Clockwork Moon",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "fantasy adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "A PERFECT TOMORROW",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile brass clockwork, moon-silver magic and jewel-toned mountain environments, warm candlelight against cool lunar glow, coherent anatomy and props, emotionally truthful acting, adventurous rather than violent; preserve all locked character sheets exactly.",
+  "arc": "The Falling Minute",
+  "permanent_story_change": "Anya rejects Vale's private bargain and loses access to the palace.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Vale receives Anya without guards and shows a clockwork model predicting every storm, illness and accident.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Vale receives Anya without guards and shows a clockwork model predicting every storm, illness and accident.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. He says each stolen minute can freeze one tragedy long enough for rescuers to intervene.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He says each stolen minute can freeze one tragedy long enough for rescuers to intervene.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. The model displays a future where Mara survives an approaching heart failure.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The model displays a future where Mara survives an approaching heart failure.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Rian argues that the frozen villages never move forward and have become invisible prisons.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Rian argues that the frozen villages never move forward and have become invisible prisons.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Vale offers Anya the royal clockmaker seal if she repairs the extraction machine.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Vale offers Anya the royal clockmaker seal if she repairs the extraction machine.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Anya refuses to save people by deciding alone which minutes they must lose.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Anya refuses to save people by deciding alone which minutes they must lose.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. She returns the moon gear, but Pip bites through the extraction lever before they flee.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She returns the moon gear, but Pip bites through the extraction lever before they flee.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Vale seals every city gate and announces that Anya stole the kingdom's tomorrow.. Location lock: Regent Vale's mechanical observatory. Locked on-screen identities: Anya Vale (small brown-skinned mountain girl, huge dark amber eyes, round freckled face, thick black hair in one messy side braid tied with copper wire, teal wool coat over cream shirt, burgundy tool apron, brown leggings, brass-toed boots, crescent-shaped hearing lens over left ear); Pip (tiny brass-and-ivory clockwork fox, cyan glass eyes, one copper ear and one silver ear, segmented tail with seven plates, visible heart gear behind round chest window); Rian Sol (slender brown-skinned boy, large grey-green eyes, soft black curls, midnight-blue short cape with gold star stitching, white high-collar shirt, charcoal trousers, worn red climbing boots, broken crown pin used as compass); Regent Vale (tall brown-skinned man early forties, severe amber eyes matching Anya, straight black hair streaked silver at temples, black-and-gold royal coat with mechanical shoulder mantle, moonstone signet glove). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Vale seals every city gate and announces that Anya stole the kingdom's tomorrow.",
+      "effect": "push_in"
+    }
+  ]
+}

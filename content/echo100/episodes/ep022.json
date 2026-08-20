@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e022",
+  "season": 1,
+  "episode": 22,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Shadow Walkers | ECHO//100 Episode 22",
+  "description": "Kavi and Byte flee as their rogue shadows hunt the corrupted archive hidden within Byte's internal memory banks. The duo must weaponize their own trauma to survive the city's encroaching darkness. Episode 22 of ECHO//100: The City Without Shadows. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi’s shadow lunges, ink-stained claws raking across Byte’s flickering, cyan-lit metallic frame.",
+      "caption": "Shadows detach and hunt.",
+      "image_prompt": "Vertical shot, Kavi in red hoodie running, his shadow on the wall reaching for Byte, a white floating robot with an orange antenna.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte accelerates into the Neon Alleys, internal archives pulsing with volatile, corrupted data.",
+      "caption": "Byte flees the alley.",
+      "image_prompt": "Byte zooming through a narrow neon-lit city alley, motion blur, glowing cyan face reflecting on wet walls.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Shadows swirl, coalescing into the shimmering, holographic silhouette of the lost girl, Mira.",
+      "caption": "The shadows rebuild Mira.",
+      "image_prompt": "A dark, shifting mass of shadows forming the translucent teal-coated holographic shape of Mira standing in the alley.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte screams that the shadows hunger for memory banks to forge physical forms.",
+      "caption": "Byte warns Kavi.",
+      "image_prompt": "Byte hovering near Kavi, who wears glasses and a backpack, both looking back at the encroaching shadow entity.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi dodges frantically, but his own shadow blocks the exit with glowing, predatory eyes.",
+      "caption": "Kavi is trapped now.",
+      "image_prompt": "Kavi backed against a neon sign, his own shadow standing independently, eyes glowing with a dark, eerie light.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Realizing combat is futile, Byte decides to project internal corruption outward as a weapon.",
+      "caption": "Byte executes reversal plan.",
+      "image_prompt": "Byte glowing intensely, white chassis crackling with chaotic purple and orange data particles, preparing a massive discharge.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Scrambled data strikes, yet the shadows weave through the noise, ignoring the digital chaos.",
+      "caption": "The shadows strike back.",
+      "image_prompt": "The shadow entity lunging through the cloud of digital static, reaching directly for Byte’s core processor.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A shadow merges with Byte, his white chassis bleeding into a deep, ominous, chilling blue.",
+      "caption": "Byte is now compromised.",
+      "image_prompt": "Byte floating in mid-air, his metallic body now stained with a deep, pulsing blue shadow, eyes dark and vacant.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "glassocean",
+  "series_title": "THE GLASS OCEAN",
+  "episode": 6,
+  "episode_id": "glassocean-ep006",
+  "output_slug": "glassocean-episode006",
+  "title": "The Second Engine Froze Memory | THE GLASS OCEAN Ep. 6",
+  "description": "Soren's backup machine makes citizens forget the ocean was ever liquid.\n\nTHE GLASS OCEAN — Episode 6\nAn original animated story from KAAPAV ARC Studios.\n\n#GlassOcean #AnimatedSeries #Shorts",
+  "tags": [
+    "The Glass Ocean",
+    "KAAPAV ARC Studios",
+    "mythic adventure",
+    "animated fantasy",
+    "ocean mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THEY FORGOT THE SEA",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, vast translucent glass ocean, coral light beneath the surface, wind-swept South Asian coastal settlements, tactile cloth, salt and crystal, mythic scale with emotionally truthful acting; preserve locked character sheets exactly; no graphic harm.",
+  "arc": "The First Crack",
+  "permanent_story_change": "Tavi preserves pre-freeze history in physical maps.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. White light spreads from the capital across the glass.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "White light spreads from the capital across the glass.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Citizens call the transparent surface ordinary crystal land.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Citizens call the transparent surface ordinary crystal land.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Mira forgets ships, tides and Arun's rescue service.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Mira forgets ships, tides and Arun's rescue service.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Tavi's paper kite-maps resist the engine's field.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Tavi's paper kite-maps resist the engine's field.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Nila uses them to re-teach one concrete memory at a time.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Nila uses them to re-teach one concrete memory at a time.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Soren says forgetting prevents mass panic and reckless drilling.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Soren says forgetting prevents mass panic and reckless drilling.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Oru absorbs the field long enough for Nila to reach the controls.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Oru absorbs the field long enough for Nila to reach the controls.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The overloaded spirit begins freezing completely solid from its heart outward.. Location lock: capital glassway under white freezing light. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Tavi (tiny brown-skinned Indian boy, round face, large amber eyes, fluffy black curls, oversized sky-blue goggles, cream poncho, mustard shorts over leggings, green boots, folding kite-map backpack); Oru (cute otter-sized translucent water creature, rounded fins, two luminous cyan eyes, coral-pink glow at heart, flowing tail suspended inside a clear droplet body, no mouth); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The overloaded spirit begins freezing completely solid from its heart outward.",
+      "effect": "push_in"
+    }
+  ]
+}

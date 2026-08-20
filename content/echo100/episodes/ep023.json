@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e023",
+  "season": 1,
+  "episode": 23,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Echo Chamber | ECHO//100 Episode 23",
+  "description": "Kavi discovers a derelict phone booth broadcasting warnings from a discarded timeline. He must silence his own future to prevent the city's collapse. Episode 23 of ECHO//100: The City Without Shadows. This content features AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi halts as his own voice broadcasts from a rusted, sparking phone booth nearby.",
+      "caption": "Voice from the booth",
+      "image_prompt": "Kavi in his red hoodie and glasses standing before an old phone booth in a dark alley.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The recording warns Kavi against trusting the entity currently hiding inside his own mind.",
+      "caption": "A chilling warning",
+      "image_prompt": "Close up of Kavi's face, his eyes wide, reflection of a phone booth in his glasses.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Metallic booth walls suddenly fold inward like paper, collapsing into a flat, two-dimensional plane.",
+      "caption": "Geometry collapsing",
+      "image_prompt": "The phone booth warping into a two-dimensional shape against the brick wall of the alley.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches toward the portal, recognizing a direct connection to the terrifying Discarded Timeline.",
+      "caption": "Portal to nowhere",
+      "image_prompt": "Kavi reaching toward the flat, glowing rift where the phone booth used to stand.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Blue light floods the alley while erased silhouettes scream silently from the void beyond.",
+      "caption": "The erased ones",
+      "image_prompt": "Ghostly silhouettes pressing against the flat plane of light, reaching for Kavi.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To save the city, Kavi deletes the connection, permanently silencing the warning from his future.",
+      "caption": "The heavy choice",
+      "image_prompt": "Kavi hovering his hand over a glowing 'delete' icon shimmering in the air.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He executes the command, causing the booth to shatter into digital dust and vanish.",
+      "caption": "Deleting the truth",
+      "image_prompt": "The folding phone booth exploding into sparkling digital pixels, fading into the night.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The voice echoes one final time, claiming it is not Kavi but rather Null.",
+      "caption": "The true identity",
+      "image_prompt": "Kavi looking down, his shadow shifting into the black-purple glitch form of Null.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

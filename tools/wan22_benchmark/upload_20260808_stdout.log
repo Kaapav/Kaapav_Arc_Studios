@@ -1,0 +1,11 @@
+WAN22 DATASET VALID: 4 files, 18144967024 bytes
+Starting upload for file diffusion_models/wan2.2_ti2v_5B_fp16.safetensors
+Warning: Looks like you're using an outdated `kaggle`` version (installed: {current_version}), please consider upgrading to the latest version ({latest_version_str})
+Upload successful: diffusion_models/wan2.2_ti2v_5B_fp16.safetensors (9GB)
+Starting upload for file README_KAAPAV_WAN22.txt
+Upload successful: README_KAAPAV_WAN22.txt (319B)
+Starting upload for file text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
+Upload successful: text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors (6GB)
+Starting upload for file vae/wan2.2_vae.safetensors
+Upload successful: vae/wan2.2_vae.safetensors (1GB)
+DATASET CREATE RESPONSE: status=Ok url=https://www.kaggle.com/datasets/kaapav/kaapav-wan22-models error=

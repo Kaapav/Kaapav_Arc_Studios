@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e051",
+  "season": 1,
+  "episode": 51,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "The Pocket Metropolis | ECHO//100 Episode 51",
+  "description": "Kavi struggles to maintain his portable city while Mira attempts to interface with its corrupted, sentient data core. Byte's interference causes the reality to fracture as a familiar shadow emerges from within the miniature skyline. Episode 51 of ECHO//100: ARC. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The file slips, blooming into a pulsing, miniature metropolis hovering above Kavi’s trembling palms.",
+      "caption": "City in the palm",
+      "image_prompt": "Kavi in his red hoodie and glasses holding a glowing, miniature city above his palm in the White Expanse.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira manifests beside Kavi, her teal coat shimmering as she reaches into dense data.",
+      "caption": "Mira interfaces with code",
+      "image_prompt": "Mira, wearing a blue holographic teal coat, reaching her hand into the glowing miniature city Kavi holds.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The buildings shift like living nerves, reacting instantly to the spike of Kavi’s fear.",
+      "caption": "Sentient architecture reacts",
+      "image_prompt": "Close-up of miniature skyscrapers morphing and shifting shape in response to Kavi's nervous expression.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte drifts closer, his orange antenna sparking with static while attempting to stabilize the core.",
+      "caption": "Byte approaches the city",
+      "image_prompt": "Byte, a floating white entity with a cyan face and orange antenna, hovering near the miniature city.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Contact! Byte’s touch turns the vibrant skyscrapers into hollow, flickering wireframe silhouettes of ghost towers.",
+      "caption": "Buildings turn to wireframe",
+      "image_prompt": "The miniature city buildings becoming translucent wireframe outlines as Byte's hand touches the center.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s presence fails to fix the city, instead deleting the foundation of the portable reality.",
+      "caption": "Byte causes corruption",
+      "image_prompt": "Byte looking shocked as the city he touches begins to dissolve into binary code fragments.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The sky above the tiny district rips open, revealing a dark, distorted void beneath streets.",
+      "caption": "The sky tears open",
+      "image_prompt": "A jagged tear in the digital sky of the miniature city showing deep black-purple void space.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges, a gargantuan shadow looming over skyscrapers, his red eyes burning through the world.",
+      "caption": "Null looms over city",
+      "image_prompt": "A massive, shadowy figure with red eyes, Null, towering over the tiny city held in Kavi's hands.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

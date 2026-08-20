@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e090",
+  "season": 1,
+  "episode": 90,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "The Final Threshold | ECHO//100 Episode 90",
+  "description": "Kavi stands before the ultimate gateway to a world where his war never existed. To secure peace, he must leave his closest allies behind in the collapsing void. Episode 90 of ECHO//100: The Door War. This is an original work of fiction created with the assistance of artificial intelligence.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The Nexus fractures, revealing a shimmering, liquid gateway pulsing with the light of forgotten stars.",
+      "caption": "The gateway opens",
+      "image_prompt": "Kavi in his red hoodie and glasses standing before a swirling, blindingly bright liquid portal in a dark void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every version of Kavi merges into one, yet the weight of collective pain remains heavy.",
+      "caption": "Kavi's unified consciousness",
+      "image_prompt": "Close up of Kavi's face, his glasses reflecting dozens of overlapping, faint silhouettes of himself.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "This threshold leads to a reality where the Door War never happened, though memories fade.",
+      "caption": "A forgotten history",
+      "image_prompt": "The gateway showing a peaceful, sunlit park scene through the shimmering surface of the portal.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi alone retains the burden of the cost of the fight and the lives lost.",
+      "caption": "The lonely survivor",
+      "image_prompt": "Kavi looking down at his backpack, his expression solemn as the portal illuminates his red hoodie.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira and the merged Byte and Null step forward, blocking the path to the light.",
+      "caption": "The final stand",
+      "image_prompt": "Mira in her teal coat standing beside Byte's cyan-faced form and Null's glitching black-purple silhouette.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They command Kavi to enter the golden glow while they hold the anchor steady alone.",
+      "caption": "The ultimate sacrifice",
+      "image_prompt": "Byte and Null glowing intensely as they physically grip the edges of the unstable, tearing gateway.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi crosses the threshold as the reality behind shatters into white static during the reset.",
+      "caption": "Crossing the line",
+      "image_prompt": "Kavi stepping into the blinding light, his silhouette blurring as the world around him dissolves.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Silence claims the void until a familiar phone rings out, and Kavi answers the call.",
+      "caption": "One final call",
+      "image_prompt": "Kavi standing in a white void, holding a classic phone to his ear, his eyes wide with realization.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

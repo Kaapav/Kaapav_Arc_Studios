@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep005",
+  "episode_number": 5,
+  "arc": 1,
+  "title": "Tick Lost One Minute",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "In Platform 13’s sealed control room, Maya exposes a dead telegraph built around thirteen concentric clock gears.",
+      "dialogue_audio": "Maya: “It once called every train except his.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Tick places his segmented tail into the machine while remaining firmly on four paws; cyan time flows from the blue tail tip.",
+      "dialogue_audio": "Meera: “Tick, stop. That gear is you.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Inside the train, every carriage clock jumps backward exactly one minute; Arin hears Meera through static.",
+      "dialogue_audio": "Meera, distorted: “Arin—Door Thirteen is not an exit.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Passenger Zero’s cracked hand reaches through the telegraph signal and tries to pull Meera into the mirror.",
+      "dialogue_audio": "Nila: “You rang my bell.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Tick bites through his own tail connector; the severed blue-tipped segment locks into the machine and the hand vanishes.",
+      "dialogue_audio": "Maya: “He gave the station one of his minutes.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Tick staggers but stays quadruped. The telegraph prints a clean geometric route: CAR 04 / HOME.",
+      "dialogue_audio": "Meera: “Arin heard us. We do it again.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "TICK HAS 12 MINUTES LEFT"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

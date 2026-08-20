@@ -1,0 +1,25 @@
+{
+  "version": 3,
+  "model_family": "Wan2.2-TI2V-5B",
+  "status": "failed",
+  "comfy_release": "v0.26.0",
+  "comfy_commit": "f6c162d",
+  "settings": {
+    "width": 512,
+    "height": 512,
+    "frames": 49,
+    "fps": 16,
+    "steps": 20,
+    "cfg": 5.0,
+    "seed": 817263
+  },
+  "stages": [
+    {
+      "name": "validating_environment",
+      "at": 1786196924.3831735
+    }
+  ],
+  "error": "Required model missing: /kaggle/input/datasets/kaapav/kaapav-wan22-models/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors",
+  "traceback": "Traceback (most recent call last):\n  File \"/tmp/ipykernel_23/3569387757.py\", line 503, in main\n    models, _gpu = validate_environment()\n                   ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/tmp/ipykernel_23/3569387757.py\", line 138, in validate_environment\n    raise FileNotFoundError(f\"Required model missing: {path}\")\nFileNotFoundError: Required model missing: /kaggle/input/datasets/kaapav/kaapav-wan22-models/diffusion_models/wan2.2_ti2v_5B_fp16.safetensors\n",
+  "total_seconds": 0.05
+}

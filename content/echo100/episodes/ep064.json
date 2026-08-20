@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e064",
+  "season": 1,
+  "episode": 64,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "The Unspoken Word | ECHO//100 Episode 64",
+  "description": "Mira confronts the trapped consciousness of the original Kavi as the simulation begins to fracture. To break the cycle, she must force a choice between existence and annihilation. Episode 64 of ECHO//100: Null Before Null. This is original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The phone rings, its shrill cry carving deep, jagged cracks through the memory bedroom floor.",
+      "caption": "Phone ringing, floor fracturing",
+      "image_prompt": "Vertical shot of a retro phone on a nightstand, glowing with static, cracks spreading across the floorboards.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi-Byte tries to scream, but the static chains tighten, sealing his lips with cold, dark iron.",
+      "caption": "Chains silencing Kavi-Byte",
+      "image_prompt": "Kavi-Byte in a red hoodie and white glowing body, mouth glowing with static, translucent chains binding his limbs.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A distorted voice spills from the receiver, commanding silence to prevent the world’s final, total collapse.",
+      "caption": "Warning from the receiver",
+      "image_prompt": "Mira in her teal coat reaching toward the phone, light emanating from the receiver casting long, distorted shadows.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira ignores the warning, pressing her ear to the plastic shell to hear a familiar, grieving whisper.",
+      "caption": "Mira listening intently",
+      "image_prompt": "Extreme close-up of Mira's face near the phone, her holographic coat shimmering against the dark bedroom backdrop.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The voice belongs to the original Kavi, a man trapped within the hardware to escape his sorrow.",
+      "caption": "The original Kavi revealed",
+      "image_prompt": "Ghostly silhouette of a man visible inside the phone's translucent screen, wearing glasses and a backpack.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira realizes the soul driving this loop isn't code, but a man hiding inside the lithium battery.",
+      "caption": "Battery holds the soul",
+      "image_prompt": "X-ray view of the phone showing a small, glowing human heart-like structure pulsing inside the battery pack.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She grips the casing, her fingers trembling as she prepares to rip the power source apart forever.",
+      "caption": "Mira grips the battery",
+      "image_prompt": "Mira's hands prying open the back of the phone, sparks of blue energy flying into the bedroom air.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She pulls the battery free, and the sky above the bedroom tears open like wet, black paper.",
+      "caption": "Sky tearing open",
+      "image_prompt": "The bedroom ceiling dissolving into a void of swirling stars, Mira holding the glowing battery in her hand.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

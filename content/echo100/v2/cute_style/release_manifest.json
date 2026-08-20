@@ -1,0 +1,260 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30-v2",
+  "public_series_name": "ECHO//30",
+  "canon": "cute-improved-v1",
+  "channel": {
+    "id": "UCylPn80btY6lpivJ_N-cXGQ",
+    "title": "KAAPAV ARC Studios",
+    "handle": "@kaapavarcstudios"
+  },
+  "scope": {
+    "episodes": 30,
+    "shorts_per_episode": 1,
+    "compilations": [
+      {
+        "episodes": "01-10",
+        "target": "Sunday 10:00 IST"
+      },
+      {
+        "episodes": "11-20",
+        "target": "Sunday 10:00 IST"
+      },
+      {
+        "episodes": "21-30",
+        "target": "Sunday 10:00 IST"
+      }
+    ]
+  },
+  "schedule": {
+    "shorts": "daily 09:00 IST",
+    "compilations": "Sunday 10:00 IST",
+    "timezone": "Asia/Calcutta",
+    "privacy_before_release": "private"
+  },
+  "episodes": [
+    {
+      "episode": 1,
+      "episode_id": "echo30-v2-s01e001-cute",
+      "title": "His Dead Father’s Phone Sent a Warning From Tomorrow | ECHO//30 Ep. 1",
+      "status": "public",
+      "video_path": "output/story/echo100-v2-episode01-cute-improved/video.mp4",
+      "youtube_id": "J3ZH_R6rfQQ",
+      "youtube_url": "https://youtu.be/J3ZH_R6rfQQ",
+      "publish_at": "2026-08-09T03:30:00Z",
+      "publish_at_ist": "2026-08-09T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "public",
+        "definition": "hd",
+        "duration": "PT36S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 2,
+      "episode_id": "echo30-v2-s01e002-cute",
+      "title": "She Was Erased From Every Record | ECHO//30 Ep. 2",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode02-cute/video.mp4",
+      "youtube_id": "JrBBdEeoTr0",
+      "youtube_url": "https://youtu.be/JrBBdEeoTr0",
+      "publish_at": "2026-08-10T03:30:00Z",
+      "publish_at_ist": "2026-08-10T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT44S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 3,
+      "episode_id": "echo30-v2-s01e003-cute",
+      "title": "Her Broadcast Woke 412 Forgotten Voices | ECHO//30 Ep. 3",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode03-cute/video.mp4",
+      "youtube_id": "gvFfnpk7aaY",
+      "youtube_url": "https://youtu.be/gvFfnpk7aaY",
+      "publish_at": "2026-08-11T03:30:00Z",
+      "publish_at_ist": "2026-08-11T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT46S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 4,
+      "episode_id": "echo30-v2-s01e004-cute",
+      "title": "His Missing Father Spoke Behind the Door | ECHO//30 Ep. 4",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode04-cute/video.mp4",
+      "youtube_id": "IEO3k7KttvY",
+      "youtube_url": "https://youtu.be/IEO3k7KttvY",
+      "publish_at": "2026-08-12T03:30:00Z",
+      "publish_at_ist": "2026-08-12T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT49S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 5,
+      "episode_id": "echo30-v2-s01e005-cute",
+      "title": "The Door Erased His Father's Face | ECHO//30 Ep. 5",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode05-cute/video.mp4",
+      "youtube_id": "5GlFO-LstaY",
+      "youtube_url": "https://youtu.be/5GlFO-LstaY",
+      "publish_at": "2026-08-13T03:30:00Z",
+      "publish_at_ist": "2026-08-13T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT50S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 6,
+      "episode_id": "echo30-v2-s01e006-cute",
+      "title": "Every Door Steals Another Memory | ECHO//30 Ep. 6",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode06-cute/video.mp4",
+      "youtube_id": "-uC8IG-1Dwo",
+      "youtube_url": "https://youtu.be/-uC8IG-1Dwo",
+      "publish_at": "2026-08-14T03:30:00Z",
+      "publish_at_ist": "2026-08-14T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT53S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 7,
+      "episode_id": "echo30-v2-s01e007-cute",
+      "title": "The Monster Had 412 Voices | ECHO//30 Ep. 7",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode07-cute/video.mp4",
+      "youtube_id": "n159KmVmlkQ",
+      "youtube_url": "https://youtu.be/n159KmVmlkQ",
+      "publish_at": "2026-08-15T03:30:00Z",
+      "publish_at_ist": "2026-08-15T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT51S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 8,
+      "episode_id": "echo30-v2-s01e008-cute",
+      "title": "She Crossed the Door—and Someone Else Came Out | ECHO//30 Ep. 8",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode08-cute/video.mp4",
+      "youtube_id": "PgNifSGUQhA",
+      "youtube_url": "https://youtu.be/PgNifSGUQhA",
+      "publish_at": "2026-08-16T03:30:00Z",
+      "publish_at_ist": "2026-08-16T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT51S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 9,
+      "episode_id": "echo30-v2-s01e009-cute",
+      "title": "She Found Her Brother 17 Years Older | ECHO//30 Ep. 9",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode09-cute/video.mp4",
+      "youtube_id": "gpykuA2MKlw",
+      "youtube_url": "https://youtu.be/gpykuA2MKlw",
+      "publish_at": "2026-08-17T03:30:00Z",
+      "publish_at_ist": "2026-08-17T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT50S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    },
+    {
+      "episode": 10,
+      "episode_id": "echo30-v2-s01e010-cute",
+      "title": "His Future Self Ordered the Door Sealed | ECHO//30 Ep. 10",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-v2-episode10-cute/video.mp4",
+      "youtube_id": "7t0u8vaquRo",
+      "youtube_url": "https://youtu.be/7t0u8vaquRo",
+      "publish_at": "2026-09-07T03:30:00Z",
+      "publish_at_ist": "2026-09-07T09:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT48S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true
+      }
+    }
+  ],
+  "compilation_releases": [
+    {
+      "episodes": "01-10",
+      "title": "10 Episodes. One Door. | ECHO//30 Chapter 1 (Episodes 1–10)",
+      "status": "scheduled",
+      "video_path": "output/story/echo30-compilation-episodes01-10/video.mp4",
+      "youtube_id": "2uiDSnNHLDs",
+      "youtube_url": "https://youtu.be/2uiDSnNHLDs",
+      "publish_at": "2026-08-23T04:30:00Z",
+      "publish_at_ist": "2026-08-23T10:00:00+05:30",
+      "verification": {
+        "upload_status": "processed",
+        "privacy_status": "private",
+        "definition": "hd",
+        "duration": "PT8M25S",
+        "made_for_kids": false,
+        "custom_thumbnail": true,
+        "cdn_thumbnail_verified": true,
+        "full_decode": "passed",
+        "resolution": "1920x1080"
+      }
+    }
+  ]
+}

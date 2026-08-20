@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "dreamthiefdaughter",
+  "series_title": "THE DREAM THIEF'S DAUGHTER",
+  "episode": 26,
+  "episode_id": "dreamthiefdaughter-ep026",
+  "output_slug": "dreamthiefdaughter-episode026",
+  "title": "Dev Tried to Carry Every Nightmare | THE DREAM THIEF'S DAUGHTER Ep. 26",
+  "description": "Dev's buried failsafe turns remorse into a citywide forced collection.\n\nTHE DREAM THIEF'S DAUGHTER — Episode 26\nAn original animated story from KAAPAV ARC Studios.\n\n#DreamThiefsDaughter #AnimatedSeries #Shorts",
+  "tags": [
+    "The Dream Thief's Daughter",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "dream mystery",
+    "emotional adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "FATHER TOOK THEM ALL",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile Indian twilight city, floating dream fabrics, luminous indigo, coral and gold, handcrafted surreal environments, emotionally truthful acting, beautiful but never sugary, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "Return the Night",
+  "permanent_story_change": "Dev relinquishes the Dream Thief mechanism and survives without magical control.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Empty vials across Dev's coat fill as nightmares tear away from owners, Saaz and the commons.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Empty vials across Dev's coat fill as nightmares tear away from owners, Saaz and the commons.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Dev cannot stop because he programmed the recall for the day authorities recognized dream autonomy.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev cannot stop because he programmed the recall for the day authorities recognized dream autonomy.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. He believed one guilty human should contain every danger rather than burden the city.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He believed one guilty human should contain every danger rather than burden the city.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Amaya enters the vortex but refuses to replace him as the stronger thief.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya enters the vortex but refuses to replace him as the stronger thief.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Leena locates the failsafe's human trigger: Dev must choose to live without being useful as punishment.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leena locates the failsafe's human trigger: Dev must choose to live without being useful as punishment.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Dev breaks his tuning hand and releases control before the collected fear destroys him.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev breaks his tuning hand and releases control before the collected fear destroys him.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. Saaz and willing dreamers redistribute fragments through consent paths.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Saaz and willing dreamers redistribute fragments through consent paths.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Dev wakes powerless, while the silver thief mark transfers to Amaya's compass.. Location lock: shared dream vortex centered on Dev. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt); Dr Leena Sen (Indian woman late thirties, warm brown skin, intelligent dark eyes, straight black hair in low bun, ivory physician coat over plum sari, copper sleep-stethoscope, square glasses); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev wakes powerless, while the silver thief mark transfers to Amaya's compass.",
+      "effect": "push_in"
+    }
+  ]
+}

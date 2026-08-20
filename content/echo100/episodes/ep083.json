@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e083",
+  "season": 1,
+  "episode": 83,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "Echoes of the Council | ECHO//100 Episode 83",
+  "description": "Kavi confronts a council of his own past selves to prevent the ultimate reset of reality. He must prove his individuality before the timeline collapses entirely. Episode 83 of ECHO//100: The Door War. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Gravity releases as shadows detach from gears, coalescing into six hooded Kavi figures.",
+      "caption": "Council of Kavis appears",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie standing on a massive clock face, surrounded by six identical shadowy figures in tattered clothing.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Council speaks in unison, demanding Kavi’s erasure to stabilize the fracturing, dying reality.",
+      "caption": "Council demands erasure",
+      "image_prompt": "Kavi looking up at the six shadowy Kavis, their faces obscured by dark mist while glowing eyes stare down.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte struggles against the mainframe, her cyan face flickering as the Council votes reset.",
+      "caption": "Byte trapped in mainframe",
+      "image_prompt": "Byte, a floating white robot with an orange antenna, struggling as glowing cables wrap around her body.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Council claims Kavi’s singular existence is the contagion preventing the universe from resetting.",
+      "caption": "Kavi is the contagion",
+      "image_prompt": "Close-up of a Council member pointing a finger at Kavi, whose expression is one of desperate defiance.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi seeks a memory never held by them, a truth buried within a fractured mind.",
+      "caption": "Searching for lost memories",
+      "image_prompt": "Kavi clutching his backpack straps, eyes closed as golden light emanates from his glasses.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi projects a broken phone memory, forcing the Council to recoil from unfamiliar pain.",
+      "caption": "The phone memory revealed",
+      "image_prompt": "A holographic projection of a shattered smartphone floating between Kavi and the shocked Council members.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Individuality breaks the cycle, causing the Council to dissolve into blinding, searing geometric light.",
+      "caption": "Council begins to disintegrate",
+      "image_prompt": "The shadowy figures turning into bright, pixelated light particles, leaving Kavi standing alone in the center.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They vanish, leaving only a glowing red shard of the original doorway in Kavi’s hand.",
+      "caption": "Red shard remains",
+      "image_prompt": "Kavi holding a jagged, glowing red crystal shard, the Clock Tower chamber dark and silent behind him.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

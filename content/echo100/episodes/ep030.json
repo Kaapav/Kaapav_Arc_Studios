@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e030",
+  "season": 1,
+  "episode": 30,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "The Discarded Path | ECHO//100 Episode 30",
+  "description": "Kavi, Byte, and Mira traverse a rift into a graveyard of erased timelines. They soon realize the forgotten inhabitants of the city are hunting for their replacement. Episode 30 of ECHO//100: The City Without Shadows. This content is original science-fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The city tilts violently as reality tears open, dumping everyone into the silent, shifting void.",
+      "caption": "City enters the rift",
+      "image_prompt": "Kavi in red hoodie and Mira in teal coat clinging to a floating platform, vertical cinematic.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans the horizon, but sensors scream as shadows detach from the jagged ground.",
+      "caption": "Sentient shadows awaken",
+      "image_prompt": "Byte with glowing cyan face and orange antenna floating above dark, moving shadow shapes, vertical cinematic.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira touches a drifting silhouette, hearing whispers of memories from every erased version.",
+      "caption": "Echoes of the erased",
+      "image_prompt": "Mira reaching toward a translucent, shifting human silhouette in the dark, vertical cinematic.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Thousands of discarded Kavis stand ahead, wearing red hoodies and demanding their rightful place.",
+      "caption": "An army of Kavis",
+      "image_prompt": "Kavi staring in shock at hundreds of shadowed figures wearing identical red hoodies, vertical cinematic.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Escape proves impossible, as the city drifts directly into a calculated trap of ghosts.",
+      "caption": "Trapped in time",
+      "image_prompt": "Kavi looking back at the floating city crumbling into the void, vertical cinematic.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Shadows watch intently, preparing to reclaim the stolen lives taken from this forgotten realm.",
+      "caption": "Shadows turn aggressive",
+      "image_prompt": "Sentient shadows sharpening into jagged weapons, surrounding the terrified trio, vertical cinematic.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s black-purple energy ripples across the sky, anchoring the city within this rotting timeline.",
+      "caption": "City becomes a target",
+      "image_prompt": "Null with glowing red eyes looming over the city, sky turning deep black-purple, vertical cinematic.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Ahead, the massive red doorway stands wide open, pulsing with the light of home.",
+      "caption": "The open doorway",
+      "image_prompt": "A giant, glowing red rectangular portal standing in the middle of a barren wasteland, vertical cinematic.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

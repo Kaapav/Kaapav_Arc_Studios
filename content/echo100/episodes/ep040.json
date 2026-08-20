@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e040",
+  "season": 1,
+  "episode": 40,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Beyond the Threshold | ECHO//100 Episode 40",
+  "description": "Kavi awakens in a pristine, desolate world where the forbidden archive now forms the literal bedrock of reality. The Mira Protocol is complete, but a cryptic message from his future self hints at a terrifying new freedom. Episode 40 of ECHO//100: Mira Protocol. This content is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The void collapses into silence as Kavi wakes up on cold, shimmering obsidian ground alone.",
+      "caption": "Silence after the collapse",
+      "image_prompt": "Kavi in his red hoodie and backpack lying on a reflective black floor, vertical shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers to life, his cyan face glowing against the stark, empty white horizon ahead.",
+      "caption": "Byte awakens",
+      "image_prompt": "Byte, a floating white robot with an orange antenna, hovering beside Kavi’s shoulder.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Towering structures rise from the earth, their walls etched with the forbidden archive’s ancient data.",
+      "caption": "The integrated archive",
+      "image_prompt": "Kavi looking up at massive glass skyscrapers covered in glowing digital symbols and code.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every building is a vessel of lost memory, yet not a single soul inhabits them.",
+      "caption": "A ghost city",
+      "image_prompt": "Wide angle of a clean, futuristic city with zero people, Kavi standing in the street.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi pulls his phone from his pocket, watching a notification pulse with a familiar signature.",
+      "caption": "Message from nowhere",
+      "image_prompt": "Close up on Kavi’s hands holding a smartphone, glasses reflecting a bright incoming message.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "His future self writes: The archive is empty; the story is now yours to write.",
+      "caption": "A cryptic warning",
+      "image_prompt": "Digital text floating in the air above Kavi’s phone, Kavi looking shocked and confused.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A golden doorway tears through the sky, revealing a landscape that defies the city's logic.",
+      "caption": "The golden gate",
+      "image_prompt": "A glowing, ornate golden door suspended in the sky, casting light over the quiet city.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The portal beckons, inviting Kavi to step outside the map into the true unknown forever.",
+      "caption": "Beyond the map",
+      "image_prompt": "Kavi taking a step toward the golden doorway, Byte floating nervously behind him, back view.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

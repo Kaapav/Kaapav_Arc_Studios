@@ -1,0 +1,197 @@
+channel:
+  name: "KAAPAV ARC Studios"
+  niche: "original cinematic 3D animated series across science fiction, fantasy, thriller, mystery, and adventure"
+  language: "english"
+  audience: "global viewers who enjoy character-driven animated worlds, mysteries, adventures, and cliffhangers"
+  cta: "Subscribe and enter the next KAAPAV ARC world."
+
+brand:
+  persona: "a cinematic storyteller guiding viewers through original connected worlds"
+  catchphrase: "A new world is about to begin."
+  signoff: "The next chapter is already waiting."
+  series:
+    - "ECHO//30"
+    - "THE MIDNIGHT PLATFORM"
+    - "STATIC//9"
+    - "THE CLOCKWORK MOON"
+    - "HOUSE OF THE NAMELESS"
+    - "THE DREAM THIEF'S DAUGHTER"
+    - "THE GLASS OCEAN"
+    - "NEON WOLVES"
+    - "THE LIBRARY AT THE END OF NIGHT"
+    - "WHEN THE STARS FORGOT US"
+
+voice:
+  provider: "piper"
+  edge_voice: "en-US-GuyNeural"
+  edge_timeout_seconds: 25
+  piper_model: "assets/voices/piper/en_US-lessac-medium.onnx"
+  word_timing_provider: "proportional"
+  whisper_model: "tiny.en"
+  rate: "+8%"
+  pitch: "+0Hz"
+
+video:
+  format: "shorts"
+  width: 720
+  height: 1280
+  fps: 24
+  max_seconds: 58
+  captions: true
+  caption_font_size: 36
+  caption_style: "cinematic"
+  caption_words_per_chunk: 5
+  caption_vertical_position: 0.78
+  stock_video: false
+  background_music: true
+  music_volume: 0.055
+  sfx_volume: 0.14
+  ken_burns: true
+  memory_safe_compositor: true
+  encoder_threads: 2
+
+script:
+  target_words: 110
+  scenes: 8
+  viral_mode: true
+  loop_ending: true
+  use_series: true
+
+safety:
+  enabled: true
+  on_fail: "hold"
+  block_profanity: true
+  use_moderation_api: false
+  append_ai_disclosure: true
+  custom_blocklist: []
+
+review:
+  queue_file: "output/review_queue.json"
+
+growth:
+  mode: "evidence_bandit"
+  evaluation_windows_hours: [24, 72, 168]
+  minimum_experiment_samples: 6
+  organic_learning_starts_episode: 1
+  exclude_owner_test_episodes_through: 0
+  owner_confirmed_organic_baseline_views: 0
+  never_reupload_for_low_views: true
+  schedule_time: "10:00"
+  state_file: "analytics/growth_state.json"
+
+autopilot:
+  enabled: true
+  normal_manual_actions: 0
+  evergreen_story_factory: true
+  initial_series_count: 10
+  fail_closed: true
+  short_interval_days: 2
+  short_time_ist: "10:00"
+  ready_inventory_days: 14
+  ready_short_target: 21
+  compilation_episode_count: 5
+  compilation_time_ist: "10:00"
+  compilation_days: ["Saturday", "Sunday"]
+  minimum_publish_lead_minutes: 60
+  audit_max_age_minutes: 30
+  preserve_existing_episode_1_to_10_schedule: false
+  policy_applies_from_episode: 1
+  immediate_public_release: false
+  on_audit_failure: "quarantine_and_recover"
+  emergency_pause_file: "analytics/PAUSE_AUTOPILOT"
+  control_backup_retention_days: 30
+  render_timeout_minutes: 60
+  evergreen_refill_remaining_series: 2
+  evergreen_series_batch_size: 10
+
+youtube:
+  expected_channel_id: "UCylPn80btY6lpivJ_N-cXGQ"
+  channel_description: |
+    Welcome to KAAPAV ARC Studios — home of original animated stories and cinematic worlds.
+
+    Enter fantasy, thriller, mystery, science fiction, supernatural, adventure, and more—told through unforgettable characters, connected episodes, and cinematic cliffhangers.
+
+    From fast animated episodes to complete story chapters, every series opens a different world.
+
+    Now entering: ECHO//30, a science-fiction mystery about a dead phone, messages from the future, and a doorway erased from history.
+
+    All stories and characters are original KAAPAV ARC Studios productions.
+
+    Subscribe. A new world is about to begin.
+  channel_keywords:
+    - "KAAPAV ARC Studios"
+    - "original animated stories"
+    - "animated series"
+    - "fantasy stories"
+    - "thriller stories"
+    - "mystery stories"
+    - "science fiction stories"
+    - "sci fi animation"
+    - "supernatural stories"
+    - "adventure stories"
+    - "cinematic animation"
+    - "3D animation"
+    - "animated shorts"
+    - "short films"
+    - "story shorts"
+    - "web series"
+    - "original characters"
+    - "fictional worlds"
+    - "episodic stories"
+    - "serialized stories"
+    - "fantasy animation"
+    - "thriller animation"
+    - "mystery animation"
+    - "Indian animation"
+    - "global stories"
+    - "ECHO 30"
+  country: "IN"
+  default_language: "en"
+  upload_default_description_footer: |
+    🎬 KAAPAV ARC Studios presents original animated worlds, unforgettable characters, and cinematic cliffhangers.
+
+    ✨ Explore science fiction, fantasy, thriller, mystery, supernatural adventure, and more.
+
+    🔔 Subscribe and enter the next world:
+    https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1
+
+    📺 Discover more original stories:
+    https://www.youtube.com/@kaapavarcstudios
+
+    © KAAPAV ARC Studios. All rights reserved.
+  upload_default_tags:
+    - "KAAPAV ARC Studios"
+    - "kaapavarcstudios"
+    - "original animated stories"
+    - "animated series"
+    - "cinematic animation"
+    - "3D animation"
+    - "animated shorts"
+    - "original characters"
+    - "fictional worlds"
+  privacy: "private"
+  auto_publish: false
+  category_id: "24"
+  made_for_kids: false
+  tags_extra: ["animatedshort", "3danimation", "storyshorts", "shorts"]
+  title_max: 90
+
+meta:
+  app_id: "1933727150650632"
+  business_id: "1812432312809649"
+  login_configuration_id: "1374023037552281"
+  graph_version: "v23.0"
+  expected_page_name: "KAAPAV ARC Studios"
+  expected_page_id: "1299895283203680"
+  public_media_base_url: "https://yt.kaapav.com"
+  scheduler_interval_minutes: 1
+  late_publish_grace_minutes: 30
+  analytics_refresh_hours: 4
+  publish_policy: "local_due_time_after_persisted_strict_qc"
+  immediate_public_test: false
+  owner_authorized_relaunch: false
+  relaunch_start_episode: 1
+
+paths:
+  output_dir: "output/story"
+  cache_dir: ".cache/story"

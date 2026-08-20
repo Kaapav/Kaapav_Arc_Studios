@@ -1,0 +1,56 @@
+channel:
+  name: "AI Creative Explorer"
+  niche: "AI tools and creative workflows"
+  language: "english"
+  audience: "curious creators"
+  cta: "Subscribe for more AI experiments!"
+brand:
+  persona: "an energetic AI experimenter"
+  catchphrase: "Watch this."
+  signoff: "Subscribe for more AI experiments!"
+  series:
+    - "I Tried It So You Don't Have To"
+video:
+  format: "shorts"
+  width: 360
+  height: 640
+  fps: 15
+  max_seconds: 58
+  captions: true
+  caption_font_size: 24
+  caption_style: "cinematic"
+  stock_video: false
+  background_music: false
+  ken_burns: false
+script:
+  target_words: 60
+  scenes: 4
+  viral_mode: true
+  loop_ending: true
+  use_series: true
+safety:
+  enabled: true
+  on_fail: "hold"
+  block_profanity: true
+  use_moderation_api: false
+  append_ai_disclosure: true
+  custom_blocklist: []
+review:
+  queue_file: "output/review_queue.test.json"
+youtube:
+  privacy: "private"
+  auto_publish: false
+  category_id: "28"
+  made_for_kids: false
+  tags_extra: ["ai", "shorts"]
+  title_max: 90
+paths:
+  output_dir: "output/test"
+  cache_dir: ".cache/test"
+voice:
+  provider: "piper"
+  edge_voice: "en-US-GuyNeural"
+  piper_model: "assets/voices/piper/en_US-lessac-medium.onnx"
+  word_timing_provider: "proportional"
+  rate: "+0%"
+  pitch: "+0Hz"

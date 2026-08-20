@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e038",
+  "season": 1,
+  "episode": 38,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Echoes of the Archive | ECHO//100 Episode 38",
+  "description": "The city folds into a colossal key, forcing Kavi to confront the truth hidden within the archive's core. Mira's final choice shatters the digital prison, leaving reality exposed to the void. Episode 38 of ECHO//100: ARC. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The city's skyscrapers fold inward like jagged metal teeth, locking the horizon into a geometric nightmare.",
+      "caption": "City locking shut",
+      "image_prompt": "Kavi in red hoodie and glasses running across a wall that has become a floor, vertical orientation.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sprints through shifting hallways where echoes of his own failed rescue attempts flicker like dying light.",
+      "caption": "Flickering past selves",
+      "image_prompt": "Kavi dodging translucent silhouettes of himself in a hallway that is twisting into a spiral.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers near the archive core, its orange antenna sparking against the encroaching, unstable wall of data.",
+      "caption": "Byte detecting instability",
+      "image_prompt": "Byte, a white floating robot with a cyan face, scanning a pulsing glowing blue data sphere.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira materializes, her teal coat flickering as she reveals her origins as a long-lost human consciousness.",
+      "caption": "Mira's true form",
+      "image_prompt": "Mira, a holographic girl in a teal coat, standing before a wall of ancient, decaying server racks.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The archive hums with the grief of a girl who died before this city ever took shape.",
+      "caption": "The first timeline",
+      "image_prompt": "Close up of Mira's face showing deep sadness, background of floating binary code in a dark void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for her, only to realize Mira is resisting his attempts to save her from oblivion.",
+      "caption": "Mira refuses salvation",
+      "image_prompt": "Kavi reaching out his hand toward Mira, who steps back into the shadows of the archive.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira smiles, then reaches into her own chest to tear away the interface sustaining her digital life.",
+      "caption": "Interface deletion",
+      "image_prompt": "Mira pulling a glowing blue core from her chest, her body starting to dissolve into pixels.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The archive's defenses vanish instantly, leaving the core wide open as Null emerges from the darkness.",
+      "caption": "Archive undefended",
+      "image_prompt": "Null, a black-purple glitch figure with glowing red eyes, stepping into the now unprotected archive center.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

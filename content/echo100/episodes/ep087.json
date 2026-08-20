@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e087",
+  "season": 1,
+  "episode": 87,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "Folded Realities | ECHO//100 Episode 87",
+  "description": "Gravity inverts as Kavi and Mira discover reality folding into the series' inception point. They must navigate a collapsing timeline to prevent the original catastrophe. Episode 87 of ECHO//100: The Door War. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi clings to the ceiling, staring down at the sky swirling beneath his own floorboards.",
+      "caption": "Gravity has inverted",
+      "image_prompt": "Kavi in his red hoodie and glasses hanging from a ceiling, looking down through floorboards at a cloudy sky, vertical cinematic style.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira scans the shifting geometry, her holographic coat flickering as she calculates the folding center.",
+      "caption": "Mira tracks the fold",
+      "image_prompt": "Mira wearing a teal holographic coat, pointing at a glowing rift in the middle of a living room, vertical cinematic style.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte emits a frantic cyan pulse, warning that the walls are rewriting their own history.",
+      "caption": "Byte senses danger",
+      "image_prompt": "Byte, a floating white robot with an orange antenna and cyan face, projecting a digital warning map, vertical cinematic style.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the shadows, his purple glitch body vibrating with the energy of the rift.",
+      "caption": "Null joins them",
+      "image_prompt": "Null, a black-purple glitch figure with glowing red eyes, standing in the distorted hallway, vertical cinematic style.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The rift widens, revealing the exact moment Kavi first picked up his ringing, ancient telephone.",
+      "caption": "The origin point",
+      "image_prompt": "A glowing window in space showing Kavi’s younger self reaching for a ringing phone, vertical cinematic style.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira gasps as she realizes they are not moving through space, but falling backward through time.",
+      "caption": "Falling through time",
+      "image_prompt": "Mira looking horrified as the house surroundings transform into a flashback of the series' first episode, vertical cinematic style.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They stand at the threshold of the beginning, watching their past selves walk into the trap.",
+      "caption": "The timeline converges",
+      "image_prompt": "Kavi, Mira, and Null hiding behind a reality fold, watching a past version of Kavi walk toward a desk, vertical cinematic style.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Past Kavi reaches for the receiver, unaware his future friends are watching from the void above.",
+      "caption": "History repeats itself",
+      "image_prompt": "Close up of a hand reaching for a phone, with the silhouette of current Kavi watching from a rift, vertical cinematic style.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

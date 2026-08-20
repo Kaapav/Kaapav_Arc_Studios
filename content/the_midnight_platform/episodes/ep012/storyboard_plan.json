@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep012",
+  "episode_number": 12,
+  "arc": 2,
+  "title": "Saira Came Home 28 Years Late",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Saira watches thirty-six-year-old Rohan lock a small bicycle shop; he wears her silver compass symbol as a faded tattoo.",
+      "dialogue_audio": "Saira, whisper: “He kept looking.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Rohan notices her across the road and freezes—the exact face from the missing poster he has carried for decades.",
+      "dialogue_audio": "Rohan: “Saira?”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Saira starts toward him, but nearby street signs and faces lose detail as the memory debt wakes around her.",
+      "dialogue_audio": "Maya: “If he remembers you all at once, something else disappears.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Saira steps back into shadow and phones the shop instead, hearing her brother’s voice without claiming her place.",
+      "dialogue_audio": "Saira: “Did your sister like trains?” Rohan: “She hated goodbyes.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Rohan turns toward the empty street while Saira silently breaks; Meera takes her hand without a speech.",
+      "dialogue_audio": "Rohan: “Who is this?” Saira: “Someone who found her.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "In the archive, Saira adds her own photograph to a board of returned passengers and writes NOT HOME YET beneath it.",
+      "dialogue_audio": "Saira: “We end the debt first. Then I knock.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "HOME IS NOT THE SAME AS RETURNING"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

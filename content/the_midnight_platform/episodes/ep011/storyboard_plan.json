@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep011",
+  "episode_number": 11,
+  "arc": 2,
+  "title": "The Bridge Nobody Remembered",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "At dawn, Meera faces an uninterrupted river where the east bridge should stand; Saira’s compass points straight across open water.",
+      "dialogue_audio": "Meera: “A city can’t forget forty thousand tonnes of steel.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Maya rings her dented handbell. For one second, rusted bridge cables appear inside the fog, then vanish.",
+      "dialogue_audio": "Maya: “Matter follows memory here. Keep speaking.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Meera, Saira, Maya, and quadruped Tick step onto invisible decking, each naming a detail of the old bridge.",
+      "dialogue_audio": "Saira: “Blue rails. Lion bolts. Tea seller at the centre.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Halfway across, Maya forgets the bridge and falls through; Tick anchors all four paws and catches her shawl with his teeth.",
+      "dialogue_audio": "Meera: “Maya—remember the bell!”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Saira opens her compass. Inside is a tiny 1998 photograph of the bridge and her little brother Rohan. The entire span solidifies.",
+      "dialogue_audio": "Saira: “He’ll be thirty-six now.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Under the far pier they find a locked station archive door bearing the same thirteen cracks as Arin’s badge.",
+      "dialogue_audio": "Maya: “The train hid its accounts beneath the city.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "EVERY LOST MEMORY LEAVES A DOOR"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

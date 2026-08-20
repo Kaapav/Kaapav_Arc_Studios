@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e019",
+  "season": 1,
+  "episode": 19,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "The Last Hour | ECHO//100 Episode 19",
+  "description": "Kavi must choose between restoring the timeline or saving the fragments of his lost history. As reality fractures, he faces a final integration with his greatest enemy. Episode 19 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky above the wireframe shatters like glass, exposing terrifying voids behind the code.",
+      "caption": "Reality begins to crack.",
+      "image_prompt": "Kavi in his red hoodie and glasses looking up at a sky fracturing into jagged geometric shards.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers as the Missing Hour hemorrhages raw data into the physical world.",
+      "caption": "The archive is leaking.",
+      "image_prompt": "Byte, a white floating entity with orange antenna, glitching against a backdrop of crumbling city buildings.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi possesses enough energy to reboot one moment, but only one memory holds truth.",
+      "caption": "Kavi weighs his choices.",
+      "image_prompt": "Kavi clutching his backpack, staring at a holographic map showing a single glowing time coordinate.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s blue projection screams while dissolving to anchor the unstable timeline bridge.",
+      "caption": "Mira fades away.",
+      "image_prompt": "Mira in her teal coat turning into blue digital dust while floating above a wireframe abyss.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the shadows, his red eyes burning with a desperate, unexpected offer.",
+      "caption": "Null steps forward.",
+      "image_prompt": "Null, a glitchy black and purple figure, standing before Kavi on the edge of the void.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He offers to sacrifice his core, stabilizing the bridge at the cost of consciousness.",
+      "caption": "A final sacrifice.",
+      "image_prompt": "Null reaching out a glitching hand toward Kavi, his form slowly turning transparent and white.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Their codes collide, merging into a blinding flash that rewrites the fabric of existence.",
+      "caption": "The two become one.",
+      "image_prompt": "Bright light enveloping Kavi and Null, their silhouettes fusing into a single glowing figure.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi remains, yet remembers everything Null did, and the war has only just begun.",
+      "caption": "One soul, two memories.",
+      "image_prompt": "A single Kavi standing alone, wearing his red hoodie, with one eye glowing intense, sinister red.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e100",
+  "season": 1,
+  "episode": 100,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "The Final Transmission | ECHO//100 Episode 100",
+  "description": "Kavi receives a temporal paradox from his future self that threatens to unravel his existence. He must choose between his own survival and the total eradication of the Door War. Episode 100 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The phone vibrates, illuminating a message sent from a future yet to occur.",
+      "caption": "The glowing phone",
+      "image_prompt": "Kavi in his red hoodie and glasses holding a glowing smartphone in a dark void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi presses play, hearing a chilling command to finally let everything go.",
+      "caption": "Future voice speaks",
+      "image_prompt": "Close-up of Kavi’s face illuminated by the phone screen, his eyes wide with shock.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Sending this warning unravels the Door War but deletes the current timeline.",
+      "caption": "The heavy choice",
+      "image_prompt": "Kavi standing at the edge of a shattered reality, phone raised like a weapon.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Pulling this trigger causes everything fought for to vanish into silent void.",
+      "caption": "Reality begins fading",
+      "image_prompt": "Byte floating beside Kavi, his cyan face flickering as the world starts dissolving.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "If Kavi disappears, the younger self never discovers this cursed, dangerous device.",
+      "caption": "A sudden realization",
+      "image_prompt": "Kavi looking at his backpack, a soft smile forming as he understands the sacrifice.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Erasing this entire journey gifts the younger version a life of peace.",
+      "caption": "Choosing the gift",
+      "image_prompt": "Kavi’s hand hovering over the send button, glowing with intense white temporal energy.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi presses send, and the universe collapses into a blinding, beautiful light.",
+      "caption": "The final transmission",
+      "image_prompt": "A massive flash of white light consuming Kavi and the entire horizon of reality.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mother calls for breakfast, and Kavi wakes up without a phone anywhere.",
+      "caption": "The new reality",
+      "image_prompt": "Kavi waking up in his bed, sunlight streaming through a window, phone absent.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

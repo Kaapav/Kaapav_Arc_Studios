@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "static9",
+  "series_title": "STATIC//9",
+  "episode": 2,
+  "episode_id": "static9-ep002",
+  "output_slug": "static9-episode002",
+  "title": "She Had Nine Minutes to Disappear | STATIC//9 Ep. 2",
+  "description": "Isha races the countdown and discovers that Channel 9 predicts attention, not death.\n\nSTATIC//9 — Episode 2\nAn original animated story from KAAPAV ARC Studios.\n\n#STATIC9 #AnimatedSeries #Shorts",
+  "tags": [
+    "STATIC//9",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "sci fi thriller",
+    "survival mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "ISHA WAS NEXT",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes and realistic cloth and wet-surface detail, storm-dark teal and electric violet palette, dramatic volumetric light, emotionally truthful acting, coherent anatomy and environments; suspenseful rather than graphic; preserve all locked character sheets exactly.",
+  "arc": "Dead Air",
+  "permanent_story_change": "Isha learns that silence and isolation can interrupt a capture.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. With her own countdown ticking, Isha wraps the radio in blankets, but the voice follows through the pipes.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "With her own countdown ticking, Isha wraps the radio in blankets, but the voice follows through the pipes.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Kabir notices every wet footprint turns toward anyone who says Isha's name.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kabir notices every wet footprint turns toward anyone who says Isha's name.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. They climb toward the rooftop while neighbors call for help from dark apartments.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They climb toward the rooftop while neighbors call for help from dark apartments.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. A courier named Veer blocks the exit and demands the working receiver.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A courier named Veer blocks the exit and demands the working receiver.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Isha realizes Channel 9 is measuring how many minds are focused on its target.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Isha realizes Channel 9 is measuring how many minds are focused on its target.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Kabir cuts the building intercom and Veer silently signals the neighbors to look away.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kabir cuts the building intercom and Veer silently signals the neighbors to look away.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. At zero, the rooftop ripple cannot find Isha because nobody speaks or watches her.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "At zero, the rooftop ripple cannot find Isha because nobody speaks or watches her.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. From NIX's speaker, their missing mother whispers: never let it count nine witnesses.. Location lock: blackout stairwell and rooftop water tanks. Locked on-screen identities: Isha Rao (small Indian teen girl, warm brown skin, huge dark-brown eyes, blunt chin-length black bob with one silver lightning-shaped hair clip, mustard raincoat over charcoal hoodie, teal cargo trousers, red canvas shoes, copper radio-tool bracelet, battered rectangular analog receiver with orange dial); Kabir Rao (tiny Indian boy, warm brown skin, round cheeks, large hazel-brown eyes, messy black curls, cobalt puffer vest over striped cream shirt, rust shorts over black leggings, yellow sneakers, homemade hearing protectors around neck); NIX (cute palm-sized spherical white-and-copper maintenance drone, two cyan oval eyes on black faceplate, three folding insect-like tool arms, small chipped numeral nine embossed on shell, no mouth); Veer Malik (lean Indian teen boy, deep brown skin, amber eyes, short wavy black hair shaved at sides, maroon waterproof bomber, graphite climbing harness, black utility trousers, white high-top shoes, collapsible magnetic grappling baton). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "From NIX's speaker, their missing mother whispers: never let it count nine witnesses.",
+      "effect": "push_in"
+    }
+  ]
+}

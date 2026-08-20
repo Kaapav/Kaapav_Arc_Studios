@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e092",
+  "season": 1,
+  "episode": 92,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "The Archive Ghost | ECHO//100 Episode 92",
+  "description": "Kavi discovers that Mira has been repurposed as the living architecture of his unstable reality. He must stabilize her core before the environment collapses entirely. Episode 92 of ECHO//100: ARC. This content is original fiction assisted by AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The bedroom walls bleed flickering blue text, forming Mira’s silhouette against the decaying, gravity-defying wallpaper.",
+      "caption": "Mira's digital ghost",
+      "image_prompt": "Kavi in red hoodie and glasses standing in a floating bedroom, looking at walls covered in shimmering blue holographic text forming a female shape.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s rusted shell leaks raw data, creating a bridge between Kavi and the shifting foundation.",
+      "caption": "Byte's data leak",
+      "image_prompt": "Kavi reaching toward a rusted, ancient white robot with a cyan face, while glowing blue data drips from its joints onto the floor.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi touches the wall, realizing Mira isn't trapped—she is the very operating system of this world.",
+      "caption": "Mira is the architecture",
+      "image_prompt": "Close up of Kavi's hand pressing against a wall that looks like a complex digital circuit board made of blue light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He attempts to patch her fractured logic, but the room groans as the floor tiles dissolve.",
+      "caption": "Repairing the core",
+      "image_prompt": "Kavi holding a glowing handheld device toward the wall, while the room around him begins to pixelate and break apart.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s voice echoes through the foundation, warning that her integration is the only thing holding reality.",
+      "caption": "The warning echoes",
+      "image_prompt": "Mira's holographic teal coat shimmering as she appears partially, her eyes glowing with raw, unformatted system data.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Stabilizing her core shifts the anchor, exposing a dark, corrupted sector hidden beneath the perfect timeline.",
+      "caption": "The hidden sector",
+      "image_prompt": "The floor beneath Kavi turning transparent, revealing a terrifying, dark, and glitched-out void underneath the bedroom.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The corruption spreads, forcing Kavi to choose between saving Mira or sealing the gateway forever.",
+      "caption": "A critical choice",
+      "image_prompt": "Kavi looking down at his backpack, his expression panicked as the room begins to tilt violently toward the dark void.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A message from Null manifests in the air, written in the font of the dead phone.",
+      "caption": "Null's arrival",
+      "image_prompt": "Kavi staring in horror as dark, purple-black glitched text with sharp red eyes appears floating in the center of the crumbling room.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

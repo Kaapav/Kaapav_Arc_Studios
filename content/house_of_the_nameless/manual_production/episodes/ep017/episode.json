@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "series_id": "namelesshouse",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 17,
+  "episode_id": "namelesshouse-ep017",
+  "output_slug": "namelesshouse-episode017",
+  "title": "Harrow Burned the Only Proof | HOUSE OF THE NAMELESS Ep. 17",
+  "description": "Harrow destroys Asha's drawing, forcing the team to preserve truth without a single authoritative object.\n\nHOUSE OF THE NAMELESS — Episode 17\nAn original animated story from KAAPAV ARC Studios.\n\n#HouseOfTheNameless #AnimatedSeries #Shorts",
+  "tags": [
+    "House of the Nameless",
+    "KAAPAV ARC Studios",
+    "supernatural mystery",
+    "animated horror mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HE BURNED HER NAME",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, monsoon-gothic Indian mansion, carved dark wood, moss, rain-glass, warm oil lamps and restrained spectral cyan light, tactile fabric and architecture, emotionally truthful acting, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Deep Rooms",
+  "permanent_story_change": "The village becomes a distributed archive through voluntary testimony.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The drawing burns with blue flame and every copied image vanishes with it.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The drawing burns with blue flame and every copied image vanishes with it.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Harrow says one fragile proof can be controlled, while rumor eventually dies.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Harrow says one fragile proof can be controlled, while rumor eventually dies.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Leela admits he is right about the weakness of a single archive.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Leela admits he is right about the weakness of a single archive.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. She asks villagers to record what they remember changing after each house event.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She asks villagers to record what they remember changing after each house event.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Avi distributes blank labels for questions rather than names.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Avi distributes blank labels for questions rather than names.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Hundreds of partial accounts overlap without any one person owning Asha's story.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Hundreds of partial accounts overlap without any one person owning Asha's story.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. The House stabilizes as memory exists outside its walls for the first time.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The House stabilizes as memory exists outside its walls for the first time.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. One testimony identifies Devika—not Harrow—as the person who first erased Asha.. Location lock: burning paper corridor and village porches. Locked on-screen identities: Leela Joshi (small Indian teen girl, warm brown skin, huge black-brown eyes, oval face, thick wavy black hair cut at shoulders with one white streak near right temple, moss-green raincoat over maroon kurta, navy leggings, brown lace boots, brass label-maker hanging from belt); Avi Joshi (tiny Indian boy, warm brown skin, round cheeks, large dark eyes, tousled black hair, sunflower-yellow hoodie, denim overalls, red rain boots, stuffed grey elephant with one button eye); Samir Dutt (lean Indian teen boy, deep brown skin, large hazel eyes, short curly black hair, cobalt windbreaker, beige cargo trousers, black sneakers, compact analog camcorder with green strap); Mr Harrow (very tall thin Indian man late fifties, pale-brown skin, small silver eyes, slick black-grey hair, immaculate cream suit, dark gloves, long black umbrella, leather ledger chained to wrist); The House (monsoon-dark three-storey Indian hill mansion, asymmetric tiled roofs, moss-covered carved balconies, one round attic window glowing cyan, front door with hundreds of blank brass labels). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "One testimony identifies Devika—not Harrow—as the person who first erased Asha.",
+      "effect": "push_in"
+    }
+  ]
+}

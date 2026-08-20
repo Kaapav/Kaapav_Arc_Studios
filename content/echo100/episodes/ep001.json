@@ -1,0 +1,85 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e001",
+  "season": 1,
+  "episode": 1,
+  "status": "published",
+  "canon_version": 1,
+  "title": "The Message From Tomorrow | ECHO//100 Episode 1",
+  "description": "Kavi's dead phone receives a warning from the future—and Byte is named in it. Episode 1 of ECHO//100: The Red Door.\n\nThis is an original AI-assisted animated fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "scenes": [
+    {
+      "text": "At 2:17 AM, Kavi's dead phone played a voice note in his own voice.",
+      "caption": "A message from tomorrow",
+      "image_path": "assets/story/echo100/exec-87ab096a-0780-4743-b93b-55d6b38522eb.png",
+      "effect": "push_in",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic shot. Kavi slowly raises the dead phone while a cyan waveform pulses above it; his eyes widen and Byte floats closer with a worried expression. Slow controlled camera push-in, subtle breathing, cloth and antenna movement, red and cyan arcade lights flicker naturally. Preserve the exact faces, clothing, robot design, proportions and environment. No dialogue, no lip-sync, no cuts, no new characters, no generated text, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "It said, Don't open the red door. Then it added: whatever happens, don't trust Byte.",
+      "caption": "Do not trust Byte",
+      "image_path": "assets/story/echo100/exec-87ab096a-0780-4743-b93b-55d6b38522eb.png",
+      "effect": "pan_right",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic shot. The phone suddenly flashes a red warning glow; Kavi recoils slightly and turns toward Byte. Byte freezes in mid-air, its cyan eyes dim for one beat, then look frightened. Use a gentle rack focus from the phone to Byte and a slow red light sweep across the arcade. Preserve every character and costume exactly. No dialogue, no lip-sync, no cuts, no new objects, no generated text, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "Byte froze. Mira scanned the file and found something impossible.",
+      "caption": "Mira finds the impossible",
+      "image_path": "assets/story/echo100/exec-89230522-4ba4-4bee-8de4-e38689900263.png",
+      "effect": "push_in",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic shot. Mira rapidly scans her holographic tablet; cyan scan lines travel from the tablet across the glowing red door. Her calm face changes to disbelief. Kavi steps back defensively and Byte turns toward the door. Slow lateral camera move, hologram particles drift naturally. Preserve exact identities, outfits, colours and proportions. No dialogue, no cuts, no generated letters or numbers, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "The recording was dated one hundred years ago, even though Kavi made the phone that morning.",
+      "caption": "Recorded 100 years ago",
+      "image_path": "assets/story/echo100/exec-89230522-4ba4-4bee-8de4-e38689900263.png",
+      "effect": "pan_left",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic reaction shot. A cyan data pulse races across Mira's tablet and abruptly turns red; Mira looks shocked, Kavi glances between her and the door, and Byte lowers nervously. The red door throbs once with light and releases tiny sparks. Slow camera push toward their faces. Preserve the exact characters and environment. No readable text, no dialogue, no cuts, no new characters, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "Every arcade screen turned red. A shadow with glowing eyes appeared behind the pixels.",
+      "caption": "The arcade changed",
+      "image_path": "assets/story/echo100/exec-8915310f-9232-413e-9a22-dd3bad7f366f.png",
+      "effect": "glitch",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 suspense shot. Arcade screens flicker red in sequence while Null slowly assembles from floating purple pixels behind them. Kavi turns toward the threat, Mira raises one protective hand, and Byte drops closer to the floor in fear. Add one controlled digital glitch pulse and a subtle handheld retreat. Preserve exact faces, outfits and designs. No dialogue, no cuts, no gore, no new characters, no generated text, no logos, no body distortion or extra limbs."
+    },
+    {
+      "text": "A door appeared where there had only been a wall. Byte whispered: I know what is behind it.",
+      "caption": "A door where none was",
+      "image_path": "assets/story/echo100/exec-89230522-4ba4-4bee-8de4-e38689900263.png",
+      "effect": "push_in",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic reveal. The red door brightens from a thin outline into a solid impossible doorway, casting moving red light over Kavi, Byte and Mira. Byte slowly floats toward it as if recognising it; Kavi reaches out to stop him and Mira watches with concern. Slow dramatic camera push-in. Preserve exact characters, costumes and environment. No dialogue, no cuts, no generated text, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "Kavi touched the handle. The phone played one final message: you already opened it once.",
+      "caption": "You opened it once",
+      "image_path": "assets/story/echo100/exec-cbbccb8c-b9a3-462d-af4c-7abf2be6bbc4.png",
+      "effect": "pan_right",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cinematic shot. Kavi cautiously reaches toward the glowing doorway, then stops as his phone vibrates in his hand. Future Kavi raises one palm in warning; Byte spins toward him and the golden doorway sheds floating sparks. Null remains distant and slowly advances through purple haze. Gentle camera arc around present Kavi. Preserve exact identities and proportions. No dialogue, no cuts, no generated text, no logos, no morphing, no extra limbs."
+    },
+    {
+      "text": "Behind the door stood tomorrow's Kavi. He looked terrified and said: run before Null sees you.",
+      "caption": "Run before Null sees you",
+      "image_path": "assets/story/echo100/exec-cbbccb8c-b9a3-462d-af4c-7abf2be6bbc4.png",
+      "effect": "pull_out",
+      "meta_prompt": "Animate only the uploaded reference image as a 5-second vertical 9:16 cliffhanger. Future Kavi urgently gestures for present Kavi to run; present Kavi recoils from the doorway and Byte turns toward Null. Null glides one step closer as purple corruption spreads across the floor. Golden sparks accelerate and the camera rapidly but smoothly pulls backward, ending on Null's red eyes. Preserve exact characters and clothing. No dialogue, no cuts, no gore, no generated text, no logos, no morphing, no extra limbs."
+    }
+  ],
+  "last_verified_at": "2026-08-02T22:05:13",
+  "last_verified_job": "D:\\Apps\\YT-Auto\\output\\story\\20260802-214844-echo100-s01e001",
+  "last_error": null,
+  "published_at": "2026-08-03T08:32:32",
+  "youtube_id": "WIegjFAhE68",
+  "youtube_url": "https://youtu.be/WIegjFAhE68",
+  "review_id": "20260803-083028-195509",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260802-214844-echo100-s01e001"
+}

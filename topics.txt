@@ -1,0 +1,106 @@
+# AI Creative Explorer — topic queue (one per line, used ones logged so nothing repeats).
+# ~100 topics angled for ORIGINAL takes, not clonable listicles — this matters for
+# monetization (see MONETIZATION.md). Each is a hook you can add a real opinion to.
+# Lines starting with '#' and blank lines are ignored.
+
+# ---- AI tools worth exploring (hands-on angle) ----
+I tried making a short film with only AI tools and here's what broke
+The one AI tool that actually replaced three apps for me
+Free AI tools that feel illegal to know
+I let AI design my whole brand in an hour
+Turning a single photo into a talking video with AI
+The AI music tool that fooled my musician friend
+I automated my boring tasks with one AI agent
+Making a comic book with AI in a weekend
+The AI voice cloning tool that's scarily good
+I rebuilt my resume using only AI and got callbacks
+Testing every free AI image generator so you don't have to
+The AI note-taking setup that changed how I study
+I gave AI my messy notes and it built a course
+Can AI actually edit a podcast better than a human
+The AI tool that writes code while you sleep
+
+# ---- AI art & creativity (process + opinion) ----
+Why AI art still can't get hands right and how to fix it
+The prompt trick that instantly upgrades your AI images
+I recreated famous paintings with AI and it got weird
+Consistent characters in AI art: the method that finally works
+Turning your sketches into finished art with AI
+The uncanny valley problem in AI video explained simply
+How to give AI art a style nobody else has
+I asked AI to design a city and it revealed something
+Making a 3D model from a single AI image
+Why every AI image looks the same and how to break out
+The ethics of AI art, explained without the shouting
+AI-generated logos: genius or lazy? I tested it
+How to blend real photos with AI so nobody can tell
+The color secret that makes AI art look professional
+I let AI storyboard a scene and directed it for real
+
+# ---- AI explained (curiosity + insight) ----
+How does an AI actually 'imagine' a picture
+What a large language model is really doing when it answers
+Why AI hallucinates and confidently lies to you
+The reason AI can't count the letters in a word
+How AI learned to make voices sound human
+What 'tokens' are and why they cost you money
+Why AI is great at code but bad at math sometimes
+How image generators turn noise into art (diffusion, simply)
+The difference between AI that chats and AI that acts
+Why bigger AI isn't always smarter
+How AI models get 'trained' in plain english
+What happens inside AI when you say 'be creative'
+Why two people get different answers from the same AI
+The hidden cost of running AI that nobody talks about
+How AI understands images without eyes
+
+# ---- Practical / how-to (real value = monetization safe) ----
+The 5 prompts I reuse every single day
+How to write prompts that actually get what you want
+Building your first AI automation with zero code
+How to fact-check AI before you trust it
+Setting up an AI research assistant in 10 minutes
+How to make AI sound like you, not a robot
+The prompt framework that beats fancy prompt packs
+How to spot AI-generated content instantly
+Using AI to learn any skill twice as fast
+How I plan a whole week with one AI chat
+Turning a YouTube video into notes with AI
+How to make AI write in your brand voice
+The right way to use AI for job applications
+Creating a personal AI tutor for any subject
+How to use AI without losing your own creativity
+
+# ---- AI news & big-picture (commentary angle) ----
+What AI agents actually mean for your job
+Will AI really replace artists? The honest answer
+The AI feature everyone slept on this year
+Why 'AI influencers' are exploding and what it means
+The quiet way AI is already in your phone
+What happens when AI can watch video in real time
+The race to build AI that never forgets
+Why open-source AI matters more than you think
+The AI bubble debate, fairly explained
+What creative jobs AI can't touch (yet)
+How AI is changing what 'original' even means
+The deepfake problem and how to protect yourself
+Why AI regulation is so hard to get right
+What a world with personal AI assistants looks like
+The skill that becomes priceless in the age of AI
+
+# ---- Experiments & challenges (unique = safe) ----
+I ran my life on AI for a week
+I let AI make every creative decision for a day
+Building a business plan with AI from scratch
+I gave the same prompt to 5 AIs and compared
+Can AI write a song that actually slaps
+I recreated a movie trailer using only AI
+Letting AI redesign my room
+I asked AI to roast my portfolio and it helped
+Making a children's book with AI start to finish
+I tried to break AI's safety rules (ethically) and learned a lot
+Turning my dog into a superhero with AI video
+I built an AI clone of myself and talked to it
+Designing a video game character with AI
+I let AI plan a trip and followed it exactly
+Can AI actually be funny? I tested it hard

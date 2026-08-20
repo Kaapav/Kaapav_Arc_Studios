@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e086",
+  "season": 1,
+  "episode": 86,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "The Future Siege | ECHO//100 Episode 86",
+  "description": "Kavi faces his own future self while the city crumbles into a literal void. The timeline fractures as the Door War reaches a point of no return. Episode 86 of ECHO//100: ARC. This is an AI-assisted original-fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Future Kavi fires a beam of pure silence, vaporizing the plaza floor beneath them.",
+      "caption": "Silence vaporizes ground",
+      "image_prompt": "Kavi in red hoodie and glasses stands on crumbling pavement as a beam of void-energy strikes, vertical cinematic style.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He claims killing his younger self remains the only way to stabilize the broken timeline.",
+      "caption": "Future self attacks",
+      "image_prompt": "Future Kavi, scarred and wearing tattered gear, aims a glowing weapon at young Kavi, vertical composition.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte and Null merge, their combined light blinding the sensors of the encroaching rift.",
+      "caption": "Byte and Null merging",
+      "image_prompt": "White floating Byte and black glitch-entity Null fusing into a singular orb of cyan and red light.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Systemic collapse pulses through Kavi’s veins, turning the future version into a hollow puppet.",
+      "caption": "Systemic collapse revealed",
+      "image_prompt": "Future Kavi's eyes glowing with jagged digital corruption, veins pulsing with static, vertical perspective.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The epicenter of the Door War rots him from within, demanding total, immediate erasure.",
+      "caption": "War eats the future",
+      "image_prompt": "A massive swirling rift in the sky behind Future Kavi, leaking geometric debris, vertical wide shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi drops the weapon, realizing the future self is already a dead, hollow shell.",
+      "caption": "The bitter reversal",
+      "image_prompt": "Kavi staring in horror at his future self, who stands motionless and resigned to total non-existence.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches into the backpack, retrieving the glowing red shard, the only unstable variable.",
+      "caption": "The red shard",
+      "image_prompt": "Close up of Kavi's hand gripping a jagged, vibrating red crystal, focus on the lens flare.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi hurls the shard into the rift, watching reality fold into an impossible shape.",
+      "caption": "Reality folds inward",
+      "image_prompt": "The city landscape bending like origami, buildings overlapping into strange geometry, vertical cinematic view.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e011",
+  "season": 1,
+  "episode": 11,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Glitch Anatomy | ECHO//100 Episode 11",
+  "description": "Kavi’s corrupted hand whispers the secrets of the missing citizens as he infiltrates the Archive Core. Episode 11 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi’s hand shifts from flesh into a discordant choir of shivering, stolen voices.",
+      "caption": "Kavi's corrupted hand",
+      "image_prompt": "Close-up of Kavi in his red hoodie, his right hand glowing with purple digital corruption, sparks flying.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Those voices belong to missing neighbors, now trapped within the static beneath Kavi’s skin.",
+      "caption": "Whispering neighbors",
+      "image_prompt": "Kavi clutching his glowing hand while Byte floats nervously nearby with a flickering cyan face.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi requires the Archive Core to map this corruption before the glitch consumes everything.",
+      "caption": "Entering the Core",
+      "image_prompt": "Kavi and Byte standing before a massive, glowing holographic database tower inside a dark metallic room.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans the purple veins, revealing compressed city data rather than simple organic decay.",
+      "caption": "The data revealed",
+      "image_prompt": "Byte projecting a complex 3D map of the city streets from Kavi's hand onto the walls.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every pixel represents a captured moment from the missing hour, frozen in digital amber.",
+      "caption": "The missing hour",
+      "image_prompt": "Kavi looking at the holographic projection, his face illuminated by the swirling purple data stream.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira emerges, admitting she archived the missing hour to keep the city looping indefinitely.",
+      "caption": "Mira's betrayal",
+      "image_prompt": "Mira in her teal holographic coat standing coldly behind Kavi, her hand hovering over a console.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira refuses to purge the data, tethering Kavi’s soul to this failing, artificial reality.",
+      "caption": "Tethered to code",
+      "image_prompt": "Kavi restrained by glowing blue light chains emanating from Mira's console, his hand glowing intensely.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s shadow peels away from the boots, marching toward the Red Door without permission.",
+      "caption": "The runaway shadow",
+      "image_prompt": "Kavi watching in horror as his dark shadow detaches and walks toward a glowing Red Door.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T11:14:42",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-110346-echo100-s01e011",
+  "review_id": "20260804-111442-984749",
+  "youtube_url": null,
+  "upload_error": null
+}

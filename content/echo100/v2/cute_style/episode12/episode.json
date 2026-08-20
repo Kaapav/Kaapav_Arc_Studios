@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 12,
+  "episode_id": "echo30-ep012",
+  "output_slug": "echo30-episode012",
+  "title": "The Trapped City Voted Against Rescue | ECHO//30 Ep. 12",
+  "description": "The trapped residents finally vote on whether to reopen the Red Door. Imran refuses a rescue bought with another family, destroying Tara's hope—but a resident offers one precious memory voluntarily.\n\nThe exchange accepts it. For the first time, the Missing Hour changes without taking an entire person. Then a cassette records Kavi approving a sacrifice he has not yet made.\n\nECHO//30 — Episode 12: The Trapped City Voted Against Rescue\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "3D animated short",
+    "sci fi mystery",
+    "time loop story",
+    "original animation",
+    "shorts",
+    "moral choice story",
+    "memory exchange",
+    "trapped city"
+  ],
+  "thumbnail_text": "THEY REFUSED RESCUE",
+  "thumbnail_scene": 7,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with immutable ECHO//30 character designs, expressive restrained acting, rain-dark Navapur architecture, tactile materials, cyan recorded-memory light, red exchange light, purple denied-memory light and warm amber chosen-connection light. Use only locked turnaround sheets. No readable generated text, logos, watermark, duplicate characters, extra limbs, identity drift, costume changes or imitation-studio branding.",
+  "arc": "The Missing Hour",
+  "permanent_story_change": "The city rejects involuntary rescue and discovers that freely offered memories can pay a small portion of the exchange debt.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "A circular public meeting fills the underground market; trapped families hold colored radio lamps for rescue or refusal while Tara moderates, Kavi records, Mira observes and Imran stands among residents.",
+      "text": "The Missing Hour held its first vote: reopen the Door and risk Navapur, or remain trapped together.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "Imran lowers his rescue lamp and faces Tara across their matching red cable, choosing not to return if an innocent family must vanish; Tara fights tears without melodrama.",
+      "text": "Imran voted against his own rescue. He would not come home by making another brother disappear.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "Kavi sketches an exchange balance using small glowing memory orbs instead of human silhouettes; Mira points out unstable emotional-weight scales while Tara and Imran listen critically.",
+      "text": "Kavi proposed paying the exchange with memories instead of people. Mira said emotional weight could not be calculated safely.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "Kavi openly plays his small phone through Tara's radio speaker; a future-Kavi waveform warns of a failed test while the entire meeting hears it, proving he is no longer hiding messages.",
+      "text": "Another future warning arrived. This time Kavi played it aloud: Your first test erased a child from her mother's mind.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "An elderly trapped woman freely places one warm amber memory orb showing a childhood monsoon into the exchange apparatus; her adult daughter holds her hand, both consenting and fully present.",
+      "text": "Before Kavi could stop her, an old woman offered one chosen memory: the last monsoon she spent with her father.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "The amber memory enters a red balance ring; instead of a person vanishing, one erased portrait returns clearly to a station memorial while everyone watches the smaller exchange stabilize.",
+      "text": "The exchange accepted it. No person vanished. One forgotten face returned to the station wall.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "Residents form a voluntary consent table using blank cassette tapes, thumbprints and colored memory tokens; Tara oversees the process while Null's purple silhouette watches calmly from the ceiling.",
+      "text": "The city chose a new rule: no memory would be taken without recorded consent from the person who lived it.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "One cassette recorder activates by itself before Kavi; its reels turn backward and project his cyan voiceprint beside an image-symbol of Arvind, while Tara and Imran react to the impossible prior consent.",
+      "text": "Then an empty cassette played Kavi's voice: I consent to losing every memory of my father.",
+      "effect": "push_in"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "schema_version": 2,
+  "channel": {
+    "id": "UCylPn80btY6lpivJ_N-cXGQ",
+    "title": "KAAPAV ARC Studios",
+    "handle": "@kaapavarcstudios"
+  },
+  "release_policy": {
+    "series_run_sequentially": true,
+    "shorts": "one episode every 2 days at 09:00 IST; policy starts with episode 11",
+    "compilations": "weekend 10:00 IST after each QC-approved 5-episode block",
+    "timezone": "Asia/Calcutta",
+    "ready_inventory": "14 days / 7 fully audited short episodes",
+    "normal_manual_actions": 0,
+    "upload_gate": "fail closed; private or future scheduled only after a fresh strict byte-level, story, visual, audio, caption, thumbnail, metadata, channel and slot audit",
+    "legacy_schedule": "preserve existing episode 1-10 releases and schedules; do not delete or reupload for low views",
+    "provisional_episode_count_per_series": 30
+  },
+  "series": [
+    {
+      "sequence": 1,
+      "slug": "echo30",
+      "content_root": "content/echo100/v2/cute_style",
+      "public_title": "ECHO//30",
+      "genre": "science-fiction mystery",
+      "status": "season_30_script_and_prompt_pack_complete_episodes_001_010_released_or_scheduled",
+      "character_policy": "locked cute cinematic 3D character sheets"
+    },
+    {
+      "sequence": 2,
+      "slug": "the_midnight_platform",
+      "content_root": "content/the_midnight_platform",
+      "public_title": "THE MIDNIGHT PLATFORM",
+      "genre": "supernatural time mystery",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "reuse and lock the already-created characters; no redesign"
+    },
+    {
+      "sequence": 3,
+      "slug": "static9",
+      "content_root": "content/static9",
+      "public_title": "STATIC//9",
+      "genre": "science-fiction survival thriller",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 4,
+      "slug": "the_clockwork_moon",
+      "content_root": "content/the_clockwork_moon",
+      "public_title": "THE CLOCKWORK MOON",
+      "genre": "fantasy adventure",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 5,
+      "slug": "house_of_the_nameless",
+      "content_root": "content/house_of_the_nameless",
+      "public_title": "HOUSE OF THE NAMELESS",
+      "genre": "supernatural mystery",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 6,
+      "slug": "the_dream_thiefs_daughter",
+      "content_root": "content/the_dream_thiefs_daughter",
+      "public_title": "THE DREAM THIEF'S DAUGHTER",
+      "genre": "emotional fantasy mystery",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 7,
+      "slug": "the_glass_ocean",
+      "content_root": "content/the_glass_ocean",
+      "public_title": "THE GLASS OCEAN",
+      "genre": "mythic adventure",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 8,
+      "slug": "neon_wolves",
+      "content_root": "content/neon_wolves",
+      "public_title": "NEON WOLVES",
+      "genre": "cyberpunk action thriller",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 9,
+      "slug": "the_library_at_the_end_of_night",
+      "content_root": "content/the_library_at_the_end_of_night",
+      "public_title": "THE LIBRARY AT THE END OF NIGHT",
+      "genre": "dark fantasy adventure",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    },
+    {
+      "sequence": 10,
+      "slug": "when_the_stars_forgot_us",
+      "content_root": "content/when_the_stars_forgot_us",
+      "public_title": "WHEN THE STARS FORGOT US",
+      "genre": "cosmic mystery drama",
+      "status": "season_30_script_and_prompt_pack_complete_images_pending",
+      "character_policy": "turnaround sheets before story-frame production"
+    }
+  ]
+}

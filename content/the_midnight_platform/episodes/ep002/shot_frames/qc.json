@@ -1,0 +1,8 @@
+{
+  "status": "candidate_visual_qc_passed",
+  "method": "six_independent_identity_locked_generations",
+  "shots": ["shot01.png", "shot02.png", "shot03.png", "shot04.png", "shot05.png", "shot06.png"],
+  "hard_failures": [],
+  "video_generation_allowed": false,
+  "reason_video_blocked": "Episode 1 approval required before Episodes 2-30 motion generation"
+}

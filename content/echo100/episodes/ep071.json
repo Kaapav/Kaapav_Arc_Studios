@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e071",
+  "season": 1,
+  "episode": 71,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "The Unified Pulse | ECHO//100 Episode 71",
+  "description": "Kavi wakes within a silent, infinite void, discovering his consciousness is now a vessel for Mira’s vast historical archives. He must master his new ability to decode reality before the manifestation of a weeping shadow destroys his fragile existence. Episode 71 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The white void consumes all, yet Mira’s ancient, rhythmic heartbeat pulses within Kavi’s chest.",
+      "caption": "Kavi wakes alone",
+      "image_prompt": "Kavi in his red hoodie and glasses floating in an infinite white space, eyes closed, hand over heart.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi touches the air, triggering an eruption of shimmering, cascading data streams throughout space.",
+      "caption": "Reality turns to code",
+      "image_prompt": "Kavi reaching out, fingertips touching floating glowing blue lines of binary code in the white void.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every object manifests as a line of script awaiting Kavi’s deep logical rewrite.",
+      "caption": "Kavi manipulates the architecture",
+      "image_prompt": "Kavi pulling a thread of light, causing the floor beneath him to ripple like liquid digital glass.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte drifts closer, his cyan face flickering with a sudden surge of frantic static.",
+      "caption": "Byte approaches cautiously",
+      "image_prompt": "Byte the floating white robot with orange antenna hovering near Kavi, looking confused and glitching.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans Kavi’s core, recoiling as if the protagonist’s presence burns his internal processors.",
+      "caption": "Byte rejects the signal",
+      "image_prompt": "Byte backing away, his cyan face displaying red warning symbols, Kavi looking hurt and confused.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte screams that Kavi is no longer human, but a terrifying hybrid of soul and machine.",
+      "caption": "The identity reversal",
+      "image_prompt": "Byte pointing an antenna at Kavi, sparks flying between them, Kavi’s hoodie glowing with digital particles.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The air thickens as a dark, jagged silhouette tears through the digital home’s fabric.",
+      "caption": "Null manifests suddenly",
+      "image_prompt": "Null, a black-purple glitch figure with glowing red eyes, emerging from a rift in the white void.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null kneels, weeping dark ink, begging Kavi to stop the synthesis before reality collapses.",
+      "caption": "Null’s desperate plea",
+      "image_prompt": "Null kneeling before Kavi, tears of black glitch-pixels falling, Kavi looking down in absolute shock.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

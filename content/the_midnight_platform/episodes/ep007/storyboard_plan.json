@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep007",
+  "episode_number": 7,
+  "arc": 1,
+  "title": "The Passenger Without a Ticket",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Arin wakes alone in a 1913 wooden carriage; Nila sits opposite, pale clock-light visible in the cracks of her hands.",
+      "dialogue_audio": "Nila: “They call me Zero so nobody asks who came first.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "She shows a living memory: engineer Devika Rao turning a gigantic station clock backward as a derailment approaches.",
+      "dialogue_audio": "Nila: “My mother stole one minute from death.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Thirteen people step safely away from the crash, but their shadows remain under the wreck; young Nila walks toward the newborn train.",
+      "dialogue_audio": "Nila: “Someone had to hold the minute open.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Present-day Arin sees rows of passengers frozen behind glass, each wearing a blank ticket.",
+      "dialogue_audio": "Arin: “The Conductor imprisoned you.” Nila: “The rule did.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "The clock-masked Conductor cuts through the memory with his brass ticket punch; Nila’s carriage begins collapsing.",
+      "dialogue_audio": "Conductor: “She shows truth with the ending removed.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "As Arin is pulled out, Nila presses thirteen hairline cracks into his badge.",
+      "dialogue_audio": "Nila: “Ask him why he still wears a passenger’s coat.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CONDUCTOR WAS ONCE A PASSENGER"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

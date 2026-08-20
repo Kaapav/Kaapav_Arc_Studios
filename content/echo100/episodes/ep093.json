@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e093",
+  "season": 1,
+  "episode": 93,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "Glitch in the Blueprint | ECHO//100 Episode 93",
+  "description": "Kavi discovers his reality is built on a foundation of his own future secrets. The timeline fractures when he attempts to rewrite his own history. Episode 93 of ECHO//100: ARC. This is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The floor beneath Kavi’s feet dissolves into a blinding, endless grid of cascading binary code.",
+      "caption": "Reality turns to code",
+      "image_prompt": "Kavi in red hoodie and glasses standing on a glowing digital floor of binary code, vertical cinematic perspective.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every step Kavi takes triggers a ripple of static, exposing the raw source code of home.",
+      "caption": "Walking on memory",
+      "image_prompt": "Kavi walking through a digital void where the walls of his living room are becoming wireframe grids.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, his cyan face flickering as he scans a pocket of jagged, corrupted data.",
+      "caption": "Byte detects corruption",
+      "image_prompt": "Byte the floating white robot with orange antenna scanning a glowing purple tear in the digital floor.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi touches the corruption, realizing it’s a deliberate save-point planted by his own future self.",
+      "caption": "A message from future",
+      "image_prompt": "Kavi's hand reaching toward a shimmering purple data node inside the digital floor.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He recognizes the syntax: these commands are the blueprint for the life he currently inhabits.",
+      "caption": "Decoding his existence",
+      "image_prompt": "Kavi looking at floating holographic text projections in his red hoodie and backpack.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi deletes the corruption, but the environment shudders, forcing a forbidden red doorway into view.",
+      "caption": "The door returns",
+      "image_prompt": "A glowing red door manifesting in the center of the wireframe living room, Kavi looking shocked.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira appears as blue holographic text, warning that the door is now bonded to his biology.",
+      "caption": "Mira's dire warning",
+      "image_prompt": "Mira in her teal coat manifested as blue light, pointing toward the pulsating red door.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The red door pulses, its rhythmic glow perfectly synchronized with the beating of Kavi’s heart.",
+      "caption": "Heartbeat synchronization",
+      "image_prompt": "Close up of Kavi's chest glowing red in sync with the distant red door, intense lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

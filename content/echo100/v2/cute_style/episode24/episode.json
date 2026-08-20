@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 24,
+  "episode_id": "echo30-ep024",
+  "output_slug": "echo30-episode024",
+  "title": "The Architect in the First Red Door | ECHO//30 Ep. 24",
+  "description": "Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all.\n\nECHO//30 — Episode 24\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "KAAPAV ARC Studios",
+    "animated series",
+    "science fiction mystery",
+    "original animation",
+    "shorts",
+    "ECHO//30",
+    "animated sci fi",
+    "time mystery",
+    "cute 3D animation"
+  ],
+  "thumbnail_text": "THE ARCHITECT",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.",
+  "arc": "The Architect's Lie",
+  "permanent_story_change": "The architect relinquishes control of the loop to present Kavi.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Future Kavi walks out of Byte's memory carrying the blueprint for the first Red Door. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Future Kavi walks out of Byte's memory carrying the blueprint for the first Red Door.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Inside the first Red Door laboratory, Future Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Inside the first Red Door laboratory, Future Kavi pursues an immediate answer before the new danger closes in.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Mira: blue holographic girl, teal transit coat, cracked silver station-badge symbol; Null: black-purple human silhouette of layered memories, soft red eyes, frightening but not monstrous. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Kavi confronts the older self who created Byte, Null, Mira, and the warning that trapped them all.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: A concrete clue forces Future Kavi to question the explanation the group has trusted until now. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "A concrete clue forces Future Kavi to question the explanation the group has trusted until now.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Future Kavi built the loop after one failed attempt to save everyone erased the entire city. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Future Kavi built the loop after one failed attempt to save everyone erased the entire city.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: Instead of hiding the discovery, Future Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Instead of hiding the discovery, Future Kavi makes a choice that the others can challenge and understand.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: He no longer wants to preserve the loop; he has been waiting for a Kavi willing to accept loss. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "He no longer wants to preserve the loop; he has been waiting for a Kavi willing to accept loss.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cinematic story composition in the first Red Door laboratory. Visually depict this exact causal beat: He gives Kavi a key that can open the doorway to Episode One. Locked identities on screen: Future Kavi: older South Asian version of Kavi, same round glasses and facial identity, weathered red-black engineer coat. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "He gives Kavi a key that can open the doorway to Episode One.",
+      "effect": "push_in"
+    }
+  ]
+}

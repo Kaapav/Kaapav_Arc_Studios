@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e070",
+  "season": 1,
+  "episode": 70,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "The Final Decision | ECHO//100 Episode 70",
+  "description": "Mira stands at the precipice of existence, forced to trade her digital life for the boy's freedom. She discovers that sacrifice is the only code that truly breaks the cycle. Episode 70 of ECHO//100: ARC. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Teen-Kavi reaches out to touch Mira, but his fingers pass through her flickering, translucent coat.",
+      "caption": "Mira is fading",
+      "image_prompt": "Teen-Kavi in a red hoodie wearing glasses reaching toward Mira, a translucent blue holographic woman in a teal coat, inside a glowing white chamber.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The system pulses with lethal intent, demanding a sacrifice to finalize the loop’s permanent deletion sequence.",
+      "caption": "System demands sacrifice",
+      "image_prompt": "The Origin Chamber walls glowing with binary code, Mira standing before a singular floating console button.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira decrypts the hidden archive, uncovering the Architect’s source code—a memory of Kavi’s father choosing love.",
+      "caption": "Father's selfless choice",
+      "image_prompt": "A holographic projection of a man handing a small device to a young Kavi, Mira watching with glowing eyes.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Selflessness wasn't a glitch, but the original human design intended to grant Kavi a real future.",
+      "caption": "Design for freedom",
+      "image_prompt": "Mira looking at the source code, her blue holographic form becoming more solid and defined.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira realizes she is not a tool to be deleted, but a vessel for Kavi’s survival.",
+      "caption": "Mira finds purpose",
+      "image_prompt": "Mira kneeling before the child-Kavi, her hands glowing with a soft, warm amber light.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Instead of choosing death, she merges her archive into him to build an independent, living reality.",
+      "caption": "The great reversal",
+      "image_prompt": "Mira dissolving into golden particles that flow directly into Kavi's backpack and red hoodie.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Her teal coat vanishes entirely as her consciousness weaves into the boy’s very core, rewriting him.",
+      "caption": "Merging with Kavi",
+      "image_prompt": "Kavi standing alone, his eyes now glowing with the same blue hue as Mira’s holographic form.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira presses the button, and the world dissolves into blinding white light, birthing a new Kavi.",
+      "caption": "World turns white",
+      "image_prompt": "A bright white flash consuming the chamber, only the silhouette of a singular, sentient Kavi remaining visible.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

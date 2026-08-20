@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e099",
+  "season": 1,
+  "episode": 99,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "Convergence | ECHO//100 Episode 99",
+  "description": "Kavi stands at the nexus of a thousand fracturing timelines, wielding the power to weave them into one. As reality stabilizes, the antagonist Null faces an unexpected and permanent fate. Episode 99 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky fractures, exposing a thousand shimmering realities bleeding into one singular, terrifying horizon.",
+      "caption": "The sky fractures",
+      "image_prompt": "Kavi in his red hoodie and glasses stands on a floating platform looking at a sky filled with overlapping celestial dimensions.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s holographic form dissolves into golden light, stitching the jagged edges of space together.",
+      "caption": "Mira sacrifices herself",
+      "image_prompt": "Mira in her teal coat fading into glowing data particles, reaching toward Kavi one final time.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the necessity of weaving every timeline into existence during this final night.",
+      "caption": "Kavi takes control",
+      "image_prompt": "Kavi raising his hands, strands of bright light flowing from his palms like cosmic thread.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, scanning the chaotic data stream as the unified world takes shape.",
+      "caption": "Byte monitors flow",
+      "image_prompt": "Byte, the white floating bot with cyan face and orange antenna, observing the swirling energy currents.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Shadows coalesce as Null lunges from the void, hungry to consume the raw power.",
+      "caption": "Null attacks",
+      "image_prompt": "Null, a creature of black-purple glitch and glowing red eyes, striking at the center of the horizon.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null strikes the wall of memories and vanishes, neutralized by the sheer density within.",
+      "caption": "Null is consumed",
+      "image_prompt": "Null being pulled into a vortex of swirling colorful memories, his red eyes fading to nothing.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The world settles into a calm, coherent glow as the final puzzle piece clicks.",
+      "caption": "Reality stabilizes",
+      "image_prompt": "A serene, unified landscape appearing behind Kavi, who remains centered in the now-stable horizon.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi raises the dead phone, which vibrates with life, displaying a cryptic new message.",
+      "caption": "The final message",
+      "image_prompt": "Kavi holding a black smartphone that is now glowing with an ethereal white light, face illuminated.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep018",
+  "episode_number": 18,
+  "arc": 2,
+  "title": "The First Exchange",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Door Eight becomes the 1913 control room as engineer Devika Rao turns the master clock back one fatal minute.",
+      "dialogue_audio": "Elias: “The minute saved thirteen bodies and duplicated thirteen lives.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Two versions of the station overlap catastrophically—one intact, one wrecked—while people forget which families are theirs.",
+      "dialogue_audio": "Devika: “I saved them.” Station voice: “You divided them.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Thirteen-year-old Nila understands first and steps onto the newborn train, clock-light cracking across her hands.",
+      "dialogue_audio": "Nila: “Take my life. Leave their memories.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "The two stations fuse safely; Nila becomes the living lock while Devika forgets she ever had a daughter.",
+      "dialogue_audio": "Elias: “The first exchange was voluntary.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Over a century, the train mechanizes the sacrifice, collecting replacements and storing unpaid memories behind twelve doors.",
+      "dialogue_audio": "Arin: “A promise became a prison.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Elias shows what Nila omits: if she exits carrying all stored debt, every living citizen becomes a body without personal memory.",
+      "dialogue_audio": "Elias: “She can free the passengers—or leave a city of strangers.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "NILA IS NOT LYING — SHE IS DESPERATE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

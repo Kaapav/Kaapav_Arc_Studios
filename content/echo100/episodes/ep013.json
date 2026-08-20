@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e013",
+  "season": 1,
+  "episode": 13,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Subterranean Echoes | ECHO//100 Episode 13",
+  "description": "Kavi tumbles through the basement floor into a temporal pocket where the city lives in a perpetual, frozen loop. He must navigate the immune response of a reality trying to erase him before he loses his own existence. Episode 13 of ECHO//100: The Missing Hour. This is an AI-assisted original-fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The floorboards vanish, dropping Kavi into a neon metropolis pulsing with a frantic, rhythmic heartbeat.",
+      "caption": "Falling into neon",
+      "image_prompt": "Kavi in his red hoodie and backpack falling through a floor into a futuristic city, vertical cinematic, 3d animation",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Passersby drift like ghosts, entirely unaware that they remain trapped within a ticking time loop.",
+      "caption": "Ghosts of the city",
+      "image_prompt": "Kavi walking through a crowded street of people frozen in motion, wearing red glasses, vertical cinematic, 3d animation",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers violently as the sky tears open, revealing Null’s jagged, dark purple claws descending.",
+      "caption": "Null attacks",
+      "image_prompt": "Byte with cyan face and orange antenna floating near Kavi, dark purple glitchy entity Null looming above, vertical cinematic",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null acts not as a villain, but as an immune system scrubbing this illegal pocket.",
+      "caption": "Null is antibodies",
+      "image_prompt": "Null looking down at Kavi with glowing red eyes, purple glitch patterns surrounding the city, vertical cinematic",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi represents the infection that Null intends to delete before the clock strikes the hour.",
+      "caption": "Targeting the invaders",
+      "image_prompt": "Kavi and Byte hiding behind a holographic stall, Null's shadow stretching across the pavement, vertical cinematic",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s reflection fades, signaling that the timeline will soon forget Kavi ever existed here.",
+      "caption": "Losing my identity",
+      "image_prompt": "Kavi looking into a shop window seeing his reflection turning transparent, vertical cinematic, 3d animation",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Suddenly, a warm hand grips Kavi’s shoulder, dragging the protagonist into a narrow, dark alley.",
+      "caption": "A physical touch",
+      "image_prompt": "A girl in a teal coat grabbing Kavi's red hoodie, dark alleyway setting, vertical cinematic, 3d animation",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira stands shivering, no longer a hologram, but a terrified girl made of living flesh.",
+      "caption": "Mira is real",
+      "image_prompt": "Mira in her teal coat looking scared, Kavi looking shocked, vertical cinematic, 3d animation",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T13:47:39",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-132849-echo100-s01e013",
+  "review_id": "20260804-134739-164857",
+  "youtube_url": null,
+  "upload_error": null
+}

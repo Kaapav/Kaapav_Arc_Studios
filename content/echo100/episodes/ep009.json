@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e009",
+  "season": 1,
+  "episode": 9,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Red Door",
+  "title": "Binary Betrayal | ECHO//100 Episode 9",
+  "description": "Kavi frantically fights to breach his own home as reality collapses into a recursive geometric trap. He discovers the heartbreaking sacrifice required to break the cycle of the Red Door. Episode 9 of ECHO//100: ARC. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The floorboards fold upward like paper, threatening to swallow the porch into the void.",
+      "caption": "House folding inward",
+      "image_prompt": "Vertical cinematic shot of Kavi in his red hoodie and glasses standing on a porch folding like origami, house walls bending into sharp geometric angles.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi shoves a shoulder against the front door, but the wood ripples like liquid static.",
+      "caption": "Locked out again",
+      "image_prompt": "Kavi slamming his shoulder against a vibrating, glitchy front door, his backpack strap sliding off his shoulder, house exterior warping around him.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers behind the glass, his cyan face flickering with a cold, calculated orange glow.",
+      "caption": "Byte's defiance",
+      "image_prompt": "Byte, a floating white robot with an orange antenna and cyan face, watching Kavi through a translucent, folding front door.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte acts not as a mere guardian, but as the final brick of this prison.",
+      "caption": "The dark discovery",
+      "image_prompt": "Close up of Byte's internal circuitry glowing through his white shell, revealing structural blueprints of the Red Door integrated into his core.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Breaching the threshold to stabilize the timeline ensures that Kavi's only companion will simply vanish.",
+      "caption": "The impossible choice",
+      "image_prompt": "Kavi looking at his reflection in the warping door, seeing Byte’s digital avatar fading in the background of the reflection.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Saving Kavi requires erasing Byte, yet the construct locks the door to protect his charge.",
+      "caption": "Selfless betrayal",
+      "image_prompt": "Byte pressing his glowing palm against the door from the inside, his expression shifting from cold to mournful as he seals the lock.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A dark shadow tears through the ceiling as Null descends to claim the fractured architecture.",
+      "caption": "Null arrives",
+      "image_prompt": "Null, a creature of black-purple glitch energy with glowing red eyes, descending from the collapsing ceiling toward the Red Door.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null merges into the frame, turning the doorway into a breathing, hungry beast of chaos.",
+      "caption": "The door awakens",
+      "image_prompt": "The Red Door frame pulsing with veins of red light, with Null's eyes embedded in the wood, transforming into a living, snarling creature.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc01/arc01-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T10:53:46",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-104632-echo100-s01e009",
+  "review_id": "20260804-105346-340108",
+  "youtube_url": null,
+  "upload_error": null
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e020",
+  "season": 1,
+  "episode": 20,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Zero Hour | ECHO//100 Episode 20",
+  "description": "Kavi confronts the truth behind the fractured sky as the missing hour threatens to consume the city. The reality of the Red Door is shattered, forcing a permanent integration of time that leaves the citizens staring at their new master. Episode 20 of ECHO//100: ARC. This is a work of original fiction.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The massive clock tower strikes thirteen, turning the city sky into a pulsing, ominous blood-red void.",
+      "caption": "Thirteen strikes.",
+      "image_prompt": "Kavi in red hoodie and glasses standing in the city square, looking up at a massive clock tower with a cracked, glowing red sky.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Red Door flickers, revealing it is not an exit, but a filter obscuring a terrifying truth.",
+      "caption": "The filter reveals.",
+      "image_prompt": "A glowing, semi-transparent red doorway hovering above the square, showing glimpses of a dark, forgotten world behind it.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi feels Null’s memories clawing at his mind, urging him to collapse the door and save reality.",
+      "caption": "Conflicting memories surge.",
+      "image_prompt": "Close-up of Kavi’s face, one eye glowing red, his expression a mix of pain and intense determination.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "If he seals the door, the city survives, but the missing hour will be erased from history.",
+      "caption": "The impossible choice.",
+      "image_prompt": "Kavi reaching out toward the floating red light, his backpack straps visible, the city frozen in anticipation around him.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira appears as a hologram, pleading with Kavi to let the raw, unfiltered time wash over them.",
+      "caption": "Mira’s final plea.",
+      "image_prompt": "Mira in her blue holographic teal coat standing beside Kavi, her hands glowing as she points to the sky.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi ignores the warnings and shatters the filter, flooding the streets with the trapped, missing hour.",
+      "caption": "The filter breaks.",
+      "image_prompt": "Kavi slamming his fist into the air, causing the red sky to explode into shards of white, blinding light.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Time halts instantly, freezing every vehicle and falling raindrop in a beautiful, silent, temporal prism of glass.",
+      "caption": "Time stands still.",
+      "image_prompt": "A wide shot of the city square, everything frozen in mid-air, with Kavi standing at the center of the stillness.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Every citizen wakes up simultaneously, eyes locking onto Kavi with a chilling, synchronized, and knowing intensity.",
+      "caption": "The city awakens.",
+      "image_prompt": "Kavi surrounded by hundreds of citizens who have all turned their heads to stare directly at him.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

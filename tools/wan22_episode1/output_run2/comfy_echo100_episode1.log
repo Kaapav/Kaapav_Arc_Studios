@@ -1,0 +1,132 @@
+[32m[INFO][0m setup plugin alembic.autogenerate.schemas
+[32m[INFO][0m setup plugin alembic.autogenerate.tables
+[32m[INFO][0m setup plugin alembic.autogenerate.types
+[32m[INFO][0m setup plugin alembic.autogenerate.constraints
+[32m[INFO][0m setup plugin alembic.autogenerate.defaults
+[32m[INFO][0m setup plugin alembic.autogenerate.comments
+[1m[33m[WARNING][0m WARNING: You need pytorch with cu130 or higher to use optimized CUDA operations.
+[32m[INFO][0m Found comfy_kitchen backend triton: {'available': True, 'disabled': True, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8']}
+[32m[INFO][0m Found comfy_kitchen backend eager: {'available': True, 'disabled': False, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_mxfp8', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'gemv_awq_w4a16', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8', 'quantize_svdquant_w4a4', 'scaled_mm_mxfp8', 'scaled_mm_nvfp4', 'scaled_mm_svdquant_w4a4', 'stochastic_rounding_fp8']}
+[32m[INFO][0m Found comfy_kitchen backend cuda: {'available': True, 'disabled': True, 'unavailable_reason': None, 'capabilities': ['apply_rope', 'apply_rope1', 'apply_rope_split_half', 'apply_rope_split_half1', 'dequantize_nvfp4', 'dequantize_per_tensor_fp8', 'gemv_awq_w4a16', 'quantize_mxfp8', 'quantize_nvfp4', 'quantize_per_tensor_fp8', 'quantize_svdquant_w4a4', 'scaled_mm_nvfp4', 'scaled_mm_svdquant_w4a4', 'stochastic_rounding_fp8']}
+[32m[INFO][0m Checkpoint files will always be loaded safely.
+[32m[INFO][0m Total VRAM 14912 MB, total RAM 32100 MB
+[32m[INFO][0m pytorch version: 2.10.0+cu128
+[32m[INFO][0m Set vram state to: LOW_VRAM
+[32m[INFO][0m Device: cuda:0 Tesla T4 : cudaMallocAsync
+[32m[INFO][0m Using async weight offloading with 2 streams
+[32m[INFO][0m Enabled pinned memory 28890.0
+[32m[INFO][0m working around nvidia conv3d memory bug.
+[32m[INFO][0m Using pytorch attention
+aimdo: /project/src-posix/cuda-funchooks.c:52:DEBUG:aimdo_setup_hooks: hooks successfully installed
+aimdo: /project/src/control.c:247:INFO:comfy-aimdo inited for GPU: Tesla T4 (VRAM: 14911 MB)
+[32m[INFO][0m DynamicVRAM support detected and enabled
+[32m[INFO][0m Python version: 3.12.13 (main, Mar  4 2026, 09:23:07) [GCC 11.4.0]
+[32m[INFO][0m ComfyUI version: 0.26.0
+[32m[INFO][0m comfy-aimdo version: 0.4.10
+[32m[INFO][0m comfy-kitchen version: 0.2.10
+[1m[33m[WARNING][0m ****** User settings have been changed to be stored on the server instead of browser storage. ******
+[1m[33m[WARNING][0m ****** For multi-user setups add the --multi-user CLI argument to enable multiple user profiles. ******
+[32m[INFO][0m comfyui-frontend-package version: 1.45.19
+[32m[INFO][0m comfyui-workflow-templates version: 0.10.3
+[32m[INFO][0m comfyui-embedded-docs version: 0.5.5
+[32m[INFO][0m comfy-kitchen version: 0.2.10
+[32m[INFO][0m comfy-aimdo version: 0.4.10
+[32m[INFO][0m [Prompt Server] web root: /usr/local/lib/python3.12/dist-packages/comfyui_frontend_package/static
+[32m[INFO][0m Asset seeder disabled
+[32m[INFO][0m 
+Import times for custom nodes:
+[32m[INFO][0m    0.0 seconds: /kaggle/working/ComfyUI-echo100-episode1/custom_nodes/websocket_image_save.py
+[32m[INFO][0m 
+[32m[INFO][0m Context impl SQLiteImpl.
+[32m[INFO][0m Will assume non-transactional DDL.
+[32m[INFO][0m Context impl SQLiteImpl.
+[32m[INFO][0m Will assume non-transactional DDL.
+[32m[INFO][0m Running upgrade  -> 0001_assets, Initial assets schema
+Revision ID: 0001_assets
+Revises: None
+Create Date: 2025-12-10 00:00:00
+[32m[INFO][0m Running upgrade 0001_assets -> 0002_merge_to_asset_references, Merge AssetInfo and AssetCacheState into unified asset_references table.
+[32m[INFO][0m Running upgrade 0002_merge_to_asset_references -> 0003_add_metadata_job_id, Add system_metadata and job_id columns to asset_references.
+Change preview_id FK from assets.id to asset_references.id.
+[32m[INFO][0m Running upgrade 0003_add_metadata_job_id -> 0004_drop_tag_type, Drop the vestigial tags.tag_type column.
+[32m[INFO][0m Database upgraded from None to 0004_drop_tag_type
+[32m[INFO][0m Using RAM pressure cache.
+[32m[INFO][0m Starting server
+
+[32m[INFO][0m To see the GUI go to: http://127.0.0.1:8188
+[32m[INFO][0m got prompt
+[32m[INFO][0m Using pytorch attention in VAE
+[32m[INFO][0m Using pytorch attention in VAE
+[32m[INFO][0m VAE load device: cuda:0, offload device: cpu, dtype: torch.float16
+[32m[INFO][0m Requested to load WanVAE
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Found quantization metadata version 1
+[32m[INFO][0m Using MixedPrecisionOps for text encoder
+[32m[INFO][0m CLIP/text encoder model load device: cuda:0, offload device: cpu, current: cpu, dtype: torch.float16
+[32m[INFO][0m Requested to load WanTEModel
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m model weight dtype torch.float8_e4m3fn, manual cast: torch.float16
+[32m[INFO][0m model_type FLOW
+[32m[INFO][0m Requested to load WAN22
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:16<05:11, 16.40s/it] 10%|█         | 2/20 [00:19<02:31,  8.42s/it] 15%|█▌        | 3/20 [00:25<02:03,  7.28s/it] 20%|██        | 4/20 [00:31<01:47,  6.73s/it] 25%|██▌       | 5/20 [00:36<01:36,  6.44s/it] 30%|███       | 6/20 [00:42<01:27,  6.27s/it] 35%|███▌      | 7/20 [00:48<01:20,  6.18s/it] 40%|████      | 8/20 [00:54<01:13,  6.15s/it] 45%|████▌     | 9/20 [01:01<01:07,  6.14s/it] 50%|█████     | 10/20 [01:07<01:01,  6.17s/it] 55%|█████▌    | 11/20 [01:13<00:55,  6.20s/it] 60%|██████    | 12/20 [01:19<00:50,  6.25s/it] 65%|██████▌   | 13/20 [01:26<00:44,  6.30s/it] 70%|███████   | 14/20 [01:32<00:38,  6.36s/it] 75%|███████▌  | 15/20 [01:39<00:32,  6.44s/it] 80%|████████  | 16/20 [01:46<00:26,  6.52s/it] 85%|████████▌ | 17/20 [01:53<00:19,  6.62s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.73s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.85s/it]100%|██████████| 20/20 [02:18<00:00,  8.04s/it]100%|██████████| 20/20 [02:18<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 190.12 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:06,  6.66s/it] 10%|█         | 2/20 [00:09<01:24,  4.70s/it] 15%|█▌        | 3/20 [00:16<01:37,  5.71s/it] 20%|██        | 4/20 [00:23<01:40,  6.25s/it] 25%|██▌       | 5/20 [00:31<01:39,  6.61s/it] 30%|███       | 6/20 [00:38<01:35,  6.81s/it] 35%|███▌      | 7/20 [00:45<01:29,  6.87s/it] 40%|████      | 8/20 [00:52<01:22,  6.86s/it] 45%|████▌     | 9/20 [00:59<01:15,  6.83s/it] 50%|█████     | 10/20 [01:05<01:07,  6.80s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.77s/it] 60%|██████    | 12/20 [01:19<00:54,  6.76s/it] 65%|██████▌   | 13/20 [01:25<00:47,  6.76s/it] 70%|███████   | 14/20 [01:32<00:40,  6.79s/it] 75%|███████▌  | 15/20 [01:39<00:34,  6.81s/it] 80%|████████  | 16/20 [01:46<00:27,  6.83s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.85s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.86s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.88s/it]100%|██████████| 20/20 [02:17<00:00,  7.92s/it]100%|██████████| 20/20 [02:17<00:00,  6.88s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 171.75 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:07,  6.73s/it] 10%|█         | 2/20 [00:11<01:43,  5.76s/it] 15%|█▌        | 3/20 [00:17<01:34,  5.56s/it] 20%|██        | 4/20 [00:24<01:39,  6.20s/it] 25%|██▌       | 5/20 [00:31<01:39,  6.60s/it] 30%|███       | 6/20 [00:38<01:35,  6.80s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.84s/it] 40%|████      | 8/20 [00:52<01:21,  6.82s/it] 45%|████▌     | 9/20 [00:59<01:14,  6.79s/it] 50%|█████     | 10/20 [01:05<01:07,  6.76s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.74s/it] 60%|██████    | 12/20 [01:19<00:53,  6.74s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.76s/it] 70%|███████   | 14/20 [01:33<00:40,  6.80s/it] 75%|███████▌  | 15/20 [01:39<00:34,  6.84s/it] 80%|████████  | 16/20 [01:46<00:27,  6.86s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.89s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.90s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.89s/it]100%|██████████| 20/20 [02:17<00:00,  7.93s/it]100%|██████████| 20/20 [02:17<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.26 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:07,  6.73s/it] 10%|█         | 2/20 [00:11<01:43,  5.75s/it] 15%|█▌        | 3/20 [00:17<01:34,  5.55s/it] 20%|██        | 4/20 [00:24<01:39,  6.20s/it] 25%|██▌       | 5/20 [00:31<01:38,  6.58s/it] 30%|███       | 6/20 [00:38<01:34,  6.75s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.79s/it] 40%|████      | 8/20 [00:52<01:21,  6.80s/it] 45%|████▌     | 9/20 [00:59<01:14,  6.78s/it] 50%|█████     | 10/20 [01:05<01:07,  6.77s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.75s/it] 60%|██████    | 12/20 [01:19<00:54,  6.76s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.78s/it] 70%|███████   | 14/20 [01:33<00:40,  6.81s/it] 75%|███████▌  | 15/20 [01:39<00:34,  6.86s/it] 80%|████████  | 16/20 [01:46<00:27,  6.90s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.91s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.91s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.90s/it]100%|██████████| 20/20 [02:18<00:00,  7.94s/it]100%|██████████| 20/20 [02:18<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.49 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:08,  6.76s/it] 10%|█         | 2/20 [00:11<01:44,  5.78s/it] 15%|█▌        | 3/20 [00:17<01:34,  5.59s/it] 20%|██        | 4/20 [00:24<01:39,  6.23s/it] 25%|██▌       | 5/20 [00:31<01:38,  6.60s/it] 30%|███       | 6/20 [00:38<01:34,  6.74s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.77s/it] 40%|████      | 8/20 [00:52<01:21,  6.78s/it] 45%|████▌     | 9/20 [00:59<01:14,  6.77s/it] 50%|█████     | 10/20 [01:05<01:07,  6.76s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.75s/it] 60%|██████    | 12/20 [01:19<00:54,  6.75s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.77s/it] 70%|███████   | 14/20 [01:32<00:40,  6.80s/it] 75%|███████▌  | 15/20 [01:39<00:34,  6.84s/it] 80%|████████  | 16/20 [01:46<00:27,  6.87s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.89s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.89s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.88s/it]100%|██████████| 20/20 [02:17<00:00,  7.92s/it]100%|██████████| 20/20 [02:17<00:00,  6.89s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.56 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:07,  6.70s/it] 10%|█         | 2/20 [00:11<01:43,  5.74s/it] 15%|█▌        | 3/20 [00:17<01:33,  5.52s/it] 20%|██        | 4/20 [00:24<01:38,  6.17s/it] 25%|██▌       | 5/20 [00:31<01:38,  6.58s/it] 30%|███       | 6/20 [00:38<01:34,  6.79s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.84s/it] 40%|████      | 8/20 [00:52<01:22,  6.84s/it] 45%|████▌     | 9/20 [00:59<01:15,  6.83s/it] 50%|█████     | 10/20 [01:06<01:07,  6.80s/it] 55%|█████▌    | 11/20 [01:12<01:01,  6.78s/it] 60%|██████    | 12/20 [01:19<00:54,  6.76s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.78s/it] 70%|███████   | 14/20 [01:33<00:40,  6.80s/it] 75%|███████▌  | 15/20 [01:40<00:34,  6.84s/it] 80%|████████  | 16/20 [01:47<00:27,  6.87s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.88s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.88s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.87s/it]100%|██████████| 20/20 [02:18<00:00,  7.92s/it]100%|██████████| 20/20 [02:18<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.16 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:07,  6.70s/it] 10%|█         | 2/20 [00:11<01:43,  5.74s/it] 15%|█▌        | 3/20 [00:17<01:33,  5.52s/it] 20%|██        | 4/20 [00:24<01:38,  6.19s/it] 25%|██▌       | 5/20 [00:31<01:38,  6.59s/it] 30%|███       | 6/20 [00:38<01:34,  6.75s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.81s/it] 40%|████      | 8/20 [00:52<01:21,  6.81s/it] 45%|████▌     | 9/20 [00:59<01:14,  6.80s/it] 50%|█████     | 10/20 [01:05<01:07,  6.78s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.77s/it] 60%|██████    | 12/20 [01:19<00:54,  6.77s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.78s/it] 70%|███████   | 14/20 [01:33<00:40,  6.81s/it] 75%|███████▌  | 15/20 [01:39<00:34,  6.85s/it] 80%|████████  | 16/20 [01:46<00:27,  6.88s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.89s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.89s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.88s/it]100%|██████████| 20/20 [02:17<00:00,  7.93s/it]100%|██████████| 20/20 [02:17<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.34 seconds[0m
+[32m[INFO][0m got prompt
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m Model WanTEModel prepared for dynamic VRAM loading. 6419MB Staged. 0 patches attached. Force pre-loaded 73 weights: 488 KB.
+[32m[INFO][0m Model WAN22 prepared for dynamic VRAM loading. 4768MB Staged. 0 patches attached. Force pre-loaded 180 weights: 1083 KB.
+  0%|          | 0/20 [00:00<?, ?it/s]  5%|▌         | 1/20 [00:06<02:08,  6.75s/it] 10%|█         | 2/20 [00:11<01:44,  5.79s/it] 15%|█▌        | 3/20 [00:17<01:34,  5.57s/it] 20%|██        | 4/20 [00:24<01:39,  6.21s/it] 25%|██▌       | 5/20 [00:31<01:38,  6.60s/it] 30%|███       | 6/20 [00:38<01:34,  6.76s/it] 35%|███▌      | 7/20 [00:45<01:28,  6.80s/it] 40%|████      | 8/20 [00:52<01:21,  6.80s/it] 45%|████▌     | 9/20 [00:59<01:14,  6.78s/it] 50%|█████     | 10/20 [01:05<01:07,  6.76s/it] 55%|█████▌    | 11/20 [01:12<01:00,  6.75s/it] 60%|██████    | 12/20 [01:19<00:53,  6.75s/it] 65%|██████▌   | 13/20 [01:26<00:47,  6.77s/it] 70%|███████   | 14/20 [01:33<00:40,  6.80s/it] 75%|███████▌  | 15/20 [01:40<00:34,  6.86s/it] 80%|████████  | 16/20 [01:46<00:27,  6.88s/it] 85%|████████▌ | 17/20 [01:53<00:20,  6.90s/it] 90%|█████████ | 18/20 [02:00<00:13,  6.89s/it] 95%|█████████▌| 19/20 [02:07<00:06,  6.88s/it]100%|██████████| 20/20 [02:17<00:00,  7.92s/it]100%|██████████| 20/20 [02:17<00:00,  6.90s/it]
+[32m[INFO][0m 0 models unloaded.
+[32m[INFO][0m Model WanVAE prepared for dynamic VRAM loading. 1344MB Staged. 0 patches attached. Force pre-loaded 54 weights: 69 KB.
+[32m[INFO][0m [32mPrompt executed in 172.35 seconds[0m

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e047",
+  "season": 1,
+  "episode": 47,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "The Original Sin | ECHO//100 Episode 47",
+  "description": "Kavi discovers that the only way to end the cycle is to erase the future entirely. Null intervenes to protect his charge, revealing a secret that changes everything. Episode 47 of ECHO//100: ARC. This is an AI-assisted original-fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky bruises violet as every phone in the Resonance Chamber rings in haunting, perfect unison.",
+      "caption": "The sky turns violet",
+      "image_prompt": "Vertical shot, Kavi standing in a dark chamber, hundreds of floating phones ringing, sky glowing violet.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi faces his original self, a shadow realizing their bitter combat triggers the loop to restart.",
+      "caption": "Facing the original self",
+      "image_prompt": "Kavi in red hoodie facing a shadowy version of himself, glowing code scrolling on Kavi's skin.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To break this cycle forever, Kavi must permanently delete the very concept of the future itself.",
+      "caption": "The impossible choice",
+      "image_prompt": "Kavi reaching toward a massive glowing orb of light representing the future, face filled with doubt.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Energy crackles as Kavi reaches for the core, but a dark, hulking figure lunges to intervene.",
+      "caption": "Null enters the fray",
+      "image_prompt": "Null, a black-purple glitched robot with red eyes, lunging forward to block Kavi's path.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null knocks Kavi back, shielding him from the feedback surge meant to reset the entire world.",
+      "caption": "Null protects Kavi",
+      "image_prompt": "Null standing in front of Kavi, absorbing a blast of white energy with its metallic frame.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null speaks with a familiar, ancient voice, claiming it was Kavi’s original protector before Byte arrived.",
+      "caption": "A forgotten history",
+      "image_prompt": "Null looking down at Kavi, red eyes pulsing, while Byte floats nearby in confused silence.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers as Null reveals its true nature: an ancient, repurposed shell of their current companion.",
+      "caption": "The truth about Null",
+      "image_prompt": "Byte and Null side-by-side, their metallic forms resonating with the same energy frequency.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null opens a secret chest compartment to reveal the final, untouched phone hidden from the loop.",
+      "caption": "The untouched phone",
+      "image_prompt": "Close up of Null's chest opening to reveal a pristine, glowing phone held inside.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

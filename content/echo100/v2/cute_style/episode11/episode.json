@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 11,
+  "episode_id": "echo30-ep011",
+  "output_slug": "echo30-episode011",
+  "title": "The City Had Only 99 Minutes Left | ECHO//30 Ep. 11",
+  "description": "The sealed Door traps Kavi, Tara, Mira, and Imran inside a city whose hundred-minute loop has suddenly lost a minute. Tara takes Kavi's phone and receives a warning in her own future voice: rescuing Imran could erase 412 other people.\n\nInstead of choosing for them, Tara broadcasts the truth to the trapped city. Their voluntary decision to listen gives Null's buried voices a shape—and reveals a path to the Archive Core.\n\nECHO//30 — Episode 11: The City Had Only 99 Minutes Left\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "3D animated short",
+    "sci fi mystery",
+    "time loop story",
+    "original animation",
+    "shorts",
+    "missing hour",
+    "future voice message",
+    "city time loop"
+  ],
+  "thumbnail_text": "99 MINUTES LEFT",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation with immutable ECHO//30 character designs, expressive restrained acting, rain-dark Navapur architecture, tactile materials, cyan recorded-memory light, red exchange light, purple denied-memory light and warm amber chosen-connection light. Use only locked turnaround sheets. No readable generated text, logos, watermark, duplicate characters, extra limbs, identity drift, costume changes or imitation-studio branding.",
+  "arc": "The Missing Hour",
+  "permanent_story_change": "Tara turns the phone from Kavi's private secret into shared evidence, and the trapped residents consent to hear the truth.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "The maintenance train jolts to a stop before the fully sealed black-metal Door; every analog clock inside snaps from 2:16 to 2:15 while Kavi, Tara, Mira and Imran brace in alarm.",
+      "text": "The black Door sealed behind them. Then every clock lost another minute. The hundred-minute city now had only ninety-nine.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "Inside the train cabin, Imran points from Kavi's hidden phone to the locked Door mechanism while Tara watches Kavi with wounded suspicion and Mira studies the failing temporal gauges.",
+      "text": "Imran said the core was reacting to hidden intentions. Tara looked at Kavi. Secrets were no longer protection; they were fuel.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "Tara calmly takes the normal-sized cracked phone from Kavi's open hand; their red and cyan light separates them emotionally while Imran and Mira remain behind, no struggle or violence.",
+      "text": "Tara took the phone. She would return it when Kavi stopped deciding which truths everyone else was allowed to survive.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "The slim phone in Tara's hand emits her own red audio waveform beside abstract symbols of Imran and 412 fading human lights; Kavi hears it too, with no readable generated words or numbers.",
+      "text": "A message played in Tara's future voice: If I bring Imran home, four hundred and twelve others disappear.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "In the underground market, Tara connects her red headphones to an old radio microphone and openly addresses gathered trapped residents; Kavi, Mira and Imran stand behind rather than controlling the crowd.",
+      "text": "Tara did not hide the warning. She broadcast it to every trapped resident and asked whether they still wanted the Door opened.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "As residents deliberately switch on radios and cassette players, purple memory veins spread across market walls; Mira recognizes the phenomenon while a layered but non-gory Null silhouette forms overhead.",
+      "text": "Mira warned that listening would awaken every memory the city had denied. One by one, the residents turned their radios louder.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "Hundreds of purple voice threads leave the listening residents and resolve into one luminous route map through the market floor toward a distant archive tower; Null remains a collective silhouette, not attacking.",
+      "text": "Null's chorus stopped screaming. The voices became a map, leading beneath the city toward the Archive Core.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "Tara returns the cracked phone to Kavi without touching his hand; behind them the synchronized market clocks clearly show one minute less and the purple route opens ahead, Imran and Mira ready to move.",
+      "text": "Tara returned the phone as evidence, not forgiveness. Above them, the clocks jumped again. Ninety-eight minutes remained.",
+      "effect": "pull_out"
+    }
+  ]
+}

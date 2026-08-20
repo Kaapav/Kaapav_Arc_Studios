@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e017",
+  "season": 1,
+  "episode": 17,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Identity Crisis | ECHO//100 Episode 17",
+  "description": "Kavi faces his own shadow as the true architect of the loop is finally unmasked. Mira seizes control of the timeline, trapping the rivals in a void of her own design. Episode 17 of ECHO//100: The Missing Hour. This is a work of original fiction generated with AI assistance.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The void fractures, and suddenly, two identical Kavis stand shivering in the humming white silence.",
+      "caption": "Two identical Kavis",
+      "image_prompt": "Vertical shot, two Kavis in red hoodies and glasses staring at each other in a glowing white void.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null shifts, his black-purple glitch skin molding perfectly into Kavi’s red hoodie and signature backpack.",
+      "caption": "Null mimics Kavi",
+      "image_prompt": "Vertical shot, Null’s body turning into a perfect replica of Kavi, red eyes glowing intensely.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They trade identical glares, each claiming the True Timeline belongs to their own fractured, lonely reality.",
+      "caption": "Battle of wits",
+      "image_prompt": "Vertical shot, two Kavis chest-to-chest, the real Kavi clutching his backpack, Null smirking.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi shouts that he never wanted the door, revealing he was coerced by a darker influence.",
+      "caption": "The forced architect",
+      "image_prompt": "Vertical shot, Kavi shouting at the empty air, Byte hovering anxiously in the background.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira descends, her blue holographic teal coat flickering with the cold authority of a puppet master.",
+      "caption": "Mira arrives",
+      "image_prompt": "Vertical shot, Mira floating down with a cold expression, her teal coat flowing like digital smoke.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She laughs, admitting she manipulated Kavi’s future self to ensure the endless loop never truly ends.",
+      "caption": "Mira’s dark reversal",
+      "image_prompt": "Vertical shot, Mira pointing at Kavi, her eyes glowing with malicious, calculated intent.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte tries to intervene, but Mira silences his orange antenna with a single, sharp digital gesture.",
+      "caption": "Byte is silenced",
+      "image_prompt": "Vertical shot, Byte frozen in mid-air, his orange antenna dimming as Mira’s hand closes.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The floor vanishes, sealing Kavi and Null forever in a pristine, inescapable, and windowless white prison.",
+      "caption": "Trapped in white",
+      "image_prompt": "Vertical shot, Kavi and Null standing on a dissolving platform within a vast, empty white room.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

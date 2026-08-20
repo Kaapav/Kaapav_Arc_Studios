@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep023",
+  "episode_number": 23,
+  "arc": 3,
+  "title": "Passenger Zero Came Home",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Nila steps off the train at a glass tower built where her 1913 railway cottage once stood.",
+      "dialogue_audio": "Nila: “This is the address.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Through clock-light she overlays the old cottage on the lobby; Devika sets a dinner place but cannot see her daughter.",
+      "dialogue_audio": "Nila: “Amma, I came back.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "The memory repeats Devika asking why there is an extra plate, confirming Nila was erased the moment she boarded.",
+      "dialogue_audio": "Devika’s echo: “I have no daughter.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Meera approaches without a weapon and places her turquoise clip beside Nila’s bare foot as proof of a remembered person.",
+      "dialogue_audio": "Meera: “Being remembered by force is not coming home.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Nila’s grief sends a shock through the engine; citizens nearby lose their most cherished memories and become emotionally blank.",
+      "dialogue_audio": "Nila: “Then nobody gets to keep what I lost.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Arin reaches Nila but cannot touch her through the storm of stolen memories.",
+      "dialogue_audio": "Arin: “I know what it is to trade yourself for a sister.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE VILLAIN WAS A CHILD WHO CAME HOME TOO LATE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

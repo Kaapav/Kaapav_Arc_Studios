@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 26,
+  "episode_id": "echo30-ep026",
+  "output_slug": "echo30-episode026",
+  "title": "The Door War in the Red Sky | ECHO//30 Ep. 26",
+  "description": "Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte.\n\nECHO//30 — Episode 26\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "KAAPAV ARC Studios",
+    "animated series",
+    "science fiction mystery",
+    "original animation",
+    "shorts",
+    "ECHO//30",
+    "animated sci fi",
+    "time mystery",
+    "cute 3D animation"
+  ],
+  "thumbnail_text": "THE DOOR WAR",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D animation with locked ECHO character sheets, cinematic rain-dark Navapur lighting and emotionally truthful acting.",
+  "arc": "The Final Transmission",
+  "permanent_story_change": "The surviving timelines stop competing and share one collective history.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Hundreds of Red Doors open across the sky and every surviving Kavi steps through. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Hundreds of Red Doors open across the sky and every surviving Kavi steps through.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Inside the collapsing doorway nexus, Kavi pursues an immediate answer before the new danger closes in. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Inside the collapsing doorway nexus, Kavi pursues an immediate answer before the new danger closes in.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Competing timelines collide while Kavi tries to prevent their struggle from feeding the singularity inside Byte.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: A concrete clue forces Kavi to question the explanation the group has trusted until now. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "A concrete clue forces Kavi to question the explanation the group has trusted until now.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: The doors remain stable only while different Kavis fight for one preferred reality. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "The doors remain stable only while different Kavis fight for one preferred reality.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Instead of hiding the discovery, Kavi makes a choice that the others can challenge and understand.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: Kavi refuses to choose a winner and connects every dead phone into one shared memory network. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "Kavi refuses to choose a winner and connects every dead phone into one shared memory network.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cinematic story composition in the collapsing doorway nexus. Visually depict this exact causal beat: The network points to 2:17 AM on the night Episode One began. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack. Distinct readable action and emotional reaction, coherent prop and lighting continuity, rain-dark Navapur palette with red exchange light, cyan memory light, purple denied-memory light and restrained warm amber human light; vertical 9:16 premium cute stylized 3D feature-animation, original design, tactile materials, expressive restrained acting; no readable text, watermark, logo, collage, duplicated person, extra limb, identity drift or costume change.",
+      "text": "The network points to 2:17 AM on the night Episode One began.",
+      "effect": "push_in"
+    }
+  ]
+}

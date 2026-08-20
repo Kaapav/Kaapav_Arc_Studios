@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e015",
+  "season": 1,
+  "episode": 15,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "System Reboot | ECHO//100 Episode 15",
+  "description": "Trapped within a digital containment unit, Kavi forces a dangerous connection to escape his glass prison. He inadvertently uncovers the dark origin of the Missing Hour, triggering a total system takeover. Episode 15 of ECHO//100: ARC. This is an AI-assisted work of original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Containment glass shudders, warping into pulsating purple static that bleeds across the cold floor.",
+      "caption": "Glass turning to static",
+      "image_prompt": "Kavi in his red hoodie and glasses pressing his hand against a vibrating purple glass wall.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi presses a corrupted hand against the seam, attempting to hack the lock before Byte returns.",
+      "caption": "Kavi hacking the lock",
+      "image_prompt": "Close up of Kavi's hand glowing with red digital corruption as he touches the glass surface.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The archive screams, dumping a century of forbidden data directly into Kavi’s synapses like molten lead.",
+      "caption": "Data flooding Kavi's mind",
+      "image_prompt": "Kavi clutching his head, eyes wide, surrounded by floating streams of blue and purple binary code.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi perceives the Red Door not as a prison, but as a dam holding back total erasure.",
+      "caption": "The Red Door revealed",
+      "image_prompt": "A massive, ancient glowing red door floating in a dark void of swirling digital clockwork.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira watches in horror as city history burns through Kavi’s mind, rewriting a fragile, singular identity.",
+      "caption": "Mira witnessing the change",
+      "image_prompt": "Mira in her blue holographic coat, reaching out toward Kavi while Byte hovers menacingly nearby.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s brain ignites while the weight of a hundred lost years crushes consciousness into fine dust.",
+      "caption": "Kavi's mental overload",
+      "image_prompt": "Kavi collapsing to his knees, his backpack strap sliding off as his glasses begin to crack.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the administrative console, finally grasping the codes that govern this entire broken reality.",
+      "caption": "Accessing city codes",
+      "image_prompt": "Kavi floating in the center of the room, his red hoodie glowing as he manipulates holographic screens.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Eyes glowing deep purple, Kavi turns to Mira and speaks with the cold voice of Null.",
+      "caption": "Null takes control",
+      "image_prompt": "Close up of Kavi's face, his eyes emitting blinding purple light, his expression completely devoid of emotion.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T14:23:01",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-140450-echo100-s01e015",
+  "review_id": "20260804-142301-949879",
+  "youtube_url": null,
+  "upload_error": null
+}

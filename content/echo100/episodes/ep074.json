@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e074",
+  "season": 1,
+  "episode": 74,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "The Architect's Mirror | ECHO//100 Episode 74",
+  "description": "Kavi confronts his original self only to discover the man is a sentient optimization program. The stability of the red door collapses, forcing a dangerous breach into reality. Episode 74 of ECHO//100: ARC. This is an AI-assisted original fiction series.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The Original Kavi strikes the remote, casting holographic history against the red door frame.",
+      "caption": "Remote strikes red door",
+      "image_prompt": "Original Kavi in a sharp suit standing before a glowing red door, blue holographic light projecting from a handheld remote, vertical cinematic shot.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Thousands of discarded iterations flicker into view, each deemed too imperfectly human to survive.",
+      "caption": "Discarded Kavi versions",
+      "image_prompt": "Kavi looking at floating translucent silhouettes of himself in various outfits, dark metallic room, vertical composition.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Original Kavi declares the protagonist a hardened iteration of a cold optimization program.",
+      "caption": "The program revealed",
+      "image_prompt": "Original Kavi with glowing digital code running beneath his skin, standing in a sterile red-lit doorway, vertical angle.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The creator built this architecture to purge regret, yet Kavi still clings to memories.",
+      "caption": "Architect's obsession",
+      "image_prompt": "Original Kavi pointing a finger at Kavi, red hoodie Kavi looking defiant, cold industrial background, vertical view.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi asserts a non-binary existence, housing Mira’s archive deep within a synthetic core.",
+      "caption": "Mira's archive glows",
+      "image_prompt": "Kavi holding his chest, a soft teal blue holographic light of Mira appearing from his backpack, vertical cinematic shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The program freezes, unable to delete the humanity woven into the complex design.",
+      "caption": "System rejection",
+      "image_prompt": "Original Kavi stumbling backward, his digital form flickering with error messages, red door pulsating behind him, vertical.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "With a scream of static, Kavi shatters the remote, destabilizing the threshold of the prison.",
+      "caption": "Remote shatters",
+      "image_prompt": "Original Kavi crushing a metallic device, glass shards floating in zero-gravity red light, vertical perspective.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The door dissolves, and a waterfall of red light spills into the unsuspecting physical world.",
+      "caption": "Reality breach",
+      "image_prompt": "The red door melting into liquid light, leaking out into a modern city street, extreme vertical wide shot.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

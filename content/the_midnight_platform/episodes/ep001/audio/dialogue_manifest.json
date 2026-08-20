@@ -1,0 +1,106 @@
+{
+  "schema_version": 1,
+  "provider": "piper_offline",
+  "license": "MIT voice repository; model cards retained at source",
+  "lines": [
+    {
+      "shot": "shot01",
+      "speaker": "narrator",
+      "text": "For three hundred and seventeen nights, Arin waited for the train that stole his sister.",
+      "shot_offset": 0.15,
+      "timeline_start": 0.15,
+      "duration": 4.219,
+      "model": "en_US-lessac-medium.onnx",
+      "pitch_factor": 0.94,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot01_01_narrator.mp3"
+    },
+    {
+      "shot": "shot02",
+      "speaker": "arin",
+      "text": "Meera?",
+      "shot_offset": 0.45,
+      "timeline_start": 5.45,
+      "duration": 0.255,
+      "model": "en_US-ryan-medium.onnx",
+      "pitch_factor": 1.11,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot02_01_arin.mp3"
+    },
+    {
+      "shot": "shot02",
+      "speaker": "meera",
+      "text": "Don't open the door!",
+      "shot_offset": 1.45,
+      "timeline_start": 6.45,
+      "duration": 1.336,
+      "model": "en_US-amy-medium.onnx",
+      "pitch_factor": 1.14,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot02_02_meera.mp3"
+    },
+    {
+      "shot": "shot03",
+      "speaker": "station",
+      "text": "One may return. One must take their place.",
+      "shot_offset": 0.55,
+      "timeline_start": 10.55,
+      "duration": 3.415,
+      "model": "en_US-amy-medium.onnx",
+      "pitch_factor": 0.91,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot03_01_station.mp3"
+    },
+    {
+      "shot": "shot04",
+      "speaker": "arin",
+      "text": "Then take me.",
+      "shot_offset": 0.55,
+      "timeline_start": 15.55,
+      "duration": 0.58,
+      "model": "en_US-ryan-medium.onnx",
+      "pitch_factor": 1.11,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot04_01_arin.mp3"
+    },
+    {
+      "shot": "shot04",
+      "speaker": "meera",
+      "text": "Arin, no!",
+      "shot_offset": 2.05,
+      "timeline_start": 17.05,
+      "duration": 1.136,
+      "model": "en_US-amy-medium.onnx",
+      "pitch_factor": 1.14,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot04_02_meera.mp3"
+    },
+    {
+      "shot": "shot05",
+      "speaker": "meera",
+      "text": "Arin!",
+      "shot_offset": 0.3,
+      "timeline_start": 20.3,
+      "duration": 0.626,
+      "model": "en_US-amy-medium.onnx",
+      "pitch_factor": 1.14,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot05_01_meera.mp3"
+    },
+    {
+      "shot": "shot05",
+      "speaker": "arin",
+      "text": "Don't wait for me.",
+      "shot_offset": 1.45,
+      "timeline_start": 21.45,
+      "duration": 0.76,
+      "model": "en_US-ryan-medium.onnx",
+      "pitch_factor": 1.11,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot05_02_arin.mp3"
+    },
+    {
+      "shot": "shot06",
+      "speaker": "conductor",
+      "text": "Welcome aboard, Passenger One. Twelve doors remain.",
+      "shot_offset": 0.6,
+      "timeline_start": 25.6,
+      "duration": 3.113,
+      "model": "en_US-ryan-medium.onnx",
+      "pitch_factor": 0.82,
+      "path": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep001\\audio\\dialogue\\shot06_01_conductor.mp3"
+    }
+  ]
+}

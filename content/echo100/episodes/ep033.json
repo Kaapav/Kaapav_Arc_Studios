@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e033",
+  "season": 1,
+  "episode": 33,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Static Horizon | ECHO//100 Episode 33",
+  "description": "The reality reset fractures, trapping Kavi and Byte in the hollow void beneath the city's surface. As the world dissolves, they must sacrifice the past to prevent total existence failure. Episode 33 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky fails to reset, fracturing into jagged, unrendered polygons of infinite and terrifying nothingness.",
+      "caption": "Reality has fractured.",
+      "image_prompt": "Kavi in his red hoodie and glasses standing on a floating platform of wireframe geometry, looking up at a sky made of missing texture checkerboards.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers, a cyan face pulsing while scanning the void for a solid anchor.",
+      "caption": "Byte scans the void.",
+      "image_prompt": "Byte, a white floating robot with orange antennae, projecting a cyan holographic map over a bottomless abyss.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Beneath the city floor, millions of deleted, forgotten versions of existence drift like ghosts.",
+      "caption": "Discarded city fragments.",
+      "image_prompt": "Kavi peering over a ledge into a dark chasm filled with glowing, discarded architectural debris and faded holographic memories.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s protocol bleeds, tearing the structural integrity of this world into raw, digital code.",
+      "caption": "The city is dissolving.",
+      "image_prompt": "A tall, blue holographic figure of Mira in a teal coat watching the city's foundation vanish into white static.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the red doorway, but the light feeds on something deeper inside.",
+      "caption": "The red doorway opens.",
+      "image_prompt": "Byte hovering before a glowing crimson rift that emits tendrils of energy connecting to Kavi’s backpack.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To patch reality, the portal demands a toll: the core memories of personal history.",
+      "caption": "The memory sacrifice.",
+      "image_prompt": "Kavi clutching his head as golden light streams from his eyes into the red doorway, repairing the wireframe ground.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The city stabilizes, but the price of survival remains etched into a fading mind.",
+      "caption": "The world repairs.",
+      "image_prompt": "The city landscape snapping back into solid form while Kavi looks at his hands, which are beginning to turn translucent.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi tries to picture a mother’s face, but only static remains where smiles lived.",
+      "caption": "A memory lost forever.",
+      "image_prompt": "Close up on Kavi’s face; his eyes are wide, and a blank, grey void is superimposed over his memory of a woman.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

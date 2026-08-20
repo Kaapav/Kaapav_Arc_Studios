@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "episode": 1,
+  "episode_id": "echo30-ep001",
+  "output_slug": "echo30-episode001",
+  "title": "His Dead Father’s Phone Sent a Warning From Tomorrow | ECHO//30 Ep. 1",
+  "description": "At 2:17 AM, Kavi's dead father's phone plays a warning from tomorrow—in Kavi's own voice. Tara will disappear, and the message says he must not trust Byte.\n\nInside the abandoned Neon Arcade, Kavi, Tara and Byte discover a glowing red door erased from history. What waits behind it knows Kavi opened it before.\n\nECHO//30 — Episode 1: His Dead Father’s Phone Sent a Warning From Tomorrow\nAn original animated series from KAAPAV ARC Studios.\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": ["ECHO//30", "KAAPAV ARC Studios", "animated mystery", "science fiction", "cute 3D animation", "animated short", "original animation", "shorts"],
+  "thumbnail_text": "THE PHONE WARNED HIM",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D feature-animation, locked ECHO character sheets, tactile rain-dark Navapur environments, cyan memory light, red temporal warning light, restrained expressive acting, original design; no readable text, watermark, logo, collage, duplicate people, extra limbs, identity drift or costume drift.",
+  "arc": "The Door Opens",
+  "permanent_story_change": "Kavi receives the future warning, hides it from Byte, and opens the first Red Door with Tara.",
+  "manual_review_required": true,
+  "scenes": [
+    {"image":"story_frames/shot_01.png","image_prompt":"SHOT 1, macro-to-close cinematic composition in Kavi's dark repair bedroom at 2:17 AM. Kavi, locked South Asian boy in red hoodie, round glasses and blue repair backpack, stares at his dead father's cracked phone glowing cyan despite an empty battery; Byte, locked small white floating robot with cyan face, orange antenna and scuffed left panel, is dim in the background. Exact face, wardrobe and prop continuity; no readable screen text.","text":"At 2:17 AM, Kavi's dead father's phone vibrated without a battery.","effect":"push_in"},
+    {"image":"story_frames/shot_02.png","image_prompt":"SHOT 2, tight over-the-shoulder shot of Kavi holding the cyan-lit cracked phone as red warning light reflects in his round glasses; his expression changes from disbelief to fear while Byte remains out of focus behind him. Locked red hoodie, blue backpack and phone design; screen waveform shapes only, no readable text.","text":"The voice note was his own: At 3:57, Tara disappears. Don't trust Byte.","effect":"pan_right"},
+    {"image":"story_frames/shot_03.png","image_prompt":"SHOT 3, medium two-shot in Kavi's repair bedroom. Byte wakes and rises with cyan oval eyes while Kavi quickly hides the cracked phone against his red hoodie, guilt visible in his posture. Preserve locked Kavi and Byte designs, coherent cyan light and exact room continuity.","text":"Behind him, Byte woke. Kavi hid the warning.","effect":"pull_out"},
+    {"image":"story_frames/shot_04.png","image_prompt":"SHOT 4, wide vertical establishing shot inside the abandoned Neon Arcade, wet reflective floor, dead cabinets and rain-dark concrete. Tara, locked South Asian girl in mustard rain jacket, dark braid, large red headphones and cassette recorder, broadcasts while Kavi and Byte arrive; a solid wall cracks behind her with red light.","text":"At the abandoned Neon Arcade, Tara was still broadcasting when the wall cracked.","effect":"pan_left"},
+    {"image":"story_frames/shot_05.png","image_prompt":"SHOT 5, dramatic low-angle reveal as a glowing red maintenance door physically pushes through the arcade's solid concrete wall, dust and rainwater displaced. Kavi, Tara and Byte recoil with distinct believable reactions; preserve all locked identities and screen direction; no signs or readable labels.","text":"A red door pushed through solid concrete. It existed on no city plan.","effect":"push_in"},
+    {"image":"story_frames/shot_06.png","image_prompt":"SHOT 6, intimate close-up on Tara holding her portable cassette recorder and one red headphone cup, eyes widening as a cyan waveform pulses from the speaker. Kavi watches her while Byte scans the red door behind them; locked mustard jacket, braid, headphones, red hoodie and robot proportions; no readable device text.","text":"Then Tara's radio caught the childhood name only her missing brother Imran knew.","effect":"push_in"},
+    {"image":"story_frames/shot_07.png","image_prompt":"SHOT 7, dynamic three-character composition at the Red Door. Kavi ignores the cracked phone's red warning glow and connects Byte's cyan core to the lock; Tara reaches toward him in alarm while Byte hesitates. Exact locked costumes, faces, robot shell and door geometry; causal action readable without text.","text":"Kavi's phone warned: Do not open it alone. He connected Byte to the lock anyway.","effect":"pan_right"},
+    {"image":"story_frames/shot_08.png","image_prompt":"SHOT 8, cliffhanger reveal through the open glowing Red Door. Mira, locked blue holographic teenage girl in teal transit coat with cracked silver badge symbol, waits inside a forgotten cyan-lit station; Kavi stands foreground in shocked profile, Tara and Byte behind him. Strong red-to-cyan color contrast, consistent identities, no readable signage.","text":"The door opened. Mira waited inside. Kavi, she said, you are seventeen years late.","effect":"pull_out"}
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "series_id": "house_of_the_nameless",
+  "series_title": "HOUSE OF THE NAMELESS",
+  "episode": 1,
+  "episode_id": "house_of_the_nameless-ep001",
+  "output_slug": "house_of_the_nameless-episode001",
+  "title": "REPLACE WITH HOOK | HOUSE OF THE NAMELESS Ep. 1",
+  "description": "Replace with the unique episode description.\n\nHOUSE OF THE NAMELESS — Episode 1\nAn original animated series from KAAPAV ARC Studios.\n\n#AnimatedSeries #Shorts",
+  "tags": [
+    "HOUSE OF THE NAMELESS",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "3D animated short",
+    "supernatural mystery",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "REPLACE WITH 2–5 WORD HOOK",
+  "thumbnail_scene": 1,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation; original characters; expressive acting; dramatic volumetric light; coherent anatomy, props and environment; preserve the locked character sheets; no readable text, watermark, logo, duplicate characters, extra limbs, identity drift, costume changes or slideshow collage.",
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 1.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 2.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 3.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 4.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 5.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 6.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 7.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8: Replace with the exact visual story beat.",
+      "text": "Replace with narration for story beat 8.",
+      "effect": "push_in"
+    }
+  ]
+}

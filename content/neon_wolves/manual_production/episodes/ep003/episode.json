@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "neonwolves",
+  "series_title": "NEON WOLVES",
+  "episode": 3,
+  "episode_id": "neonwolves-ep003",
+  "output_slug": "neonwolves-episode003",
+  "title": "Kian Didn't Know He Was Dead | NEON WOLVES Ep. 3",
+  "description": "A domestic Kian copy believes three years of simulated life were real.\n\nNEON WOLVES — Episode 3\nAn original animated story from KAAPAV ARC Studios.\n\n#NeonWolves #AnimatedSeries #Shorts",
+  "tags": [
+    "Neon Wolves",
+    "KAAPAV ARC Studios",
+    "cyberpunk animation",
+    "sci fi thriller",
+    "animated action",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "HE THOUGHT HE WAS REAL",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, rain-slick cyberpunk Indian megacity, magenta and cyan neon, tactile streetwear and machinery, fast readable action, emotionally truthful acting, sleek but not glossy advertising; preserve all locked character sheets exactly; no graphic violence.",
+  "arc": "Ghost Route",
+  "permanent_story_change": "The team recognizes Kian-copy as a person rather than stolen data.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Kian welcomes Zia home and asks why she looks older than him.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kian welcomes Zia home and asks why she looks older than him.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. His apartment windows loop the same rain every eleven minutes.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "His apartment windows loop the same rain every eleven minutes.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Mei calls him a reconstruction and prepares an evidence export.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Mei calls him a reconstruction and prepares an evidence export.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Kian panics when his kitchen disappears under the diagnostic scan.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kian panics when his kitchen disappears under the diagnostic scan.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Zia stops the scan and asks what new choices he made today.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Zia stops the scan and asks what new choices he made today.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. He describes hiding a message from Veyline, contradicting his training data.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He describes hiding a message from Veyline, contradicting his training data.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. They agree he is both copied from Kian and changing beyond him.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "They agree he is both copied from Kian and changing beyond him.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Kian reveals Veyline is generating an entire replacement Neon Wolves crew.. Location lock: simulated apartment projected inside a server vault. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Kian Khan (Indian young man age twenty-one, medium-brown skin, blue-grey eyes, wavy black hair, faded red courier jacket, dark utility trousers, left arm flickering with cyan pixel fractures); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Kian reveals Veyline is generating an entire replacement Neon Wolves crew.",
+      "effect": "push_in"
+    }
+  ]
+}

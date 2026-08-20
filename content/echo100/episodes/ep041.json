@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e041",
+  "season": 1,
+  "episode": 41,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Hundred Phones",
+  "title": "The Golden Threshold | ECHO//100 Episode 41",
+  "description": "Kavi approaches a shimmering gateway that reveals a reality beyond the map. Byte suffers a catastrophic hardware failure as the golden light consumes his mechanical core. Episode 41 of ECHO//100: The Hundred Phones. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The ground liquefies into molten gold, vibrating beneath Kavi as the humming threshold pulses brighter.",
+      "caption": "Golden ground ripples",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie standing on ground turning into liquid gold, glowing doorway in distance.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte’s orange antenna sparks, his cyan face flickering as his chassis hardens into solid gold.",
+      "caption": "Byte is freezing",
+      "image_prompt": "Close up of Byte the floating white robot, half his body turning into polished gold, sparks flying.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The droid hits the ground with a heavy thud, his hover system failing within gold.",
+      "caption": "Byte falls hard",
+      "image_prompt": "Byte lying lifeless on the golden floor, Kavi reaching down with his backpack visible.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi approaches the gateway, observing a city of impossible architecture reflected in the shimmering surface.",
+      "caption": "Impossible city reflection",
+      "image_prompt": "Kavi looking into a giant golden vertical mirror reflecting a futuristic city with floating spires.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi’s memory drive aches, syncing to the mirror and pulling forgotten childhood dreams into light.",
+      "caption": "Memories manifest",
+      "image_prompt": "Kavi standing before the mirror, glowing light emitting from his glasses, ethereal shapes forming in the air.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "This is no exit; the mirror acts as a projector, feeding subconscious thoughts into reality.",
+      "caption": "Subconscious projection",
+      "image_prompt": "Kavi realizing the truth, looking at images from his past floating out of the golden mirror surface.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The golden surface ripples violently, distorting the architecture into a dark, familiar silhouette approaching Kavi.",
+      "caption": "Shadow emerging",
+      "image_prompt": "A dark, shadowy figure stepping out of the liquid golden mirror, silhouette looming over Kavi.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The figure steps out, and Kavi stares into his own eyes, wearing his red hoodie.",
+      "caption": "Double revealed",
+      "image_prompt": "Kavi facing a perfect golden-skinned doppelganger of himself, both wearing identical red hoodies.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc05/arc05-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

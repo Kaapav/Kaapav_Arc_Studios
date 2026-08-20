@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep010",
+  "episode_number": 10,
+  "arc": 1,
+  "title": "Platform 13",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Midnight. Twelve witnesses hold mirrors as Platform 13 physically unfolds from the tiled wall; the train arrives without headlights.",
+      "dialogue_audio": "Maya: “Whatever steps off, keep saying its name.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Door Four opens. Arin stands inside with Saira; Meera reaches for him, but Arin sends Saira first.",
+      "dialogue_audio": "Arin: “Saira Sen. Sixteen. Taken in 1998.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Saira crosses. Every witness repeats her name while the exchange plaque demands a replacement in warning red.",
+      "dialogue_audio": "Witnesses: “Saira Sen.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Arin plants his cracked badge in the door, temporarily satisfying the mechanism; the train tears away with him still aboard.",
+      "dialogue_audio": "Meera: “Arin!” Arin: “Now you know how to call me.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Saira sees a modern skyline for the first time. Her compass points toward a river—then every city light beyond it goes dark.",
+      "dialogue_audio": "Saira: “Where is the east bridge?”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Dawn reveals a river separating two crowds who insist no bridge ever existed; only Meera, Maya, Saira, and Tick remember it.",
+      "dialogue_audio": "Maya: “We brought back a person. The city lost a place.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "ARC I COMPLETE — THE CITY IS BEING ERASED"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

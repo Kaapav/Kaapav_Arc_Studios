@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep026",
+  "episode_number": 26,
+  "arc": 3,
+  "title": "The City Chose at Midnight",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Meera hijacks every station speaker while Maya displays Rohan’s cyan exchange result across public departure boards.",
+      "dialogue_audio": "Meera: “The train will take whole lives unless we choose smaller losses together.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Nila broadcasts the opposite offer from the engine: surrender nothing and she will return everyone by force.",
+      "dialogue_audio": "Nila: “Why should the living keep everything?”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "A nurse offers the memory of her first day in uniform; a baker offers one recipe; a porter offers the score of a childhood match.",
+      "dialogue_audio": "Nurse: “I understand the cost. I consent.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "Hundreds refuse and step back—shown without shame—while thousands who accept write one chosen memory on blank brass slips.",
+      "dialogue_audio": "Maya: “A choice is not consent if no is forbidden.”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "The slips glow cyan across the city, each tiny contribution flowing toward Central Station without erasing any person.",
+      "dialogue_audio": "Elias: “The debt is dividing.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Nila sees the engine’s red balance fall from one life to thousands of freely given memories.",
+      "dialogue_audio": "Meera: “Nobody carries it alone again.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CITY SAID YES — FREELY"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

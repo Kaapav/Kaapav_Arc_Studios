@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e039",
+  "season": 1,
+  "episode": 39,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "The Final Reset | ECHO//100 Episode 39",
+  "description": "The city folds into a singular point of light as Kavi prepares to break the infinite loop. His choice demands a heavy sacrifice to set the trapped souls free. Episode 39 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky folds like paper, pinning the city beneath a crush of closing geometric horizons.",
+      "caption": "The sky collapses",
+      "image_prompt": "Vertical shot of Kavi in his red hoodie looking up at the sky folding into origami patterns above a neon city.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi clutches the rusted gear, the only physical object left in this crumbling, digital nightmare.",
+      "caption": "The final gear",
+      "image_prompt": "Kavi holding a glowing, rusted mechanical gear in his palm, his red backpack visible in the frame.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers violently, his cyan face dimming as the data stream begins to dissolve forever.",
+      "caption": "Byte is fading",
+      "image_prompt": "Byte, the white floating robot with an orange antenna, glitching near Kavi as digital dust fills the air.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira’s hollow code screams, scattering into the void like stardust after she purges the archives.",
+      "caption": "Mira is gone",
+      "image_prompt": "A silhouette of Mira in her teal coat dissolving into blue holographic shards against a black background.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "This gear acts as a reset switch, but using it deletes the city and everything.",
+      "caption": "A heavy choice",
+      "image_prompt": "Kavi standing at the edge of a floating platform, staring at a massive red doorway appearing in space.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The exit opens only for others, forcing Kavi to stay behind to hold the gate.",
+      "caption": "The bitter reversal",
+      "image_prompt": "Close-up of Kavi’s glasses reflecting the red doorway, his expression shifting from resolve to realization.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi jams the gear into the red frame, locking the cycle open for the escapees.",
+      "caption": "The lock engages",
+      "image_prompt": "Kavi forcing the rusted gear into a slot on the red doorway, sparks of light erupting around him.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The world turns to silence as the loop snaps, leaving Kavi alone in the dark.",
+      "caption": "Total silence",
+      "image_prompt": "Kavi standing motionless in a vast, empty void as the last light of the city vanishes completely.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

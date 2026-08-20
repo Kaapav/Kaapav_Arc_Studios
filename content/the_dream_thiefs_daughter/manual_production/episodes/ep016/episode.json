@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "dreamthiefdaughter",
+  "series_title": "THE DREAM THIEF'S DAUGHTER",
+  "episode": 16,
+  "episode_id": "dreamthiefdaughter-ep016",
+  "output_slug": "dreamthiefdaughter-episode016",
+  "title": "Her Father Didn't Know Her | THE DREAM THIEF'S DAUGHTER Ep. 16",
+  "description": "Amaya must help Dev recover responsibility without using family love as proof he deserves rescue.\n\nTHE DREAM THIEF'S DAUGHTER — Episode 16\nAn original animated story from KAAPAV ARC Studios.\n\n#DreamThiefsDaughter #AnimatedSeries #Shorts",
+  "tags": [
+    "The Dream Thief's Daughter",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "dream mystery",
+    "emotional adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "FATHER FORGOT HER",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile Indian twilight city, floating dream fabrics, luminous indigo, coral and gold, handcrafted surreal environments, emotionally truthful acting, beautiful but never sugary, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The City Without Nightmares",
+  "permanent_story_change": "Dev chooses to face the ownership records before recovering personal memories.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Dev recognizes his tools and crimes but sees Amaya as a stranger demanding intimacy.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev recognizes his tools and crimes but sees Amaya as a stranger demanding intimacy.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Amaya nearly tells a comforting childhood story to force paternal feeling back.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya nearly tells a comforting childhood story to force paternal feeling back.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Moth blocks the memory vial and shows how emotional leverage resembles dream theft.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Moth blocks the memory vial and shows how emotional leverage resembles dream theft.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Dev asks for records of whose choices he removed before learning who loved him.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev asks for records of whose choices he removed before learning who loved him.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Together they open one empty vial at a time and record the owners without entering their dreams.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Together they open one empty vial at a time and record the owners without entering their dreams.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Dev sees Amaya's name repeated across his worst decisions.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev sees Amaya's name repeated across his worst decisions.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. He chooses to remain accountable even if family affection never returns.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He chooses to remain accountable even if family affection never returns.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. The last vial says Leena asked Dev to erase the night Amaya died.. Location lock: floating dream island built from Dev's empty vials. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The last vial says Leena asked Dev to erase the night Amaya died.",
+      "effect": "push_in"
+    }
+  ]
+}

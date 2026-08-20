@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "series_title": "THE MIDNIGHT PLATFORM",
+  "episode": 2,
+  "episode_id": "the-midnight-platform-ep002",
+  "output_slug": "the-midnight-platform-episode002",
+  "title": "The Girl Who Forgot Her Name | MIDNIGHT PLATFORM Ep. 2",
+  "description": "The Girl Who Forgot Her Name. One supernatural railway choice permanently changes Arin, Meera, and the passengers trapped between minutes.\n\nTHE MIDNIGHT PLATFORM — Episode 2\nAn original supernatural mystery animated series from KAAPAV ARC Studios.\n\nSubscribe: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#MidnightPlatform #AnimatedSeries #Shorts",
+  "tags": [
+    "The Midnight Platform",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "supernatural mystery",
+    "3D animated short",
+    "ghost train story",
+    "fantasy animation",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "GIRL WHO FORGOT HER NAME",
+  "thumbnail_scene": 6,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation in THE MIDNIGHT PLATFORM world. Victorian-Indian supernatural railway design, wet midnight platforms, antique brass clockwork, navy, cyan and amber lighting, expressive original characters. Preserve every locked turnaround, age, costume, prop, handedness and relationship. Tick is always a small quadruped clockwork fox. The Conductor's clock mask and uniform remain exact. No readable generated text; any required words are added later as editorial typography. No duplicate characters, extra limbs, identity drift, costume drift, logos or watermark.",
+  "source_screenplay": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep002\\screenplay.md",
+  "source_storyboard": "D:\\Apps\\YT-Auto\\content\\the_midnight_platform\\episodes\\ep002\\storyboard_plan.json",
+  "voice_mode": "multi_speaker_script_preserved_single_narrator_fallback",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 01, 5 seconds. Arin enters a carriage lined with thousands of hanging brass name tags; each tag whispers in a different voice. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Conductor, over speaker: “Door One collects what passengers stop defending.”",
+      "dialogue_audio": "Conductor, over speaker: “Door One collects what passengers stop defending.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 02, 5 seconds. A rust-red blur tackles Arin away from a tag reaching for his chest; reveal Saira with silver compass necklace. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “Say your name. Now.” Arin: “Arin Rao.”",
+      "dialogue_audio": "Saira: “Say your name. Now.” Arin: “Arin Rao.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 03, 5 seconds. Arin repeats his name while letters vanish from his blank ticket; Saira presses her compass to her heart. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “Again. Before the carriage eats it.”",
+      "dialogue_audio": "Saira: “Again. Before the carriage eats it.”",
+      "planned_seconds": 5,
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 04, 5 seconds. A tag marked only by editorial typography SAIRA SEN / 1998 swings behind her; Arin realizes her era. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Arin: “You’ve been here since 1998?” Saira: “It’s still 1998.”",
+      "dialogue_audio": "Arin: “You’ve been here since 1998?” Saira: “It’s still 1998.”",
+      "planned_seconds": 5,
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 05, 5 seconds. The carriage lights fail in sequence. A child-sized silhouette with cracked luminous hands watches through the forest of tags. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Child whisper: “He brought me another name.”",
+      "dialogue_audio": "Child whisper: “He brought me another name.”",
+      "planned_seconds": 5,
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 06, 5 seconds. Arin and Saira slam the next door shut; the brass tag in Arin’s fist now carries Meera’s fingerprint, not text. Use only the canonical turnaround sheets for every named character in this shot. Compose one coherent cinematic moment with clear action and reaction; leave clean caption space.",
+      "text": "Saira: “That was Passenger Zero.”",
+      "dialogue_audio": "Saira: “That was Passenger Zero.”",
+      "planned_seconds": 5,
+      "effect": "pull_out"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "dreamthiefdaughter",
+  "series_title": "THE DREAM THIEF'S DAUGHTER",
+  "episode": 18,
+  "episode_id": "dreamthiefdaughter-ep018",
+  "output_slug": "dreamthiefdaughter-episode018",
+  "title": "Saaz Learned to Say No in the City Without Nightmares",
+  "description": "Saaz refuses Amaya's demand to return a fragment, proving it has developed agency—and possession.\n\nTHE DREAM THIEF'S DAUGHTER — Episode 18\nAn original animated story from KAAPAV ARC Studios.\n\n#DreamThiefsDaughter #AnimatedSeries #Shorts",
+  "tags": [
+    "The Dream Thief's Daughter",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "dream mystery",
+    "emotional adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE NIGHTMARE REFUSED",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile Indian twilight city, floating dream fabrics, luminous indigo, coral and gold, handcrafted surreal environments, emotionally truthful acting, beautiful but never sugary, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The City Without Nightmares",
+  "permanent_story_change": "Saaz becomes a negotiating person subject to the same consent rules as everyone else.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Saaz builds a court from fears that no original dreamer currently wants back.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Saaz builds a court from fears that no original dreamer currently wants back.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Amaya demands her hospital nightmare because it came from her life.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya demands her hospital nightmare because it came from her life.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Saaz says the fragment also shaped its emerging self and cannot be removed without harm.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Saaz says the fragment also shaped its emerging self and cannot be removed without harm.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Ishir points out that origin creates a claim but not unlimited control over a changed person.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Ishir points out that origin creates a claim but not unlimited control over a changed person.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Amaya agrees to copy no content and instead shares the right to revisit the fragment later.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya agrees to copy no content and instead shares the right to revisit the fragment later.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Saaz learns the word no through an agreement that protects both identities.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Saaz learns the word no through an agreement that protects both identities.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. It releases Dev's physical location as proof it can cooperate without surrender.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "It releases Dev's physical location as proof it can cooperate without surrender.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. His body lies inside Saanjh's central clock, where Viraaj's automatic system is preparing permanent wakefulness.. Location lock: indigo court assembled from nightmare fragments. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Ishir Bose (lean Indian teen boy, dark brown skin, large warm-grey eyes with visible tiredness, short loose black curls, oversized olive cardigan, cream T-shirt, rust trousers, canvas shoes, wooden flute case covered in moon stickers without readable text); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Saaz (tall gentle silhouette woven from translucent indigo smoke and thousands of tiny golden closed eyes, long ribbon-like arms, one coral light at heart, uncanny but not monstrous). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "His body lies inside Saanjh's central clock, where Viraaj's automatic system is preparing permanent wakefulness.",
+      "effect": "push_in"
+    }
+  ]
+}

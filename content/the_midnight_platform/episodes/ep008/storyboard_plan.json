@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "series_id": "the_midnight_platform",
+  "episode_id": "ep008",
+  "episode_number": 8,
+  "arc": 1,
+  "title": "The Night Everyone Forgot the Moon",
+  "duration_seconds": 31,
+  "production_status": "script_locked_reference_images_pending",
+  "canonical_character_references": [
+    "../../assets/references/character_world_master.png",
+    "../../assets/references/secondary_character_master_candidate_v2.png"
+  ],
+  "secondary_master_status": "candidate_requires_consistency_approval",
+  "shots": [
+    {
+      "id": "shot01",
+      "seconds": 5,
+      "visual_event": "Meera, Maya, and quadruped Tick align thirteen station mirrors into a ring around the brass handbell.",
+      "dialogue_audio": "Maya: “One signal cost a minute. Two may cost the city.”",
+      "reference_image": "shot_frames/shot01.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot02",
+      "seconds": 5,
+      "visual_event": "Meera rings anyway. Above them the full moon flickers like a faulty lamp while Arin appears across all mirrors.",
+      "dialogue_audio": "Meera: “Arin, the route says Car Four.”",
+      "reference_image": "shot_frames/shot02.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot03",
+      "seconds": 5,
+      "visual_event": "Arin shouts back from the train as Nila’s glowing cracks spread across the mirrored sky.",
+      "dialogue_audio": "Arin: “Don’t call again. It charges everyone.”",
+      "reference_image": "shot_frames/shot03.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot04",
+      "seconds": 5,
+      "visual_event": "The signal breaks. People across the city look up at a bright circle they can see but cannot name.",
+      "dialogue_audio": "Child in street: “What is that light?”",
+      "reference_image": "shot_frames/shot04.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot05",
+      "seconds": 5,
+      "visual_event": "Maya opens a schoolbook: every moon illustration remains, but every printed label is blank under clean editorial masking.",
+      "dialogue_audio": "Maya: “A shared memory. Taken whole.”",
+      "reference_image": "shot_frames/shot05.png",
+      "reference_status": "pending_generation"
+    },
+    {
+      "id": "shot06",
+      "seconds": 5,
+      "visual_event": "Meera writes MOON on her palm before she forgets, then looks up and says the word to Tick.",
+      "dialogue_audio": "Meera: “We remember for them.”",
+      "reference_image": "shot_frames/shot06.png",
+      "reference_status": "pending_generation"
+    }
+  ],
+  "end_card": {
+    "seconds": 1,
+    "text": "THE CITY PAID ARIN’S FARE"
+  },
+  "video_generation_allowed": false,
+  "youtube_upload_allowed": false
+}

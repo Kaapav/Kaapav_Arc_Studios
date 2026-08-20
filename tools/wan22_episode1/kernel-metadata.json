@@ -1,0 +1,17 @@
+{
+  "id": "kaapav/echo-100-episode-1-wan-2-2",
+  "title": "ECHO 100 Episode 1 Wan 2.2",
+  "code_file": "kaapav-echo100-episode1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "machine_shape": "NvidiaTeslaT4",
+  "dataset_sources": [
+    "kaapav/kaapav-wan22-models"
+  ],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

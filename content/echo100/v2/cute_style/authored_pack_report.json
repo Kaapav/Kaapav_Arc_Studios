@@ -1,0 +1,42 @@
+{
+  "schema_version": 1,
+  "series_id": "echo30",
+  "source_pack": "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\authored_pack_episodes16_30.json",
+  "episodes_packaged": 15,
+  "episode_numbers": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "scene_scripts_packaged": 120,
+  "manifests": [
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode16\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode17\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode18\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode19\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode20\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode21\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode22\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode23\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode24\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode25\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode26\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode27\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode28\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode29\\episode.json",
+    "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\cute_style\\episode30\\episode.json"
+  ],
+  "status": "story_image_video_scripts_packaged_images_pending"
+}

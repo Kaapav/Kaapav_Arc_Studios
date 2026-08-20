@@ -1,0 +1,66 @@
+name: Daily YouTube Auto-Post
+
+permissions:
+  contents: write
+
+concurrency:
+  group: yt-auto-daily
+  cancel-in-progress: false
+
+# Runs every day at 06:30 IST (01:00 UTC). Adjust as you like.
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch: {}          # also lets you trigger it manually from the Actions tab
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install system deps (ffmpeg + Hindi/Unicode fonts)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fonts-noto fonts-noto-core fonts-dejavu
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Restore secrets (.env + OAuth token)
+        env:
+          ENV_FILE_B64: ${{ secrets.ENV_FILE_B64 }}
+          YT_TOKEN_B64: ${{ secrets.YT_TOKEN_B64 }}
+          YT_CLIENT_SECRET_B64: ${{ secrets.YT_CLIENT_SECRET_B64 }}
+        run: |
+          mkdir -p credentials
+          echo "$ENV_FILE_B64" | base64 -d > .env
+          echo "$YT_TOKEN_B64" | base64 -d > credentials/token.json
+          echo "$YT_CLIENT_SECRET_B64" | base64 -d > credentials/client_secret.json
+
+      - name: Generate & upload one readiness-gated story draft
+        run: python story_main.py
+
+      # Persist the used-topics log and refreshed token so state carries over.
+      - name: Save state back to secrets is manual; commit cache instead
+        run: |
+          git config user.name "yt-bot"
+          git config user.email "yt-bot@users.noreply.github.com"
+          git add .cache/used_topics.txt || true
+          git commit -m "chore: update used-topics [skip ci]" || echo "nothing to commit"
+          git push || echo "push skipped"
+
+      - name: Upload rendered artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-drafts
+          path: output/**
+          retention-days: 7

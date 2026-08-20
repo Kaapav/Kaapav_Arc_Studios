@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e012",
+  "season": 1,
+  "episode": 12,
+  "status": "queued",
+  "canon_version": 1,
+  "arc": "The Missing Hour",
+  "title": "Shadow Protocol | ECHO//100 Episode 12",
+  "description": "Kavi tracks his sentient shadow into the basement where it reconstructs a forgotten city. Byte discovers that some anomalies are beyond the reach of digital deletion. Episode 12 of ECHO//100: The Missing Hour. This content is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Kavi watches as a detached shadow drags heavy heels toward the basement's forbidden wooden floorboards.",
+      "caption": "Shadow walks alone",
+      "image_prompt": "Vertical shot of Kavi in a red hoodie watching his dark shadow walk toward a dark basement door, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow rearranges dusty chairs into the precise, eerie street grid of the lost city.",
+      "caption": "Furniture mapping city",
+      "image_prompt": "Kavi's shadow moving a wooden chair to mimic a city block layout on the basement floor.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers closer, scanning the construct as it forms a perfect model of the Red Door.",
+      "caption": "Byte scans model",
+      "image_prompt": "Byte, a white floating robot with a cyan face, scans a small glowing replica of a red door.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow turns a featureless face to reveal a reflection of Kavi's own weary, aged eyes.",
+      "caption": "Shadow reveals truth",
+      "image_prompt": "Close up of the shadow's face showing Kavi's eyes, basement shadows swirling around them.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "This entity is no parasite, but a future version of Kavi clawing through the floorboard seams.",
+      "caption": "Future self trapped",
+      "image_prompt": "The shadow reaching through a crack in the floorboards, light glowing from underneath.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte fires a deletion beam, yet the code bounces off the shadow's impenetrable, ancient dark aura.",
+      "caption": "Byte's code fails",
+      "image_prompt": "Byte firing a cyan beam at the shadow, the beam scattering into sparks upon impact.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The floorboards groan while the house tilts, sinking rapidly into a dark, shifting temporal dimension.",
+      "caption": "House sinking fast",
+      "image_prompt": "The basement walls warping as the entire foundation of the house begins to sink downwards.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The shadow lunges, grabbing Kavi's ankle and dragging the protagonist into the floor's shimmering, hungry void.",
+      "caption": "Kavi pulled under",
+      "image_prompt": "Kavi being pulled into the floorboards by his own shadow, his red backpack catching on wood.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc02/arc02-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1",
+  "rendered_at": "2026-08-04T13:28:49",
+  "job_dir": "D:\\Apps\\YT-Auto\\output\\story\\20260804-131507-echo100-s01e012",
+  "review_id": "20260804-132849-372843",
+  "youtube_url": null,
+  "upload_error": null
+}

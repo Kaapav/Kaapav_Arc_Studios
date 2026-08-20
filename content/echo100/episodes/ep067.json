@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e067",
+  "season": 1,
+  "episode": 67,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Null Before Null",
+  "title": "Acceleration Point | ECHO//100 Episode 67",
+  "description": "Kavi-Byte battles the chronal winds as the reality-bending child triggers a catastrophic collapse of the timeline. To save the future, Kavi must sacrifice his own physical existence to patch the breach. Episode 67 of ECHO//100: Null Before Null. This is an original work of fiction created with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The garden fractures as Mira’s holographic edges fray, flickering between youth and sudden, ancient decay.",
+      "caption": "Mira begins aging rapidly",
+      "image_prompt": "Mira with a translucent teal coat flickering between a young girl and an elderly woman in a floating data garden.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Chronal winds scream, tearing data petals into jagged shards while the child wails in pure static.",
+      "caption": "Reality begins to collapse",
+      "image_prompt": "Kavi in his red hoodie shielding a small glowing child from swirling digital debris in a vortex.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte glows frantically, scanning the void to reveal a gaping, hungry hole where the battery once lived.",
+      "caption": "A void in space",
+      "image_prompt": "Byte, a floating white entity with a cyan face and orange antenna, pointing at a dark temporal rift.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The timeline is desperate to heal itself, accelerating time to consume anything near the missing core.",
+      "caption": "Time is accelerating violently",
+      "image_prompt": "Kavi looking at his own hands as they rapidly age and revert to childhood proportions.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira collapses, unable to hold her form as the vortex pulls the child toward the dark center.",
+      "caption": "Mira loses her stability",
+      "image_prompt": "Mira kneeling, her holographic teal coat dissolving into blue light as the child floats toward the rift.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the hole demands a soul, not a battery, to anchor this broken, bleeding reality.",
+      "caption": "Kavi finds the solution",
+      "image_prompt": "Kavi, wearing glasses and a red backpack, staring intently into the swirling, dark temporal vortex.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "He looks back once, seeing his own suppressed memories fading into the light of the saved child.",
+      "caption": "Kavi makes his choice",
+      "image_prompt": "Kavi turning his head back toward a fading Mira, his face showing a mix of sorrow and resolve.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi leaps into the void, his physical form disintegrating into the engine that powers the dying timeline.",
+      "caption": "Kavi becomes the engine",
+      "image_prompt": "Kavi jumping into a massive, swirling vortex of red and black light, leaving behind a glowing trail.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc07/arc07-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

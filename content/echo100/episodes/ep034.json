@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e034",
+  "season": 1,
+  "episode": 34,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Ghost in the Gear | ECHO//100 Episode 34",
+  "description": "Kavi confronts a weeping shadow entity that claims to hold the missing pieces of his own fractured identity. As reality crumbles, he must decide if regaining his past is worth the cost of his future. Episode 34 of ECHO//100: ARC. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The sky fractures, raining weeping shadows across the frozen expanse of City Horizon.",
+      "caption": "Shadows rain from sky",
+      "image_prompt": "Vertical wide shot, Kavi in red hoodie and glasses stands looking up at a dark, glitching sky raining purple shadows over a half-rendered cityscape.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null descends, a towering entity flickering with the static of a thousand broken timelines.",
+      "caption": "Null descends slowly",
+      "image_prompt": "Low angle, Null, a tall figure of black-purple glitch energy with glowing red eyes, hovers before Kavi.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null commands Kavi to halt the reset, claiming to be the original discarded version.",
+      "caption": "Null speaks truth",
+      "image_prompt": "Close up, Null's glitching face looms over Kavi, whose expression is one of pure, stunned disbelief.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers nearby, screen glitching as the drone recognizes Kavi’s lost emotions within Null.",
+      "caption": "Byte watches closely",
+      "image_prompt": "Medium shot, Byte, a small white floating robot with a cyan face and orange antenna, observes the tense confrontation.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "These shadows manifest as the buried feelings from every iteration of Kavi’s existence.",
+      "caption": "Kavi touches shadows",
+      "image_prompt": "Close up, Kavi reaches out a trembling hand toward the swirling black mist radiating from Null's chest.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi resolves to reclaim that jagged truth, risking the destruction of the current self.",
+      "caption": "Kavi accepts merge",
+      "image_prompt": "Medium shot, Kavi pulls Null into a desperate embrace, light erupting where their bodies meet.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Memories flood forward, a tidal wave of ancient grief and joy crashing into consciousness.",
+      "caption": "Memories rush in",
+      "image_prompt": "Abstract shot, Kavi floating in a void of swirling, semi-transparent images of past lives and city iterations.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi opens eyes burning with pulsing black-purple light, remembering everything at long last.",
+      "caption": "Eyes glow brightly",
+      "image_prompt": "Extreme close up, Kavi's eyes glowing with deep purple energy, his face set in a cold, knowing expression.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

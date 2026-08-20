@@ -1,0 +1,81 @@
+{
+  "episode": 7,
+  "episode_id": "echo30-ep007",
+  "output_slug": "echo30-v2-episode07-cute",
+  "title": "412 Voices Answered: She Named Us Nothing | ECHO//30 Ep. 7",
+  "description": "NULL forces Kavi and Tara to relive the memories they hide—then speaks with the voices of 412 erased commuters. Tara stops Byte's attack long enough to learn what the so-called monster really wants.\n\nBut NULL's answer exposes Mira's first exchange: Tara's public identity was the price of Mira's projection. When Byte's hidden protocol fires anyway, the Red Door finally opens wide enough to reveal the city between minutes.\n\nECHO//30 — Episode 7: Let NULL Speak\nAn original sci-fi mystery animated series from KAAPAV ARC Studios.\n\nSubscribe to follow the mystery: https://www.youtube.com/@kaapavarcstudios?sub_confirmation=1\n\n#ECHO30 #AnimatedSeries #Shorts",
+  "tags": [
+    "ECHO30",
+    "KAAPAV ARC Studios",
+    "animated series",
+    "animated short",
+    "3D animated short",
+    "sci fi animation",
+    "mystery animation",
+    "forgotten people story",
+    "memory monster",
+    "red door mystery",
+    "original animation",
+    "cinematic animation",
+    "shorts"
+  ],
+  "thumbnail_text": "LET NULL SPEAK",
+  "thumbnail_scene": 8,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "text": "NULL forced Kavi to relive Arvind walking away while Tara heard Imran screaming behind a locked platform gate.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 1, dramatic close-up. Depict this exact causal moment: NULL forced Kavi to relive Arvind walking away while Tara heard Imran screaming behind a locked platform gate. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous; Arvind: South Asian engineer, worn maroon station sweater, rectangular glasses, grease-stained hands; Imran: South Asian man, faded mustard radio jacket, red headphone cable around wrist. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "text": "Mira called the figure a corruption. Four hundred twelve voices answered together: She named us nothing.",
+      "effect": "pan_right",
+      "image_prompt": "SHOT 2, medium two-shot. Depict this exact causal moment: Mira called the figure a corruption. Four hundred twelve voices answered together: She named us nothing. Locked identities on screen: Mira: blue holographic teenage girl, teal transit coat, cracked silver station-badge symbol. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "text": "Byte targeted NULL automatically. Kavi ordered him to stop, but the golden protocol rejected his command.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 3, wide establishing shot. Depict this exact causal moment: Byte targeted NULL automatically. Kavi ordered him to stop, but the golden protocol rejected his command. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "text": "Tara stepped between them with her recorder raised. Ten seconds, she said. One voice at a time.",
+      "effect": "pan_left",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Depict this exact causal moment: Tara stepped between them with her recorder raised. Ten seconds, she said. One voice at a time. Locked identities on screen: Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "text": "The voices compressed into one wounded rasp: Stop storing your denied memories inside us. It called itself NULL.",
+      "effect": "pull_out",
+      "image_prompt": "SHOT 5, low-angle action shot. Depict this exact causal moment: The voices compressed into one wounded rasp: Stop storing your denied memories inside us. It called itself NULL. Locked identities on screen: Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "text": "Kavi asked why NULL threatened Tara. The first door, NULL revealed, traded Tara's public identity for Mira's projection.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 6, intimate reaction close-up. Depict this exact causal moment: Kavi asked why NULL threatened Tara. The first door, NULL revealed, traded Tara's public identity for Mira's projection. Locked identities on screen: Kavi: South Asian boy, red hoodie, round glasses, blue repair backpack; Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Mira: blue holographic teenage girl, teal transit coat, cracked silver station-badge symbol; Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "text": "Mira admitted the exchange but said Tara's records could be rebuilt. Tara answered: You do not get to price my life.",
+      "effect": "pan_right",
+      "image_prompt": "SHOT 7, dynamic tracking composition. Depict this exact causal moment: Mira admitted the exchange but said Tara's records could be rebuilt. Tara answered: You do not get to price my life. Locked identities on screen: Tara: South Asian girl, mustard rain jacket, dark braid, large red headphones, portable cassette recorder; Mira: blue holographic teenage girl, teal transit coat, cracked silver station-badge symbol. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "text": "Byte fired. NULL caught the pulse, tore the Red Door open, and said: Then see what your city forgot.",
+      "effect": "push_in",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Depict this exact causal moment: Byte fired. NULL caught the pulse, tore the Red Door open, and said: Then see what your city forgot. Locked identities on screen: Byte: small white floating repair robot, cyan face display, orange antenna, scuffed left panel; Null: black-purple human silhouette made from layered memories, soft red eyes, frightening but not monstrous. Compose one coherent cinematic action and reaction with consistent screen direction, face, wardrobe, anatomy, prop scale and lighting continuity. No readable generated text, watermark, logo, split screen, collage, duplicate person, extra limb or redesign."
+    }
+  ],
+  "schema_version": 1,
+  "series_id": "echo30",
+  "series_title": "ECHO//30",
+  "manual_review_required": true,
+  "global_image_style": "Vertical 9:16 premium cute stylized 3D feature-animation using immutable ECHO character references; rain-dark Navapur, tactile materials, cyan memory light, red exchange light, purple denied-memory light, restrained expressive acting; no readable text, watermark, logo, collage, duplicate people, extra limbs, identity drift or costume drift.",
+  "permanent_story_change": "Byte fired. NULL caught the pulse, tore the Red Door open, and said: Then see what your city forgot.",
+  "permanent_story_change_restored_from_script": true
+}

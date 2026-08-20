@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "series": "ECHO//30",
+  "episode": 10,
+  "status": "accepted",
+  "accepted_frames": [
+    "story_frames/shot_01.png",
+    "story_frames/shot_02.png",
+    "story_frames/shot_03.png",
+    "story_frames/shot_04.png",
+    "story_frames/shot_05.png",
+    "story_frames/shot_06.png",
+    "story_frames/shot_07.png",
+    "story_frames/shot_08.png"
+  ],
+  "qc_checks": {
+    "frame_count": "pass",
+    "portrait_composition": "pass",
+    "lead_identity_consistency": "pass",
+    "costume_and_prop_consistency": "pass",
+    "scene_continuity": "pass",
+    "no_duplicate_leads": "pass",
+    "no_generated_text_or_watermark": "pass",
+    "narrative_action_per_frame": "pass"
+  },
+  "rejected_generations": [],
+  "render_gate": "images_accepted_video_not_started",
+  "restored_from_disk_cleanup": true,
+  "restored_at": "2026-08-20T09:34:00Z"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e028",
+  "season": 1,
+  "episode": 28,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The City Without Shadows",
+  "title": "Falling Reality | ECHO//100 Episode 28",
+  "description": "Kavi and Byte must anchor their disintegrating city to a new timeline before it drifts into nothingness. They discover the only tether available is a lie crafted from fragmented future echoes. Episode 28 of ECHO//100: ARC. This is an AI-assisted original fiction work.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The horizon bleeds white as the city snaps its moorings, drifting into the silent void.",
+      "caption": "City drifting away",
+      "image_prompt": "Vertical shot of a futuristic metropolis floating in a white void, Kavi in red hoodie standing on a crumbling ledge.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte flickers back to life, its cyan face glowing against the crumbling, colorless abyss.",
+      "caption": "Byte is restored",
+      "image_prompt": "Byte, a small white floating robot with a cyan face and orange antenna, hovering beside Kavi.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Everything dissolves; a solid memory must anchor this reality before existence vanishes entirely.",
+      "caption": "Searching for an anchor",
+      "image_prompt": "Kavi looking at a holographic interface, Byte projecting data streams into the empty sky.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Archive demands a past, but history remains erased by the Null-glitch's cold reach.",
+      "caption": "History is erased",
+      "image_prompt": "Kavi frantically searching through floating digital archives, dark purple glitch energy swirling in the background.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte scans Kavi, finding encrypted messages from a future self hidden within the backpack.",
+      "caption": "Future self messages",
+      "image_prompt": "Close up of Kavi's backpack glowing with mysterious light, Byte scanning the interior with a laser beam.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi weaves these future warnings into a fake history to trick the city into staying.",
+      "caption": "Fabricating the past",
+      "image_prompt": "Kavi placing his hands on a glowing console, weaving streams of light into a new, false timeline.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The logic holds, the city shudders, and the foundation begins to knit itself together.",
+      "caption": "Reality starts mending",
+      "image_prompt": "The city buildings glowing and locking into place, connected by glowing red threads of fake history.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The anchor takes hold, but the ground beneath bleeds into a terrifying, crimson landscape.",
+      "caption": "Red landscape manifests",
+      "image_prompt": "Kavi and Byte looking down as the ground turns into a vibrant, alien red textured landscape.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc03/arc03-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

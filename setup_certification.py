@@ -1,0 +1,501 @@
+#!/usr/bin/env python3
+"""Deterministic, fail-closed certification for the KAAPAV studio control plane."""
+
+from __future__ import annotations
+
+import hashlib
+import json
+import subprocess
+import sys
+import tomllib
+import zipfile
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+from typing import Any
+
+from src.config import Config, ROOT
+from src.control_backup import create_daily_snapshot
+
+
+OUT_JSON = ROOT / "analytics" / "setup_certification.json"
+OUT_MD = ROOT / "SETUP_CERTIFICATION.md"
+UTC = timezone.utc
+
+
+def read_json(path: Path) -> dict[str, Any]:
+    try:
+        value = json.loads(path.read_text(encoding="utf-8-sig"))
+        return value if isinstance(value, dict) else {}
+    except (OSError, json.JSONDecodeError):
+        return {}
+
+
+def parse_time(value: Any) -> datetime | None:
+    try:
+        return datetime.fromisoformat(str(value).replace("Z", "+00:00")).astimezone(UTC)
+    except (TypeError, ValueError):
+        return None
+
+
+def sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def command(name: str, args: list[str]) -> dict[str, Any]:
+    completed = subprocess.run(
+        args, cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace"
+    )
+    combined = (completed.stdout + "\n" + completed.stderr).strip()
+    return {
+        "name": name,
+        "passed": completed.returncode == 0,
+        "exit_code": completed.returncode,
+        "output_tail": combined[-4000:],
+    }
+
+
+def refresh_windows_scheduler_status() -> dict[str, Any]:
+    """Capture live Task Scheduler evidence instead of trusting a stale cache."""
+    script = r'''
+$ErrorActionPreference = "Stop"
+$taskName = "KAAPAV ARC Studio Autopilot"
+$task = Get-ScheduledTask -TaskName $taskName
+$info = Get-ScheduledTaskInfo -TaskName $taskName
+$legacy = foreach ($name in @("YT-Auto Daily Draft", "YT-Auto Performance Sync")) {
+  $item = Get-ScheduledTask -TaskName $name -ErrorAction SilentlyContinue
+  [ordered]@{name=$name; state=$(if($item){[string]$item.State}else{"Missing"})}
+}
+$active = Get-CimInstance Win32_Process -ErrorAction SilentlyContinue | Where-Object {
+  $_.Name -in @("python.exe", "pythonw.exe") -and
+  ($_.CommandLine -like "*studio_autopilot.py*" -or $_.CommandLine -like "*studio_supervisor.py*")
+} | ForEach-Object { [ordered]@{pid=$_.ProcessId; name=$_.Name} }
+[ordered]@{
+  schema_version=1
+  checked_at=(Get-Date).ToUniversalTime().ToString("o")
+  task_name=$taskName
+  task_state=[string]$task.State
+  last_result=$info.LastTaskResult
+  wake_to_run=$task.Settings.WakeToRun
+  start_when_available=$task.Settings.StartWhenAvailable
+  restart_count=$task.Settings.RestartCount
+  restart_interval=[string]$task.Settings.RestartInterval
+  multiple_instances=[string]$task.Settings.MultipleInstances
+  disallow_start_on_batteries=$task.Settings.DisallowStartIfOnBatteries
+  stop_on_battery=$task.Settings.StopIfGoingOnBatteries
+  legacy_tasks=@($legacy)
+  active_production_processes=@($active)
+} | ConvertTo-Json -Depth 6 -Compress
+'''
+    try:
+        completed = subprocess.run(
+            ["powershell.exe", "-NoProfile", "-NonInteractive", "-Command", script],
+            cwd=ROOT, capture_output=True, text=True, encoding="utf-8", errors="replace",
+            timeout=30,
+        )
+        if completed.returncode != 0:
+            return read_json(ROOT / "analytics" / "windows_scheduler_status.json")
+        payload = json.loads(completed.stdout.strip())
+        path = ROOT / "analytics" / "windows_scheduler_status.json"
+        path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+        return payload
+    except (OSError, subprocess.SubprocessError, json.JSONDecodeError):
+        return read_json(ROOT / "analytics" / "windows_scheduler_status.json")
+
+
+def main() -> int:
+    now = datetime.now(UTC)
+    checks: list[dict[str, Any]] = []
+    advisories: list[str] = []
+
+    def check(name: str, passed: bool, evidence: Any) -> None:
+        checks.append({"name": name, "passed": bool(passed), "evidence": evidence})
+
+    cfg = Config("config.story.yaml")
+    required = [
+        "studio_supervisor.py", "studio_autopilot.py", "run_studio_autopilot.ps1",
+        "install_autopilot_scheduler.ps1", "src/release_audit.py", "src/release_ledger.py",
+        "src/studio_inventory.py", "src/growth_learning.py", "src/story_factory.py",
+        "src/control_backup.py", "content/studio_master_release_plan.json",
+        "content/studio_universe_audit.json", "studio_dashboard.py",
+        "dashboard/index.html", "launch_studio_dashboard.ps1",
+        "run_hidden.vbs",
+        "KAAPAV_Studio_Dashboard.cmd", "authorize_youtube_analytics.py",
+        "cloudflare/dashboard-tunnel.yml", "run_dashboard_gateway.ps1",
+        "ensure_dashboard_origin.ps1", "install_dashboard_gateway.ps1",
+        "start_dashboard_origin_hidden.ps1",
+        "monitor_dashboard_gateway.ps1",
+        "analytics/dashboard_gateway_status.json",
+        "analytics/dashboard_health_monitor.json",
+        "flutter/kaapav_control_room/lib/main.dart",
+        "flutter/kaapav_control_room/pubspec.yaml",
+        "flutter/kaapav_control_room/build/windows/x64/runner/Release/kaapav_control_room.exe",
+        "flutter/kaapav_control_room/build/app/outputs/flutter-apk/app-release.apk",
+        "launch_flutter_control_room.ps1", "KAAPAV Control Room.lnk",
+        "KAAPAV Pair Dashboard App.lnk", "analytics/flutter_app_status.json",
+        "src/meta_platform.py", "src/meta_analytics.py", "src/platform_control.py",
+        "src/platform_learning.py", "meta_scheduler.py", "configure_meta.py",
+        "run_meta_scheduler.ps1", "install_meta_scheduler.ps1", "KAAPAV_Connect_Meta.cmd",
+        "dashboard/privacy.html", "dashboard/terms.html", "dashboard/data-deletion.html",
+    ]
+    missing = [item for item in required if not (ROOT / item).exists()]
+    check("required_control_plane_files", not missing, {"missing": missing})
+
+    config_contract = {
+        "enabled": cfg.get("autopilot", "enabled"),
+        "normal_manual_actions": cfg.get("autopilot", "normal_manual_actions"),
+        "fail_closed": cfg.get("autopilot", "fail_closed"),
+        "ready_inventory_days": cfg.get("autopilot", "ready_inventory_days"),
+        "ready_short_target": cfg.get("autopilot", "ready_short_target"),
+        "short_interval_days": cfg.get("autopilot", "short_interval_days"),
+        "compilation_episode_count": cfg.get("autopilot", "compilation_episode_count"),
+        "immediate_public_release": cfg.get("autopilot", "immediate_public_release"),
+        "expected_channel_id": cfg.get("youtube", "expected_channel_id"),
+        "youtube_privacy": cfg.get("youtube", "privacy"),
+        "youtube_auto_publish": cfg.get("youtube", "auto_publish"),
+        "evergreen_refill_remaining_series": cfg.get("autopilot", "evergreen_refill_remaining_series"),
+        "evergreen_series_batch_size": cfg.get("autopilot", "evergreen_series_batch_size"),
+        "meta_immediate_public_test": cfg.get("meta", "immediate_public_test"),
+    }
+    check(
+        "zero_manual_fail_closed_policy",
+        config_contract == {
+            "enabled": True, "normal_manual_actions": 0, "fail_closed": True,
+            "ready_inventory_days": 14, "ready_short_target": 21,
+            "short_interval_days": 2, "compilation_episode_count": 5,
+            "immediate_public_release": False,
+            "expected_channel_id": "UCylPn80btY6lpivJ_N-cXGQ",
+            "youtube_privacy": "private", "youtube_auto_publish": False,
+            "evergreen_refill_remaining_series": 2, "evergreen_series_batch_size": 10,
+            "meta_immediate_public_test": False,
+        },
+        config_contract,
+    )
+
+    video_source = (ROOT / "src" / "video.py").read_text(encoding="utf-8")
+    autopilot_source = (ROOT / "studio_autopilot.py").read_text(encoding="utf-8")
+    test_source = (ROOT / "tests" / "test_studio_automation.py").read_text(encoding="utf-8")
+    render_reliability = {
+        "bounded_compositor_enabled": cfg.get("video", "memory_safe_compositor") is True,
+        "bounded_encoder_threads": int(cfg.get("video", "encoder_threads", default=0) or 0) in {1, 2},
+        "uint8_frames": "def _safe_still_frame" in video_source and "dtype=np.uint8" in video_source,
+        "lazy_scene_cache": "close_cached_images" in video_source,
+        "live_worker_log": "worker_started=" in autopilot_source and "stdout=log_handle" in autopilot_source,
+        "process_tree_timeout": "_terminate_process_tree(process)" in autopilot_source,
+        "regression_test": "test_bounded_memory_compositor_returns_exact_uint8_frame" in test_source,
+    }
+    check(
+        "bounded_memory_rendering_and_live_worker_watchdog",
+        all(render_reliability.values()),
+        render_reliability,
+    )
+
+    dashboard_html = (ROOT / "dashboard" / "index.html").read_text(encoding="utf-8")
+    dashboard_source = (ROOT / "studio_dashboard.py").read_text(encoding="utf-8")
+    upload_source = (ROOT / "src" / "upload.py").read_text(encoding="utf-8")
+    check(
+        "five_tab_dashboard_and_retention_upgrade_path",
+        dashboard_html.count('<button class="tab') >= 5
+        and "backdrop-filter:blur" in dashboard_html
+        and "Complete episode pipeline" in dashboard_html
+        and "Episode-wise performance" in dashboard_html
+        and "https://www.googleapis.com/auth/yt-analytics.readonly" in upload_source,
+        {
+            "tabs": dashboard_html.count('<button class="tab'),
+            "glassmorphism": "backdrop-filter:blur" in dashboard_html,
+            "episode_pipeline": "Complete episode pipeline" in dashboard_html,
+            "episode_performance": "Episode-wise performance" in dashboard_html,
+            "analytics_scope_requested": "https://www.googleapis.com/auth/yt-analytics.readonly" in upload_source,
+            "independent_platform_controls": "/api/platform-control" in dashboard_source
+            and all(name in dashboard_html for name in ("youtube", "facebook", "instagram")),
+        },
+    )
+
+    tunnel_config = (ROOT / "cloudflare" / "dashboard-tunnel.yml").read_text(encoding="utf-8")
+    gateway = read_json(ROOT / "analytics" / "dashboard_gateway_status.json")
+    gateway_health = read_json(ROOT / "analytics" / "dashboard_health_monitor.json")
+    gateway_at = parse_time(gateway.get("checked_at"))
+    gateway_contract = {
+        "hostname": gateway.get("hostname"),
+        "tunnel_id": gateway.get("tunnel_id"),
+        "anonymous_status": gateway.get("anonymous_status"),
+        "authenticated_status": gateway.get("authenticated_status"),
+        "remote_mode": gateway.get("remote_mode"),
+        "remote_post_status": gateway.get("remote_post_status"),
+        "owner_control_post_status": gateway.get("owner_control_post_status"),
+        "bootstrap_reuse_status": gateway.get("bootstrap_reuse_status"),
+        "task_state": gateway.get("task_state"),
+        "origin_task_state": gateway.get("origin_task_state"),
+        "tunnel_protocol": gateway.get("tunnel_protocol"),
+        "checked_at": gateway.get("checked_at"),
+    }
+    check(
+        "secure_owner_control_public_dashboard_gateway",
+        gateway_contract == {
+            "hostname": "yt.kaapav.com",
+            "tunnel_id": "d109d7ae-2781-44fd-adb9-6270f85a80e9",
+            "anonymous_status": 401,
+            "authenticated_status": 200,
+            "remote_mode": "remote_owner_control",
+            "remote_post_status": 403,
+            "owner_control_post_status": 200,
+            "bootstrap_reuse_status": 401,
+            "task_state": "Ready",
+            "origin_task_state": "Ready",
+            "tunnel_protocol": "http2",
+            "checked_at": gateway.get("checked_at"),
+        }
+        and gateway_at is not None and now - gateway_at < timedelta(hours=6)
+        and "HttpOnly; Secure; SameSite=Strict" in dashboard_source
+        and gateway_health.get("healthy") is True
+        and gateway_health.get("local_status") == 200
+        and gateway_health.get("public_status") == 401
+        and "httpHostHeader: kaapav-dashboard-tunnel.internal" in tunnel_config
+        and tunnel_config.rstrip().endswith("service: http_status:404"),
+        gateway_contract,
+    )
+
+    owner_control_contract = {
+        "endpoint": "/api/autopilot-control" in dashboard_source,
+        "confirmation_header": "X-KAAPAV-Control" in dashboard_source and "X-KAAPAV-Control" in dashboard_html,
+        "real_pause_gate": "PAUSE_AUTOPILOT" in dashboard_source,
+        "real_scheduler": "Start-ScheduledTask" in dashboard_source and "Stop-ScheduledTask" in dashboard_source,
+        "fail_closed_rollback": "scheduler_start_failed_gate_reclosed" in dashboard_source,
+        "enable_button": "Enable automation" in dashboard_html,
+        "disable_button": "Disable automation" in dashboard_html,
+    }
+    check(
+        "authenticated_fail_closed_owner_automation_control",
+        all(owner_control_contract.values()),
+        owner_control_contract,
+    )
+
+    flutter_status = read_json(ROOT / "analytics" / "flutter_app_status.json")
+    flutter_at = parse_time(flutter_status.get("checked_at"))
+    flutter_source = (ROOT / "flutter" / "kaapav_control_room" / "lib" / "main.dart").read_text(encoding="utf-8")
+    windows_artifact = ROOT / str(flutter_status.get("windows_artifact") or "")
+    android_artifact = ROOT / str(flutter_status.get("android_artifact") or "")
+    flutter_contract = {
+        key: flutter_status.get(key) for key in (
+            "theme", "tabs", "targets", "analysis", "tests", "windows_build",
+            "android_build", "remote_access", "pairing", "refresh_seconds", "checked_at"
+        )
+    }
+    check(
+        "tested_colourful_neumorphic_flutter_apps",
+        flutter_contract == {
+            "theme": "colourful_neumorphism", "tabs": 5,
+            "targets": ["windows", "android"], "analysis": "passed", "tests": "passed",
+            "windows_build": "passed", "android_build": "passed",
+            "remote_access": "signed_session_read_only",
+            "pairing": "single_use_60_second_code", "refresh_seconds": 5,
+            "checked_at": flutter_status.get("checked_at"),
+        }
+        and flutter_at is not None and now - flutter_at < timedelta(hours=6)
+        and windows_artifact.is_file() and android_artifact.is_file()
+        and windows_artifact.stat().st_size == flutter_status.get("windows_bytes")
+        and android_artifact.stat().st_size == flutter_status.get("android_bytes")
+        and sha256(windows_artifact) == flutter_status.get("windows_sha256")
+        and sha256(android_artifact) == flutter_status.get("android_sha256")
+        and flutter_source.count("NavigationDestination(") == 1
+        and all(label in flutter_source for label in (
+            "Overview", "Production", "Releases", "Performance", "System",
+            "softDecoration", "https://yt.kaapav.com", "Pair this device"
+        )),
+        flutter_contract | {
+            "windows_bytes": windows_artifact.stat().st_size if windows_artifact.is_file() else None,
+            "android_bytes": android_artifact.stat().st_size if android_artifact.is_file() else None,
+        },
+    )
+
+    compile_result = command(
+        "python_compile",
+        [sys.executable, "-m", "compileall", "-q", "src", "studio_autopilot.py",
+         "studio_supervisor.py", "audit_studio_universe.py", "setup_certification.py"],
+    )
+    checks.append(compile_result)
+    test_result = command(
+        "unit_and_safety_tests",
+        [sys.executable, "-m", "unittest", "discover", "-s", "tests", "-v"],
+    )
+    checks.append(test_result)
+    universe_command = command("studio_universe_audit", [sys.executable, "-u", "audit_studio_universe.py"])
+    checks.append(universe_command)
+
+    universe = read_json(ROOT / "content" / "studio_universe_audit.json")
+    check(
+        "rolling_series_story_contract",
+        universe.get("status") == "pass"
+        and int(universe.get("series_count") or 0) >= 10
+        and universe.get("episode_manifest_count") == int(universe.get("series_count") or 0) * 30
+        and not universe.get("errors") and not universe.get("warnings"),
+        {key: universe.get(key) for key in (
+            "status", "series_count", "episode_manifest_count", "scene_script_count",
+            "existing_story_image_count", "pending_story_image_count", "errors", "warnings"
+        )},
+    )
+
+    pause_path = ROOT / str(cfg.get("autopilot", "emergency_pause_file"))
+    supervisor = read_json(ROOT / "analytics" / "supervisor_state.json")
+    check(
+        "production_control_gate_consistent",
+        (pause_path.exists() and supervisor.get("status") == "paused_safe") or not pause_path.exists(),
+        {"pause_file": str(pause_path), "pause_active": pause_path.exists(), "supervisor_status": supervisor.get("status")},
+    )
+
+    scheduler = refresh_windows_scheduler_status()
+    scheduler_at = parse_time(scheduler.get("checked_at"))
+    legacy_disabled = all(item.get("state") == "Disabled" for item in scheduler.get("legacy_tasks", []))
+    scheduler_ok = (
+        scheduler.get("task_name") == "KAAPAV ARC Studio Autopilot"
+        and scheduler.get("task_state") == "Ready"
+        and scheduler.get("last_result") == 0
+        and scheduler.get("wake_to_run") is True
+        and scheduler.get("start_when_available") is True
+        and scheduler.get("restart_count") == 3
+        and scheduler.get("multiple_instances") == "IgnoreNew"
+        and scheduler.get("disallow_start_on_batteries") is False
+        and scheduler.get("stop_on_battery") is False
+        and legacy_disabled
+        and scheduler.get("active_production_processes") == []
+        and scheduler_at is not None and now - scheduler_at < timedelta(hours=1)
+    )
+    check("windows_scheduler_recovery_and_pause_path", scheduler_ok, scheduler)
+
+    automation_path = Path.home() / ".codex" / "automations" / "kaapav-zero-touch-studio" / "automation.toml"
+    try:
+        automation = tomllib.loads(automation_path.read_text(encoding="utf-8"))
+    except (OSError, tomllib.TOMLDecodeError):
+        automation = {}
+    check(
+        "codex_creative_heartbeat_active_with_rolling_refill",
+        automation.get("id") == "kaapav-zero-touch-studio"
+        and automation.get("status") == "ACTIVE"
+        and "only two unreleased series remain" in str(automation.get("prompt") or "")
+        and "exactly ten fresh original 30-episode series" in str(automation.get("prompt") or ""),
+        {"id": automation.get("id"), "status": automation.get("status")},
+    )
+
+    meta_status = read_json(ROOT / "analytics" / "meta_status.json")
+    platform_controls = read_json(ROOT / "analytics" / "platform_controls.json").get("platforms", {})
+    meta_scheduler = read_json(ROOT / "analytics" / "meta_scheduler_status.json")
+    meta_source = (ROOT / "src" / "meta_platform.py").read_text(encoding="utf-8")
+    meta_contract = {
+        "connection": meta_status.get("status"),
+        "facebook_enabled": bool((platform_controls.get("facebook") or {}).get("enabled")),
+        "instagram_enabled": bool((platform_controls.get("instagram") or {}).get("enabled")),
+        "scheduler_status": meta_scheduler.get("status"),
+        "strict_rehash": "assert_persisted_release_evidence" in meta_source,
+        "resume_checkpoints": all(marker in meta_source for marker in (
+            "facebook_upload_started", "instagram_container_created", "manual_reconciliation_required"
+        )),
+        "no_old_backfill": "policy_applies_from_episode" in meta_source,
+    }
+    check(
+        "facebook_instagram_live_fail_closed_automation",
+        meta_contract["connection"] == "ready"
+        and meta_contract["facebook_enabled"] is True
+        and meta_contract["instagram_enabled"] is True
+        and meta_contract["scheduler_status"] in {"healthy", "running"}
+        and meta_contract["strict_rehash"] is True
+        and meta_contract["resume_checkpoints"] is True
+        and meta_contract["no_old_backfill"] is True,
+        meta_contract,
+    )
+
+    reconciliation = read_json(ROOT / "analytics" / "release_reconciliation.json")
+    reconciliation_at = parse_time(reconciliation.get("checked_at"))
+    check(
+        "youtube_remote_contract_reconciliation",
+        reconciliation.get("status") == "passed"
+        and not reconciliation.get("failures")
+        and reconciliation_at is not None and now - reconciliation_at < timedelta(hours=12),
+        {"status": reconciliation.get("status"), "checked_at": reconciliation.get("checked_at"),
+         "checks": len(reconciliation.get("checks") or []), "failures": reconciliation.get("failures")},
+    )
+
+    inventory = read_json(ROOT / "analytics" / "studio_inventory.json")
+    check(
+        "authoritative_inventory_and_gap_ordering",
+        inventory.get("fail_closed") is True and len(inventory.get("episodes") or []) == 300,
+        {"episodes": len(inventory.get("episodes") or []),
+         "active_series_sequence": inventory.get("active_series_sequence"),
+         "ready_or_scheduled_count": inventory.get("ready_or_scheduled_count"),
+         "shortage_while_frozen": inventory.get("shortage")},
+    )
+
+    backup = create_daily_snapshot(int(cfg.get("autopilot", "control_backup_retention_days", default=30)))
+    backup_path = Path(str(backup.get("path") or ""))
+    backup_ok = backup.get("status") == "passed" and backup_path.exists()
+    if backup_ok:
+        backup_ok = sha256(backup_path) == backup.get("sha256")
+        with zipfile.ZipFile(backup_path, "r") as archive:
+            backup_ok = backup_ok and archive.testzip() is None
+            names = {name.lower() for name in archive.namelist()}
+        forbidden = [name for name in names if any(marker in name for marker in (
+            ".env", "client_secret", "service_account", "credentials/", "token.json", "private_key"
+        ))]
+        backup_ok = backup_ok and not forbidden
+    else:
+        forbidden = []
+    check(
+        "credential_safe_verified_control_backup",
+        backup_ok,
+        {key: backup.get(key) for key in (
+            "status", "created_at", "path", "sha256", "file_count", "size_bytes",
+            "retention_days", "off_device_copy"
+        )} | {"forbidden_members": forbidden},
+    )
+    if backup.get("off_device_copy") is not True:
+        advisories.append("Local control backup is verified but is not an off-device disaster-recovery copy.")
+
+    analytics = read_json(ROOT / "analytics" / "youtube_analytics.json")
+    if analytics.get("status") != "ok":
+        advisories.append(
+            "YouTube Analytics retention scope is unavailable; learning continues from Data API views, likes, comments, and preserved time windows without inventing retention data."
+        )
+
+    failed = [item["name"] for item in checks if not item.get("passed")]
+    payload = {
+        "schema_version": 1,
+        "certified_at": now.isoformat().replace("+00:00", "Z"),
+        "status": ("certified_paused" if pause_path.exists() else "certified_active") if not failed else "failed",
+        "scope": "automation control plane and all locally/verifiably controlled safety contracts",
+        "production_state": "paused" if pause_path.exists() else "active",
+        "normal_manual_actions": 0,
+        "checks": checks,
+        "failed_checks": failed,
+        "advisories": advisories,
+        "truth_boundary": (
+            "Certification proves configured behavior and current evidence. It cannot guarantee YouTube distribution, "
+            "virality, Google service uptime, network uptime, or physical-disk survival."
+        ),
+    }
+    OUT_JSON.parent.mkdir(parents=True, exist_ok=True)
+    OUT_JSON.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+
+    icon = "PASS" if not failed else "FAIL"
+    lines = [
+        "# KAAPAV ARC Studios Setup Certification", "",
+        f"**Status:** {icon} — {payload['status']}", "",
+        f"**Certified:** {payload['certified_at']}", "",
+        f"**Production state:** {payload['production_state'].upper()}. All platform and strict-QC gates remain authoritative.", "",
+        "## Verified contracts", "",
+    ]
+    lines.extend(f"- [{'x' if item.get('passed') else ' '}] {item['name']}" for item in checks)
+    lines.extend(["", "## Advisories", ""])
+    lines.extend(f"- {item}" for item in advisories)
+    lines.extend(["", "## Truth boundary", "", payload["truth_boundary"], ""])
+    OUT_MD.write_text("\n".join(lines), encoding="utf-8")
+    print(json.dumps({
+        "status": payload["status"], "checks": len(checks), "failed_checks": failed,
+        "advisories": advisories, "report": str(OUT_MD),
+    }, indent=2, ensure_ascii=False))
+    return 0 if not failed else 2
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

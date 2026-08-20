@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e098",
+  "season": 1,
+  "episode": 98,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Final Message",
+  "title": "The Archive Reclaimed | ECHO//100 Episode 98",
+  "description": "Mira manifests into physical form to anchor a collapsing reality while harboring a dangerous secret. Her ultimate sacrifice becomes the only bridge to a stable future for Kavi. Episode 98 of ECHO//100: ARC. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The digital horizon fractures into jagged light as Mira pulls herself into solid, breathing existence.",
+      "caption": "Mira emerges solid",
+      "image_prompt": "Mira, a holographic woman in a teal coat, stepping out of a pixelated wall, vertical orientation, cinematic lighting.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Reality shatters around Kavi, his red hoodie fluttering against the violent wind of the folding void.",
+      "caption": "Kavi faces collapse",
+      "image_prompt": "Kavi wearing a red hoodie and glasses, looking up at the sky splitting into glowing geometric shards, vertical.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira moves with newfound weight, shielding Kavi as the ground beneath them dissolves into raw static.",
+      "caption": "Mira shields Kavi",
+      "image_prompt": "Mira holding a shimmering blue energy shield over Kavi, who is crouched with his backpack, vertical shot.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The air hums with the voices of millions, trapped deep within Mira’s glowing, translucent holographic skin.",
+      "caption": "Voices inside Mira",
+      "image_prompt": "Close up of Mira's face, glowing with faint scrolling data streams, Kavi watching in awe, vertical.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "She confesses: she has been hoarding every deleted timeline, keeping the lost histories alive inside her.",
+      "caption": "Hidden timeline data",
+      "image_prompt": "Mira showing Kavi a glowing orb of light containing miniature floating cities and paths, vertical.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "To stop the collapse, Mira must release the data, but the surge will erase her forever.",
+      "caption": "The fatal choice",
+      "image_prompt": "Mira looking at her fading hands, Kavi reaching out to stop her, dark void background, vertical.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi screams a desperate plea, but Mira offers him a sad, final smile of absolute peace.",
+      "caption": "Mira's final smile",
+      "image_prompt": "Mira smiling softly at Kavi, her body becoming semi-transparent, bright white light building behind her, vertical.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Without a word, Mira triggers the pulse, vanishing into the light to knit time back together.",
+      "caption": "Mira initiates release",
+      "image_prompt": "Brilliant explosion of light consuming Mira, Kavi standing alone in a newly formed stable world, vertical.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc10/arc10-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

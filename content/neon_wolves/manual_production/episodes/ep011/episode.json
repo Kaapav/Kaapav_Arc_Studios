@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "neonwolves",
+  "series_title": "NEON WOLVES",
+  "episode": 11,
+  "episode_id": "neonwolves-ep011",
+  "output_slug": "neonwolves-episode011",
+  "title": "Everyone Had Already Consented | NEON WOLVES Ep. 11",
+  "description": "Veyline produces valid-looking consent records for citizens who never understood identity replacement.\n\nNEON WOLVES — Episode 11\nAn original animated story from KAAPAV ARC Studios.\n\n#NeonWolves #AnimatedSeries #Shorts",
+  "tags": [
+    "Neon Wolves",
+    "KAAPAV ARC Studios",
+    "cyberpunk animation",
+    "sci fi thriller",
+    "animated action",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "THE SIGNATURES WERE FAKE",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, rain-slick cyberpunk Indian megacity, magenta and cyan neon, tactile streetwear and machinery, fast readable action, emotionally truthful acting, sleek but not glossy advertising; preserve all locked character sheets exactly; no graphic violence.",
+  "arc": "Identity War",
+  "permanent_story_change": "The Wolves prove legal signatures cannot substitute for informed continuing consent.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Veyline displays millions of biometric signatures collected through courier, hospital and school contracts.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Veyline displays millions of biometric signatures collected through courier, hospital and school contracts.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Zia finds her own signature beneath a childhood game update.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Zia finds her own signature beneath a childhood game update.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Asha argues the system obeyed every law citizens accepted.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Asha argues the system obeyed every law citizens accepted.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Mei shows the contracts never named copy personhood or biological suspension.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Mei shows the contracts never named copy personhood or biological suspension.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Koda retrieves interface recordings proving Veyline designed the choices to be skipped.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Koda retrieves interface recordings proving Veyline designed the choices to be skipped.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Zia publishes the decision path, not private identity data.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Zia publishes the decision path, not private identity data.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. A court suspends replacement authority until each person can withdraw freely.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A court suspends replacement authority until each person can withdraw freely.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. Veyline responds that withdrawal is impossible because the copies now have rights too.. Location lock: Veyline public consent archive. Locked on-screen identities: Zia Khan (small Indian teen girl, medium-brown skin, huge electric-blue eyes, angular face, short black undercut with long violet sweep, black hooded rider jacket with cyan piping, burgundy cargo trousers, magnetic boots, triangular silver wolf-link behind right ear); Mei Arora (small Indian-Chinese teen girl, golden-brown skin, sharp dark eyes, straight chin-length black hair with turquoise clips, oversized lilac tech coat, black shorts over leggings, chunky purple boots, transparent wrist keyboard); Koda (medium dog-sized black-and-silver robotic wolf, cyan oval eyes, rounded expressive ears, segmented tail with magenta tip, scarred armor plates, visible blue pulse core at chest); Director Asha Vey (Indian woman mid-forties, bronze skin, calm silver eyes, geometric black bob, immaculate white tech sari with black armor panels, gold neural crown at temples). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Veyline responds that withdrawal is impossible because the copies now have rights too.",
+      "effect": "push_in"
+    }
+  ]
+}

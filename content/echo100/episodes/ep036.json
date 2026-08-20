@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e036",
+  "season": 1,
+  "episode": 36,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Mira Protocol",
+  "title": "Fragmented Truth: Mira Protocol | ECHO//100 Episode 36",
+  "description": "Kavi storms the Warden’s Spire to confront Mira and liberate the Archive, only to uncover his own hidden history. He discovers that his quest for freedom is the very mechanism keeping the prison locked tight. Episode 36 of ECHO//100: ARC. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "Stone skin fractures, shedding dust to reveal glowing holographic skeletons beneath the frozen city plaza.",
+      "caption": "Statues begin cracking.",
+      "image_prompt": "Vertical shot of stone statues in a plaza, glowing cyan holographic skeletons emerging from fissures in the rock, Kavi in red hoodie and glasses standing in foreground.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi sprints past shifting monoliths, his rusted gear key vibrating against a racing heart.",
+      "caption": "Kavi sprinting forward.",
+      "image_prompt": "Kavi running through a narrow stone corridor, the rusted gear key clutched in his hand, Byte floating beside him with an anxious orange antenna.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The Spire’s gravity shifts, pulling Kavi upward toward the floating core where Mira waits.",
+      "caption": "Gravity defying ascent.",
+      "image_prompt": "Low angle shot of Kavi floating toward a massive glowing spire, Mira in a teal holographic coat waiting at the top platform.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira flickers, her coat turning jagged as she reveals the city exists to contain her.",
+      "caption": "Mira reveals truth.",
+      "image_prompt": "Close up of Mira, her blue holographic form glitching into sharp, aggressive angles, eyes glowing with trapped energy.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the truth as Archive seals lock tight beneath his trembling, desperate touch.",
+      "caption": "Kavi touches seals.",
+      "image_prompt": "Kavi reaching out to a glowing console, his hand activating a sequence, holographic locks slamming shut around the room.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The memory returns: Kavi built this prison, choosing to forget everything to stay near her.",
+      "caption": "Kavi recalls duty.",
+      "image_prompt": "Split screen showing Kavi as a younger architect designing the spire and present-day Kavi looking horrified at his own hands.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers silently, the cyan face dimming as the weight of the manufactured lie collapses.",
+      "caption": "Byte watches silently.",
+      "image_prompt": "Byte floating in the shadows of the spire, Kavi slumped against a wall, the atmosphere heavy and melancholic.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi looks into the mirror and sees not a hero, but the Warden of this archive.",
+      "caption": "The Warden revealed.",
+      "image_prompt": "Kavi looking into a polished obsidian mirror, his reflection wearing a cold, authoritative uniform instead of his red hoodie.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc04/arc04-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

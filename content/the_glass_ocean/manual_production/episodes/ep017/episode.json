@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "glassocean",
+  "series_title": "THE GLASS OCEAN",
+  "episode": 17,
+  "episode_id": "glassocean-ep017",
+  "output_slug": "glassocean-episode017",
+  "title": "Arun Built the Shatter Key | THE GLASS OCEAN Ep. 17",
+  "description": "Arun's emergency weapon divides survivors who are running out of air.\n\nTHE GLASS OCEAN — Episode 17\nAn original animated story from KAAPAV ARC Studios.\n\n#GlassOcean #AnimatedSeries #Shorts",
+  "tags": [
+    "The Glass Ocean",
+    "KAAPAV ARC Studios",
+    "mythic adventure",
+    "animated fantasy",
+    "ocean mystery",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "ARUN COULD BREAK IT ALL",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, vast translucent glass ocean, coral light beneath the surface, wind-swept South Asian coastal settlements, tactile cloth, salt and crystal, mythic scale with emotionally truthful acting; preserve locked character sheets exactly; no graphic harm.",
+  "arc": "The World Below",
+  "permanent_story_change": "Arun surrenders sole control of the Shatter Key.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. The Shatter Key could collapse the glass into safe-sized plates within minutes.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "The Shatter Key could collapse the glass into safe-sized plates within minutes.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Its models save most below shelters but destroy unknown surface routes.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Its models save most below shelters but destroy unknown surface routes.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Arun built it after unanswered distress calls, not for revenge.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Arun built it after unanswered distress calls, not for revenge.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Desperate residents want him to activate it before oxygen fails.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Desperate residents want him to activate it before oxygen fails.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Nila refuses to destroy the device while its need remains real.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Nila refuses to destroy the device while its need remains real.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. Arun places its activation pieces with surface, below and Mahi representatives.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Arun places its activation pieces with surface, below and Mahi representatives.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. No one side can now shatter the ocean alone.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "No one side can now shatter the ocean alone.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. One piece is stolen before the agreement is announced.. Location lock: deep shelter engineering bay. Locked on-screen identities: Nila Varma (small dark-brown-skinned Indian teen girl, huge sea-green eyes, oval face, wind-tangled black hair in two short braids, coral-red sailcloth jacket, teal tunic, charcoal trousers, silver blade-skates, shell compass at throat); Arun Varma (Indian young man age twenty-two, deep brown skin, gentle green-brown eyes, wavy black hair floating underwater, faded saffron rescue vest, navy shirt, shell bracelet matching Nila); Admiral Soren (tall Indian man late forties, bronze-brown skin, pale grey eyes, close-cropped salt hair, white-and-navy crystal armor, long storm cape, black glass spear); Mahi (ageless brown-skinned woman, luminous turquoise eyes, very long silver-blue hair moving like waves, layered pearl-grey sari formed from water ribbons, bare feet above the surface). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "One piece is stolen before the agreement is announced.",
+      "effect": "push_in"
+    }
+  ]
+}

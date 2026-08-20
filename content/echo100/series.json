@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "title": "ECHO//100: The Red Door",
+  "canon_status": "locked",
+  "canon_version": 1,
+  "production_episode_count": 30,
+  "existing_test_renders_through_episode": 15,
+  "editorial_scope": "all 30 episodes",
+  "production_plan": "content/echo100/season_cut_30.json",
+  "legacy_plan_status": "archived_reference_only",
+  "channel": "KAAPAV ARC Studios",
+  "niche": "original 3D animated mystery and science-fiction micro-series",
+  "premise": "A teenager receives messages from his future self through a dead phone and discovers that his robot companion Byte is connected to a doorway erased from history.",
+  "characters": {
+    "kavi": "South Asian teenager, red hoodie, round glasses, blue backpack; curious, brave, impulsive.",
+    "byte": "Small white floating robot, cyan eye, orange antenna; loyal, funny, hiding a dangerous memory.",
+    "mira": "Blue holographic archive AI in a teal coat; calm, precise, and unable to reveal everything she knows.",
+    "null": "Black-and-purple glitch entity with red eyes; frightening but non-graphic, hunting the missing timeline."
+  },
+  "visual_identity": {
+    "style": "original polished 3D animated feature-film aesthetic",
+    "palette": "cyan technology, red danger, purple corruption, warm gold hope",
+    "format": "vertical 9:16",
+    "prohibited": [
+      "existing studio or franchise imitation",
+      "real celebrity likenesses",
+      "generic Pexels footage inside story episodes",
+      "watermarks or generated text inside artwork"
+    ]
+  },
+  "episode_rules": {
+    "duration_seconds_min": 25,
+    "duration_seconds_max": 55,
+    "scene_count_min": 6,
+    "scene_count_max": 10,
+    "caption_words_max": 6,
+    "structure": "instant mystery, escalation, discovery, reversal, cliffhanger",
+    "require_explicit_story_art": true,
+    "allow_stock_video": false,
+    "upload_privacy": "private"
+  }
+}

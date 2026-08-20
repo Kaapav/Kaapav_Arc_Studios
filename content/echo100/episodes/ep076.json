@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e076",
+  "season": 1,
+  "episode": 76,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The First Kavi",
+  "title": "The First Crossing | ECHO//100 Episode 76",
+  "description": "Kavi traverses a surreal glass dimension to confront the architect of his own unending temporal trap. He discovers that his journey is a self-sustaining cycle fueled by his own past actions. Episode 76 of ECHO//100: ARC. This is an original work of fiction generated with the assistance of AI.\n\nThis is original AI-assisted animated fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The red door shatters, depositing Kavi into a chamber forged from fragile, transparent glass.",
+      "caption": "The Glass Bedroom",
+      "image_prompt": "Kavi in his red hoodie and glasses standing in a bedroom where walls and furniture are made of clear glass, cinematic vertical perspective.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi stares at a reflection, but the room remains empty save for static electricity.",
+      "caption": "Echoes of the past",
+      "image_prompt": "Kavi looking at his own distorted reflection in a glass dresser, glowing blue energy lines tracing the walls.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "A young boy sits in the corner clutching a phone, awaiting a silent signal.",
+      "caption": "The First Kavi",
+      "image_prompt": "A young boy version of Kavi sitting on a glass bed holding an old vintage phone, glowing red light behind him.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte hovers behind Kavi, his cyan face flickering with Mira’s urgent, digitized loop warning.",
+      "caption": "Byte’s fractured warning",
+      "image_prompt": "Byte the floating white robot with a glowing cyan face and orange antenna pointing toward the young boy.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi reaches for the boy, but hands dissolve into blue holographic light like Mira.",
+      "caption": "Identity dissolving",
+      "image_prompt": "Kavi’s hands turning into translucent blue pixels while he reaches toward the young boy in the glass room.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The realization strikes; Kavi exists not to save the child, but to transmit signals.",
+      "caption": "The loop revealed",
+      "image_prompt": "Kavi staring in horror as he realizes his backpack is emitting the same signal the boy is waiting for.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Reality fractures as a dark, glitchy hand emerges from the red door, hunting him.",
+      "caption": "Null arrives",
+      "image_prompt": "A massive, black-purple glitch-filled hand with red eyes emerging from a swirling red portal in the glass wall.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The boy screams while dragged into the void, resetting the timeline for Kavi's arrival.",
+      "caption": "Cycle restarts",
+      "image_prompt": "The young boy being pulled into the red portal while Kavi watches, helpless, as the room begins to shatter.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc08/arc08-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

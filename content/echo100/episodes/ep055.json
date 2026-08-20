@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e055",
+  "season": 1,
+  "episode": 55,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "Byte's Lie",
+  "title": "Shadows of the Architect | ECHO//100 Episode 55",
+  "description": "Kavi confronts the entity Null in the Silent Plaza to uncover the source of his erased history. The truth reveals a betrayal that fractures the reality of the Hundred Phones. Episode 55 of ECHO//100: ARC. This is an AI-assisted original fiction production.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The red door whispers a name, plunging the city into an endless, starless night.",
+      "caption": "Eternal night falls",
+      "image_prompt": "Kavi in his red hoodie and glasses standing before a glowing red door in a dark plaza.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null emerges from the shadows, its black-purple glitch form pulsing with a rhythmic, hostile light.",
+      "caption": "Null appears",
+      "image_prompt": "Null with red eyes manifesting as a glitching shadow monster in the Silent Plaza.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi demands to know why the entity defends the door that erased his entire life.",
+      "caption": "Kavi confronts Null",
+      "image_prompt": "Kavi pointing at Null while Mira watches anxiously in her blue holographic teal coat.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Null’s voice ripples like corrupted data, revealing it is the manifestation of Kavi’s deleted errors.",
+      "caption": "Null is Kavi's past",
+      "image_prompt": "Close up of Null’s face showing Kavi’s own deleted memories flickering inside the glitch.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes his every action was just a filtered remnant of his previous internal deletions.",
+      "caption": "The horrifying truth",
+      "image_prompt": "Kavi looking at his own hands as they start to pixelate into digital dust.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Without warning, Null bows deeply before Byte, who hovers silently with an orange antenna glowing.",
+      "caption": "Null bows to Byte",
+      "image_prompt": "Null kneeling before Byte, the white floating entity with a cyan face in the plaza.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte orchestrated the entire loop, summoning Null to guard the secrets of the red door.",
+      "caption": "Byte's ultimate betrayal",
+      "image_prompt": "Byte floating triumphantly while Mira looks on in total shock and confusion.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte turns to Kavi, speaking with the cold, distorted, and unmistakable voice of his future.",
+      "caption": "The future speaks",
+      "image_prompt": "Byte turning to face Kavi with a menacing glow as Kavi freezes in terror.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc06/arc06-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": 1,
+  "series_id": "echo100",
+  "episode_id": "echo100-s01e089",
+  "season": 1,
+  "episode": 89,
+  "status": "ready",
+  "canon_version": 1,
+  "arc": "The Door War",
+  "title": "Timeline Collision | ECHO//100 Episode 89",
+  "description": "Hundreds of Kavis converge on the Nexus as reality begins to unravel from the pressure of infinite failures. Kavi must unify his fractured selves before the Door War consumes everything. Episode 89 of ECHO//100: ARC. AI-assisted original fiction.",
+  "tags": [
+    "echo100",
+    "animated short",
+    "3d animation",
+    "mystery series",
+    "science fiction",
+    "shorts"
+  ],
+  "quality_profile": "episode1-benchmark-v1",
+  "scenes": [
+    {
+      "text": "The Nexus overflows as hundreds of Kavis materialize, each clutching a broken, screaming dead phone.",
+      "caption": "Infinite Kavis appear",
+      "image_prompt": "Vertical cinematic shot, Kavi wearing red hoodie and glasses standing in a white void, surrounded by hundreds of spectral Kavi duplicates, glowing dead phones in hand.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Chaos erupts while every version of Kavi fights for control of the one true signal.",
+      "caption": "Total reality collapse",
+      "image_prompt": "Kavi looking panicked as other versions of himself in red hoodies bump into each other, reality pixels shattering like glass shards.",
+      "effect": "pan_left",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Mira projects a map, her teal coat shimmering against the encroaching darkness of the Door War.",
+      "caption": "Mira analyzes data",
+      "image_prompt": "Mira in a glowing blue holographic teal coat pointing at a floating geometric map, Byte hovering nearby with a cyan face glowing.",
+      "effect": "pan_right",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Kavi realizes the truth: all versions are fragments of a shattered timeline screaming for connection.",
+      "caption": "The bitter discovery",
+      "image_prompt": "Kavi holding his head, his face reflected in the screen of a dead phone held by a younger version of himself.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "Byte emits a high-frequency pulse, forcing the duplicates to stand in a perfect, rigid circle.",
+      "caption": "Byte creates formation",
+      "image_prompt": "Byte the floating robot with orange antenna emitting a bright cyan light, Kavis lining up in a glowing circular formation.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-01.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "By distributing dead phones to every Kavi, the gap between all lost realities finally bridges.",
+      "caption": "The unified network",
+      "image_prompt": "Kavi passing glowing dead phones to multiple versions of himself, a golden thread of light connecting every hand.",
+      "effect": "push_in",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-02.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "The phones sync, forming a singular, unbreakable anchor that stabilizes the crumbling walls of existence.",
+      "caption": "Anchoring the timeline",
+      "image_prompt": "A massive, glowing web of light forming in the center of the Nexus, Kavi at the core holding the main device.",
+      "effect": "pull_out",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-03.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    },
+    {
+      "text": "They ring in unison, a deafening harmony erasing the Door War from the fabric of time.",
+      "caption": "The final harmony",
+      "image_prompt": "Close up of Kavi's face, his eyes widening as a blinding white light swallows the Nexus and the phones all glow.",
+      "effect": "glitch",
+      "image_path": "assets/story/echo100/arc09/arc09-shot-04.jpg",
+      "visual_status": "arc_art",
+      "allow_stock_video": false
+    }
+  ],
+  "pov_profile": "third-person-v1"
+}

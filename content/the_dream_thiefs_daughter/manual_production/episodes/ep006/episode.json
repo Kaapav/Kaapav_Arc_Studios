@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "series_id": "dreamthiefdaughter",
+  "series_title": "THE DREAM THIEF'S DAUGHTER",
+  "episode": 6,
+  "episode_id": "dreamthiefdaughter-ep006",
+  "output_slug": "dreamthiefdaughter-episode006",
+  "title": "Her Father Was Asleep in Vault Zero | THE DREAM THIEF'S DAUGHTER Ep. 6",
+  "description": "Amaya finds Dev physically absent but mentally imprisoned in the city's shared sleep.\n\nTHE DREAM THIEF'S DAUGHTER — Episode 6\nAn original animated story from KAAPAV ARC Studios.\n\n#DreamThiefsDaughter #AnimatedSeries #Shorts",
+  "tags": [
+    "The Dream Thief's Daughter",
+    "KAAPAV ARC Studios",
+    "animated fantasy",
+    "dream mystery",
+    "emotional adventure",
+    "3D animated short",
+    "original animation",
+    "shorts"
+  ],
+  "thumbnail_text": "FATHER WAS STILL THERE",
+  "thumbnail_scene": 8,
+  "global_image_style": "Vertical 9:16 premium cute cinematic 3D feature-animation, original compact stylized characters with large expressive eyes, tactile Indian twilight city, floating dream fabrics, luminous indigo, coral and gold, handcrafted surreal environments, emotionally truthful acting, beautiful but never sugary, eerie but never graphic; preserve all locked character sheets exactly.",
+  "arc": "The Empty Sleep",
+  "permanent_story_change": "Dev makes first contact and refuses immediate rescue.",
+  "manual_review_required": true,
+  "scenes": [
+    {
+      "image": "story_frames/shot_01.png",
+      "image_prompt": "SHOT 1, dramatic close-up. Vault Zero contains an empty bed whose sheets rise and fall with invisible breathing.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Vault Zero contains an empty bed whose sheets rise and fall with invisible breathing.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_02.png",
+      "image_prompt": "SHOT 2, medium two-shot. Amaya follows the tether into a railway station where rain falls upward.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya follows the tether into a railway station where rain falls upward.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_03.png",
+      "image_prompt": "SHOT 3, wide establishing shot. Dev waits on the opposite platform, older and carrying hundreds of empty vials.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev waits on the opposite platform, older and carrying hundreds of empty vials.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_04.png",
+      "image_prompt": "SHOT 4, over-the-shoulder shot. Amaya tries to cross, but every track is made from choices he stole from children.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Amaya tries to cross, but every track is made from choices he stole from children.",
+      "effect": "pan_left"
+    },
+    {
+      "image": "story_frames/shot_05.png",
+      "image_prompt": "SHOT 5, low-angle action shot. Dev says pulling him out now would return all nightmares at once without their owners' consent.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "Dev says pulling him out now would return all nightmares at once without their owners' consent.",
+      "effect": "pull_out"
+    },
+    {
+      "image": "story_frames/shot_06.png",
+      "image_prompt": "SHOT 6, intimate close-up. He asks Amaya to repair the ownership paths before rescuing him.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "He asks Amaya to repair the ownership paths before rescuing him.",
+      "effect": "push_in"
+    },
+    {
+      "image": "story_frames/shot_07.png",
+      "image_prompt": "SHOT 7, dynamic tracking shot. She refuses to forgive the theft but agrees not to create another uncontrolled harm.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "She refuses to forgive the theft but agrees not to create another uncontrolled harm.",
+      "effect": "pan_right"
+    },
+    {
+      "image": "story_frames/shot_08.png",
+      "image_prompt": "SHOT 8, cliffhanger reveal. A train arrives carrying a sleeping child who calls Amaya the next Dream Thief.. Location lock: Vault Zero and a rain-filled railway dream. Locked on-screen identities: Amaya Sen (small Indian teen girl, cinnamon-brown skin, huge deep-violet eyes, heart-shaped face, thick black curls in a high uneven ponytail, coral bomber jacket over indigo tunic, black leggings, turquoise sneakers, silver dream compass on red wrist cord); Moth (palm-sized plush-like indigo moth creature, four rounded wings patterned with gold eye-shapes, tiny coral antennae, two luminous white oval eyes, soft fabric texture, no mouth); Dev Sen (Indian man early forties, cinnamon-brown skin, tired violet-brown eyes, wavy black hair streaked white at front, long midnight coat lined with floating gold thread, charcoal shirt, worn boots, empty glass dream-vials across belt). Preserve exact wardrobe, face, body proportions, prop scale, screen direction and lighting continuity. No readable text, watermark, logo, extra limbs, duplicate people, identity drift, costume drift, split screen or collage.",
+      "text": "A train arrives carrying a sleeping child who calls Amaya the next Dream Thief.",
+      "effect": "push_in"
+    }
+  ]
+}
