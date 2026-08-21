@@ -65,6 +65,20 @@ def _checkpoint(key: str, **updates: Any) -> dict[str, Any]:
     raise RuntimeError(f"YouTube timed-release item disappeared: {key}")
 
 
+def enqueue(item: dict[str, Any]) -> bool:
+    """Add an item to the YT timed-release queue. Returns True if added, False if already present."""
+    queue = _read(QUEUE_PATH, {"schema_version": 1, "items": []})
+    items = queue.get("items") or []
+    key = item.get("key")
+    if any(i.get("key") == key for i in items):
+        return False
+    items.append(item)
+    queue["items"] = items
+    queue["updated_at"] = _stamp()
+    _write(QUEUE_PATH, queue)
+    return True
+
+
 def summary() -> dict[str, Any]:
     items = _read(QUEUE_PATH, {"items": []}).get("items") or []
     pending = [item for item in items if item.get("status") not in {"published", "held_missed_slot"}]

@@ -18,6 +18,42 @@ def _read_status() -> dict:
     return meta_platform._read(STATE_PATH, {})
 
 
+def _sync_youtube_queue(cfg) -> None:
+    """Ensure every scheduled meta item has a matching YT timed-release entry."""
+    from .src import release_ledger
+    from pathlib import Path
+
+    ledger = release_ledger.sync_from_outputs()
+    for entry in ledger.get("releases") or []:
+        episode = int(entry.get("episode") or 0)
+        if episode < 1:
+            continue
+        video = Path(str(entry.get("video_path") or ""))
+        metadata_path = video.parent / "metadata.json"
+        audit_path = video.parent / "prepublish_audit.json"
+        if not video.is_file() or not metadata_path.is_file() or not audit_path.is_file():
+            continue
+        key = f"youtube:{entry.get('series_id')}:ep{episode:03d}"
+        publish_at = entry.get("publish_at")
+        if not publish_at:
+            continue
+        yt_item = {
+            "key": key, "series_id": entry.get("series_id"),
+            "episode_id": entry.get("episode_id"), "episode": episode,
+            "title": entry.get("title"),
+            "video_path": str(video.resolve()),
+            "metadata_path": str(metadata_path.resolve()),
+            "audit_path": str(audit_path.resolve()),
+            "video_sha256": entry.get("video_sha256"),
+            "audit_id": entry.get("audit_id"),
+            "publish_at": publish_at,
+            "youtube_id": entry.get("youtube_id", ""),
+            "status": "scheduled", "attempts": 0,
+            "created_at": datetime.now(timezone.utc).isoformat().replace("+00:00", "Z"),
+        }
+        youtube_timed_release.enqueue(yt_item)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--config", default="config.story.yaml")
@@ -40,6 +76,7 @@ def main() -> int:
             state["status"] = "ready" if health.get("status") == "ready" else "setup_required"
         else:
             state["queue"] = meta_platform.reconcile_release_queue(cfg)
+            _sync_youtube_queue(cfg)
             state["youtube_queue"] = youtube_timed_release.summary()
             state["youtube_publish"] = (
                 {"status": "dry_run"} if args.dry_run
