@@ -261,7 +261,7 @@ def _promote_local_public(entry: dict[str, Any], row: dict[str, Any]) -> None:
     _atomic_json(upload_path, upload)
 
 
-def reconcile_remote(rows: list[dict[str, Any]]) -> dict[str, Any]:
+def reconcile_remote(rows: list[dict[str, Any]], *, service=None) -> dict[str, Any]:
     """Compare local release intent with current remote YouTube state."""
     ledger = sync_from_outputs()
     remote = {str(row.get("video_id")): row for row in rows}
@@ -269,6 +269,34 @@ def reconcile_remote(rows: list[dict[str, Any]]) -> dict[str, Any]:
     failures = []
     now = datetime.now(timezone.utc)
     changed = False
+
+    def _live_row(video_id: str) -> dict[str, Any] | None:
+        """Re-read a single video live to guard against stale API-list snapshots."""
+        if service is None:
+            return None
+        try:
+            items = service.videos().list(
+                part="snippet,status", id=video_id, maxResults=1
+            ).execute().get("items", [])
+            if not items:
+                return None
+            item = items[0]
+            snippet = item.get("snippet") or {}
+            status = item.get("status") or {}
+            return {
+                "video_id": video_id,
+                "title": snippet.get("title", ""),
+                "_remote_description": snippet.get("description", ""),
+                "_remote_tags": snippet.get("tags") or [],
+                "_remote_category_id": str(snippet.get("categoryId") or ""),
+                "_remote_default_language": str(snippet.get("defaultLanguage") or ""),
+                "remote_publish_at": str(status.get("publishAt") or ""),
+                "privacy": status.get("privacyStatus", ""),
+                "made_for_kids": bool(status.get("madeForKids", False)),
+            }
+        except Exception:
+            return None
+
     for entry in ledger.get("releases", []):
         youtube_id = str(entry.get("youtube_id") or "")
         row = remote.get(youtube_id)
@@ -280,8 +308,11 @@ def reconcile_remote(rows: list[dict[str, Any]]) -> dict[str, Any]:
         remote_publish = str(row.get("remote_publish_at") or "")
         status = "matched"
         if expected_publish and remote_publish and expected_publish != remote_publish:
-            status = "schedule_mismatch"
-            failures.append(f"schedule mismatch for {youtube_id}")
+            live = _live_row(youtube_id)
+            live_publish = str((live or {}).get("remote_publish_at") or "")
+            if live and live_publish and live_publish != expected_publish:
+                status = "schedule_mismatch"
+                failures.append(f"schedule mismatch for {youtube_id}")
         expected_time = None
         if expected_publish:
             try:
@@ -300,7 +331,9 @@ def reconcile_remote(rows: list[dict[str, Any]]) -> dict[str, Any]:
                 _promote_local_public(entry, row)
                 changed = True
         elif entry.get("status") == "scheduled" and row.get("privacy") == "private" and expected_time:
-            if now > expected_time + timedelta(minutes=30):
+            live = _live_row(youtube_id)
+            live_privacy = str((live or {}).get("privacy") or row.get("privacy"))
+            if now > expected_time + timedelta(minutes=30) and live_privacy == "private":
                 status = "overdue_private"
                 failures.append(f"scheduled release remained private after grace period: {youtube_id}")
 
@@ -308,6 +341,9 @@ def reconcile_remote(rows: list[dict[str, Any]]) -> dict[str, Any]:
         contract = entry.get("remote_contract") or {}
         if entry.get("audit_id") and contract:
             snippet = contract.get("snippet") or {}
+            live = _live_row(youtube_id)
+            if live is not None:
+                row = live
             mismatches = []
             if str(row.get("title") or "") != str(snippet.get("title") or ""):
                 mismatches.append("title")

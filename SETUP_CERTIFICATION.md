@@ -1,8 +1,8 @@
 # KAAPAV ARC Studios Setup Certification
 
-**Status:** PASS — certified_active
+**Status:** FAIL — failed
 
-**Certified:** 2026-08-20T10:41:44.054115Z
+**Certified:** 2026-08-21T08:27:05.172250Z
 
 **Production state:** ACTIVE. All platform and strict-QC gates remain authoritative.
 
@@ -16,7 +16,7 @@
 - [x] authenticated_fail_closed_owner_automation_control
 - [x] tested_colourful_neumorphic_flutter_apps
 - [x] python_compile
-- [x] unit_and_safety_tests
+- [ ] unit_and_safety_tests
 - [x] studio_universe_audit
 - [x] rolling_series_story_contract
 - [x] production_control_gate_consistent

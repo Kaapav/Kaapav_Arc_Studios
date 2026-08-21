@@ -99,6 +99,80 @@ class RunLock:
             pass
 
 
+def fortress_check(cfg, inventory: dict[str, Any]) -> dict[str, Any]:
+    """Fortress invariants, verified every cycle. Auto-repairs what it can,
+    escalates what it cannot. Never blocks the release path by itself."""
+    from src.title_policy import validate_episode_title, title_opening_overlap
+
+    problems: list[str] = []
+    repaired: list[str] = []
+
+    pipeline_states = {
+        "images_pending", "image_qc_pending", "render_ready",
+        "technical_qc_pending", "strict_audit_pending", "strict_audit_passed",
+        "private_uploaded", "scheduled", "public",
+    }
+    active = [e for e in inventory["episodes"] if e.get("state") in pipeline_states]
+    bad_titles = []
+    for e in active:
+        mp = e.get("manifest_path")
+        if not mp or not Path(mp).exists():
+            continue
+        m = _read(Path(mp))
+        title = str(m.get("title") or "")
+        opening = " ".join(
+            str(s.get("text") or s.get("caption") or "")
+            for s in (m.get("scenes") or [])[:2] if isinstance(s, dict)
+        )
+        if validate_episode_title(title) or not title_opening_overlap(title, opening).get("passed"):
+            bad_titles.append({"episode_id": e.get("episode_id"), "title": title[:80]})
+
+    if bad_titles:
+        try:
+            proc = subprocess.run(
+                [str(ROOT / ".venv" / "Scripts" / "python.exe"),
+                 str(ROOT / "tools" / "repair_episode_titles.py"), "--apply"],
+                capture_output=True, text=True, timeout=300,
+            )
+            report = json.loads(proc.stdout or "{}")
+            repaired = [str(b.get("episode_id")) for b in (report.get("repaired") or [])]
+            remaining = [str(b.get("episode_id")) for b in (report.get("needs_manual") or [])]
+            for b in bad_titles:
+                ep_id = b["episode_id"]
+                if ep_id in repaired:
+                    continue
+                problems.append(f"title unfixable automatically: {ep_id}: {b['title']}")
+        except Exception as exc:
+            problems.append(f"title repair tool failed: {type(exc).__name__}: {str(exc)[:120]}")
+
+    slots = [str(e.get("publish_at") or "") for e in inventory["episodes"] if e.get("publish_at")]
+    future_slots = [p for p in slots if _parse_iso(p) and _parse_iso(p) > datetime.now(timezone.utc)]
+    dupes = sorted({p for p in future_slots if future_slots.count(p) > 1})
+    off_grid = sorted(
+        p for p in future_slots if not p.endswith("T04:30:00Z")
+    )
+    if dupes:
+        problems.append(f"duplicate future slots: {', '.join(dupes)}")
+    if off_grid:
+        problems.append(f"off-grid future slots: {', '.join(off_grid)}")
+
+    status = "passed" if not problems else "attention"
+    if problems:
+        event("fortress_attention", problems=problems[:10], repaired=len(repaired))
+    return {
+        "status": status, "scanned_titles": len(active),
+        "title_violations": len(bad_titles), "auto_repaired": len(repaired),
+        "problems": problems[:10], "duplicate_slots": dupes, "off_grid_slots": off_grid,
+    }
+
+
+def _parse_iso(value: str):
+    try:
+        return datetime.fromisoformat(value.replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+
+
 def _metadata_for(item: dict[str, Any]) -> tuple[Path, dict[str, Any]]:
     output = Path(item["output_root"])
     metadata_path = output / "metadata.json"
@@ -191,7 +265,13 @@ def refresh_metrics(cfg, *, no_google: bool) -> dict[str, Any]:
     rows = release_ledger.enrich_rows(rows)
     current, history_path, history = performance.save_local(rows, channel_id=summary["channel_id"])
     detailed = youtube_analytics.collect(cfg, rows)
-    reconciliation = release_ledger.reconcile_remote(rows)
+    reconcile_service = None
+    try:
+        from src.upload import _get_service
+        reconcile_service = _get_service(cfg, verify_channel=False)
+    except Exception:
+        reconcile_service = None
+    reconciliation = release_ledger.reconcile_remote(rows, service=reconcile_service)
     learning = growth_learning.refresh_learning(
         cfg, rows, detailed.get("videos", {}), history_rows=history,
     )
@@ -298,6 +378,39 @@ def _schedule_candidates(cfg, inventory: dict[str, Any], limit: int) -> list[dic
         # Never release around a missing/QC-failed earlier chapter.
         break
     return candidates
+
+
+def _generate_frames(cfg, inventory: dict[str, Any]) -> dict[str, list[dict[str, Any]]]:
+    from src.story_frame_gen import generate_episode_frames, generate_image_qc
+    completed: list[dict[str, Any]] = []
+    failed: list[dict[str, Any]] = []
+    shortage = int(inventory.get("shortage") or 0)
+    if shortage <= 0:
+        return {"completed": completed, "failed": failed}
+    pending = [e for e in inventory.get("episodes", []) if e.get("state") == "images_pending"]
+    max_per_cycle = min(1, shortage)
+    for item in pending[: max_per_cycle]:
+        manifest = Path(str(item.get("manifest_path") or ""))
+        if not manifest.exists():
+            failed.append({"series_id": item.get("series_id"), "episode": item.get("episode"),
+                           "error_type": "ManifestMissing", "error": str(manifest)})
+            continue
+        try:
+            result = generate_episode_frames(manifest)
+            if result["completed"]:
+                generate_image_qc(manifest, result["completed"])
+            entry = {"series_id": item.get("series_id"), "episode": item.get("episode"),
+                     "frames_generated": result["frames_generated"],
+                     "total_scenes": result["total_scenes"]}
+            if result["failed"]:
+                entry["failed_shots"] = result["failed"]
+                failed.append(entry)
+            else:
+                completed.append(entry)
+        except Exception as exc:
+            failed.append({"series_id": item.get("series_id"), "episode": item.get("episode"),
+                           "error_type": type(exc).__name__, "error": str(exc)[:300]})
+    return {"completed": completed, "failed": failed}
 
 
 def _render_candidates(cfg, inventory: dict[str, Any], limit: int) -> list[dict[str, Any]]:
@@ -430,7 +543,7 @@ def schedule_ready(cfg, inventory: dict[str, Any], limit: int) -> dict[str, list
     return {"completed": completed, "failed": failed, "deferred": deferred}
 
 
-def build_and_schedule_compilation(cfg, inventory: dict[str, Any]) -> dict[str, Any] | None:
+def build_and_schedule_compilation(cfg, inventory: dict[str, Any], scheduled_this_cycle: list[str] | None = None) -> dict[str, Any] | None:
     """Create the next complete five-episode block and future-schedule it on a weekend."""
     from build_echo_compilation import build
     from src.upload import schedule_video, upload_video
@@ -450,7 +563,10 @@ def build_and_schedule_compilation(cfg, inventory: dict[str, Any]) -> dict[str, 
             build(start, end)
             metadata = _read(metadata_path)
         last_publish = max(str(item.get("publish_at")) for item in block if item.get("publish_at"))
-        slot = studio_inventory.next_compilation_slot(last_publish, cfg)
+        busy = {str(item.get("publish_at") or "") for item in inventory["episodes"] if item.get("publish_at")}
+        if scheduled_this_cycle:
+            busy.update(scheduled_this_cycle)
+        slot = studio_inventory.next_compilation_slot(last_publish, cfg, busy_dates=busy)
         metadata["thumbnail_path"] = str(output / "thumbnail.jpg")
         existing = metadata.get("youtube_id") or _read(output / "upload_result.json").get("id")
         if existing:
@@ -540,6 +656,10 @@ def run(args) -> dict[str, Any]:
         state["stages"]["render"] = {
             "status": "passed" if not rendered["failed"] else "recovery_required", **rendered,
         }
+        frames_result = {"completed": [], "failed": []} if args.dry_run else _generate_frames(cfg, inventory)
+        state["stages"]["generate_frames"] = {
+            "status": "passed" if not frames_result["failed"] else "recovery_required", **frames_result,
+        }
         inventory = studio_inventory.refresh_inventory(cfg)
         scheduled = {"completed": [], "failed": [], "deferred": []}
         if not relaunch_active and not args.dry_run and not args.no_network and youtube_enabled and release_integrity_ok:
@@ -557,7 +677,8 @@ def run(args) -> dict[str, Any]:
         inventory = studio_inventory.refresh_inventory(cfg)
         compilation = None
         if not relaunch_active and not args.dry_run and not args.no_network and youtube_enabled and release_integrity_ok:
-            compilation = build_and_schedule_compilation(cfg, inventory)
+            scheduled_this_cycle = [item["publish_at"] for item in scheduled["completed"] if item.get("publish_at")]
+            compilation = build_and_schedule_compilation(cfg, inventory, scheduled_this_cycle=scheduled_this_cycle)
         state["stages"]["compilation"] = {
             "status": (
                 "platform_disabled" if not youtube_enabled
@@ -574,6 +695,8 @@ def run(args) -> dict[str, Any]:
             "facebook_enabled": platform_control.enabled("facebook"),
             "instagram_enabled": platform_control.enabled("instagram"),
         }
+        fortress = fortress_check(cfg, inventory)
+        state["stages"]["fortress_invariants"] = fortress
         state["stages"]["inventory_after"] = {
             "status": "passed", "ready": inventory["ready_or_scheduled_count"],
             "shortage": inventory["shortage"],

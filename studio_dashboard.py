@@ -315,6 +315,8 @@ def build_status() -> dict[str, Any]:
         mode, tone = "WORKING", "green"
     elif supervisor.get("status") in {"recovery_required", "failed"}:
         mode, tone = "NEEDS RECOVERY", "red"
+    elif supervisor.get("status") == "cooldown":
+        mode, tone = "AUTO-REPAIRING", "amber"
     else:
         mode, tone = "READY / WAITING", "blue"
 
@@ -480,11 +482,11 @@ def build_status() -> dict[str, Any]:
             "series": int(universe.get("series_count") or len(series)),
             "episode_manifests": int(universe.get("episode_manifest_count") or len(episodes)),
             "scene_scripts": int(universe.get("scene_script_count") or 0),
-            "images_complete": int(universe.get("existing_story_image_count") or 0),
-            "images_total": image_total,
-            "image_progress_percent": round(100 * int(universe.get("existing_story_image_count") or 0) / max(1, image_total), 1),
-            "public_videos": privacy.get("public", 0),
-            "scheduled_videos": sum(1 for row in releases if row.get("privacy") == "private" and row.get("remote_publish_at")),
+            "images_complete": sum(int(e.get("frames_present") or 0) for e in episodes),
+            "images_total": sum(int(e.get("scene_count") or 0) for e in episodes),
+            "image_progress_percent": round(100 * sum(int(e.get("frames_present") or 0) for e in episodes) / max(1, sum(int(e.get("scene_count") or 0) for e in episodes)), 1),
+            "public_videos": sum(1 for e in episodes if e.get("state") == "public"),
+            "scheduled_videos": sum(1 for e in episodes if e.get("state") == "scheduled"),
             "total_views": total_views,
             "ready_buffer": int(inventory.get("ready_or_scheduled_count") or 0),
             "buffer_target": int(inventory.get("target_ready_shorts") or 7),
@@ -536,6 +538,7 @@ def build_status() -> dict[str, Any]:
                 "status": autopilot.get("status"),
                 "started_at": autopilot.get("started_at"),
                 "finished_at": autopilot.get("finished_at"),
+                "recovery": autopilot.get("recovery"),
             },
             "last_worked": {
                 "autopilot_started_at": autopilot.get("started_at"),

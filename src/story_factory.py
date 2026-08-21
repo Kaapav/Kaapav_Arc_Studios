@@ -16,7 +16,7 @@ from pathlib import Path
 from typing import Any
 
 from .config import ROOT
-from .title_policy import POLICY as TITLE_POLICY, validate_episode_title
+from .title_policy import POLICY as TITLE_POLICY, title_opening_overlap, validate_episode_title
 
 
 STATE_PATH = ROOT / "analytics" / "story_factory.json"
@@ -205,6 +205,12 @@ def validate_candidate_series(series_root: Path, existing_titles: list[str] | No
             failures.append(f"missing or repeated episode title at episode {index}")
         for issue in validate_episode_title(episode_title):
             failures.append(f"episode {index} title: {issue}")
+        opening = " ".join(
+            str(scene.get("text") or scene.get("caption") or "")
+            for scene in scenes[:2] if isinstance(scene, dict)
+        )
+        if not title_opening_overlap(episode_title, opening).get("passed"):
+            failures.append(f"episode {index} title does not pay off the opening narration")
         titles.add(episode_title.lower())
         if len(change) < 20 or change.lower() in changes:
             failures.append(f"missing or repeated permanent story change at episode {index}")
