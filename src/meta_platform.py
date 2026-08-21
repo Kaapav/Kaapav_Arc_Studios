@@ -430,6 +430,8 @@ def reconcile_release_queue(cfg) -> dict[str, Any]:
         if publish_at is None or publish_at <= now:
             continue
         episode = int(entry.get("episode") or 0)
+        if episode < 1:
+            continue
         if entry.get("release_kind", "short") == "short" and episode < policy_start:
             continue
         video = Path(str(entry.get("video_path") or ""))
