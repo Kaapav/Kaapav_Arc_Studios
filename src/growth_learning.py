@@ -24,7 +24,7 @@ STATE_PATH = ROOT / "analytics" / "growth_learning.json"
 RECOMMENDATIONS_PATH = ROOT / "analytics" / "learning_recommendations.json"
 DIRECTIVES_PATH = ROOT / "analytics" / "production_directives.json"
 WINDOWS = (24, 72, 168)
-MIN_MEANINGFUL_VIEWS = 20
+MIN_MEANINGFUL_VIEWS = 5
 MIN_ARM_SAMPLES = 6
 
 TRAIT_ARMS = {

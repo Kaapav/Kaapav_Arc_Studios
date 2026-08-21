@@ -147,6 +147,7 @@ def build_upload_body(cfg, meta: dict, privacy_override: str = None,
             "tags": tags,
             "categoryId": str(yt.get("category_id", "27")),
             "defaultLanguage": str(yt.get("default_language", "en")),
+            "defaultAudioLanguage": str(yt.get("default_language", "en")),
         },
         "status": {
             "privacyStatus": privacy,

@@ -158,6 +158,8 @@ youtube:
     📺 Discover more original stories:
     https://www.youtube.com/@kaapavarcstudios
 
+    #ECHO30 #AnimatedSeries #SciFi #MysteryAnimation #3DAnimation #KAAPAV #AnimatedShort
+
     © KAAPAV ARC Studios. All rights reserved.
   upload_default_tags:
     - "KAAPAV ARC Studios"
@@ -171,9 +173,9 @@ youtube:
     - "fictional worlds"
   privacy: "private"
   auto_publish: false
-  category_id: "24"
+  category_id: "1"
   made_for_kids: false
-  tags_extra: ["animatedshort", "3danimation", "storyshorts", "shorts"]
+  tags_extra: ["animated short film", "3d animation series", "story shorts", "shorts", "sci-fi animation", "mystery animation", "3d animated short"]
   title_max: 90
 
 meta:
