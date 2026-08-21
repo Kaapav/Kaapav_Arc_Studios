@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
-  "status": "pass",
+  "status": "fail",
   "series_count": 10,
   "episode_manifest_count": 300,
   "scene_script_count": 2340,
-  "existing_story_image_count": 142,
-  "pending_story_image_count": 2198,
+  "existing_story_image_count": 149,
+  "pending_story_image_count": 2191,
   "series": [
     {
       "sequence": 1,
@@ -45,10 +45,23 @@
         30
       ],
       "scene_scripts": 240,
-      "existing_story_images": 142,
-      "pending_story_images": 98,
+      "existing_story_images": 149,
+      "pending_story_images": 91,
       "non_image_errors": [],
-      "warnings": [],
+      "warnings": [
+        "episode 18: scene 1: low source resolution 576x1024",
+        "episode 18: scene 2: low source resolution 576x1024",
+        "episode 18: scene 4: low source resolution 576x1024",
+        "episode 18: scene 5: low source resolution 576x1024",
+        "episode 18: scene 6: low source resolution 576x1024",
+        "episode 18: scene 7: low source resolution 576x1024",
+        "episode 18: scene 8: low source resolution 576x1024",
+        "episode 19: scene 1: low source resolution 576x1024",
+        "episode 19: scene 2: low source resolution 576x1024",
+        "episode 19: scene 3: low source resolution 576x1024",
+        "episode 19: scene 6: low source resolution 576x1024",
+        "episode 19: scene 7: low source resolution 576x1024"
+      ],
       "contextual_advisories": [],
       "references": {
         "bible": "D:\\Apps\\YT-Auto\\content\\echo100\\v2\\SERIES_BIBLE.md",
@@ -575,6 +588,19 @@
     }
   ],
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "ECHO//30: episode 18: scene 1: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 2: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 4: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 5: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 6: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 7: low source resolution 576x1024",
+    "ECHO//30: episode 18: scene 8: low source resolution 576x1024",
+    "ECHO//30: episode 19: scene 1: low source resolution 576x1024",
+    "ECHO//30: episode 19: scene 2: low source resolution 576x1024",
+    "ECHO//30: episode 19: scene 3: low source resolution 576x1024",
+    "ECHO//30: episode 19: scene 6: low source resolution 576x1024",
+    "ECHO//30: episode 19: scene 7: low source resolution 576x1024"
+  ],
   "completion_definition": "All 300 episode story/image-prompt/video-script manifests structurally complete; unfinished images/videos remain upload-blocked."
 }
