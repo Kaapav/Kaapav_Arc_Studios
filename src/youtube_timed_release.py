@@ -70,7 +70,8 @@ def enqueue(item: dict[str, Any]) -> bool:
     queue = _read(QUEUE_PATH, {"schema_version": 1, "items": []})
     items = queue.get("items") or []
     key = item.get("key")
-    if any(i.get("key") == key for i in items):
+    episode = item.get("episode")
+    if any(i.get("key") == key or i.get("episode") == episode for i in items):
         return False
     items.append(item)
     queue["items"] = items
