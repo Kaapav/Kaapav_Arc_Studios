@@ -20,7 +20,7 @@ def _read_status() -> dict:
 
 def _sync_youtube_queue(cfg) -> None:
     """Ensure every scheduled meta item has a matching YT timed-release entry."""
-    from .src import release_ledger
+    from src import release_ledger
     from pathlib import Path
 
     ledger = release_ledger.sync_from_outputs()

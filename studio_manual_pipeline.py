@@ -249,7 +249,7 @@ def validate_manifest(path: Path, require_prompts: bool = False) -> dict[str, An
             continue
         if height <= width:
             errors.append(f"scene {index}: image must be portrait, got {width}x{height}")
-        if width < 700 or height < 1100:
+        if width < 500 or height < 900:
             warnings.append(f"scene {index}: low source resolution {width}x{height}")
         digest = hashlib.sha256(image_path.read_bytes()).hexdigest()
         hashes.append(digest)

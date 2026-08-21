@@ -399,7 +399,7 @@ class StudioAutomationTests(unittest.TestCase):
                     "permanent_story_change": f"Relationship state {episode} changes permanently after a causal choice.",
                     "scenes": [
                         {
-                            "text": f"Distinct narration {episode}-{scene}.",
+                            "text": f"The Signal Changed Person {episode} opens with a distinct scene {scene}.",
                             "image_prompt": f"Distinct visual intention {episode}-{scene} with causal action.",
                         }
                         for scene in range(1, 7)
