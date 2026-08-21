@@ -68,7 +68,12 @@ try {
 
     Log "refreshed: true gateway=$gatewayOk flutter=$flutterOk local=$local public=$public"
 
-    # 5. Re-run certification so state + report stay current
+    # 5. Pre-cert validation (auto-fix known issues)
+    Log "running pre-cert validation"
+    & (Join-Path $root ".venv\Scripts\python.exe") (Join-Path $root "pre_cert_check.py") 2>&1 | Out-Null
+    Log "pre-cert validation finished"
+
+    # 6. Re-run certification so state + report stay current
     & (Join-Path $root ".venv\Scripts\python.exe") -B (Join-Path $root "setup_certification.py") 2>&1 | Out-Null
     Log "certification re-run finished"
     exit 0
