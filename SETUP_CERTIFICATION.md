@@ -2,7 +2,7 @@
 
 **Status:** FAIL — failed
 
-**Certified:** 2026-08-21T08:27:05.172250Z
+**Certified:** 2026-08-21T09:57:09.642595Z
 
 **Production state:** ACTIVE. All platform and strict-QC gates remain authoritative.
 
@@ -17,8 +17,8 @@
 - [x] tested_colourful_neumorphic_flutter_apps
 - [x] python_compile
 - [ ] unit_and_safety_tests
-- [x] studio_universe_audit
-- [x] rolling_series_story_contract
+- [ ] studio_universe_audit
+- [ ] rolling_series_story_contract
 - [x] production_control_gate_consistent
 - [x] windows_scheduler_recovery_and_pause_path
 - [x] codex_creative_heartbeat_active_with_rolling_refill

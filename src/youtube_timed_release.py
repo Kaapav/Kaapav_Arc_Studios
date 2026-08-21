@@ -152,5 +152,32 @@ def process_due(cfg, *, now: datetime | None = None, limit: int = 2) -> dict[str
             result["failed"].append({"key": key, "error_type": type(exc).__name__, "error": str(exc)[:300]})
     if result["failed"]:
         result["status"] = "recovery_required"
+    # Fortress: retry playlist routing for already-published items whose routing
+    # failed earlier (idempotent route_release). Never leaves a live video unrouted.
+    playlist_retried = 0
+    playlist_recovered = 0
+    if processed >= 0:
+        for raw in queue.get("items") or []:
+            pl = raw.get("playlist") or {}
+            if raw.get("status") != "published" or pl.get("status") != "recovery_required":
+                continue
+            playlist_retried += 1
+            try:
+                from .upload import _get_service
+                from .youtube_playlists import route_release
+                service = _get_service(cfg, verify_channel=False)
+                metadata_path = Path(str(raw.get("metadata_path") or ""))
+                metadata = _read(metadata_path, {})
+                playlist = route_release(service, metadata, str(raw.get("youtube_id") or ""))
+                _checkpoint(
+                    str(raw.get("key") or ""), status=raw.get("status"), published_at=raw.get("published_at"),
+                    playlist=playlist,
+                )
+                if playlist.get("status") == "routed":
+                    playlist_recovered += 1
+            except Exception:
+                continue
+    result["playlist_retried"] = playlist_retried
+    result["playlist_recovered"] = playlist_recovered
     result["checked_at"] = _stamp()
     return result

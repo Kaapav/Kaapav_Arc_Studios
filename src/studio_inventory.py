@@ -281,9 +281,18 @@ def next_short_slots(existing_publish_at: list[str], count: int, cfg) -> list[st
     ]
 
 
-def next_compilation_slot(after_publish_at: str, cfg) -> str:
+def next_compilation_slot(after_publish_at: str, cfg, busy_dates: set[str] | None = None) -> str:
     after = datetime.fromisoformat(after_publish_at.replace("Z", "+00:00")).astimezone(IST)
     cursor = (after + timedelta(days=1)).replace(hour=10, minute=0, second=0, microsecond=0)
-    while cursor.weekday() not in {5, 6}:
+    busy = set()
+    for d in busy_dates or []:
+        if isinstance(d, datetime):
+            busy.add(d.isoformat()[:10])
+        else:
+            try:
+                busy.add(datetime.fromisoformat(str(d).replace("Z", "+00:00")).isoformat()[:10])
+            except ValueError:
+                continue
+    while cursor.weekday() not in {5, 6} or cursor.isoformat()[:10] in busy:
         cursor += timedelta(days=1)
     return cursor.astimezone(timezone.utc).isoformat().replace("+00:00", "Z")
